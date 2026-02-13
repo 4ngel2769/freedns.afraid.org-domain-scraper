@@ -22,7 +22,12 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://freedns.afraid.org/domain/registry/"
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Referer': 'https://freedns.afraid.org/'
+    'Referer': 'https://freedns.afraid.org/',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Accept-Encoding': 'gzip, deflate',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
 }
 
 def scrape_page(page_num):
@@ -39,11 +44,16 @@ def scrape_page(page_num):
 
         domains = []
         
-        domain_links = soup.find_all('a', href=lambda href: href and 'edit_domain_id=' in href)
-        for link in domain_links:
-            domain = link.text.strip()
-            if domain and '.' in domain:  # basic validation
-                domains.append(domain)
+        # find domain rows with class 'trd' or 'trl'
+        domain_rows = soup.find_all('tr', class_=['trd', 'trl'])
+        for row in domain_rows:
+            cols = row.find_all('td')
+            if cols:
+                domain_cell = cols[0]
+                # extract domain from the text before <br>
+                domain_text = domain_cell.get_text().split('\n')[0].strip()
+                if domain_text and '.' in domain_text:
+                    domains.append(domain_text)
         
         logger.info(f"Page {page_num}: Found {len(domains)} domains")
         return domains
