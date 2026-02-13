@@ -6,6 +6,9 @@ This project scrapes all available domains from [freedns.afraid.org](https://fre
 
 - Scrapes all ~25,000 public domains from the registry
 - Handles pagination
+- Extracts domain, status, owner, age, and hosts in use
+- Outputs to markdown tables: alphabetical and length-sorted
+- Automated via GitHub Actions every 12 hours
 
 ## Requirements
 
@@ -29,42 +32,29 @@ python scraper.py
 
 The script will:
 1. Scrape all 254 pages of the domain registry
-2. Extract domain names from the HTML tables
-3. Save unique domains to `domains.txt`
+2. Extract domain information from the HTML table rows
+3. Save to `domains-alphabetical.md` and `domains-length.md`
 
-## Automation (Every 12 Hours)
+## Automation (GitHub Actions)
 
-### Linux/Mac (using cron)
+The repository includes a GitHub Actions workflow that runs automatically every 12 hours.
 
-Add to crontab:
-```bash
-0 */12 * * * cd /path/to/project && python scraper.py
-```
+To set it up:
+1. Push this code to a GitHub repository
+2. Ensure GitHub Actions is enabled
+3. The workflow will run on schedule and commit updates to the markdown files
 
-### Windows Task Scheduler
-
-1. Open Task Scheduler
-2. Create a new task
-3. Set trigger to "Daily" with repeat every 12 hours
-4. Set action to "Start a program"
-5. Program: `python.exe`
-6. Arguments: `scraper.py` (full path)
-7. Start in: Full path to this directory
+You can also trigger manually via the Actions tab.
 
 ## Output
 
-- `domains.txt`: List of all scraped domains, one per line
-- Console logs: Progress and any errors
+- `domains-alphabetical.md`: Domains sorted alphabetically
+- `domains-length.md`: Domains sorted by length (shortest first), then alphabetically
+- Both files contain markdown tables with Domain, Status, Owner (linked), Age, and Hosts in Use
 
 ## Notes
 
 - The script includes a 2-second delay between page requests to be respectful to the server
-- Total runtime is approximately 8-10 minutes with current 254 pages
+- Total runtime is approximately 8-10 minutes
 - The number of pages may change over time; check the registry if scraping fails
-
-## Legal
-
-- This scraper only accesses publicly available information
-- No authentication is required
-- Be respectful with request frequency
-- Check freedns.afraid.org for any terms of service updates
+- GitHub Actions will automatically commit changes when domains are updated

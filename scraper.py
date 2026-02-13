@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 import time
 import logging
 from pathlib import Path
+import re
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -48,12 +49,36 @@ def scrape_page(page_num):
         domain_rows = soup.find_all('tr', class_=['trd', 'trl'])
         for row in domain_rows:
             cols = row.find_all('td')
-            if cols:
+            if len(cols) >= 4:
                 domain_cell = cols[0]
-                # extract domain from the text before <br>
-                domain_text = domain_cell.get_text().split('\n')[0].strip()
-                if domain_text and '.' in domain_text:
-                    domains.append(domain_text)
+                status = cols[1].get_text().strip()
+                owner_link = cols[2].find('a')
+                if owner_link:
+                    owner = owner_link.get_text().strip()
+                    owner_href = owner_link.get('href')
+                    owner_url = f"https://freedns.afraid.org{owner_href}" if owner_href else ""
+                else:
+                    owner = cols[2].get_text().strip()
+                    owner_url = ""
+                age = cols[3].get_text().strip()
+                
+                # extract domain and hosts
+                full_text = domain_cell.get_text()
+                lines = full_text.split('\n')
+                domain = lines[0].strip()
+                hosts_part = ' '.join(lines[1:]) if len(lines) > 1 else ""
+                hosts_match = re.search(r'\((\d+) hosts in use\)', hosts_part)
+                hosts = int(hosts_match.group(1)) if hosts_match else 0
+                
+                if domain and '.' in domain:
+                    domains.append({
+                        'domain': domain,
+                        'status': status,
+                        'owner': owner,
+                        'owner_url': owner_url,
+                        'age': age,
+                        'hosts': hosts
+                    })
         
         logger.info(f"Page {page_num}: Found {len(domains)} domains")
         return domains
@@ -64,27 +89,45 @@ def scrape_page(page_num):
 
 def main():
     """Main scraping function."""
-    all_domains = []
-    total_pages = 254
+    all_data = []
+    total_pages = 10
     
     logger.info("Starting domain scraping...")
     
     for page in range(1, total_pages + 1):
-        domains = scrape_page(page)
-        all_domains.extend(domains)
+        data = scrape_page(page)
+        all_data.extend(data)
         
         if page < total_pages:
             time.sleep(2)  # between requests
     
-    # rm duplicates and sort
-    unique_domains = sorted(list(set(all_domains)))
+    # remove duplicates based on domain
+    unique_data = {item['domain']: item for item in all_data}.values()
     
-    output_file = Path("domains.txt")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for domain in unique_domains:
-            f.write(f"{domain}\n")
+    logger.info(f"Collected {len(all_data)} entries, unique: {len(unique_data)}")
     
-    logger.info(f"Scraping complete. Found {len(unique_domains)} unique domains. Saved to {output_file}")
+    # sort alphabetically
+    sorted_alpha = sorted(unique_data, key=lambda x: x['domain'])
+    
+    # sort by length then alphabetically
+    sorted_length = sorted(unique_data, key=lambda x: (len(x['domain']), x['domain']))
+    
+    # write to md files
+    write_md("domains-alphabetical.md", sorted_alpha)
+    write_md("domains-length.md", sorted_length)
+    
+    logger.info(f"Scraping complete. Found {len(unique_data)} unique domains.")
+
+def write_md(filename, data):
+    """Write data to markdown table."""
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write("# FreeDNS Afraid.org Domains\n\n")
+        f.write(f"Total domains: {len(data)}\n\n")
+        f.write("| Domain | Status | Owner | Age | Hosts in Use |\n")
+        f.write("|--------|--------|-------|-----|--------------|\n")
+        for item in data:
+            owner_link = f"[{item['owner']}]({item['owner_url']})" if item['owner_url'] else item['owner']
+            f.write(f"| {item['domain']} | {item['status']} | {owner_link} | {item['age']} | {item['hosts']} |\n")
 
 if __name__ == "__main__":
     main()
