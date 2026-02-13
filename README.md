@@ -2,6 +2,11 @@
 
 This project scrapes all available domains from [freedns.afraid.org](https://freedns.afraid.org/) that can be used for free subdomain registration.
 
+<div align="center">
+    <h3>See the available domains:</h3>
+    <a href="domains-alphabetical.md">Domains Alphabetical</a> | <a href="domains-length.md">Domains by Length</a>
+</div>
+
 ## Features
 
 - Scrapes all ~25,000 public domains from the registry
@@ -28,6 +33,11 @@ This project scrapes all available domains from [freedns.afraid.org](https://fre
 Run the scraper:
 ```bash
 python scraper.py
+```
+
+For testing with limited pages:
+```bash
+python scraper.py -p 10
 ```
 
 The script will:

@@ -5,9 +5,12 @@ FreeDNS.Afraid.org Domain Scraper
 This script scrapes all available domains from freedns.afraid.org
 that can be used for subdomain registration.
 
-Usage: python scraper.py
+Usage: python scraper.py [-p PAGES]
 
-Output: domains.txt - list of all domains, one per line
+Options:
+  -p PAGES, --pages PAGES  Number of pages to scrape (default: 254)
+
+Output: domains-alphabetical.md and domains-length.md
 """
 
 import requests
@@ -16,6 +19,7 @@ import time
 import logging
 from pathlib import Path
 import re
+import argparse
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -87,10 +91,10 @@ def scrape_page(page_num):
         logger.error(f"Error scraping page {page_num}: {e}")
         return []
 
-def main():
+def main(pages=254):
     """Main scraping function."""
     all_data = []
-    total_pages = 10
+    total_pages = pages
     
     logger.info("Starting domain scraping...")
     
@@ -130,4 +134,7 @@ def write_md(filename, data):
             f.write(f"| {item['domain']} | {item['status']} | {owner_link} | {item['age']} | {item['hosts']} |\n")
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description='Scrape domains from freedns.afraid.org')
+    parser.add_argument('-p', '--pages', type=int, default=254, help='Number of pages to scrape (default: 254)')
+    args = parser.parse_args()
+    main(args.pages)
