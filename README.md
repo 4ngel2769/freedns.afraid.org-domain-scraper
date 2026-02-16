@@ -35,19 +35,19 @@ Run the scraper:
 python scraper.py
 ```
 
-For testing with limited pages:
+Run the scraper with `n` amount of pages (each page contains approx 100 domains):
 ```bash
 python scraper.py -p 10
 ```
 
 The script will:
-1. Scrape all 254 pages of the domain registry
-2. Extract domain information from the HTML table rows
+1. Scrape all pages of the domain registry
+2. Extract domain information from the HTML tables
 3. Save to `domains-alphabetical.md` and `domains-length.md`
 
 ## Automation (GitHub Actions)
 
-The repository includes a GitHub Actions workflow that runs automatically every 12 hours.
+The project runs a GitHub Action automatically every 24 hours to update the list of domains.
 
 To set it up:
 1. Push this code to a GitHub repository
@@ -59,12 +59,4 @@ You can also trigger manually via the Actions tab.
 ## Output
 
 - `domains-alphabetical.md`: Domains sorted alphabetically
-- `domains-length.md`: Domains sorted by length (shortest first), then alphabetically
-- Both files contain markdown tables with Domain, Status, Owner (linked), Age, and Hosts in Use
-
-## Notes
-
-- The script includes a 2-second delay between page requests to be respectful to the server
-- Total runtime is approximately 8-10 minutes
-- The number of pages may change over time; check the registry if scraping fails
-- GitHub Actions will automatically commit changes when domains are updated
+- `domains-length.md`: Domains sorted by length (shortest first), then alphabetically (ab.cd, then ac.cd)
