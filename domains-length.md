@@ -1,6 +1,6 @@
 # FreeDNS Afraid.org Domains
 
-Total domains: 25241
+Total domains: 25140
 
 | Domain | Status | Owner | Age | Hosts in Use |
 |--------|--------|-------|-----|--------------|
@@ -10,7 +10,7 @@ Total domains: 25241
 | jc.ar (9 hosts in use) website | private | [jcolacelli](https://freedns.afraid.org/tools/contact.php?user_id=565637&subject=jc.ar) | 1008 days ago (05/02/2023) | 0 |
 | 1s.si (64 hosts in use) website | private | [kennymccornick](https://freedns.afraid.org/tools/contact.php?user_id=2564300&subject=1s.si) | 3504 days ago (06/10/2016) | 0 |
 | 1z.cl (11 hosts in use) website | private | [hectorburgosn](https://freedns.afraid.org/tools/contact.php?user_id=1190009&subject=1z.cl) | 1767 days ago (03/13/2021) | 0 |
-| 85.fi (53 hosts in use) website | private | [retu](https://freedns.afraid.org/tools/contact.php?user_id=649514&subject=85.fi) | 4855 days ago (09/30/2012) | 0 |
+| 85.fi (54 hosts in use) website | private | [retu](https://freedns.afraid.org/tools/contact.php?user_id=649514&subject=85.fi) | 4887 days ago (09/30/2012) | 0 |
 | 8kb.eu (2 hosts in use) website | private | [jontsefi](https://freedns.afraid.org/tools/contact.php?user_id=505698&subject=8kb.eu) | 38 days ago (12/29/2025) | 0 |
 | 9h.fi (19 hosts in use) website | private | [swegen](https://freedns.afraid.org/tools/contact.php?user_id=523900&subject=9h.fi) | 715 days ago (02/23/2024) | 0 |
 | ade.dj (9 hosts in use) website | private | [adeid](https://freedns.afraid.org/tools/contact.php?user_id=1246929&subject=ade.dj) | 4432 days ago (11/25/2013) | 0 |
@@ -66,7 +66,7 @@ Total domains: 25241
 | 0x13.in (8 hosts in use) website | private | [0x3301](https://freedns.afraid.org/tools/contact.php?user_id=3926052&subject=0x13.in) | 84 days ago (10/23/2025) | 0 |
 | 13h.tw (72 hosts in use) website | private | [blesserx](https://freedns.afraid.org/tools/contact.php?user_id=448508&subject=13h.tw) | 6259 days ago (12/25/2008) | 0 |
 | 1968.es (3 hosts in use) website | private | [vecmat](https://freedns.afraid.org/tools/contact.php?user_id=3884152&subject=1968.es) | 61 days ago (12/14/2025) | 0 |
-| 1ax.us (16 hosts in use) website | public | [ssaffaripoor](https://freedns.afraid.org/tools/contact.php?user_id=1910115&subject=1ax.us) | 2003 days ago (08/21/2020) | 0 |
+| 1ax.us (14 hosts in use) website | public | [ssaffaripoor](https://freedns.afraid.org/tools/contact.php?user_id=1910115&subject=1ax.us) | 2005 days ago (08/21/2020) | 0 |
 | 1fk.in (40 hosts in use) website | private | [jobski](https://freedns.afraid.org/tools/contact.php?user_id=1263522&subject=1fk.in) | 3717 days ago (12/07/2015) | 0 |
 | 1p1.ro (16 hosts in use) website | private | [rdtm2m](https://freedns.afraid.org/tools/contact.php?user_id=3999261&subject=1p1.ro) | 596 days ago (06/06/2024) | 0 |
 | 278.es (24 hosts in use) website | private | [alfem](https://freedns.afraid.org/tools/contact.php?user_id=1649763&subject=278.es) | 4369 days ago (01/27/2014) | 0 |
@@ -120,7 +120,7 @@ Total domains: 25241
 | brt.ar (55 hosts in use) website | private | [marcelojgf](https://freedns.afraid.org/tools/contact.php?user_id=261675&subject=brt.ar) | 1479 days ago (01/26/2022) | 0 |
 | bsr.me (70 hosts in use) website | private | [psycosys](https://freedns.afraid.org/tools/contact.php?user_id=50666&subject=bsr.me) | 5484 days ago (02/08/2011) | 0 |
 | buaa.mx (3 hosts in use) website | private | [accalza](https://freedns.afraid.org/tools/contact.php?user_id=1328888&subject=buaa.mx) | 2049 days ago (06/04/2020) | 0 |
-| buy.im (41 hosts in use) website | private | [bzfolk](https://freedns.afraid.org/tools/contact.php?user_id=727598&subject=buy.im) | 4947 days ago (07/28/2012) | 0 |
+| buy.im (41 hosts in use) website | private | [bzfolk](https://freedns.afraid.org/tools/contact.php?user_id=727598&subject=buy.im) | 4951 days ago (07/28/2012) | 0 |
 | c-l.cl (27 hosts in use) website | private | [scastellano](https://freedns.afraid.org/tools/contact.php?user_id=3127536&subject=c-l.cl) | 2583 days ago (12/18/2018) | 0 |
 | c4z.ru (48 hosts in use) website | private | [michaelstek](https://freedns.afraid.org/tools/contact.php?user_id=3106420&subject=c4z.ru) | 2664 days ago (10/16/2018) | 0 |
 | c64.ca (27 hosts in use) website | private | [purpdrank](https://freedns.afraid.org/tools/contact.php?user_id=808555&subject=c64.ca) | 4575 days ago (07/28/2013) | 0 |
@@ -278,7 +278,6 @@ Total domains: 25241
 | mgv.cl (76 hosts in use) website | private | [marzo](https://freedns.afraid.org/tools/contact.php?user_id=668250&subject=mgv.cl) | 5346 days ago (06/07/2011) | 0 |
 | mi5.ro (51 hosts in use) website | private | [stonehen](https://freedns.afraid.org/tools/contact.php?user_id=414241&subject=mi5.ro) | 1548 days ago (10/18/2021) | 0 |
 | mi6.ch (15 hosts in use) website | private | [trax](https://freedns.afraid.org/tools/contact.php?user_id=253343&subject=mi6.ch) | 7009 days ago (11/05/2006) | 0 |
-| mio.ar (26 hosts in use) website | private | [mbianchi01](https://freedns.afraid.org/tools/contact.php?user_id=2618699&subject=mio.ar) | 683 days ago (03/18/2024) | 0 |
 | mka.in (90 hosts in use) website | private | [mkarya](https://freedns.afraid.org/tools/contact.php?user_id=294969&subject=mka.in) | 6335 days ago (10/10/2008) | 0 |
 | mma.ro (22 hosts in use) website | private | [luciangutu](https://freedns.afraid.org/tools/contact.php?user_id=388931&subject=mma.ro) | 3281 days ago (02/18/2017) | 0 |
 | mo2.ca (70 hosts in use) website | private | [mooseb0y](https://freedns.afraid.org/tools/contact.php?user_id=68794&subject=mo2.ca) | 6720 days ago (09/21/2007) | 0 |
@@ -460,7 +459,7 @@ Total domains: 25241
 | 7jor.la (17 hosts in use) website | private | [jeremytay](https://freedns.afraid.org/tools/contact.php?user_id=3103732&subject=7jor.la) | 2654 days ago (10/10/2018) | 0 |
 | 7lan.ru (26 hosts in use) website | private | [seventhsite](https://freedns.afraid.org/tools/contact.php?user_id=637585&subject=7lan.ru) | 5653 days ago (08/20/2010) | 0 |
 | 8tb.net (65 hosts in use) website | private | [tom123](https://freedns.afraid.org/tools/contact.php?user_id=102563&subject=8tb.net) | 6899 days ago (03/27/2007) | 0 |
-| 8tom.de (36 hosts in use) website | private | [mr8tom](https://freedns.afraid.org/tools/contact.php?user_id=3352215&subject=8tom.de) | 1164 days ago (12/06/2022) | 0 |
+| 8tom.de (36 hosts in use) website | private | [mr8tom](https://freedns.afraid.org/tools/contact.php?user_id=3352215&subject=8tom.de) | 1168 days ago (12/06/2022) | 0 |
 | 9533.ru (39 hosts in use) website | private | [hrustov](https://freedns.afraid.org/tools/contact.php?user_id=1728253&subject=9533.ru) | 4296 days ago (04/12/2014) | 0 |
 | 9654.eu (27 hosts in use) website | private | [rexxxik](https://freedns.afraid.org/tools/contact.php?user_id=268136&subject=9654.eu) | 2049 days ago (07/01/2020) | 0 |
 | 9mvv.ru (23 hosts in use) website | private | [vadim123](https://freedns.afraid.org/tools/contact.php?user_id=2955676&subject=9mvv.ru) | 2265 days ago (11/15/2019) | 0 |
@@ -565,13 +564,14 @@ Total domains: 25241
 | cky.cl (217 hosts in use) website | public | [willman2015](https://freedns.afraid.org/tools/contact.php?user_id=2115511&subject=cky.cl) | 4031 days ago (02/02/2015) | 0 |
 | clck.cc (29 hosts in use) website | private | [nicotin3](https://freedns.afraid.org/tools/contact.php?user_id=1382849&subject=clck.cc) | 4626 days ago (05/15/2013) | 0 |
 | cliq.cc (20 hosts in use) website | private | [hotync](https://freedns.afraid.org/tools/contact.php?user_id=1776474&subject=cliq.cc) | 4301 days ago (05/08/2014) | 0 |
+| clyp.cat (2 hosts in use) website | private | [frub](https://freedns.afraid.org/tools/contact.php?user_id=6270555&subject=clyp.cat) | 0 days ago (02/16/2026) | 0 |
 | cmed.us (78 hosts in use) website | private | [cmercier1](https://freedns.afraid.org/tools/contact.php?user_id=800842&subject=cmed.us) | 5248 days ago (09/01/2011) | 0 |
 | coblr.io (9 hosts in use) website | private | [jwcvictory](https://freedns.afraid.org/tools/contact.php?user_id=4399139&subject=coblr.io) | 306 days ago (03/23/2025) | 0 |
 | cogl.ca (41 hosts in use) website | private | [jhodgins](https://freedns.afraid.org/tools/contact.php?user_id=639362&subject=cogl.ca) | 5648 days ago (08/26/2010) | 0 |
 | comm.hk (11 hosts in use) website | private | [natchan](https://freedns.afraid.org/tools/contact.php?user_id=831892&subject=comm.hk) | 4318 days ago (03/19/2014) | 0 |
 | cot.lt (158 hosts in use) website | private | [dissimilis3](https://freedns.afraid.org/tools/contact.php?user_id=392006&subject=cot.lt) | 6311 days ago (11/03/2008) | 0 |
 | cpdc.de (32 hosts in use) website | private | [jonfox](https://freedns.afraid.org/tools/contact.php?user_id=2921153&subject=cpdc.de) | 3081 days ago (08/15/2017) | 0 |
-| csfl.eu (84 hosts in use) website | public | [dohmian](https://freedns.afraid.org/tools/contact.php?user_id=1522295&subject=csfl.eu) | 3292 days ago (01/10/2017) | 0 |
+| csfl.eu (84 hosts in use) website | public | [dohmian](https://freedns.afraid.org/tools/contact.php?user_id=1522295&subject=csfl.eu) | 3324 days ago (01/10/2017) | 0 |
 | csmv.cl (93 hosts in use) website | public | [claudiomeza](https://freedns.afraid.org/tools/contact.php?user_id=2007156&subject=csmv.cl) | 4096 days ago (11/12/2014) | 0 |
 | ctx.cl (773 hosts in use) website | public | [cetrox](https://freedns.afraid.org/tools/contact.php?user_id=1871237&subject=ctx.cl) | 4229 days ago (07/18/2014) | 0 |
 | cuwo.pl (25 hosts in use) website | private | [ianus1](https://freedns.afraid.org/tools/contact.php?user_id=611330&subject=cuwo.pl) | 1697 days ago (06/16/2021) | 0 |
@@ -587,7 +587,7 @@ Total domains: 25241
 | ddot.tw (92 hosts in use) website | private | [datoefi](https://freedns.afraid.org/tools/contact.php?user_id=739135&subject=ddot.tw) | 5373 days ago (05/28/2011) | 0 |
 | decu.ro (22 hosts in use) website | private | [bgdan](https://freedns.afraid.org/tools/contact.php?user_id=534669&subject=decu.ro) | 5601 days ago (09/13/2010) | 0 |
 | dedi.me (12 hosts in use) website | private | [dangilberttx](https://freedns.afraid.org/tools/contact.php?user_id=903902&subject=dedi.me) | 688 days ago (02/25/2024) | 0 |
-| deez.nz (56 hosts in use) website | public | [sydstarwave](https://freedns.afraid.org/tools/contact.php?user_id=3932276&subject=deez.nz) | 30 days ago (01/16/2026) | 0 |
+| deez.nz (55 hosts in use) website | public | [sydstarwave](https://freedns.afraid.org/tools/contact.php?user_id=3932276&subject=deez.nz) | 31 days ago (01/16/2026) | 0 |
 | deiu.eu (29 hosts in use) website | private | [andreim1h41](https://freedns.afraid.org/tools/contact.php?user_id=860533&subject=deiu.eu) | 2689 days ago (10/01/2018) | 0 |
 | dene.sh (13 hosts in use) website | private | [thetuberbee](https://freedns.afraid.org/tools/contact.php?user_id=3458638&subject=dene.sh) | 852 days ago (09/14/2023) | 0 |
 | diem.cl (29 hosts in use) website | private | [tebykun](https://freedns.afraid.org/tools/contact.php?user_id=387399&subject=diem.cl) | 5426 days ago (03/07/2011) | 0 |
@@ -639,7 +639,7 @@ Total domains: 25241
 | ewifi.gr (9 hosts in use) website | private | [ewolf](https://freedns.afraid.org/tools/contact.php?user_id=331646&subject=ewifi.gr) | 915 days ago (08/12/2023) | 0 |
 | exact.ar (3 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=exact.ar) | 1540 days ago (11/16/2021) | 0 |
 | exid.me (88 hosts in use) website | public | [takgi3](https://freedns.afraid.org/tools/contact.php?user_id=3342308&subject=exid.me) | 2279 days ago (11/20/2019) | 0 |
-| ext.io (849 hosts in use) website | private | [gordonheaton](https://freedns.afraid.org/tools/contact.php?user_id=825730&subject=ext.io) | 4932 days ago (08/14/2012) | 0 |
+| ext.io (850 hosts in use) website | private | [gordonheaton](https://freedns.afraid.org/tools/contact.php?user_id=825730&subject=ext.io) | 4934 days ago (08/14/2012) | 0 |
 | eyan.eu (36 hosts in use) website | private | [freyandras](https://freedns.afraid.org/tools/contact.php?user_id=604613&subject=eyan.eu) | 3822 days ago (08/25/2015) | 0 |
 | eyan.hu (27 hosts in use) website | private | [freyandras](https://freedns.afraid.org/tools/contact.php?user_id=604613&subject=eyan.hu) | 3166 days ago (05/14/2017) | 0 |
 | ezhr.tw (40 hosts in use) website | private | [heaven99](https://freedns.afraid.org/tools/contact.php?user_id=381146&subject=ezhr.tw) | 5281 days ago (08/01/2011) | 0 |
@@ -671,7 +671,7 @@ Total domains: 25241
 | ga04.xyz (6 hosts in use) website | private | [nemoma](https://freedns.afraid.org/tools/contact.php?user_id=3934148&subject=ga04.xyz) | 879 days ago (08/18/2023) | 0 |
 | gadu.ar (11 hosts in use) website | private | [criquito01](https://freedns.afraid.org/tools/contact.php?user_id=194328&subject=gadu.ar) | 2236 days ago (11/30/2019) | 0 |
 | gans.cc (24 hosts in use) website | private | [weidegans](https://freedns.afraid.org/tools/contact.php?user_id=2655021&subject=gans.cc) | 3202 days ago (04/10/2017) | 0 |
-| gari.ro (95 hosts in use) website | public | [miraur](https://freedns.afraid.org/tools/contact.php?user_id=2966738&subject=gari.ro) | 2992 days ago (12/07/2017) | 0 |
+| gari.ro (95 hosts in use) website | public | [miraur](https://freedns.afraid.org/tools/contact.php?user_id=2966738&subject=gari.ro) | 2993 days ago (12/07/2017) | 0 |
 | gaum.ru (46 hosts in use) website | private | [myetdns](https://freedns.afraid.org/tools/contact.php?user_id=442765&subject=gaum.ru) | 6149 days ago (04/14/2009) | 0 |
 | gdlp.cl (81 hosts in use) website | public | [rogato30](https://freedns.afraid.org/tools/contact.php?user_id=1046548&subject=gdlp.cl) | 4666 days ago (04/07/2013) | 0 |
 | gedop.ar (3 hosts in use) website | private | [dabdala](https://freedns.afraid.org/tools/contact.php?user_id=557910&subject=gedop.ar) | 204 days ago (07/09/2025) | 0 |
@@ -720,10 +720,9 @@ Total domains: 25241
 | hiyb.org (8 hosts in use) website | private | [nepentingca1970](https://freedns.afraid.org/tools/contact.php?user_id=2029336&subject=hiyb.org) | 4059 days ago (12/03/2014) | 0 |
 | hjbp.xyz (7 hosts in use) website | private | [henryplumb](https://freedns.afraid.org/tools/contact.php?user_id=1681076&subject=hjbp.xyz) | 784 days ago (12/21/2023) | 0 |
 | hkg.biz (46 hosts in use) website | private | [kokakit](https://freedns.afraid.org/tools/contact.php?user_id=208618&subject=hkg.biz) | 7181 days ago (05/17/2006) | 0 |
-| hldj.nl (91 hosts in use) website | private | [choimt](https://freedns.afraid.org/tools/contact.php?user_id=5137672&subject=hldj.nl) | 90 days ago (11/17/2025) | 0 |
 | hpdt.ro (25 hosts in use) website | private | [angielumezeanu](https://freedns.afraid.org/tools/contact.php?user_id=1812728&subject=hpdt.ro) | 3705 days ago (11/24/2015) | 0 |
 | hs.vc (4413 hosts in use) website | public | [xpuctoc](https://freedns.afraid.org/tools/contact.php?user_id=382500&subject=hs.vc) | 6518 days ago (04/12/2008) | 0 |
-| hse.tw (381 hosts in use) website | public | [yvens](https://freedns.afraid.org/tools/contact.php?user_id=2378693&subject=hse.tw) | 3625 days ago (03/14/2016) | 0 |
+| hse.tw (382 hosts in use) website | public | [yvens](https://freedns.afraid.org/tools/contact.php?user_id=2378693&subject=hse.tw) | 3626 days ago (03/14/2016) | 0 |
 | htec.hk (34 hosts in use) website | private | [dahaimc](https://freedns.afraid.org/tools/contact.php?user_id=319944&subject=htec.hk) | 5684 days ago (06/24/2010) | 0 |
 | htpg.de (27 hosts in use) website | private | [xflstsb](https://freedns.afraid.org/tools/contact.php?user_id=2159117&subject=htpg.de) | 3977 days ago (03/01/2015) | 0 |
 | ialt.ch (15 hosts in use) website | public | [vjit](https://freedns.afraid.org/tools/contact.php?user_id=1808121&subject=ialt.ch) | 4280 days ago (05/29/2014) | 0 |
@@ -780,7 +779,7 @@ Total domains: 25241
 | jser.es (23 hosts in use) website | private | [meneses29](https://freedns.afraid.org/tools/contact.php?user_id=2347055&subject=jser.es) | 2932 days ago (01/11/2018) | 0 |
 | jt27.tk (25 hosts in use) website | private | [jtam](https://freedns.afraid.org/tools/contact.php?user_id=195124&subject=jt27.tk) | 6831 days ago (06/02/2007) | 0 |
 | jueri.ch (5 hosts in use) website | private | [trax](https://freedns.afraid.org/tools/contact.php?user_id=253343&subject=jueri.ch) | 7017 days ago (10/28/2006) | 0 |
-| juk.fi (155 hosts in use) website | public | [5njarvari](https://freedns.afraid.org/tools/contact.php?user_id=723835&subject=juk.fi) | 5421 days ago (04/13/2011) | 0 |
+| juk.fi (156 hosts in use) website | public | [5njarvari](https://freedns.afraid.org/tools/contact.php?user_id=723835&subject=juk.fi) | 5423 days ago (04/13/2011) | 0 |
 | jurke.nz (9 hosts in use) website | private | [davidjurke](https://freedns.afraid.org/tools/contact.php?user_id=1036112&subject=jurke.nz) | 3043 days ago (09/14/2017) | 0 |
 | k--h.ru (91 hosts in use) website | private | [kashorgru](https://freedns.afraid.org/tools/contact.php?user_id=541840&subject=k--h.ru) | 5442 days ago (03/19/2011) | 0 |
 | k9spa.cl (6 hosts in use) website | public | [rodrperezi](https://freedns.afraid.org/tools/contact.php?user_id=3043900&subject=k9spa.cl) | 1971 days ago (08/21/2020) | 0 |
@@ -835,7 +834,6 @@ Total domains: 25241
 | m00s.ch (14 hosts in use) website | private | [m00s](https://freedns.afraid.org/tools/contact.php?user_id=2786809&subject=m00s.ch) | 3331 days ago (11/30/2016) | 0 |
 | m03r.ru (24 hosts in use) website | private | [m03r](https://freedns.afraid.org/tools/contact.php?user_id=1257918&subject=m03r.ru) | 3431 days ago (08/24/2016) | 0 |
 | m1a.net (42 hosts in use) website | private | [hardebeck](https://freedns.afraid.org/tools/contact.php?user_id=2944751&subject=m1a.net) | 3048 days ago (10/12/2017) | 0 |
-| mace.at (26 hosts in use) website | private | [mgerstl](https://freedns.afraid.org/tools/contact.php?user_id=3122751&subject=mace.at) | 2809 days ago (05/08/2018) | 0 |
 | malc.in (19 hosts in use) website | private | [bwcs](https://freedns.afraid.org/tools/contact.php?user_id=465245&subject=malc.in) | 5912 days ago (12/07/2009) | 0 |
 | manuq.ar (6 hosts in use) website | private | [manuq](https://freedns.afraid.org/tools/contact.php?user_id=426788&subject=manuq.ar) | 1976 days ago (09/16/2020) | 0 |
 | marni.ch (9 hosts in use) website | private | [leontodo](https://freedns.afraid.org/tools/contact.php?user_id=3637216&subject=marni.ch) | 1454 days ago (02/19/2022) | 0 |
@@ -901,7 +899,7 @@ Total domains: 25241
 | nu3ve.mx (2 hosts in use) website | private | [ivanrodriguez84](https://freedns.afraid.org/tools/contact.php?user_id=4152145&subject=nu3ve.mx) | 641 days ago (05/06/2024) | 0 |
 | nula.rs (18 hosts in use) website | private | [bojanpetrovic](https://freedns.afraid.org/tools/contact.php?user_id=923464&subject=nula.rs) | 5129 days ago (01/29/2012) | 0 |
 | nuli.eu (67 hosts in use) website | public | [spongeleon](https://freedns.afraid.org/tools/contact.php?user_id=3881614&subject=nuli.eu) | 999 days ago (05/23/2023) | 0 |
-| nx.tc (2872 hosts in use) website | private | [tom123](https://freedns.afraid.org/tools/contact.php?user_id=102563&subject=nx.tc) | 6907 days ago (03/20/2007) | 0 |
+| nx.tc (2871 hosts in use) website | private | [tom123](https://freedns.afraid.org/tools/contact.php?user_id=102563&subject=nx.tc) | 6907 days ago (03/20/2007) | 0 |
 | nxkn.ru (48 hosts in use) website | private | [nixikanius](https://freedns.afraid.org/tools/contact.php?user_id=317034&subject=nxkn.ru) | 4172 days ago (08/24/2014) | 0 |
 | o00o.se (19 hosts in use) website | private | [janz0n](https://freedns.afraid.org/tools/contact.php?user_id=3063200&subject=o00o.se) | 2811 days ago (06/06/2018) | 0 |
 | obix.us (27 hosts in use) website | private | [obix](https://freedns.afraid.org/tools/contact.php?user_id=919716&subject=obix.us) | 3494 days ago (06/27/2016) | 0 |
@@ -934,7 +932,7 @@ Total domains: 25241
 | pona.tw (30 hosts in use) website | private | [derenwu](https://freedns.afraid.org/tools/contact.php?user_id=771697&subject=pona.tw) | 5274 days ago (08/08/2011) | 0 |
 | pone.us (29 hosts in use) website | private | [mmamlok](https://freedns.afraid.org/tools/contact.php?user_id=524629&subject=pone.us) | 4383 days ago (01/15/2014) | 0 |
 | ponr.fi (36 hosts in use) website | private | [oaknet](https://freedns.afraid.org/tools/contact.php?user_id=133471&subject=ponr.fi) | 5255 days ago (08/25/2011) | 0 |
-| poo.li (402 hosts in use) website | public | [kapakaparel2](https://freedns.afraid.org/tools/contact.php?user_id=247030&subject=poo.li) | 5228 days ago (10/24/2011) | 0 |
+| poo.li (403 hosts in use) website | public | [kapakaparel2](https://freedns.afraid.org/tools/contact.php?user_id=247030&subject=poo.li) | 5229 days ago (10/24/2011) | 0 |
 | ppad.cl (31 hosts in use) website | private | [aayala](https://freedns.afraid.org/tools/contact.php?user_id=2526252&subject=ppad.cl) | 2900 days ago (02/06/2018) | 0 |
 | ppeb.me (15 hosts in use) website | private | [ppeb](https://freedns.afraid.org/tools/contact.php?user_id=3703621&subject=ppeb.me) | 1306 days ago (06/17/2022) | 0 |
 | pr0x.de (34 hosts in use) website | private | [valko8877](https://freedns.afraid.org/tools/contact.php?user_id=1193211&subject=pr0x.de) | 4855 days ago (10/06/2012) | 0 |
@@ -1011,9 +1009,9 @@ Total domains: 25241
 | siri.sh (38 hosts in use) website | private | [sirishn](https://freedns.afraid.org/tools/contact.php?user_id=1028570&subject=siri.sh) | 5016 days ago (04/20/2012) | 0 |
 | sl8.net (71 hosts in use) website | private | [jjurach](https://freedns.afraid.org/tools/contact.php?user_id=1168690&subject=sl8.net) | 4911 days ago (09/01/2012) | 0 |
 | smel.ls (93 hosts in use) website | private | [tatjana](https://freedns.afraid.org/tools/contact.php?user_id=4355055&subject=smel.ls) | 372 days ago (02/05/2025) | 0 |
-| snbs.dk (23 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=snbs.dk) | 824 days ago (11/14/2023) | 0 |
+| snbs.dk (33 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=snbs.dk) | 825 days ago (11/14/2023) | 0 |
 | sncr.nl (23 hosts in use) website | private | [aramok](https://freedns.afraid.org/tools/contact.php?user_id=3743135&subject=sncr.nl) | 1216 days ago (09/17/2022) | 0 |
-| sne.jp (791 hosts in use) website | private | [miton](https://freedns.afraid.org/tools/contact.php?user_id=363623&subject=sne.jp) | 5247 days ago (10/03/2011) | 0 |
+| sne.jp (791 hosts in use) website | private | [miton](https://freedns.afraid.org/tools/contact.php?user_id=363623&subject=sne.jp) | 5249 days ago (10/03/2011) | 0 |
 | soca.si (34 hosts in use) website | private | [ekotisk](https://freedns.afraid.org/tools/contact.php?user_id=800149&subject=soca.si) | 5251 days ago (08/31/2011) | 0 |
 | soho.hk (38 hosts in use) website | private | [hksuperrabbit](https://freedns.afraid.org/tools/contact.php?user_id=1387873&subject=soho.hk) | 4628 days ago (06/09/2013) | 0 |
 | soni.si (34 hosts in use) website | private | [zeljko01](https://freedns.afraid.org/tools/contact.php?user_id=526359&subject=soni.si) | 5965 days ago (10/15/2009) | 0 |
@@ -1067,10 +1065,10 @@ Total domains: 25241
 | tomb.ws (36 hosts in use) website | private | [tom123](https://freedns.afraid.org/tools/contact.php?user_id=102563&subject=tomb.ws) | 7512 days ago (07/18/2005) | 0 |
 | top7.mx (38 hosts in use) website | public | [ggarciaggarcia](https://freedns.afraid.org/tools/contact.php?user_id=2657792&subject=top7.mx) | 2469 days ago (05/14/2019) | 0 |
 | tota.ca (31 hosts in use) website | private | [totag](https://freedns.afraid.org/tools/contact.php?user_id=815772&subject=tota.ca) | 5249 days ago (09/23/2011) | 0 |
-| tota.ch (20 hosts in use) website | private | [dwarfzimmerman](https://freedns.afraid.org/tools/contact.php?user_id=505067&subject=tota.ch) | 6051 days ago (07/21/2009) | 0 |
+| tota.ch (21 hosts in use) website | private | [dwarfzimmerman](https://freedns.afraid.org/tools/contact.php?user_id=505067&subject=tota.ch) | 6054 days ago (07/21/2009) | 0 |
 | totw.us (70 hosts in use) website | private | [aardvarq](https://freedns.afraid.org/tools/contact.php?user_id=1980092&subject=totw.us) | 4021 days ago (01/12/2015) | 0 |
 | tqts.ar (18 hosts in use) website | private | [tranquitos](https://freedns.afraid.org/tools/contact.php?user_id=86996&subject=tqts.ar) | 1501 days ago (12/04/2021) | 0 |
-| trhd.ro (29 hosts in use) website | private | [angielumezeanu](https://freedns.afraid.org/tools/contact.php?user_id=1812728&subject=trhd.ro) | 597 days ago (06/28/2024) | 0 |
+| trhd.ro (35 hosts in use) website | private | [angielumezeanu](https://freedns.afraid.org/tools/contact.php?user_id=1812728&subject=trhd.ro) | 598 days ago (06/28/2024) | 0 |
 | troi.ro (11 hosts in use) website | private | [ionuttroi](https://freedns.afraid.org/tools/contact.php?user_id=2785101&subject=troi.ro) | 3333 days ago (11/28/2016) | 0 |
 | ttbr.co (17 hosts in use) website | private | [mansano2](https://freedns.afraid.org/tools/contact.php?user_id=501309&subject=ttbr.co) | 2031 days ago (06/22/2020) | 0 |
 | tuite.ar (6 hosts in use) website | private | [dnsfran](https://freedns.afraid.org/tools/contact.php?user_id=4192838&subject=tuite.ar) | 570 days ago (06/22/2024) | 0 |
@@ -1090,7 +1088,7 @@ Total domains: 25241
 | ustt.ru (46 hosts in use) website | private | [myetdns](https://freedns.afraid.org/tools/contact.php?user_id=442765&subject=ustt.ru) | 6149 days ago (04/14/2009) | 0 |
 | v0x.eu (360 hosts in use) website | private | [zv3ro](https://freedns.afraid.org/tools/contact.php?user_id=2454750&subject=v0x.eu) | 3593 days ago (04/15/2016) | 0 |
 | valor.ar (3 hosts in use) website | private | [jmvecino](https://freedns.afraid.org/tools/contact.php?user_id=414900&subject=valor.ar) | 1924 days ago (10/08/2020) | 0 |
-| valu.cn (17 hosts in use) website | public | [valucn](https://freedns.afraid.org/tools/contact.php?user_id=4272467&subject=valu.cn) | 494 days ago (10/06/2024) | 0 |
+| valu.cn (22 hosts in use) website | public | [valucn](https://freedns.afraid.org/tools/contact.php?user_id=4272467&subject=valu.cn) | 498 days ago (10/06/2024) | 0 |
 | vciso.cl (8 hosts in use) website | public | [bgalvez](https://freedns.afraid.org/tools/contact.php?user_id=3411812&subject=vciso.cl) | 2078 days ago (06/03/2020) | 0 |
 | veja.ro (13 hosts in use) website | private | [faveja](https://freedns.afraid.org/tools/contact.php?user_id=1214391&subject=veja.ro) | 4818 days ago (11/04/2012) | 0 |
 | vell.me (29 hosts in use) website | private | [asvasv](https://freedns.afraid.org/tools/contact.php?user_id=1301174&subject=vell.me) | 4726 days ago (03/07/2013) | 0 |
@@ -1101,7 +1099,7 @@ Total domains: 25241
 | vpgs.net (9 hosts in use) website | private | [jmarshdns](https://freedns.afraid.org/tools/contact.php?user_id=3080717&subject=vpgs.net) | 2754 days ago (07/30/2018) | 0 |
 | vpi1.us (81 hosts in use) website | private | [pettibone](https://freedns.afraid.org/tools/contact.php?user_id=1023804&subject=vpi1.us) | 5051 days ago (04/14/2012) | 0 |
 | vpn03.ru (9 hosts in use) website | private | [grigpetr2](https://freedns.afraid.org/tools/contact.php?user_id=4529625&subject=vpn03.ru) | 148 days ago (08/25/2025) | 0 |
-| vr.lt (1788 hosts in use) website | private | [wdm](https://freedns.afraid.org/tools/contact.php?user_id=236032&subject=vr.lt) | 6913 days ago (03/14/2007) | 0 |
+| vr.lt (1788 hosts in use) website | private | [wdm](https://freedns.afraid.org/tools/contact.php?user_id=236032&subject=vr.lt) | 6914 days ago (03/14/2007) | 0 |
 | vrco.cl (28 hosts in use) website | private | [dcortes](https://freedns.afraid.org/tools/contact.php?user_id=641192&subject=vrco.cl) | 4793 days ago (11/29/2012) | 0 |
 | vrnit.ru (9 hosts in use) website | private | [koandr](https://freedns.afraid.org/tools/contact.php?user_id=2718539&subject=vrnit.ru) | 3422 days ago (08/31/2016) | 0 |
 | vtas.ch (24 hosts in use) website | private | [csabi911](https://freedns.afraid.org/tools/contact.php?user_id=429253&subject=vtas.ch) | 1615 days ago (08/12/2021) | 0 |
@@ -1184,7 +1182,7 @@ Total domains: 25241
 | 3d-hub.ro (4 hosts in use) website | private | [ices0ul](https://freedns.afraid.org/tools/contact.php?user_id=224327&subject=3d-hub.ro) | 1560 days ago (10/06/2021) | 0 |
 | 3s2p.com (10 hosts in use) website | public | [chad72](https://freedns.afraid.org/tools/contact.php?user_id=3655894&subject=3s2p.com) | 1453 days ago (02/22/2022) | 0 |
 | 3seed.ru (60 hosts in use) website | public | [alexto](https://freedns.afraid.org/tools/contact.php?user_id=943147&subject=3seed.ru) | 2688 days ago (10/04/2018) | 0 |
-| 404.mn (3373 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=404.mn) | 6718 days ago (09/25/2007) | 0 |
+| 404.mn (3375 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=404.mn) | 6718 days ago (09/25/2007) | 0 |
 | 433.co.il (8 hosts in use) website | private | [minatkko](https://freedns.afraid.org/tools/contact.php?user_id=4503273&subject=433.co.il) | 6775 days ago (06/27/2007) | 0 |
 | 46pro.ru (26 hosts in use) website | private | [kashorgru](https://freedns.afraid.org/tools/contact.php?user_id=541840&subject=46pro.ru) | 2186 days ago (01/21/2020) | 0 |
 | 48f8.net (26 hosts in use) website | private | [emve](https://freedns.afraid.org/tools/contact.php?user_id=105405&subject=48f8.net) | 4165 days ago (08/21/2014) | 0 |
@@ -1250,7 +1248,7 @@ Total domains: 25241
 | alfoli.cl (2 hosts in use) website | private | [pcarrill](https://freedns.afraid.org/tools/contact.php?user_id=280682&subject=alfoli.cl) | 459 days ago (10/11/2024) | 0 |
 | alte.ca (246 hosts in use) website | public | [rcuello](https://freedns.afraid.org/tools/contact.php?user_id=244507&subject=alte.ca) | 5136 days ago (01/18/2012) | 0 |
 | alube.us (27 hosts in use) website | private | [izafar](https://freedns.afraid.org/tools/contact.php?user_id=2030742&subject=alube.us) | 4287 days ago (04/19/2014) | 0 |
-| am60.com (35 hosts in use) website | private | [joncraker](https://freedns.afraid.org/tools/contact.php?user_id=799335&subject=am60.com) | 5186 days ago (11/30/2011) | 0 |
+| am60.com (35 hosts in use) website | private | [joncraker](https://freedns.afraid.org/tools/contact.php?user_id=799335&subject=am60.com) | 5192 days ago (11/30/2011) | 0 |
 | amdhk.com (5 hosts in use) website | private | [manyeung](https://freedns.afraid.org/tools/contact.php?user_id=662615&subject=amdhk.com) | 1027 days ago (04/17/2023) | 0 |
 | amfid.ch (19 hosts in use) website | private | [maestri](https://freedns.afraid.org/tools/contact.php?user_id=1723133&subject=amfid.ch) | 4298 days ago (04/08/2014) | 0 |
 | amiga.ro (20 hosts in use) website | private | [dragospd](https://freedns.afraid.org/tools/contact.php?user_id=705706&subject=amiga.ro) | 3687 days ago (01/08/2016) | 0 |
@@ -1265,7 +1263,7 @@ Total domains: 25241
 | angag.ro (14 hosts in use) website | private | [skandy90](https://freedns.afraid.org/tools/contact.php?user_id=3051971&subject=angag.ro) | 2800 days ago (05/15/2018) | 0 |
 | ansjeh.nl (6 hosts in use) website | private | [shyherald](https://freedns.afraid.org/tools/contact.php?user_id=3629223&subject=ansjeh.nl) | 1487 days ago (12/18/2021) | 0 |
 | appman.nl (4 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=appman.nl) | 4075 days ago (11/17/2014) | 0 |
-| apps.dj (433 hosts in use) website | public | [jorisfouet](https://freedns.afraid.org/tools/contact.php?user_id=1285776&subject=apps.dj) | 4752 days ago (02/11/2013) | 0 |
+| apps.dj (434 hosts in use) website | public | [jorisfouet](https://freedns.afraid.org/tools/contact.php?user_id=1285776&subject=apps.dj) | 4752 days ago (02/11/2013) | 0 |
 | appx.ro (147 hosts in use) website | public | [hheidel](https://freedns.afraid.org/tools/contact.php?user_id=787456&subject=appx.ro) | 3421 days ago (10/04/2016) | 0 |
 | arceus.ro (7 hosts in use) website | private | [bogdancshellos](https://freedns.afraid.org/tools/contact.php?user_id=3462788&subject=arceus.ro) | 1916 days ago (10/15/2020) | 0 |
 | arnes.pro (7 hosts in use) website | private | [mcsaban](https://freedns.afraid.org/tools/contact.php?user_id=240289&subject=arnes.pro) | 304 days ago (03/15/2025) | 0 |
@@ -1290,7 +1288,7 @@ Total domains: 25241
 | b33r.us (580 hosts in use) website | public | [kaimay](https://freedns.afraid.org/tools/contact.php?user_id=611343&subject=b33r.us) | 6940 days ago (02/13/2007) | 0 |
 | baafz.com (6 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=baafz.com) | 699 days ago (02/21/2024) | 0 |
 | babba.ru (27 hosts in use) website | private | [astrovlad](https://freedns.afraid.org/tools/contact.php?user_id=2543662&subject=babba.ru) | 3233 days ago (04/06/2017) | 0 |
-| bad.mn (2173 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=bad.mn) | 6739 days ago (09/04/2007) | 0 |
+| bad.mn (2174 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=bad.mn) | 6740 days ago (09/04/2007) | 0 |
 | baerg.ca (39 hosts in use) website | private | [baergaj](https://freedns.afraid.org/tools/contact.php?user_id=645443&subject=baerg.ca) | 5621 days ago (09/16/2010) | 0 |
 | baez.cl (178 hosts in use) website | public | [lbaez](https://freedns.afraid.org/tools/contact.php?user_id=408796&subject=baez.cl) | 6413 days ago (07/24/2008) | 0 |
 | bagos.ro (25 hosts in use) website | private | [zsokos](https://freedns.afraid.org/tools/contact.php?user_id=555414&subject=bagos.ro) | 5988 days ago (08/24/2009) | 0 |
@@ -1328,7 +1326,7 @@ Total domains: 25241
 | blayk.us (47 hosts in use) website | private | [bobo13654](https://freedns.afraid.org/tools/contact.php?user_id=1265726&subject=blayk.us) | 4234 days ago (06/11/2014) | 0 |
 | bmvl.ru (210 hosts in use) website | private | [vlashar](https://freedns.afraid.org/tools/contact.php?user_id=1335678&subject=bmvl.ru) | 4688 days ago (04/16/2013) | 0 |
 | boba.org (25 hosts in use) website | private | [aboba0](https://freedns.afraid.org/tools/contact.php?user_id=4073298&subject=boba.org) | 730 days ago (02/10/2024) | 0 |
-| boiso.ar (38 hosts in use) website | public | [pabloboiso](https://freedns.afraid.org/tools/contact.php?user_id=3547429&subject=boiso.ar) | 167 days ago (08/28/2025) | 0 |
+| boiso.ar (38 hosts in use) website | public | [pabloboiso](https://freedns.afraid.org/tools/contact.php?user_id=3547429&subject=boiso.ar) | 171 days ago (08/28/2025) | 0 |
 | bomer.us (14 hosts in use) website | private | [bbomer](https://freedns.afraid.org/tools/contact.php?user_id=94011&subject=bomer.us) | 4312 days ago (04/12/2014) | 0 |
 | bonac.si (23 hosts in use) website | private | [bonac](https://freedns.afraid.org/tools/contact.php?user_id=155405&subject=bonac.si) | 7445 days ago (09/26/2005) | 0 |
 | briit.cl (33 hosts in use) website | private | [belze](https://freedns.afraid.org/tools/contact.php?user_id=1061780&subject=briit.cl) | 3083 days ago (09/04/2017) | 0 |
@@ -1366,8 +1364,8 @@ Total domains: 25241
 | celam.me (18 hosts in use) website | private | [aimass](https://freedns.afraid.org/tools/contact.php?user_id=55619&subject=celam.me) | 1982 days ago (09/09/2020) | 0 |
 | cemix.my (20 hosts in use) website | private | [mengling](https://freedns.afraid.org/tools/contact.php?user_id=2912762&subject=cemix.my) | 3094 days ago (07/27/2017) | 0 |
 | cemps.ro (21 hosts in use) website | private | [vladm28](https://freedns.afraid.org/tools/contact.php?user_id=1139652&subject=cemps.ro) | 3107 days ago (07/12/2017) | 0 |
-| cephe.us (19 hosts in use) website | private | [askyle](https://freedns.afraid.org/tools/contact.php?user_id=1296935&subject=cephe.us) | 3803 days ago (08/16/2015) | 0 |
-| cfmr.ro (126 hosts in use) website | public | [mbodale](https://freedns.afraid.org/tools/contact.php?user_id=747494&subject=cfmr.ro) | 3610 days ago (03/29/2016) | 0 |
+| cephe.us (20 hosts in use) website | private | [askyle](https://freedns.afraid.org/tools/contact.php?user_id=1296935&subject=cephe.us) | 3837 days ago (08/16/2015) | 0 |
+| cfmr.ro (127 hosts in use) website | public | [mbodale](https://freedns.afraid.org/tools/contact.php?user_id=747494&subject=cfmr.ro) | 3611 days ago (03/29/2016) | 0 |
 | chaka.ch (22 hosts in use) website | private | [chaka2828](https://freedns.afraid.org/tools/contact.php?user_id=2021617&subject=chaka.ch) | 4066 days ago (11/26/2014) | 0 |
 | chas.ch (107 hosts in use) website | public | [kapakaparel2](https://freedns.afraid.org/tools/contact.php?user_id=247030&subject=chas.ch) | 3384 days ago (11/08/2016) | 0 |
 | chatt.in (10 hosts in use) website | private | [jochar](https://freedns.afraid.org/tools/contact.php?user_id=3039716&subject=chatt.in) | 1630 days ago (08/11/2021) | 0 |
@@ -1386,7 +1384,7 @@ Total domains: 25241
 | clear.li (28 hosts in use) website | private | [gaznux](https://freedns.afraid.org/tools/contact.php?user_id=655604&subject=clear.li) | 2548 days ago (01/22/2019) | 0 |
 | cliff.hk (34 hosts in use) website | private | [cliffkwok](https://freedns.afraid.org/tools/contact.php?user_id=1892852&subject=cliff.hk) | 4020 days ago (01/13/2015) | 0 |
 | clnas.com (4 hosts in use) website | private | [ripping](https://freedns.afraid.org/tools/contact.php?user_id=3944375&subject=clnas.com) | 881 days ago (09/10/2023) | 0 |
-| cloe.cl (109 hosts in use) website | public | [erodriguezl](https://freedns.afraid.org/tools/contact.php?user_id=1926490&subject=cloe.cl) | 3578 days ago (04/26/2016) | 0 |
+| cloe.cl (109 hosts in use) website | public | [erodriguezl](https://freedns.afraid.org/tools/contact.php?user_id=1926490&subject=cloe.cl) | 3583 days ago (04/26/2016) | 0 |
 | clogi.org (4 hosts in use) website | private | [alicewinters](https://freedns.afraid.org/tools/contact.php?user_id=4728782&subject=clogi.org) | 150 days ago (09/15/2025) | 0 |
 | clubr.ru (54 hosts in use) website | private | [hex0id](https://freedns.afraid.org/tools/contact.php?user_id=715505&subject=clubr.ru) | 5436 days ago (03/25/2011) | 0 |
 | clux.com (33 hosts in use) website | private | [werler](https://freedns.afraid.org/tools/contact.php?user_id=1499806&subject=clux.com) | 4520 days ago (09/24/2013) | 0 |
@@ -1630,6 +1628,7 @@ Total domains: 25241
 | hiyb.net (34 hosts in use) website | private | [shahman](https://freedns.afraid.org/tools/contact.php?user_id=129265&subject=hiyb.net) | 7295 days ago (02/22/2006) | 0 |
 | hkiot.hk (13 hosts in use) website | private | [murphysit](https://freedns.afraid.org/tools/contact.php?user_id=534963&subject=hkiot.hk) | 2294 days ago (10/27/2019) | 0 |
 | hklaw.hk (25 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=hklaw.hk) | 6191 days ago (03/03/2009) | 0 |
+| hldj.nl (123 hosts in use) website | private | [choimt](https://freedns.afraid.org/tools/contact.php?user_id=5137672&subject=hldj.nl) | 90 days ago (11/17/2025) | 0 |
 | hmuda.es (32 hosts in use) website | private | [hmuda](https://freedns.afraid.org/tools/contact.php?user_id=206587&subject=hmuda.es) | 7187 days ago (05/11/2006) | 0 |
 | hnsec.it (59 hosts in use) website | private | [hnsec](https://freedns.afraid.org/tools/contact.php?user_id=3533152&subject=hnsec.it) | 1780 days ago (03/25/2021) | 0 |
 | hoard.ca (31 hosts in use) website | private | [nabuzant](https://freedns.afraid.org/tools/contact.php?user_id=470220&subject=hoard.ca) | 5641 days ago (08/27/2010) | 0 |
@@ -1727,7 +1726,7 @@ Total domains: 25241
 | jstech.si (4 hosts in use) website | private | [suklje](https://freedns.afraid.org/tools/contact.php?user_id=2248001&subject=jstech.si) | 165 days ago (08/01/2025) | 0 |
 | jude.xyz (16 hosts in use) website | private | [pikajude](https://freedns.afraid.org/tools/contact.php?user_id=2319384&subject=jude.xyz) | 3116 days ago (07/18/2017) | 0 |
 | k-rei.eu (24 hosts in use) website | private | [kanashiireikon](https://freedns.afraid.org/tools/contact.php?user_id=1927477&subject=k-rei.eu) | 4141 days ago (10/10/2014) | 0 |
-| k22.su (1933 hosts in use) website | private | [msalikow](https://freedns.afraid.org/tools/contact.php?user_id=542812&subject=k22.su) | 5900 days ago (12/19/2009) | 0 |
+| k22.su (1932 hosts in use) website | private | [msalikow](https://freedns.afraid.org/tools/contact.php?user_id=542812&subject=k22.su) | 5903 days ago (12/19/2009) | 0 |
 | kahrs.us (23 hosts in use) website | private | [kahrs](https://freedns.afraid.org/tools/contact.php?user_id=645725&subject=kahrs.us) | 5622 days ago (09/25/2010) | 0 |
 | kali.biz (37 hosts in use) website | public | [mkserwis](https://freedns.afraid.org/tools/contact.php?user_id=1284240&subject=kali.biz) | 4748 days ago (02/09/2013) | 0 |
 | kapcom.gr (6 hosts in use) website | public | [kapcom01](https://freedns.afraid.org/tools/contact.php?user_id=1065096&subject=kapcom.gr) | 4933 days ago (08/01/2012) | 0 |
@@ -1782,9 +1781,8 @@ Total domains: 25241
 | labsi.ar (11 hosts in use) website | private | [lbraun77](https://freedns.afraid.org/tools/contact.php?user_id=2922896&subject=labsi.ar) | 507 days ago (08/24/2024) | 0 |
 | lain.ch (444 hosts in use) website | public | [cbzrico](https://freedns.afraid.org/tools/contact.php?user_id=799448&subject=lain.ch) | 5283 days ago (08/30/2011) | 0 |
 | lal.asia (21 hosts in use) website | private | [jayrodrigo](https://freedns.afraid.org/tools/contact.php?user_id=3104518&subject=lal.asia) | 2672 days ago (10/12/2018) | 0 |
-| lang.hm (275 hosts in use) website | public | [davidelang](https://freedns.afraid.org/tools/contact.php?user_id=3961137&subject=lang.hm) | 860 days ago (10/03/2023) | 0 |
+| lang.hm (276 hosts in use) website | public | [davidelang](https://freedns.afraid.org/tools/contact.php?user_id=3961137&subject=lang.hm) | 867 days ago (10/03/2023) | 0 |
 | lanzo.au (29 hosts in use) website | private | [paullanzilli](https://freedns.afraid.org/tools/contact.php?user_id=4256798&subject=lanzo.au) | 517 days ago (09/15/2024) | 0 |
-| lapin.li (26 hosts in use) website | private | [alexlmob](https://freedns.afraid.org/tools/contact.php?user_id=2521738&subject=lapin.li) | 3661 days ago (01/07/2016) | 0 |
 | laras.id (21 hosts in use) website | private | [jenderal](https://freedns.afraid.org/tools/contact.php?user_id=561953&subject=laras.id) | 3904 days ago (05/07/2015) | 0 |
 | lastow.ro (6 hosts in use) website | private | [stanciuandrei](https://freedns.afraid.org/tools/contact.php?user_id=1368490&subject=lastow.ro) | 133 days ago (09/02/2025) | 0 |
 | lawdb.hk (29 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=lawdb.hk) | 6191 days ago (03/03/2009) | 0 |
@@ -1803,14 +1801,14 @@ Total domains: 25241
 | litesa.ar (7 hosts in use) website | private | [litesanet](https://freedns.afraid.org/tools/contact.php?user_id=4344090&subject=litesa.ar) | 366 days ago (01/12/2025) | 0 |
 | ljhb.se (444 hosts in use) website | public | [bylzz](https://freedns.afraid.org/tools/contact.php?user_id=493974&subject=ljhb.se) | 6011 days ago (09/01/2009) | 0 |
 | lobq.com (24 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=lobq.com) | 6907 days ago (03/03/2007) | 0 |
-| logan.li (26 hosts in use) website | private | [ccli](https://freedns.afraid.org/tools/contact.php?user_id=537209&subject=logan.li) | 5705 days ago (06/26/2010) | 0 |
 | lolo.pro (19 hosts in use) website | private | [loloyo](https://freedns.afraid.org/tools/contact.php?user_id=837863&subject=lolo.pro) | 5214 days ago (10/30/2011) | 0 |
 | loris.li (19 hosts in use) website | private | [lorrrris](https://freedns.afraid.org/tools/contact.php?user_id=3344346&subject=loris.li) | 2217 days ago (01/09/2020) | 0 |
+| lot99.org (7 hosts in use) website | private | [belchfire](https://freedns.afraid.org/tools/contact.php?user_id=3824660&subject=lot99.org) | 891 days ago (09/09/2023) | 0 |
 | lotka.tk (15 hosts in use) website | private | [lotkavolterra](https://freedns.afraid.org/tools/contact.php?user_id=3158059&subject=lotka.tk) | 2497 days ago (03/16/2019) | 0 |
 | lotus.tw (37 hosts in use) website | private | [ahaoa](https://freedns.afraid.org/tools/contact.php?user_id=468738&subject=lotus.tw) | 6185 days ago (03/09/2009) | 0 |
 | lubi.org (16 hosts in use) website | private | [berntbreivik](https://freedns.afraid.org/tools/contact.php?user_id=4232654&subject=lubi.org) | 548 days ago (08/16/2024) | 0 |
 | luene.ch (33 hosts in use) website | private | [urfer](https://freedns.afraid.org/tools/contact.php?user_id=684030&subject=luene.ch) | 5478 days ago (01/16/2011) | 0 |
-| luhu.jp (145 hosts in use) website | public | [luhujp](https://freedns.afraid.org/tools/contact.php?user_id=4302401&subject=luhu.jp) | 449 days ago (11/17/2024) | 0 |
+| luhu.jp (142 hosts in use) website | public | [luhujp](https://freedns.afraid.org/tools/contact.php?user_id=4302401&subject=luhu.jp) | 455 days ago (11/17/2024) | 0 |
 | luuna.cl (19 hosts in use) website | private | [fplaz](https://freedns.afraid.org/tools/contact.php?user_id=2613976&subject=luuna.cl) | 3562 days ago (04/13/2016) | 0 |
 | lwts.ru (143 hosts in use) website | private | [loutskiy](https://freedns.afraid.org/tools/contact.php?user_id=1284473&subject=lwts.ru) | 4326 days ago (04/08/2014) | 0 |
 | lxqb.pt (134 hosts in use) website | public | [lxqbpt](https://freedns.afraid.org/tools/contact.php?user_id=1557495&subject=lxqb.pt) | 5021 days ago (05/10/2012) | 0 |
@@ -1835,7 +1833,6 @@ Total domains: 25241
 | mdlab.ru (97 hosts in use) website | private | [mozgokot](https://freedns.afraid.org/tools/contact.php?user_id=575139&subject=mdlab.ru) | 5779 days ago (04/09/2010) | 0 |
 | mdrjr.me (51 hosts in use) website | public | [mdrjr](https://freedns.afraid.org/tools/contact.php?user_id=1442028&subject=mdrjr.me) | 727 days ago (02/17/2024) | 0 |
 | mean.biz (18 hosts in use) website | public | [sjkmcnally](https://freedns.afraid.org/tools/contact.php?user_id=4214983&subject=mean.biz) | 573 days ago (07/20/2024) | 0 |
-| medoc.hu (26 hosts in use) website | private | [medoc76](https://freedns.afraid.org/tools/contact.php?user_id=4154571&subject=medoc.hu) | 465 days ago (10/05/2024) | 0 |
 | megait.ro (9 hosts in use) website | private | [paraschiv](https://freedns.afraid.org/tools/contact.php?user_id=749047&subject=megait.ro) | 2312 days ago (09/15/2019) | 0 |
 | melete.nl (6 hosts in use) website | private | [paulmens](https://freedns.afraid.org/tools/contact.php?user_id=3295432&subject=melete.nl) | 2346 days ago (08/12/2019) | 0 |
 | meloy.me (20 hosts in use) website | private | [hamster6666](https://freedns.afraid.org/tools/contact.php?user_id=4487196&subject=meloy.me) | 193 days ago (07/04/2025) | 0 |
@@ -1882,12 +1879,11 @@ Total domains: 25241
 | mvdeo.ru (12 hosts in use) website | private | [gladyshev](https://freedns.afraid.org/tools/contact.php?user_id=3076531&subject=mvdeo.ru) | 2709 days ago (08/14/2018) | 0 |
 | mwxxl.de (40 hosts in use) website | public | [mw4711xr](https://freedns.afraid.org/tools/contact.php?user_id=1953735&subject=mwxxl.de) | 1983 days ago (09/04/2020) | 0 |
 | my.qh.ie (65 hosts in use) website | public | [quantumhosting](https://freedns.afraid.org/tools/contact.php?user_id=3157736&subject=my.qh.ie) | 2538 days ago (03/06/2019) | 0 |
-| my.to (30969 hosts in use) website | private | [an0nym](https://freedns.afraid.org/tools/contact.php?user_id=1720647&subject=my.to) | 4284 days ago (05/25/2014) | 0 |
+| my.to (30974 hosts in use) website | private | [an0nym](https://freedns.afraid.org/tools/contact.php?user_id=1720647&subject=my.to) | 4285 days ago (05/25/2014) | 0 |
 | mybin.ir (44 hosts in use) website | private | [irancnr](https://freedns.afraid.org/tools/contact.php?user_id=1390985&subject=mybin.ir) | 2263 days ago (11/05/2019) | 0 |
 | mybkk.uk (25 hosts in use) website | private | [wessel21](https://freedns.afraid.org/tools/contact.php?user_id=4027352&subject=mybkk.uk) | 794 days ago (12/14/2023) | 0 |
 | mybzu.ch (34 hosts in use) website | private | [schneebergerh](https://freedns.afraid.org/tools/contact.php?user_id=507301&subject=mybzu.ch) | 6042 days ago (07/30/2009) | 0 |
 | mymet.ro (28 hosts in use) website | private | [possewei](https://freedns.afraid.org/tools/contact.php?user_id=805206&subject=mymet.ro) | 5271 days ago (09/08/2011) | 0 |
-| mzdy.com (26 hosts in use) website | private | [nasredin](https://freedns.afraid.org/tools/contact.php?user_id=2801470&subject=mzdy.com) | 806 days ago (11/30/2023) | 0 |
 | n8nlab.ro (7 hosts in use) website | private | [aditu](https://freedns.afraid.org/tools/contact.php?user_id=51615&subject=n8nlab.ro) | 104 days ago (10/28/2025) | 0 |
 | nadig.li (18 hosts in use) website | private | [cnadig](https://freedns.afraid.org/tools/contact.php?user_id=553332&subject=nadig.li) | 5862 days ago (01/26/2010) | 0 |
 | navea.ar (10 hosts in use) website | public | [gargamusa](https://freedns.afraid.org/tools/contact.php?user_id=804078&subject=navea.ar) | 200 days ago (07/30/2025) | 0 |
@@ -1970,8 +1966,8 @@ Total domains: 25241
 | perju.ro (11 hosts in use) website | private | [castraverde](https://freedns.afraid.org/tools/contact.php?user_id=2790119&subject=perju.ro) | 3325 days ago (12/06/2016) | 0 |
 | pfff.ru (102 hosts in use) website | private | [bakli](https://freedns.afraid.org/tools/contact.php?user_id=664599&subject=pfff.ru) | 5568 days ago (11/17/2010) | 0 |
 | pgren.se (29 hosts in use) website | private | [pgren](https://freedns.afraid.org/tools/contact.php?user_id=943598&subject=pgren.se) | 5104 days ago (02/15/2012) | 0 |
-| phire.ca (38 hosts in use) website | private | [phiremchi](https://freedns.afraid.org/tools/contact.php?user_id=2226018&subject=phire.ca) | 3986 days ago (03/19/2015) | 0 |
-| pii.at (2382 hosts in use) website | public | [zmurk](https://freedns.afraid.org/tools/contact.php?user_id=807236&subject=pii.at) | 5271 days ago (09/11/2011) | 0 |
+| phire.ca (39 hosts in use) website | private | [phiremchi](https://freedns.afraid.org/tools/contact.php?user_id=2226018&subject=phire.ca) | 3986 days ago (03/19/2015) | 0 |
+| pii.at (2383 hosts in use) website | public | [zmurk](https://freedns.afraid.org/tools/contact.php?user_id=807236&subject=pii.at) | 5271 days ago (09/11/2011) | 0 |
 | piter.xyz (2 hosts in use) website | private | [dellarovere](https://freedns.afraid.org/tools/contact.php?user_id=3050740&subject=piter.xyz) | 2813 days ago (05/02/2018) | 0 |
 | pkgup.com (7 hosts in use) website | private | [stevebor1](https://freedns.afraid.org/tools/contact.php?user_id=620088&subject=pkgup.com) | 56 days ago (12/10/2025) | 0 |
 | pknet.ca (24 hosts in use) website | private | [rwolfe87](https://freedns.afraid.org/tools/contact.php?user_id=4064757&subject=pknet.ca) | 740 days ago (01/27/2024) | 0 |
@@ -2059,7 +2055,7 @@ Total domains: 25241
 | s0br.com (25 hosts in use) website | private | [soberbob](https://freedns.afraid.org/tools/contact.php?user_id=1376151&subject=s0br.com) | 4645 days ago (05/27/2013) | 0 |
 | sabro.ro (58 hosts in use) website | public | [soriniluti](https://freedns.afraid.org/tools/contact.php?user_id=3582858&subject=sabro.ro) | 1092 days ago (02/08/2023) | 0 |
 | saclt.com (3 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=saclt.com) | 2692 days ago (08/31/2018) | 0 |
-| sage.li (189 hosts in use) website | public | [dasv](https://freedns.afraid.org/tools/contact.php?user_id=808168&subject=sage.li) | 5255 days ago (09/12/2011) | 0 |
+| sage.li (190 hosts in use) website | public | [dasv](https://freedns.afraid.org/tools/contact.php?user_id=808168&subject=sage.li) | 5271 days ago (09/12/2011) | 0 |
 | sales.hk (14 hosts in use) website | private | [natchan](https://freedns.afraid.org/tools/contact.php?user_id=831892&subject=sales.hk) | 5222 days ago (10/24/2011) | 0 |
 | samaka.nl (7 hosts in use) website | private | [paulmens](https://freedns.afraid.org/tools/contact.php?user_id=3295432&subject=samaka.nl) | 2376 days ago (08/12/2019) | 0 |
 | sange.es (55 hosts in use) website | private | [lsservw](https://freedns.afraid.org/tools/contact.php?user_id=460600&subject=sange.es) | 6213 days ago (02/09/2009) | 0 |
@@ -2078,7 +2074,7 @@ Total domains: 25241
 | secby.us (19 hosts in use) website | private | [aramosf](https://freedns.afraid.org/tools/contact.php?user_id=799409&subject=secby.us) | 5250 days ago (08/30/2011) | 0 |
 | seel.cl (117 hosts in use) website | public | [aalvial](https://freedns.afraid.org/tools/contact.php?user_id=574233&subject=seel.cl) | 5256 days ago (09/01/2011) | 0 |
 | seguy.cl (47 hosts in use) website | private | [rseguy](https://freedns.afraid.org/tools/contact.php?user_id=875706&subject=seguy.cl) | 5146 days ago (12/12/2011) | 0 |
-| sehol.eu (76 hosts in use) website | public | [arpadf](https://freedns.afraid.org/tools/contact.php?user_id=1384381&subject=sehol.eu) | 1659 days ago (08/01/2021) | 0 |
+| sehol.eu (77 hosts in use) website | public | [arpadf](https://freedns.afraid.org/tools/contact.php?user_id=1384381&subject=sehol.eu) | 1660 days ago (08/01/2021) | 0 |
 | semat.cl (73 hosts in use) website | public | [arkaiko](https://freedns.afraid.org/tools/contact.php?user_id=833963&subject=semat.cl) | 5194 days ago (10/25/2011) | 0 |
 | sengo.me (21 hosts in use) website | private | [nasredin](https://freedns.afraid.org/tools/contact.php?user_id=2801470&subject=sengo.me) | 458 days ago (10/12/2024) | 0 |
 | seona.id (13 hosts in use) website | private | [tom123](https://freedns.afraid.org/tools/contact.php?user_id=102563&subject=seona.id) | 607 days ago (05/16/2024) | 0 |
@@ -2171,7 +2167,7 @@ Total domains: 25241
 | theany.tk (8 hosts in use) website | private | [theany](https://freedns.afraid.org/tools/contact.php?user_id=3318655&subject=theany.tk) | 1218 days ago (09/13/2022) | 0 |
 | thehux.ro (7 hosts in use) website | private | [amunra81](https://freedns.afraid.org/tools/contact.php?user_id=643279&subject=thehux.ro) | 555 days ago (07/07/2024) | 0 |
 | thiste.de (6 hosts in use) website | private | [vonunwerth](https://freedns.afraid.org/tools/contact.php?user_id=3292741&subject=thiste.de) | 2361 days ago (08/04/2019) | 0 |
-| tiger.ar (72 hosts in use) website | public | [axelbrz](https://freedns.afraid.org/tools/contact.php?user_id=1180233&subject=tiger.ar) | 2100 days ago (05/12/2020) | 0 |
+| tiger.ar (73 hosts in use) website | public | [axelbrz](https://freedns.afraid.org/tools/contact.php?user_id=1180233&subject=tiger.ar) | 2106 days ago (05/12/2020) | 0 |
 | tkacz.tk (20 hosts in use) website | private | [govnoborok](https://freedns.afraid.org/tools/contact.php?user_id=862293&subject=tkacz.tk) | 4504 days ago (09/16/2013) | 0 |
 | tkzs.org (25 hosts in use) website | private | [morbidviper](https://freedns.afraid.org/tools/contact.php?user_id=510465&subject=tkzs.org) | 6029 days ago (08/12/2009) | 0 |
 | tlov.net (36 hosts in use) website | private | [matthewbennett71](https://freedns.afraid.org/tools/contact.php?user_id=1625991&subject=tlov.net) | 4096 days ago (11/25/2014) | 0 |
@@ -2258,7 +2254,7 @@ Total domains: 25241
 | waiki.cl (19 hosts in use) website | private | [danieliglesias](https://freedns.afraid.org/tools/contact.php?user_id=4312427&subject=waiki.cl) | 413 days ago (11/26/2024) | 0 |
 | wallan.ca (7 hosts in use) website | private | [bboccoqq](https://freedns.afraid.org/tools/contact.php?user_id=4475015&subject=wallan.ca) | 236 days ago (06/14/2025) | 0 |
 | walte.rs (41 hosts in use) website | private | [jagw](https://freedns.afraid.org/tools/contact.php?user_id=461787&subject=walte.rs) | 4543 days ago (09/04/2013) | 0 |
-| warga.ai (32 hosts in use) website | public | [masfajar](https://freedns.afraid.org/tools/contact.php?user_id=1665819&subject=warga.ai) | 28 days ago (01/16/2026) | 0 |
+| warga.ai (32 hosts in use) website | public | [masfajar](https://freedns.afraid.org/tools/contact.php?user_id=1665819&subject=warga.ai) | 31 days ago (01/16/2026) | 0 |
 | warna.ch (31 hosts in use) website | private | [wernli](https://freedns.afraid.org/tools/contact.php?user_id=55361&subject=warna.ch) | 8045 days ago (02/04/2004) | 0 |
 | warp9.net (5 hosts in use) website | private | [top7](https://freedns.afraid.org/tools/contact.php?user_id=380049&subject=warp9.net) | 5135 days ago (01/22/2012) | 0 |
 | wc6q.com (12 hosts in use) website | private | [ryanronning](https://freedns.afraid.org/tools/contact.php?user_id=2032407&subject=wc6q.com) | 3672 days ago (01/26/2016) | 0 |
@@ -2338,7 +2334,7 @@ Total domains: 25241
 | 120v.ac (1992 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=120v.ac) | 6745 days ago (08/29/2007) | 0 |
 | 124488.xyz (9 hosts in use) website | private | [metal450](https://freedns.afraid.org/tools/contact.php?user_id=2015112&subject=124488.xyz) | 722 days ago (02/14/2024) | 0 |
 | 124489.xyz (6 hosts in use) website | private | [metal450](https://freedns.afraid.org/tools/contact.php?user_id=2015112&subject=124489.xyz) | 384 days ago (01/24/2025) | 0 |
-| 1337.cx (4561 hosts in use) website | public | [darthflo](https://freedns.afraid.org/tools/contact.php?user_id=118473&subject=1337.cx) | 7584 days ago (05/12/2005) | 0 |
+| 1337.cx (4563 hosts in use) website | public | [darthflo](https://freedns.afraid.org/tools/contact.php?user_id=118473&subject=1337.cx) | 7585 days ago (05/12/2005) | 0 |
 | 1ag.co.za (46 hosts in use) website | private | [foederati](https://freedns.afraid.org/tools/contact.php?user_id=3015432&subject=1ag.co.za) | 2921 days ago (02/08/2018) | 0 |
 | 1glr.co.uk (2 hosts in use) website | private | [johnnylangridge](https://freedns.afraid.org/tools/contact.php?user_id=4357427&subject=1glr.co.uk) | 172 days ago (08/24/2025) | 0 |
 | 1j7a9k.ro (20 hosts in use) website | public | [shaorman](https://freedns.afraid.org/tools/contact.php?user_id=1276047&subject=1j7a9k.ro) | 169 days ago (08/21/2025) | 0 |
@@ -2389,7 +2385,7 @@ Total domains: 25241
 | acotel.es (26 hosts in use) website | private | [raulsantam](https://freedns.afraid.org/tools/contact.php?user_id=961912&subject=acotel.es) | 5101 days ago (02/25/2012) | 0 |
 | actopan.mx (6 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=actopan.mx) | 664 days ago (03/20/2024) | 0 |
 | adcross.cl (8 hosts in use) website | private | [delbronx](https://freedns.afraid.org/tools/contact.php?user_id=2135126&subject=adcross.cl) | 689 days ago (02/26/2024) | 0 |
-| adfos.com (25 hosts in use) website | private | [adamfoster](https://freedns.afraid.org/tools/contact.php?user_id=623958&subject=adfos.com) | 606 days ago (06/19/2024) | 0 |
+| adfos.com (35 hosts in use) website | private | [adamfoster](https://freedns.afraid.org/tools/contact.php?user_id=623958&subject=adfos.com) | 607 days ago (06/19/2024) | 0 |
 | adhesa.cl (27 hosts in use) website | private | [gatopresente](https://freedns.afraid.org/tools/contact.php?user_id=1475501&subject=adhesa.cl) | 2388 days ago (07/01/2019) | 0 |
 | adihost.tk (5 hosts in use) website | private | [a159753](https://freedns.afraid.org/tools/contact.php?user_id=1367040&subject=adihost.tk) | 1206 days ago (09/25/2022) | 0 |
 | adline.ro (27 hosts in use) website | private | [leventedecsei](https://freedns.afraid.org/tools/contact.php?user_id=2919221&subject=adline.ro) | 2891 days ago (03/12/2018) | 0 |
@@ -2405,7 +2401,7 @@ Total domains: 25241
 | agotek.cl (23 hosts in use) website | private | [garayar](https://freedns.afraid.org/tools/contact.php?user_id=1024822&subject=agotek.cl) | 4576 days ago (07/23/2013) | 0 |
 | aguero.cl (20 hosts in use) website | private | [eaguero](https://freedns.afraid.org/tools/contact.php?user_id=928352&subject=aguero.cl) | 3431 days ago (08/24/2016) | 0 |
 | ahearn.cc (10 hosts in use) website | private | [peteahearn](https://freedns.afraid.org/tools/contact.php?user_id=4002081&subject=ahearn.cc) | 302 days ago (04/08/2025) | 0 |
-| ahess.com (33 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=ahess.com) | 4225 days ago (07/22/2014) | 0 |
+| ahess.com (33 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=ahess.com) | 4227 days ago (07/22/2014) | 0 |
 | aichi.me (159 hosts in use) website | public | [aichixxx](https://freedns.afraid.org/tools/contact.php?user_id=302590&subject=aichi.me) | 5259 days ago (09/23/2011) | 0 |
 | aidaid.me (26 hosts in use) website | private | [prince123](https://freedns.afraid.org/tools/contact.php?user_id=1286164&subject=aidaid.me) | 4697 days ago (04/05/2013) | 0 |
 | aifocus.us (8 hosts in use) website | private | [fcorbin](https://freedns.afraid.org/tools/contact.php?user_id=3745020&subject=aifocus.us) | 1239 days ago (09/22/2022) | 0 |
@@ -2415,13 +2411,13 @@ Total domains: 25241
 | aioseo.ru (17 hosts in use) website | private | [almazm](https://freedns.afraid.org/tools/contact.php?user_id=619718&subject=aioseo.ru) | 1576 days ago (09/20/2021) | 0 |
 | aiplay.ru (11 hosts in use) website | public | [aegis86](https://freedns.afraid.org/tools/contact.php?user_id=802487&subject=aiplay.ru) | 770 days ago (01/07/2024) | 0 |
 | aitscot.uk (9 hosts in use) website | private | [aitscotcw1](https://freedns.afraid.org/tools/contact.php?user_id=3902052&subject=aitscot.uk) | 960 days ago (06/26/2023) | 0 |
-| ajaoo.com (36 hosts in use) website | private | [lookaabbcc](https://freedns.afraid.org/tools/contact.php?user_id=2637709&subject=ajaoo.com) | 3561 days ago (05/15/2016) | 0 |
+| ajaoo.com (36 hosts in use) website | private | [lookaabbcc](https://freedns.afraid.org/tools/contact.php?user_id=2637709&subject=ajaoo.com) | 3563 days ago (05/15/2016) | 0 |
 | ajtech.pl (36 hosts in use) website | private | [jeremip](https://freedns.afraid.org/tools/contact.php?user_id=667707&subject=ajtech.pl) | 5431 days ago (03/16/2011) | 0 |
 | aklen.net (36 hosts in use) website | private | [aklen](https://freedns.afraid.org/tools/contact.php?user_id=1189717&subject=aklen.net) | 4423 days ago (01/03/2014) | 0 |
 | akosr.com (24 hosts in use) website | private | [akosr](https://freedns.afraid.org/tools/contact.php?user_id=3559078&subject=akosr.com) | 1709 days ago (05/30/2021) | 0 |
 | aktion.cl (67 hosts in use) website | public | [erodriguezl](https://freedns.afraid.org/tools/contact.php?user_id=1926490&subject=aktion.cl) | 1057 days ago (03/03/2023) | 0 |
 | albert.tw (14 hosts in use) website | private | [alberth2](https://freedns.afraid.org/tools/contact.php?user_id=789367&subject=albert.tw) | 5263 days ago (08/17/2011) | 0 |
-| alcrb.ru (162 hosts in use) website | public | [alcrbnet](https://freedns.afraid.org/tools/contact.php?user_id=2602220&subject=alcrb.ru) | 3609 days ago (03/30/2016) | 0 |
+| alcrb.ru (163 hosts in use) website | public | [alcrbnet](https://freedns.afraid.org/tools/contact.php?user_id=2602220&subject=alcrb.ru) | 3610 days ago (03/30/2016) | 0 |
 | alexx.net (51 hosts in use) website | private | [alexxdotnet](https://freedns.afraid.org/tools/contact.php?user_id=726805&subject=alexx.net) | 5412 days ago (04/20/2011) | 0 |
 | allez.la (486 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=allez.la) | 6732 days ago (09/11/2007) | 0 |
 | allik.com (51 hosts in use) website | private | [allik2008](https://freedns.afraid.org/tools/contact.php?user_id=431368&subject=allik.com) | 6324 days ago (10/21/2008) | 0 |
@@ -2458,7 +2454,7 @@ Total domains: 25241
 | arkad.nu (130 hosts in use) website | public | [arkadnu](https://freedns.afraid.org/tools/contact.php?user_id=2663644&subject=arkad.nu) | 3527 days ago (06/19/2016) | 0 |
 | arkalab.cl (9 hosts in use) website | private | [arkalab](https://freedns.afraid.org/tools/contact.php?user_id=4480696&subject=arkalab.cl) | 214 days ago (06/24/2025) | 0 |
 | arm-m.ru (164 hosts in use) website | public | [llk](https://freedns.afraid.org/tools/contact.php?user_id=729551&subject=arm-m.ru) | 5403 days ago (04/29/2011) | 0 |
-| arph.org (277 hosts in use) website | public | [arph](https://freedns.afraid.org/tools/contact.php?user_id=1762352&subject=arph.org) | 4179 days ago (09/05/2014) | 0 |
+| arph.org (279 hosts in use) website | public | [arph](https://freedns.afraid.org/tools/contact.php?user_id=1762352&subject=arph.org) | 4181 days ago (09/05/2014) | 0 |
 | arrl.info (16 hosts in use) website | private | [putermd](https://freedns.afraid.org/tools/contact.php?user_id=1111843&subject=arrl.info) | 4933 days ago (07/12/2012) | 0 |
 | asimof.cl (27 hosts in use) website | private | [asimofspa](https://freedns.afraid.org/tools/contact.php?user_id=2913103&subject=asimof.cl) | 3109 days ago (08/01/2017) | 0 |
 | asiriy.ar (19 hosts in use) website | private | [asiriy](https://freedns.afraid.org/tools/contact.php?user_id=3592454&subject=asiriy.ar) | 1594 days ago (09/04/2021) | 0 |
@@ -2485,7 +2481,7 @@ Total domains: 25241
 | avto-y.bg (20 hosts in use) website | private | [pastelstudios](https://freedns.afraid.org/tools/contact.php?user_id=2754298&subject=avto-y.bg) | 3361 days ago (11/02/2016) | 0 |
 | awayin.eu (32 hosts in use) website | private | [coalh](https://freedns.afraid.org/tools/contact.php?user_id=2882240&subject=awayin.eu) | 1968 days ago (09/21/2020) | 0 |
 | axemx.com (43 hosts in use) website | private | [maaraujo](https://freedns.afraid.org/tools/contact.php?user_id=331125&subject=axemx.com) | 6014 days ago (08/27/2009) | 0 |
-| ayotu.com (36 hosts in use) website | private | [ayotu](https://freedns.afraid.org/tools/contact.php?user_id=604183&subject=ayotu.com) | 5747 days ago (05/18/2010) | 0 |
+| ayotu.com (35 hosts in use) website | private | [ayotu](https://freedns.afraid.org/tools/contact.php?user_id=604183&subject=ayotu.com) | 5752 days ago (05/18/2010) | 0 |
 | azarus.ch (13 hosts in use) website | private | [azarus](https://freedns.afraid.org/tools/contact.php?user_id=2752184&subject=azarus.ch) | 3148 days ago (06/01/2017) | 0 |
 | azimei.cn (57 hosts in use) website | public | [410002900](https://freedns.afraid.org/tools/contact.php?user_id=4140431&subject=azimei.cn) | 523 days ago (08/16/2024) | 0 |
 | b0x.co.za (11 hosts in use) website | private | [200okcoza](https://freedns.afraid.org/tools/contact.php?user_id=3622438&subject=b0x.co.za) | 46 days ago (12/27/2025) | 0 |
@@ -2560,7 +2556,7 @@ Total domains: 25241
 | booth.moe (73 hosts in use) website | private | [lunarspotlight](https://freedns.afraid.org/tools/contact.php?user_id=413386&subject=booth.moe) | 3985 days ago (02/15/2015) | 0 |
 | booths.au (24 hosts in use) website | private | [wallyworld](https://freedns.afraid.org/tools/contact.php?user_id=2886874&subject=booths.au) | 419 days ago (11/20/2024) | 0 |
 | bosto.net (23 hosts in use) website | private | [bosto](https://freedns.afraid.org/tools/contact.php?user_id=790239&subject=bosto.net) | 5290 days ago (08/19/2011) | 0 |
-| bot.nu (11127 hosts in use) website | public | [icekung](https://freedns.afraid.org/tools/contact.php?user_id=79746&subject=bot.nu) | 7864 days ago (08/05/2004) | 0 |
+| bot.nu (11129 hosts in use) website | public | [icekung](https://freedns.afraid.org/tools/contact.php?user_id=79746&subject=bot.nu) | 7865 days ago (08/05/2004) | 0 |
 | botsev.eu (50 hosts in use) website | public | [svilkata](https://freedns.afraid.org/tools/contact.php?user_id=798568&subject=botsev.eu) | 361 days ago (02/19/2025) | 0 |
 | bottel.cl (21 hosts in use) website | private | [rcaceres](https://freedns.afraid.org/tools/contact.php?user_id=1631844&subject=bottel.cl) | 4319 days ago (03/20/2014) | 0 |
 | bouris.ro (17 hosts in use) website | private | [pinelopi](https://freedns.afraid.org/tools/contact.php?user_id=3060386&subject=bouris.ro) | 2786 days ago (05/29/2018) | 0 |
@@ -2598,7 +2594,7 @@ Total domains: 25241
 | casbel.cl (17 hosts in use) website | private | [jcburuloki](https://freedns.afraid.org/tools/contact.php?user_id=2947229&subject=casbel.cl) | 3011 days ago (10/18/2017) | 0 |
 | cating.tw (28 hosts in use) website | private | [cating](https://freedns.afraid.org/tools/contact.php?user_id=706046&subject=cating.tw) | 5428 days ago (03/07/2011) | 0 |
 | cbraun.me (21 hosts in use) website | private | [jcanusso](https://freedns.afraid.org/tools/contact.php?user_id=489162&subject=cbraun.me) | 4094 days ago (10/29/2014) | 0 |
-| cbu.net (4391 hosts in use) website | public | [raypatima](https://freedns.afraid.org/tools/contact.php?user_id=1280106&subject=cbu.net) | 4759 days ago (02/04/2013) | 0 |
+| cbu.net (4391 hosts in use) website | public | [raypatima](https://freedns.afraid.org/tools/contact.php?user_id=1280106&subject=cbu.net) | 4760 days ago (02/04/2013) | 0 |
 | cconmin.cl (6 hosts in use) website | private | [cbarrientos](https://freedns.afraid.org/tools/contact.php?user_id=3416054&subject=cconmin.cl) | 2043 days ago (06/10/2020) | 0 |
 | ccs85.com (13 hosts in use) website | private | [jtrefil](https://freedns.afraid.org/tools/contact.php?user_id=2427060&subject=ccs85.com) | 3426 days ago (08/27/2016) | 0 |
 | cefsk.ca (167 hosts in use) website | public | [technologies](https://freedns.afraid.org/tools/contact.php?user_id=1837838&subject=cefsk.ca) | 5541 days ago (12/09/2010) | 0 |
@@ -2682,7 +2678,7 @@ Total domains: 25241
 | dburr.net (21 hosts in use) website | private | [kutaragi](https://freedns.afraid.org/tools/contact.php?user_id=1302845&subject=dburr.net) | 3763 days ago (10/28/2015) | 0 |
 | dchang.ca (12 hosts in use) website | private | [denhua](https://freedns.afraid.org/tools/contact.php?user_id=783276&subject=dchang.ca) | 3867 days ago (06/13/2015) | 0 |
 | dcloud.si (12 hosts in use) website | private | [aleksss](https://freedns.afraid.org/tools/contact.php?user_id=180833&subject=dcloud.si) | 3204 days ago (04/06/2017) | 0 |
-| dd.msk.su (59 hosts in use) website | public | [ddvlru](https://freedns.afraid.org/tools/contact.php?user_id=3351846&subject=dd.msk.su) | 2181 days ago (02/26/2020) | 0 |
+| dd.msk.su (60 hosts in use) website | public | [ddvlru](https://freedns.afraid.org/tools/contact.php?user_id=3351846&subject=dd.msk.su) | 2182 days ago (02/26/2020) | 0 |
 | ddcmp.net (31 hosts in use) website | private | [pduthieau](https://freedns.afraid.org/tools/contact.php?user_id=1837106&subject=ddcmp.net) | 4250 days ago (06/25/2014) | 0 |
 | ddsys.com (38 hosts in use) website | private | [troep101](https://freedns.afraid.org/tools/contact.php?user_id=2438935&subject=ddsys.com) | 3120 days ago (08/01/2017) | 0 |
 | de-a.org (386 hosts in use) website | public | [onekids1234](https://freedns.afraid.org/tools/contact.php?user_id=1522970&subject=de-a.org) | 4355 days ago (03/11/2014) | 0 |
@@ -2713,7 +2709,7 @@ Total domains: 25241
 | dirossy.cl (8 hosts in use) website | private | [poaraya](https://freedns.afraid.org/tools/contact.php?user_id=341671&subject=dirossy.cl) | 807 days ago (10/29/2023) | 0 |
 | dj-jam.be (63 hosts in use) website | private | [asbsales](https://freedns.afraid.org/tools/contact.php?user_id=2207183&subject=dj-jam.be) | 3525 days ago (06/19/2016) | 0 |
 | djnbh.com (41 hosts in use) website | private | [mazingaz](https://freedns.afraid.org/tools/contact.php?user_id=1356466&subject=djnbh.com) | 4633 days ago (05/10/2013) | 0 |
-| djsbx.com (62 hosts in use) website | private | [djsbx](https://freedns.afraid.org/tools/contact.php?user_id=542086&subject=djsbx.com) | 5904 days ago (12/15/2009) | 0 |
+| djsbx.com (62 hosts in use) website | private | [djsbx](https://freedns.afraid.org/tools/contact.php?user_id=542086&subject=djsbx.com) | 5907 days ago (12/15/2009) | 0 |
 | dk5bm.net (15 hosts in use) website | private | [forstmeister70](https://freedns.afraid.org/tools/contact.php?user_id=742653&subject=dk5bm.net) | 3461 days ago (08/23/2016) | 0 |
 | dkhvl.com (36 hosts in use) website | private | [reticentone](https://freedns.afraid.org/tools/contact.php?user_id=802097&subject=dkhvl.com) | 3882 days ago (06/26/2015) | 0 |
 | dkoett.xyz (6 hosts in use) website | private | [dkoett](https://freedns.afraid.org/tools/contact.php?user_id=4466676&subject=dkoett.xyz) | 228 days ago (05/30/2025) | 0 |
@@ -2821,7 +2817,6 @@ Total domains: 25241
 | fichte.ch (15 hosts in use) website | private | [chdicht](https://freedns.afraid.org/tools/contact.php?user_id=2929669&subject=fichte.ch) | 3053 days ago (09/04/2017) | 0 |
 | fiid.net (278 hosts in use) website | private | [fiid](https://freedns.afraid.org/tools/contact.php?user_id=749883&subject=fiid.net) | 5355 days ago (06/19/2011) | 0 |
 | fiiit.net (54 hosts in use) website | private | [alchen888](https://freedns.afraid.org/tools/contact.php?user_id=511492&subject=fiiit.net) | 6025 days ago (08/16/2009) | 0 |
-| fineone.ru (6 hosts in use) website | private | [blez61](https://freedns.afraid.org/tools/contact.php?user_id=4117314&subject=fineone.ru) | 662 days ago (03/22/2024) | 0 |
 | finite.si (17 hosts in use) website | private | [bisoft](https://freedns.afraid.org/tools/contact.php?user_id=728736&subject=finite.si) | 3261 days ago (02/10/2017) | 0 |
 | finnie.me (22 hosts in use) website | private | [zoistcom](https://freedns.afraid.org/tools/contact.php?user_id=450332&subject=finnie.me) | 5462 days ago (02/26/2011) | 0 |
 | fision.cl (32 hosts in use) website | private | [cristianparra](https://freedns.afraid.org/tools/contact.php?user_id=1338638&subject=fision.cl) | 4681 days ago (04/19/2013) | 0 |
@@ -2850,9 +2845,9 @@ Total domains: 25241
 | frtala.sk (49 hosts in use) website | public | [fras42](https://freedns.afraid.org/tools/contact.php?user_id=3100557&subject=frtala.sk) | 2697 days ago (09/28/2018) | 0 |
 | fshaw.net (36 hosts in use) website | private | [andhalib](https://freedns.afraid.org/tools/contact.php?user_id=3040612&subject=fshaw.net) | 2869 days ago (04/04/2018) | 0 |
 | fspago.com (3 hosts in use) website | private | [eduasoto](https://freedns.afraid.org/tools/contact.php?user_id=664072&subject=fspago.com) | 1729 days ago (05/05/2021) | 0 |
-| ftp.sh (16721 hosts in use) website | public | [n8walker](https://freedns.afraid.org/tools/contact.php?user_id=95551&subject=ftp.sh) | 7325 days ago (01/26/2006) | 0 |
+| ftp.sh (16731 hosts in use) website | public | [n8walker](https://freedns.afraid.org/tools/contact.php?user_id=95551&subject=ftp.sh) | 7326 days ago (01/26/2006) | 0 |
 | ftyc.info (55 hosts in use) website | private | [navarrow](https://freedns.afraid.org/tools/contact.php?user_id=559072&subject=ftyc.info) | 2355 days ago (09/02/2019) | 0 |
-| fuel5.com (35 hosts in use) website | private | [fuelfive](https://freedns.afraid.org/tools/contact.php?user_id=495919&subject=fuel5.com) | 6083 days ago (06/19/2009) | 0 |
+| fuel5.com (35 hosts in use) website | private | [fuelfive](https://freedns.afraid.org/tools/contact.php?user_id=495919&subject=fuel5.com) | 6086 days ago (06/19/2009) | 0 |
 | fuhaw.com (40 hosts in use) website | private | [fuhaw](https://freedns.afraid.org/tools/contact.php?user_id=425251&subject=fuhaw.com) | 6349 days ago (09/26/2008) | 0 |
 | fuhaw.net (34 hosts in use) website | private | [fuhaw](https://freedns.afraid.org/tools/contact.php?user_id=425251&subject=fuhaw.net) | 6349 days ago (09/26/2008) | 0 |
 | furest.ch (25 hosts in use) website | private | [smogol](https://freedns.afraid.org/tools/contact.php?user_id=666059&subject=furest.ch) | 4178 days ago (09/06/2014) | 0 |
@@ -2861,7 +2856,7 @@ Total domains: 25241
 | fuxy.info (21 hosts in use) website | private | [fuxy](https://freedns.afraid.org/tools/contact.php?user_id=239435&subject=fuxy.info) | 3277 days ago (02/22/2017) | 0 |
 | fv-mob.de (25 hosts in use) website | private | [apfvdyn](https://freedns.afraid.org/tools/contact.php?user_id=1475986&subject=fv-mob.de) | 4325 days ago (04/09/2014) | 0 |
 | fwuhs.com (75 hosts in use) website | public | [terameep](https://freedns.afraid.org/tools/contact.php?user_id=3879708&subject=fwuhs.com) | 966 days ago (06/13/2023) | 0 |
-| g1en.com (172 hosts in use) website | public | [doctorcal](https://freedns.afraid.org/tools/contact.php?user_id=894480&subject=g1en.com) | 5144 days ago (01/03/2012) | 0 |
+| g1en.com (174 hosts in use) website | public | [doctorcal](https://freedns.afraid.org/tools/contact.php?user_id=894480&subject=g1en.com) | 5157 days ago (01/03/2012) | 0 |
 | g2g.asia (100 hosts in use) website | public | [offgamers](https://freedns.afraid.org/tools/contact.php?user_id=1616615&subject=g2g.asia) | 3836 days ago (08/13/2015) | 0 |
 | gabin.ro (103 hosts in use) website | public | [m3bis](https://freedns.afraid.org/tools/contact.php?user_id=1119389&subject=gabin.ro) | 4947 days ago (07/22/2012) | 0 |
 | gafton.eu (60 hosts in use) website | public | [octavian77](https://freedns.afraid.org/tools/contact.php?user_id=3518633&subject=gafton.eu) | 815 days ago (10/29/2023) | 0 |
@@ -2903,7 +2898,7 @@ Total domains: 25241
 | goobz.net (16 hosts in use) website | private | [goobz](https://freedns.afraid.org/tools/contact.php?user_id=193423&subject=goobz.net) | 7275 days ago (03/14/2006) | 0 |
 | gooner.my (84 hosts in use) website | public | [skididi](https://freedns.afraid.org/tools/contact.php?user_id=4372289&subject=gooner.my) | 290 days ago (04/29/2025) | 0 |
 | goosz.com (14 hosts in use) website | private | [ascene](https://freedns.afraid.org/tools/contact.php?user_id=771772&subject=goosz.com) | 3859 days ago (07/19/2015) | 0 |
-| gorich.hk (39 hosts in use) website | public | [sinsin2014](https://freedns.afraid.org/tools/contact.php?user_id=1969954&subject=gorich.hk) | 4139 days ago (10/17/2014) | 0 |
+| gorich.hk (40 hosts in use) website | public | [sinsin2014](https://freedns.afraid.org/tools/contact.php?user_id=1969954&subject=gorich.hk) | 4139 days ago (10/17/2014) | 0 |
 | gossip.se (43 hosts in use) website | private | [janerik](https://freedns.afraid.org/tools/contact.php?user_id=30315&subject=gossip.se) | 8311 days ago (05/14/2003) | 0 |
 | gourry.ru (69 hosts in use) website | private | [katinsv](https://freedns.afraid.org/tools/contact.php?user_id=1203088&subject=gourry.ru) | 4834 days ago (10/21/2012) | 0 |
 | gowild.ru (45 hosts in use) website | private | [t3sting](https://freedns.afraid.org/tools/contact.php?user_id=342176&subject=gowild.ru) | 5176 days ago (12/15/2011) | 0 |
@@ -2976,7 +2971,7 @@ Total domains: 25241
 | hnoscg.tk (18 hosts in use) website | private | [pabloyoyoista](https://freedns.afraid.org/tools/contact.php?user_id=3296317&subject=hnoscg.tk) | 2370 days ago (08/15/2019) | 0 |
 | hobetu.cl (64 hosts in use) website | public | [alfredoaol](https://freedns.afraid.org/tools/contact.php?user_id=1330268&subject=hobetu.cl) | 3545 days ago (05/16/2016) | 0 |
 | hoffer.cx (80 hosts in use) website | private | [rotane](https://freedns.afraid.org/tools/contact.php?user_id=840338&subject=hoffer.cx) | 5200 days ago (11/03/2011) | 0 |
-| home.kg (9372 hosts in use) website | public | [kuli](https://freedns.afraid.org/tools/contact.php?user_id=66322&subject=home.kg) | 7970 days ago (04/21/2004) | 0 |
+| home.kg (9373 hosts in use) website | public | [kuli](https://freedns.afraid.org/tools/contact.php?user_id=66322&subject=home.kg) | 7971 days ago (04/21/2004) | 0 |
 | homnet.ch (27 hosts in use) website | private | [homnet](https://freedns.afraid.org/tools/contact.php?user_id=1118509&subject=homnet.ch) | 4920 days ago (07/25/2012) | 0 |
 | hondz.com (32 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=hondz.com) | 3940 days ago (05/01/2015) | 0 |
 | hop-to.me (82 hosts in use) website | private | [fradlis](https://freedns.afraid.org/tools/contact.php?user_id=444237&subject=hop-to.me) | 5311 days ago (07/31/2011) | 0 |
@@ -3164,16 +3159,15 @@ Total domains: 25241
 | lackma.mx (28 hosts in use) website | private | [luisgp](https://freedns.afraid.org/tools/contact.php?user_id=94520&subject=lackma.mx) | 4298 days ago (05/07/2014) | 0 |
 | lagrian.uk (3 hosts in use) website | private | [lagrian](https://freedns.afraid.org/tools/contact.php?user_id=1507389&subject=lagrian.uk) | 28 days ago (12/16/2025) | 0 |
 | lalani.com (7 hosts in use) website | private | [rahimster](https://freedns.afraid.org/tools/contact.php?user_id=796515&subject=lalani.com) | 5281 days ago (08/26/2011) | 0 |
-| laosuo.cn (12 hosts in use) website | public | [goodk](https://freedns.afraid.org/tools/contact.php?user_id=3949917&subject=laosuo.cn) | 659 days ago (04/27/2024) | 0 |
-| larsy.com (26 hosts in use) website | private | [poupoune2001](https://freedns.afraid.org/tools/contact.php?user_id=149238&subject=larsy.com) | 6563 days ago (02/25/2008) | 0 |
+| laosuo.cn (17 hosts in use) website | public | [goodk](https://freedns.afraid.org/tools/contact.php?user_id=3949917&subject=laosuo.cn) | 660 days ago (04/27/2024) | 0 |
 | lastgg.com (6 hosts in use) website | private | [dentablo](https://freedns.afraid.org/tools/contact.php?user_id=3913926&subject=lastgg.com) | 910 days ago (07/18/2023) | 0 |
 | latine.ca (95 hosts in use) website | private | [eparayre](https://freedns.afraid.org/tools/contact.php?user_id=84209&subject=latine.ca) | 4333 days ago (04/05/2014) | 0 |
 | lauber.to (36 hosts in use) website | private | [2bla](https://freedns.afraid.org/tools/contact.php?user_id=3508900&subject=lauber.to) | 1793 days ago (03/17/2021) | 0 |
 | lavrov.net (9 hosts in use) website | private | [dmitrylavrov](https://freedns.afraid.org/tools/contact.php?user_id=1414781&subject=lavrov.net) | 4601 days ago (07/08/2013) | 0 |
 | lbjid.com (56 hosts in use) website | private | [capellasys](https://freedns.afraid.org/tools/contact.php?user_id=1164754&subject=lbjid.com) | 4917 days ago (08/28/2012) | 0 |
 | lcicba.ar (12 hosts in use) website | private | [marcelobusico](https://freedns.afraid.org/tools/contact.php?user_id=267283&subject=lcicba.ar) | 2294 days ago (10/03/2019) | 0 |
-| ldop.com (410 hosts in use) website | public | [tomz22](https://freedns.afraid.org/tools/contact.php?user_id=535539&subject=ldop.com) | 5930 days ago (11/20/2009) | 0 |
-| ldtp.com (962 hosts in use) website | public | [piacas](https://freedns.afraid.org/tools/contact.php?user_id=526354&subject=ldtp.com) | 5967 days ago (10/15/2009) | 0 |
+| ldop.com (414 hosts in use) website | public | [tomz22](https://freedns.afraid.org/tools/contact.php?user_id=535539&subject=ldop.com) | 5931 days ago (11/20/2009) | 0 |
+| ldtp.com (963 hosts in use) website | public | [piacas](https://freedns.afraid.org/tools/contact.php?user_id=526354&subject=ldtp.com) | 5968 days ago (10/15/2009) | 0 |
 | learp.com (36 hosts in use) website | private | [tonymiao](https://freedns.afraid.org/tools/contact.php?user_id=823035&subject=learp.com) | 5219 days ago (10/08/2011) | 0 |
 | lebane.se (28 hosts in use) website | private | [evilmigz](https://freedns.afraid.org/tools/contact.php?user_id=129626&subject=lebane.se) | 7097 days ago (09/01/2006) | 0 |
 | lebron.ar (29 hosts in use) website | private | [gohanrmt](https://freedns.afraid.org/tools/contact.php?user_id=744234&subject=lebron.ar) | 1969 days ago (09/11/2020) | 0 |
@@ -3205,7 +3199,6 @@ Total domains: 25241
 | loimex.es (18 hosts in use) website | private | [loimex](https://freedns.afraid.org/tools/contact.php?user_id=2780017&subject=loimex.es) | 3371 days ago (11/20/2016) | 0 |
 | lomtiki.ru (7 hosts in use) website | private | [herclogon](https://freedns.afraid.org/tools/contact.php?user_id=2649692&subject=lomtiki.ru) | 3514 days ago (05/31/2016) | 0 |
 | loopvr.net (6 hosts in use) website | public | [visit](https://freedns.afraid.org/tools/contact.php?user_id=480473&subject=loopvr.net) | 2156 days ago (03/20/2020) | 0 |
-| lot99.org (17 hosts in use) website | private | [belchfire](https://freedns.afraid.org/tools/contact.php?user_id=3824660&subject=lot99.org) | 890 days ago (09/09/2023) | 0 |
 | lotka.xyz (18 hosts in use) website | private | [lotkavolterra](https://freedns.afraid.org/tools/contact.php?user_id=3158059&subject=lotka.xyz) | 705 days ago (02/08/2024) | 0 |
 | lovele.ro (85 hosts in use) website | public | [filip20](https://freedns.afraid.org/tools/contact.php?user_id=3680771&subject=lovele.ro) | 1392 days ago (04/20/2022) | 0 |
 | lovevpn.ru (8 hosts in use) website | private | [fgaggg](https://freedns.afraid.org/tools/contact.php?user_id=5222817&subject=lovevpn.ru) | 59 days ago (12/18/2025) | 0 |
@@ -3217,7 +3210,6 @@ Total domains: 25241
 | ludijk.nl (83 hosts in use) website | public | [ludijk](https://freedns.afraid.org/tools/contact.php?user_id=3595133&subject=ludijk.nl) | 1613 days ago (09/13/2021) | 0 |
 | lugano.li (10 hosts in use) website | private | [nunni](https://freedns.afraid.org/tools/contact.php?user_id=2398113&subject=lugano.li) | 2399 days ago (07/20/2019) | 0 |
 | lukyy.com (29 hosts in use) website | private | [viosoft](https://freedns.afraid.org/tools/contact.php?user_id=504165&subject=lukyy.com) | 2869 days ago (04/05/2018) | 0 |
-| lun.id.lv (26 hosts in use) website | private | [n3o59hf](https://freedns.afraid.org/tools/contact.php?user_id=308262&subject=lun.id.lv) | 6715 days ago (08/26/2007) | 0 |
 | lutein.tw (20 hosts in use) website | private | [0930787853](https://freedns.afraid.org/tools/contact.php?user_id=1042567&subject=lutein.tw) | 5000 days ago (06/03/2012) | 0 |
 | luxbox.us (56 hosts in use) website | private | [mikemayer](https://freedns.afraid.org/tools/contact.php?user_id=1724438&subject=luxbox.us) | 4322 days ago (04/12/2014) | 0 |
 | luzi-2.ch (15 hosts in use) website | private | [migg88](https://freedns.afraid.org/tools/contact.php?user_id=902939&subject=luzi-2.ch) | 5117 days ago (01/12/2012) | 0 |
@@ -3226,7 +3218,6 @@ Total domains: 25241
 | maciu.net (32 hosts in use) website | private | [maciu](https://freedns.afraid.org/tools/contact.php?user_id=1156150&subject=maciu.net) | 3762 days ago (10/28/2015) | 0 |
 | mackay.us (50 hosts in use) website | private | [stevemackay](https://freedns.afraid.org/tools/contact.php?user_id=445517&subject=mackay.us) | 3980 days ago (02/20/2015) | 0 |
 | mackay.ws (13 hosts in use) website | private | [stevemackay](https://freedns.afraid.org/tools/contact.php?user_id=445517&subject=mackay.ws) | 4761 days ago (01/30/2013) | 0 |
-| madvig.de (26 hosts in use) website | private | [lkastner](https://freedns.afraid.org/tools/contact.php?user_id=661905&subject=madvig.de) | 1899 days ago (11/07/2020) | 0 |
 | mag2.info (61 hosts in use) website | private | [mag2](https://freedns.afraid.org/tools/contact.php?user_id=1403377&subject=mag2.info) | 4614 days ago (06/25/2013) | 0 |
 | maggie.cl (50 hosts in use) website | private | [maggiechan](https://freedns.afraid.org/tools/contact.php?user_id=2670344&subject=maggie.cl) | 3488 days ago (06/28/2016) | 0 |
 | majix.xyz (11 hosts in use) website | public | [jolist](https://freedns.afraid.org/tools/contact.php?user_id=2722771&subject=majix.xyz) | 2666 days ago (10/29/2018) | 0 |
@@ -3236,7 +3227,7 @@ Total domains: 25241
 | malcho.net (8 hosts in use) website | private | [totobgoode](https://freedns.afraid.org/tools/contact.php?user_id=744885&subject=malcho.net) | 5365 days ago (06/08/2011) | 0 |
 | malloy.im (30 hosts in use) website | private | [meshchaninov](https://freedns.afraid.org/tools/contact.php?user_id=2036585&subject=malloy.im) | 4053 days ago (12/09/2014) | 0 |
 | malmo.cl (246 hosts in use) website | public | [enmala](https://freedns.afraid.org/tools/contact.php?user_id=754540&subject=malmo.cl) | 5330 days ago (06/28/2011) | 0 |
-| mandon.me (17 hosts in use) website | private | [pmandon](https://freedns.afraid.org/tools/contact.php?user_id=1746756&subject=mandon.me) | 4284 days ago (04/22/2014) | 0 |
+| mandon.me (18 hosts in use) website | private | [pmandon](https://freedns.afraid.org/tools/contact.php?user_id=1746756&subject=mandon.me) | 4318 days ago (04/22/2014) | 0 |
 | maniacp.ch (6 hosts in use) website | private | [vistaubuntu](https://freedns.afraid.org/tools/contact.php?user_id=4316281&subject=maniacp.ch) | 407 days ago (12/02/2024) | 0 |
 | mantua.us (19 hosts in use) website | private | [frithjov](https://freedns.afraid.org/tools/contact.php?user_id=847129&subject=mantua.us) | 5198 days ago (11/12/2011) | 0 |
 | marcon.us (32 hosts in use) website | private | [b0rn2bl8](https://freedns.afraid.org/tools/contact.php?user_id=198273&subject=marcon.us) | 7253 days ago (04/06/2006) | 0 |
@@ -3252,7 +3243,6 @@ Total domains: 25241
 | matthu.ch (19 hosts in use) website | private | [math2000](https://freedns.afraid.org/tools/contact.php?user_id=3102127&subject=matthu.ch) | 2660 days ago (10/04/2018) | 0 |
 | mattone.rs (6 hosts in use) website | private | [simex](https://freedns.afraid.org/tools/contact.php?user_id=375976&subject=mattone.rs) | 154 days ago (08/12/2025) | 0 |
 | matula.sk (19 hosts in use) website | private | [platinushik](https://freedns.afraid.org/tools/contact.php?user_id=1414518&subject=matula.sk) | 3206 days ago (04/04/2017) | 0 |
-| matwin.ca (26 hosts in use) website | private | [itfiredupcom](https://freedns.afraid.org/tools/contact.php?user_id=1455323&subject=matwin.ca) | 3397 days ago (10/22/2016) | 0 |
 | maylov.ru (15 hosts in use) website | private | [smilevpn](https://freedns.afraid.org/tools/contact.php?user_id=3716755&subject=maylov.ru) | 621 days ago (05/29/2024) | 0 |
 | mbapps.ru (54 hosts in use) website | private | [yeswolf](https://freedns.afraid.org/tools/contact.php?user_id=1300176&subject=mbapps.ru) | 4698 days ago (03/06/2013) | 0 |
 | mboca.com (28 hosts in use) website | private | [mouse103](https://freedns.afraid.org/tools/contact.php?user_id=740323&subject=mboca.com) | 5365 days ago (05/31/2011) | 0 |
@@ -3264,7 +3254,6 @@ Total domains: 25241
 | md-cc.org (62 hosts in use) website | private | [rosswaters](https://freedns.afraid.org/tools/contact.php?user_id=408387&subject=md-cc.org) | 6415 days ago (07/22/2008) | 0 |
 | mdef.co.kr (8 hosts in use) website | public | [pwy1575](https://freedns.afraid.org/tools/contact.php?user_id=4975371&subject=mdef.co.kr) | 134 days ago (09/27/2025) | 0 |
 | mdj.space (24 hosts in use) website | private | [mcmlxxix](https://freedns.afraid.org/tools/contact.php?user_id=706670&subject=mdj.space) | 3724 days ago (12/03/2015) | 0 |
-| mea-i.org (26 hosts in use) website | private | [meai](https://freedns.afraid.org/tools/contact.php?user_id=642393&subject=mea-i.org) | 5618 days ago (09/28/2010) | 0 |
 | mebold.ch (16 hosts in use) website | private | [lmebold](https://freedns.afraid.org/tools/contact.php?user_id=1403678&subject=mebold.ch) | 4584 days ago (06/26/2013) | 0 |
 | medfun.cl (16 hosts in use) website | private | [moleculare](https://freedns.afraid.org/tools/contact.php?user_id=3604918&subject=medfun.cl) | 1553 days ago (10/13/2021) | 0 |
 | meducon.sk (7 hosts in use) website | private | [jumik](https://freedns.afraid.org/tools/contact.php?user_id=2951108&subject=meducon.sk) | 2998 days ago (10/29/2017) | 0 |
@@ -3287,14 +3276,13 @@ Total domains: 25241
 | mik.id.lv (10 hosts in use) website | public | [mikemaster](https://freedns.afraid.org/tools/contact.php?user_id=254600&subject=mik.id.lv) | 725 days ago (02/17/2024) | 0 |
 | milfor.se (24 hosts in use) website | private | [spp88](https://freedns.afraid.org/tools/contact.php?user_id=3053457&subject=milfor.se) | 2829 days ago (05/09/2018) | 0 |
 | minlav.ru (11 hosts in use) website | private | [eminkin](https://freedns.afraid.org/tools/contact.php?user_id=1214714&subject=minlav.ru) | 2960 days ago (12/06/2017) | 0 |
-| miraur.ro (69 hosts in use) website | public | [miraur](https://freedns.afraid.org/tools/contact.php?user_id=2966738&subject=miraur.ro) | 2952 days ago (01/16/2018) | 0 |
+| miraur.ro (72 hosts in use) website | public | [miraur](https://freedns.afraid.org/tools/contact.php?user_id=2966738&subject=miraur.ro) | 2952 days ago (01/16/2018) | 0 |
 | mirella.ro (7 hosts in use) website | public | [hheidel](https://freedns.afraid.org/tools/contact.php?user_id=787456&subject=mirella.ro) | 873 days ago (08/31/2023) | 0 |
 | mittens.bz (7 hosts in use) website | private | [rawro](https://freedns.afraid.org/tools/contact.php?user_id=4388136&subject=mittens.bz) | 335 days ago (03/14/2025) | 0 |
 | mivaca.cl (35 hosts in use) website | private | [jimmyrivasr](https://freedns.afraid.org/tools/contact.php?user_id=2691991&subject=mivaca.cl) | 2022 days ago (07/28/2020) | 0 |
 | mix360.ar (10 hosts in use) website | private | [chr911](https://freedns.afraid.org/tools/contact.php?user_id=502297&subject=mix360.ar) | 855 days ago (10/08/2023) | 0 |
 | mjorf.net (36 hosts in use) website | private | [bjornnilsson](https://freedns.afraid.org/tools/contact.php?user_id=663840&subject=mjorf.net) | 5571 days ago (11/15/2010) | 0 |
 | mk211.net (23 hosts in use) website | private | [kmm88](https://freedns.afraid.org/tools/contact.php?user_id=367445&subject=mk211.net) | 6308 days ago (11/08/2008) | 0 |
-| mlinar.ru (26 hosts in use) website | private | [hexagramg](https://freedns.afraid.org/tools/contact.php?user_id=2665494&subject=mlinar.ru) | 3492 days ago (06/22/2016) | 0 |
 | mmega.net (21 hosts in use) website | private | [sit66](https://freedns.afraid.org/tools/contact.php?user_id=1124260&subject=mmega.net) | 4952 days ago (07/26/2012) | 0 |
 | mmonga.it (28 hosts in use) website | private | [mmonga](https://freedns.afraid.org/tools/contact.php?user_id=3558419&subject=mmonga.it) | 1036 days ago (04/08/2023) | 0 |
 | mmpools.be (7 hosts in use) website | private | [jurgen37](https://freedns.afraid.org/tools/contact.php?user_id=2920184&subject=mmpools.be) | 449 days ago (11/05/2024) | 0 |
@@ -3315,7 +3303,6 @@ Total domains: 25241
 | mplink.cl (16 hosts in use) website | private | [mplink](https://freedns.afraid.org/tools/contact.php?user_id=2890215&subject=mplink.cl) | 3160 days ago (06/10/2017) | 0 |
 | mplol.com (20 hosts in use) website | private | [nismoc32](https://freedns.afraid.org/tools/contact.php?user_id=1470504&subject=mplol.com) | 4486 days ago (10/28/2013) | 0 |
 | mquest.cl (32 hosts in use) website | private | [cgalvezp](https://freedns.afraid.org/tools/contact.php?user_id=1124689&subject=mquest.cl) | 4921 days ago (07/26/2012) | 0 |
-| mquest.mx (26 hosts in use) website | private | [cgalvezp](https://freedns.afraid.org/tools/contact.php?user_id=1124689&subject=mquest.mx) | 3394 days ago (09/30/2016) | 0 |
 | mrfen.com (40 hosts in use) website | private | [mrfen](https://freedns.afraid.org/tools/contact.php?user_id=614793&subject=mrfen.com) | 5720 days ago (06/19/2010) | 0 |
 | mrunix.org (8 hosts in use) website | private | [mrunix](https://freedns.afraid.org/tools/contact.php?user_id=1013791&subject=mrunix.org) | 5057 days ago (04/01/2012) | 0 |
 | msensk.ru (74 hosts in use) website | private | [antoracle](https://freedns.afraid.org/tools/contact.php?user_id=463784&subject=msensk.ru) | 6179 days ago (02/20/2009) | 0 |
@@ -3343,7 +3330,7 @@ Total domains: 25241
 | namazu.ro (22 hosts in use) website | private | [alexb2](https://freedns.afraid.org/tools/contact.php?user_id=868002&subject=namazu.ro) | 5156 days ago (12/02/2011) | 0 |
 | nanen.org (34 hosts in use) website | private | [yingsane](https://freedns.afraid.org/tools/contact.php?user_id=1407329&subject=nanen.org) | 4601 days ago (07/08/2013) | 0 |
 | nanoid.cc (13 hosts in use) website | private | [cmelnick](https://freedns.afraid.org/tools/contact.php?user_id=4079629&subject=nanoid.cc) | 470 days ago (09/30/2024) | 0 |
-| nard.ca (1944 hosts in use) website | public | [vyoung](https://freedns.afraid.org/tools/contact.php?user_id=90407&subject=nard.ca) | 7829 days ago (09/09/2004) | 0 |
+| nard.ca (1945 hosts in use) website | public | [vyoung](https://freedns.afraid.org/tools/contact.php?user_id=90407&subject=nard.ca) | 7830 days ago (09/09/2004) | 0 |
 | narsil.ar (10 hosts in use) website | private | [daux](https://freedns.afraid.org/tools/contact.php?user_id=3783120&subject=narsil.ar) | 492 days ago (10/05/2024) | 0 |
 | naruto.cl (61 hosts in use) website | private | [psuarez](https://freedns.afraid.org/tools/contact.php?user_id=2100775&subject=naruto.cl) | 4010 days ago (01/23/2015) | 0 |
 | nathon.org (8 hosts in use) website | private | [nmichaels](https://freedns.afraid.org/tools/contact.php?user_id=248054&subject=nathon.org) | 7070 days ago (10/05/2006) | 0 |
@@ -3354,7 +3341,7 @@ Total domains: 25241
 | nb-snac.de (4 hosts in use) website | private | [bsieker](https://freedns.afraid.org/tools/contact.php?user_id=873347&subject=nb-snac.de) | 335 days ago (02/20/2025) | 0 |
 | nchez.mx (171 hosts in use) website | public | [jorgersg](https://freedns.afraid.org/tools/contact.php?user_id=777919&subject=nchez.mx) | 5311 days ago (08/02/2011) | 0 |
 | ndra.biz (171 hosts in use) website | public | [flyhard](https://freedns.afraid.org/tools/contact.php?user_id=869729&subject=ndra.biz) | 5183 days ago (12/08/2011) | 0 |
-| ne-t.org (412 hosts in use) website | public | [ollioika](https://freedns.afraid.org/tools/contact.php?user_id=191960&subject=ne-t.org) | 3638 days ago (02/29/2016) | 0 |
+| ne-t.org (413 hosts in use) website | public | [ollioika](https://freedns.afraid.org/tools/contact.php?user_id=191960&subject=ne-t.org) | 3639 days ago (02/29/2016) | 0 |
 | needcom.ru (9 hosts in use) website | private | [smilevpn](https://freedns.afraid.org/tools/contact.php?user_id=3716755&subject=needcom.ru) | 618 days ago (05/29/2024) | 0 |
 | neknif.com (8 hosts in use) website | private | [neknif](https://freedns.afraid.org/tools/contact.php?user_id=2858398&subject=neknif.com) | 3217 days ago (04/17/2017) | 0 |
 | neoars.es (28 hosts in use) website | private | [elpitagorico](https://freedns.afraid.org/tools/contact.php?user_id=341420&subject=neoars.es) | 2512 days ago (02/27/2019) | 0 |
@@ -3404,8 +3391,8 @@ Total domains: 25241
 | nuvium.org (6 hosts in use) website | private | [josecs](https://freedns.afraid.org/tools/contact.php?user_id=1776096&subject=nuvium.org) | 1555 days ago (10/11/2021) | 0 |
 | nvipa.com (29 hosts in use) website | private | [leedawg](https://freedns.afraid.org/tools/contact.php?user_id=45703&subject=nvipa.com) | 1851 days ago (01/14/2021) | 0 |
 | nwhoa.com (16 hosts in use) website | private | [shundi](https://freedns.afraid.org/tools/contact.php?user_id=7396&subject=nwhoa.com) | 5474 days ago (02/02/2011) | 0 |
-| nya.pub (4437 hosts in use) website | public | [trdaisuke](https://freedns.afraid.org/tools/contact.php?user_id=2300080&subject=nya.pub) | 3915 days ago (05/29/2015) | 0 |
-| oafgb.com (17 hosts in use) website | private | [eblipsky](https://freedns.afraid.org/tools/contact.php?user_id=485793&subject=oafgb.com) | 4844 days ago (10/11/2012) | 0 |
+| nya.pub (4438 hosts in use) website | public | [trdaisuke](https://freedns.afraid.org/tools/contact.php?user_id=2300080&subject=nya.pub) | 3916 days ago (05/29/2015) | 0 |
+| oafgb.com (17 hosts in use) website | private | [eblipsky](https://freedns.afraid.org/tools/contact.php?user_id=485793&subject=oafgb.com) | 4876 days ago (10/11/2012) | 0 |
 | ocoding.de (7 hosts in use) website | private | [olli13579](https://freedns.afraid.org/tools/contact.php?user_id=3731678&subject=ocoding.de) | 821 days ago (10/22/2023) | 0 |
 | odipe.com (38 hosts in use) website | private | [phanico](https://freedns.afraid.org/tools/contact.php?user_id=268173&subject=odipe.com) | 5508 days ago (01/14/2011) | 0 |
 | odoo.asia (17 hosts in use) website | private | [mantavyagajjar](https://freedns.afraid.org/tools/contact.php?user_id=806007&subject=odoo.asia) | 2106 days ago (05/05/2020) | 0 |
@@ -3484,7 +3471,7 @@ Total domains: 25241
 | playit.dj (49 hosts in use) website | private | [chrisdrumz](https://freedns.afraid.org/tools/contact.php?user_id=1442267&subject=playit.dj) | 4579 days ago (07/31/2013) | 0 |
 | plazik.pl (30 hosts in use) website | private | [mstarzak](https://freedns.afraid.org/tools/contact.php?user_id=44127&subject=plazik.pl) | 5748 days ago (04/19/2010) | 0 |
 | pleger.cl (17 hosts in use) website | private | [mhiker](https://freedns.afraid.org/tools/contact.php?user_id=3039145&subject=pleger.cl) | 164 days ago (09/01/2025) | 0 |
-| plmerp.ru (47 hosts in use) website | private | [abobkov](https://freedns.afraid.org/tools/contact.php?user_id=795096&subject=plmerp.ru) | 801 days ago (12/07/2023) | 0 |
+| plmerp.ru (57 hosts in use) website | private | [abobkov](https://freedns.afraid.org/tools/contact.php?user_id=795096&subject=plmerp.ru) | 802 days ago (12/07/2023) | 0 |
 | plugit.us (24 hosts in use) website | private | [fuseserv](https://freedns.afraid.org/tools/contact.php?user_id=573821&subject=plugit.us) | 5167 days ago (11/23/2011) | 0 |
 | plugs.it (208 hosts in use) website | private | [plugs](https://freedns.afraid.org/tools/contact.php?user_id=5076&subject=plugs.it) | 8205 days ago (08/28/2003) | 0 |
 | pm-art.ru (22 hosts in use) website | private | [danli](https://freedns.afraid.org/tools/contact.php?user_id=1935711&subject=pm-art.ru) | 4137 days ago (09/16/2014) | 0 |
@@ -3568,7 +3555,7 @@ Total domains: 25241
 | rierc.pt (101 hosts in use) website | public | [cecccic](https://freedns.afraid.org/tools/contact.php?user_id=2456667&subject=rierc.pt) | 2944 days ago (01/18/2018) | 0 |
 | righes.ch (60 hosts in use) website | public | [grighes](https://freedns.afraid.org/tools/contact.php?user_id=4348359&subject=righes.ch) | 390 days ago (01/19/2025) | 0 |
 | rileal.cl (39 hosts in use) website | private | [rlemus](https://freedns.afraid.org/tools/contact.php?user_id=323915&subject=rileal.cl) | 5230 days ago (10/19/2011) | 0 |
-| rinet.ai (210 hosts in use) website | public | [samwidlund](https://freedns.afraid.org/tools/contact.php?user_id=600648&subject=rinet.ai) | 662 days ago (04/24/2024) | 0 |
+| rinet.ai (211 hosts in use) website | public | [samwidlund](https://freedns.afraid.org/tools/contact.php?user_id=600648&subject=rinet.ai) | 663 days ago (04/24/2024) | 0 |
 | rivasm.cc (19 hosts in use) website | private | [exzeph](https://freedns.afraid.org/tools/contact.php?user_id=3540485&subject=rivasm.cc) | 1739 days ago (04/12/2021) | 0 |
 | rkfd.com (205 hosts in use) website | public | [rkfd](https://freedns.afraid.org/tools/contact.php?user_id=2938087&subject=rkfd.com) | 3064 days ago (09/25/2017) | 0 |
 | rlntx.net (30 hosts in use) website | private | [ryan42](https://freedns.afraid.org/tools/contact.php?user_id=200237&subject=rlntx.net) | 5174 days ago (12/17/2011) | 0 |
@@ -3581,7 +3568,7 @@ Total domains: 25241
 | romatv.xyz (2 hosts in use) website | private | [pabloroman81](https://freedns.afraid.org/tools/contact.php?user_id=3672992&subject=romatv.xyz) | 62 days ago (11/12/2025) | 0 |
 | romram.nu (36 hosts in use) website | private | [romram](https://freedns.afraid.org/tools/contact.php?user_id=346687&subject=romram.nu) | 6653 days ago (11/27/2007) | 0 |
 | romram.se (36 hosts in use) website | private | [romram](https://freedns.afraid.org/tools/contact.php?user_id=346687&subject=romram.se) | 5093 days ago (03/01/2012) | 0 |
-| root.sx (7697 hosts in use) website | public | [geoffrey](https://freedns.afraid.org/tools/contact.php?user_id=573392&subject=root.sx) | 4841 days ago (11/14/2012) | 0 |
+| root.sx (7700 hosts in use) website | public | [geoffrey](https://freedns.afraid.org/tools/contact.php?user_id=573392&subject=root.sx) | 4842 days ago (11/14/2012) | 0 |
 | rorem.org (31 hosts in use) website | private | [rorem](https://freedns.afraid.org/tools/contact.php?user_id=267531&subject=rorem.org) | 3233 days ago (04/06/2017) | 0 |
 | rortech.si (6 hosts in use) website | private | [bajs0r](https://freedns.afraid.org/tools/contact.php?user_id=540834&subject=rortech.si) | 2479 days ago (04/01/2019) | 0 |
 | rosaid.es (20 hosts in use) website | private | [rupertito](https://freedns.afraid.org/tools/contact.php?user_id=1199636&subject=rosaid.es) | 1766 days ago (03/16/2021) | 0 |
@@ -3618,7 +3605,7 @@ Total domains: 25241
 | scay.net (554 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=scay.net) | 5870 days ago (01/20/2010) | 0 |
 | sccfdp.eu (26 hosts in use) website | private | [mojo783010](https://freedns.afraid.org/tools/contact.php?user_id=1438275&subject=sccfdp.eu) | 3802 days ago (09/11/2015) | 0 |
 | scd.pp.ru (40 hosts in use) website | private | [sambadi](https://freedns.afraid.org/tools/contact.php?user_id=782424&subject=scd.pp.ru) | 5270 days ago (08/10/2011) | 0 |
-| scgoh.com (22 hosts in use) website | private | [ascene](https://freedns.afraid.org/tools/contact.php?user_id=771772&subject=scgoh.com) | 2944 days ago (01/23/2018) | 0 |
+| scgoh.com (22 hosts in use) website | private | [ascene](https://freedns.afraid.org/tools/contact.php?user_id=771772&subject=scgoh.com) | 2946 days ago (01/23/2018) | 0 |
 | scgoh.net (26 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=scgoh.net) | 1193 days ago (11/07/2022) | 0 |
 | schiga.ch (68 hosts in use) website | private | [carlconrad](https://freedns.afraid.org/tools/contact.php?user_id=982598&subject=schiga.ch) | 5089 days ago (03/01/2012) | 0 |
 | schiko.eu (22 hosts in use) website | private | [afraidjannik123](https://freedns.afraid.org/tools/contact.php?user_id=2258732&subject=schiko.eu) | 2072 days ago (06/09/2020) | 0 |
@@ -3685,7 +3672,7 @@ Total domains: 25241
 | sms-pc.hk (25 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=sms-pc.hk) | 6191 days ago (03/03/2009) | 0 |
 | sniver.ch (26 hosts in use) website | private | [tobzter](https://freedns.afraid.org/tools/contact.php?user_id=284097&subject=sniver.ch) | 6508 days ago (04/20/2008) | 0 |
 | snixel.net (6 hosts in use) website | private | [snixel](https://freedns.afraid.org/tools/contact.php?user_id=1788532&subject=snixel.net) | 2493 days ago (04/19/2019) | 0 |
-| snobu.org (32 hosts in use) website | private | [drupi](https://freedns.afraid.org/tools/contact.php?user_id=206237&subject=snobu.org) | 6833 days ago (05/31/2007) | 0 |
+| snobu.org (33 hosts in use) website | private | [drupi](https://freedns.afraid.org/tools/contact.php?user_id=206237&subject=snobu.org) | 6836 days ago (05/31/2007) | 0 |
 | soctoc.pt (16 hosts in use) website | private | [motocondria](https://freedns.afraid.org/tools/contact.php?user_id=189492&subject=soctoc.pt) | 3872 days ago (06/08/2015) | 0 |
 | sofare.tw (20 hosts in use) website | private | [mike0](https://freedns.afraid.org/tools/contact.php?user_id=429292&subject=sofare.tw) | 6332 days ago (10/13/2008) | 0 |
 | sofsis.cl (35 hosts in use) website | private | [ejara](https://freedns.afraid.org/tools/contact.php?user_id=2851679&subject=sofsis.cl) | 3208 days ago (04/02/2017) | 0 |
@@ -3693,7 +3680,7 @@ Total domains: 25241
 | solary.mx (30 hosts in use) website | private | [octavio](https://freedns.afraid.org/tools/contact.php?user_id=395018&subject=solary.mx) | 5114 days ago (01/15/2012) | 0 |
 | solvit.am (13 hosts in use) website | private | [solvitam](https://freedns.afraid.org/tools/contact.php?user_id=3729273&subject=solvit.am) | 1253 days ago (08/11/2022) | 0 |
 | sonett.tw (17 hosts in use) website | private | [riverph](https://freedns.afraid.org/tools/contact.php?user_id=2837322&subject=sonett.tw) | 3250 days ago (03/06/2017) | 0 |
-| soon.it (5406 hosts in use) website | public | [lyranet](https://freedns.afraid.org/tools/contact.php?user_id=23700&subject=soon.it) | 6126 days ago (05/09/2009) | 0 |
+| soon.it (5407 hosts in use) website | public | [lyranet](https://freedns.afraid.org/tools/contact.php?user_id=23700&subject=soon.it) | 6127 days ago (05/09/2009) | 0 |
 | sosvet.pt (18 hosts in use) website | private | [mariopais](https://freedns.afraid.org/tools/contact.php?user_id=925035&subject=sosvet.pt) | 4970 days ago (06/05/2012) | 0 |
 | sp7exy.pl (21 hosts in use) website | private | [annakubacka](https://freedns.afraid.org/tools/contact.php?user_id=714102&subject=sp7exy.pl) | 3561 days ago (04/14/2016) | 0 |
 | spazio.cl (28 hosts in use) website | private | [spazio](https://freedns.afraid.org/tools/contact.php?user_id=1854740&subject=spazio.cl) | 4212 days ago (07/05/2014) | 0 |
@@ -3711,7 +3698,7 @@ Total domains: 25241
 | sshuck.net (4 hosts in use) website | private | [sshuck](https://freedns.afraid.org/tools/contact.php?user_id=3946462&subject=sshuck.net) | 891 days ago (09/05/2023) | 0 |
 | ssi.org.mx (6 hosts in use) website | private | [gerardobg](https://freedns.afraid.org/tools/contact.php?user_id=979685&subject=ssi.org.mx) | 1209 days ago (09/22/2022) | 0 |
 | stancu.ro (22 hosts in use) website | private | [stancu](https://freedns.afraid.org/tools/contact.php?user_id=1125036&subject=stancu.ro) | 4920 days ago (07/27/2012) | 0 |
-| star.is (1840 hosts in use) website | private | [iceski](https://freedns.afraid.org/tools/contact.php?user_id=165586&subject=star.is) | 7282 days ago (03/09/2006) | 0 |
+| star.is (1840 hosts in use) website | private | [iceski](https://freedns.afraid.org/tools/contact.php?user_id=165586&subject=star.is) | 7284 days ago (03/09/2006) | 0 |
 | stasta.org (6 hosts in use) website | private | [titlis](https://freedns.afraid.org/tools/contact.php?user_id=1115394&subject=stasta.org) | 3223 days ago (03/18/2017) | 0 |
 | steco.net (33 hosts in use) website | private | [steco](https://freedns.afraid.org/tools/contact.php?user_id=154620&subject=steco.net) | 7336 days ago (01/13/2006) | 0 |
 | steward.hu (4 hosts in use) website | private | [rolcsi11](https://freedns.afraid.org/tools/contact.php?user_id=620975&subject=steward.hu) | 74 days ago (10/31/2025) | 0 |
@@ -3813,7 +3800,7 @@ Total domains: 25241
 | ulrik.net (31 hosts in use) website | private | [ulrhol](https://freedns.afraid.org/tools/contact.php?user_id=279029&subject=ulrik.net) | 6942 days ago (02/11/2007) | 0 |
 | ulzone.ru (36 hosts in use) website | private | [kaydiam](https://freedns.afraid.org/tools/contact.php?user_id=659782&subject=ulzone.ru) | 5552 days ago (11/01/2010) | 0 |
 | un-ruh.de (18 hosts in use) website | private | [pppunruh](https://freedns.afraid.org/tools/contact.php?user_id=4051930&subject=un-ruh.de) | 739 days ago (01/12/2024) | 0 |
-| unet3.com (46 hosts in use) website | public | [carlosepa](https://freedns.afraid.org/tools/contact.php?user_id=94077&subject=unet3.com) | 1341 days ago (06/09/2022) | 0 |
+| unet3.com (48 hosts in use) website | public | [carlosepa](https://freedns.afraid.org/tools/contact.php?user_id=94077&subject=unet3.com) | 1348 days ago (06/09/2022) | 0 |
 | unfug.net (23 hosts in use) website | private | [ramirezii](https://freedns.afraid.org/tools/contact.php?user_id=3165598&subject=unfug.net) | 2502 days ago (04/07/2019) | 0 |
 | uniall.tk (55 hosts in use) website | public | [99where](https://freedns.afraid.org/tools/contact.php?user_id=3399565&subject=uniall.tk) | 2104 days ago (05/10/2020) | 0 |
 | unodu.xyz (20 hosts in use) website | private | [micahbeck1](https://freedns.afraid.org/tools/contact.php?user_id=3565015&subject=unodu.xyz) | 1673 days ago (06/15/2021) | 0 |
@@ -3927,7 +3914,7 @@ Total domains: 25241
 | xoduss.ru (10 hosts in use) website | private | [mrdragonlove](https://freedns.afraid.org/tools/contact.php?user_id=3512330&subject=xoduss.ru) | 284 days ago (04/15/2025) | 0 |
 | xtr.pp.ru (97 hosts in use) website | private | [xtracta](https://freedns.afraid.org/tools/contact.php?user_id=349044&subject=xtr.pp.ru) | 6641 days ago (12/09/2007) | 0 |
 | xuctoo.com (6 hosts in use) website | private | [mrshollis2009](https://freedns.afraid.org/tools/contact.php?user_id=3172298&subject=xuctoo.com) | 2452 days ago (04/28/2019) | 0 |
-| xxxxx.tw (747 hosts in use) website | public | [davidliang](https://freedns.afraid.org/tools/contact.php?user_id=503704&subject=xxxxx.tw) | 6058 days ago (07/16/2009) | 0 |
+| xxxxx.tw (748 hosts in use) website | public | [davidliang](https://freedns.afraid.org/tools/contact.php?user_id=503704&subject=xxxxx.tw) | 6059 days ago (07/16/2009) | 0 |
 | xyons.net (25 hosts in use) website | private | [bartonjs](https://freedns.afraid.org/tools/contact.php?user_id=739456&subject=xyons.net) | 5343 days ago (05/29/2011) | 0 |
 | xypka.xyz (21 hosts in use) website | public | [bigblondewolf](https://freedns.afraid.org/tools/contact.php?user_id=3533820&subject=xypka.xyz) | 1786 days ago (03/27/2021) | 0 |
 | xzolx.net (33 hosts in use) website | private | [xzolx](https://freedns.afraid.org/tools/contact.php?user_id=373184&subject=xzolx.net) | 5636 days ago (09/08/2010) | 0 |
@@ -3937,7 +3924,7 @@ Total domains: 25241
 | yao.cl (11740 hosts in use) website | private | [joneryao](https://freedns.afraid.org/tools/contact.php?user_id=376979&subject=yao.cl) | 5101 days ago (02/28/2012) | 0 |
 | yastut.ch (33 hosts in use) website | private | [matthai](https://freedns.afraid.org/tools/contact.php?user_id=352175&subject=yastut.ch) | 6629 days ago (12/21/2007) | 0 |
 | yavner.ca (61 hosts in use) website | private | [jyavner](https://freedns.afraid.org/tools/contact.php?user_id=1175358&subject=yavner.ca) | 4905 days ago (09/11/2012) | 0 |
-| ycare.de (366 hosts in use) website | public | [ycarede](https://freedns.afraid.org/tools/contact.php?user_id=1484607&subject=ycare.de) | 4535 days ago (09/11/2013) | 0 |
+| ycare.de (367 hosts in use) website | public | [ycarede](https://freedns.afraid.org/tools/contact.php?user_id=1484607&subject=ycare.de) | 4541 days ago (09/11/2013) | 0 |
 | yeewu.com (35 hosts in use) website | private | [me2050](https://freedns.afraid.org/tools/contact.php?user_id=1413583&subject=yeewu.com) | 4604 days ago (07/06/2013) | 0 |
 | yeh.id.au (26 hosts in use) website | private | [ajyeh](https://freedns.afraid.org/tools/contact.php?user_id=1063115&subject=yeh.id.au) | 4973 days ago (06/02/2012) | 0 |
 | yfsgt.com (32 hosts in use) website | private | [moose333](https://freedns.afraid.org/tools/contact.php?user_id=471694&subject=yfsgt.com) | 3982 days ago (02/20/2015) | 0 |
@@ -3972,7 +3959,7 @@ Total domains: 25241
 | zlyzwy.cn (17 hosts in use) website | private | [zlyzwy](https://freedns.afraid.org/tools/contact.php?user_id=747736&subject=zlyzwy.cn) | 5268 days ago (08/14/2011) | 0 |
 | zoinkh.io (31 hosts in use) website | private | [iamabd](https://freedns.afraid.org/tools/contact.php?user_id=3044007&subject=zoinkh.io) | 2834 days ago (04/13/2018) | 0 |
 | zonados.es (9 hosts in use) website | private | [pacotorres](https://freedns.afraid.org/tools/contact.php?user_id=5130140&subject=zonados.es) | 60 days ago (11/14/2025) | 0 |
-| zotova.ca (31 hosts in use) website | private | [ztv](https://freedns.afraid.org/tools/contact.php?user_id=11615&subject=zotova.ca) | 1058 days ago (03/25/2023) | 0 |
+| zotova.ca (16 hosts in use) website | private | [ztv](https://freedns.afraid.org/tools/contact.php?user_id=11615&subject=zotova.ca) | 1059 days ago (03/25/2023) | 0 |
 | ztadc.com (36 hosts in use) website | private | [grepdashv](https://freedns.afraid.org/tools/contact.php?user_id=528029&subject=ztadc.com) | 2099 days ago (05/16/2020) | 0 |
 | zubex.net (25 hosts in use) website | private | [savage599](https://freedns.afraid.org/tools/contact.php?user_id=538674&subject=zubex.net) | 5887 days ago (12/03/2009) | 0 |
 | zubex.org (26 hosts in use) website | private | [savage599](https://freedns.afraid.org/tools/contact.php?user_id=538674&subject=zubex.org) | 5886 days ago (12/02/2009) | 0 |
@@ -3982,7 +3969,7 @@ Total domains: 25241
 | zyrvc.com (23 hosts in use) website | private | [dabzyrv](https://freedns.afraid.org/tools/contact.php?user_id=3592180&subject=zyrvc.com) | 1618 days ago (09/03/2021) | 0 |
 | zyxas.com (30 hosts in use) website | private | [nomeg](https://freedns.afraid.org/tools/contact.php?user_id=2011503&subject=zyxas.com) | 4106 days ago (11/19/2014) | 0 |
 | zzdhk.com (59 hosts in use) website | public | [mawh](https://freedns.afraid.org/tools/contact.php?user_id=379794&subject=zzdhk.com) | 96 days ago (10/20/2025) | 0 |
-| 0001124.xyz (8 hosts in use) website | private | [sahinatsom](https://freedns.afraid.org/tools/contact.php?user_id=4439356&subject=0001124.xyz) | 249 days ago (05/09/2025) | 0 |
+| 0001124.xyz (9 hosts in use) website | private | [sahinatsom](https://freedns.afraid.org/tools/contact.php?user_id=4439356&subject=0001124.xyz) | 283 days ago (05/09/2025) | 0 |
 | 010939.xyz (43 hosts in use) website | public | [craper4cn](https://freedns.afraid.org/tools/contact.php?user_id=5120155&subject=010939.xyz) | 87 days ago (11/10/2025) | 0 |
 | 0696969.xyz (7 hosts in use) website | public | [benjihelina](https://freedns.afraid.org/tools/contact.php?user_id=3414107&subject=0696969.xyz) | 1162 days ago (11/27/2022) | 0 |
 | 0lsons.com (13 hosts in use) website | public | [mark0ls0n](https://freedns.afraid.org/tools/contact.php?user_id=3105078&subject=0lsons.com) | 2681 days ago (10/14/2018) | 0 |
@@ -4033,7 +4020,7 @@ Total domains: 25241
 | abckamin.ee (7 hosts in use) website | private | [subbers](https://freedns.afraid.org/tools/contact.php?user_id=2392204&subject=abckamin.ee) | 73 days ago (11/04/2025) | 0 |
 | abobkov.tk (22 hosts in use) website | private | [abobkov](https://freedns.afraid.org/tools/contact.php?user_id=795096&subject=abobkov.tk) | 3904 days ago (05/11/2015) | 0 |
 | aboltys.ru (19 hosts in use) website | private | [aboltys](https://freedns.afraid.org/tools/contact.php?user_id=1714079&subject=aboltys.ru) | 4292 days ago (04/14/2014) | 0 |
-| abrgrp.com (36 hosts in use) website | private | [abergroup](https://freedns.afraid.org/tools/contact.php?user_id=888450&subject=abrgrp.com) | 5137 days ago (12/29/2011) | 0 |
+| abrgrp.com (37 hosts in use) website | private | [abergroup](https://freedns.afraid.org/tools/contact.php?user_id=888450&subject=abrgrp.com) | 5162 days ago (12/29/2011) | 0 |
 | absalt.com (18 hosts in use) website | private | [absalt](https://freedns.afraid.org/tools/contact.php?user_id=800406&subject=absalt.com) | 5264 days ago (08/31/2011) | 0 |
 | ac-cons.ru (40 hosts in use) website | private | [vndk](https://freedns.afraid.org/tools/contact.php?user_id=596350&subject=ac-cons.ru) | 5239 days ago (10/10/2011) | 0 |
 | ac-house.ru (9 hosts in use) website | private | [botan55](https://freedns.afraid.org/tools/contact.php?user_id=532309&subject=ac-house.ru) | 86 days ago (10/30/2025) | 0 |
@@ -4083,7 +4070,6 @@ Total domains: 25241
 | akiro.info (28 hosts in use) website | private | [void2g](https://freedns.afraid.org/tools/contact.php?user_id=626444&subject=akiro.info) | 5685 days ago (07/20/2010) | 0 |
 | albelda.no (33 hosts in use) website | private | [ivne](https://freedns.afraid.org/tools/contact.php?user_id=1297832&subject=albelda.no) | 3723 days ago (11/06/2015) | 0 |
 | alcomed.cl (56 hosts in use) website | private | [alcomed](https://freedns.afraid.org/tools/contact.php?user_id=1411496&subject=alcomed.cl) | 4607 days ago (07/04/2013) | 0 |
-| alexkrav.se (6 hosts in use) website | private | [dantrag](https://freedns.afraid.org/tools/contact.php?user_id=3610887&subject=alexkrav.se) | 1563 days ago (10/30/2021) | 0 |
 | alexsav.in (11 hosts in use) website | private | [asavin](https://freedns.afraid.org/tools/contact.php?user_id=649729&subject=alexsav.in) | 3975 days ago (03/25/2015) | 0 |
 | alext.info (22 hosts in use) website | private | [atatistcheff](https://freedns.afraid.org/tools/contact.php?user_id=484104&subject=alext.info) | 6117 days ago (05/14/2009) | 0 |
 | alextex.at (29 hosts in use) website | private | [cocoradum](https://freedns.afraid.org/tools/contact.php?user_id=373015&subject=alextex.at) | 2975 days ago (11/21/2017) | 0 |
@@ -4169,7 +4155,7 @@ Total domains: 25241
 | atolon.org (28 hosts in use) website | private | [gcalzada](https://freedns.afraid.org/tools/contact.php?user_id=700099&subject=atolon.org) | 5439 days ago (02/22/2011) | 0 |
 | aton22.com (45 hosts in use) website | private | [arrakis22](https://freedns.afraid.org/tools/contact.php?user_id=2811440&subject=aton22.com) | 3315 days ago (01/15/2017) | 0 |
 | attic.co.za (9 hosts in use) website | private | [saintgroup](https://freedns.afraid.org/tools/contact.php?user_id=270570&subject=attic.co.za) | 840 days ago (10/10/2023) | 0 |
-| atwoki.com (36 hosts in use) website | private | [atwokism](https://freedns.afraid.org/tools/contact.php?user_id=287838&subject=atwoki.com) | 6903 days ago (03/22/2007) | 0 |
+| atwoki.com (37 hosts in use) website | private | [atwokism](https://freedns.afraid.org/tools/contact.php?user_id=287838&subject=atwoki.com) | 6905 days ago (03/22/2007) | 0 |
 | aucayan.ch (35 hosts in use) website | private | [helgebaurecker](https://freedns.afraid.org/tools/contact.php?user_id=434242&subject=aucayan.ch) | 6108 days ago (05/25/2009) | 0 |
 | aucool.com (47 hosts in use) website | private | [thomasfung](https://freedns.afraid.org/tools/contact.php?user_id=542435&subject=aucool.com) | 5903 days ago (12/16/2009) | 0 |
 | auradt.com (35 hosts in use) website | private | [panchotron](https://freedns.afraid.org/tools/contact.php?user_id=1342686&subject=auradt.com) | 2787 days ago (06/27/2018) | 0 |
@@ -4217,7 +4203,7 @@ Total domains: 25241
 | baumes.net (25 hosts in use) website | private | [baumep](https://freedns.afraid.org/tools/contact.php?user_id=999705&subject=baumes.net) | 5080 days ago (03/18/2012) | 0 |
 | bbe-hk.com (26 hosts in use) website | private | [wsktommy68](https://freedns.afraid.org/tools/contact.php?user_id=430881&subject=bbe-hk.com) | 5282 days ago (08/29/2011) | 0 |
 | bborie.com (44 hosts in use) website | private | [bborie0107](https://freedns.afraid.org/tools/contact.php?user_id=2708389&subject=bborie.com) | 3468 days ago (08/17/2016) | 0 |
-| bbva.co.uk (30 hosts in use) website | private | [granero](https://freedns.afraid.org/tools/contact.php?user_id=1165777&subject=bbva.co.uk) | 4771 days ago (01/15/2013) | 0 |
+| bbva.co.uk (30 hosts in use) website | private | [granero](https://freedns.afraid.org/tools/contact.php?user_id=1165777&subject=bbva.co.uk) | 4780 days ago (01/15/2013) | 0 |
 | bclib.org (157 hosts in use) website | public | [jbbcl](https://freedns.afraid.org/tools/contact.php?user_id=628831&subject=bclib.org) | 5678 days ago (07/29/2010) | 0 |
 | bcss.co.za (16 hosts in use) website | private | [saintgroup](https://freedns.afraid.org/tools/contact.php?user_id=270570&subject=bcss.co.za) | 6311 days ago (10/17/2008) | 0 |
 | bdcra.co.za (7 hosts in use) website | private | [bohica93](https://freedns.afraid.org/tools/contact.php?user_id=749990&subject=bdcra.co.za) | 914 days ago (07/28/2023) | 0 |
@@ -4340,7 +4326,7 @@ Total domains: 25241
 | casoft.xyz (15 hosts in use) website | private | [brihuan](https://freedns.afraid.org/tools/contact.php?user_id=3547145&subject=casoft.xyz) | 1721 days ago (04/30/2021) | 0 |
 | casucha.cl (51 hosts in use) website | public | [rodancoci](https://freedns.afraid.org/tools/contact.php?user_id=3363759&subject=casucha.cl) | 1078 days ago (02/27/2023) | 0 |
 | catapult.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=catapult.ar) | 1519 days ago (11/16/2021) | 0 |
-| catbox.co (137 hosts in use) website | public | [ccardali](https://freedns.afraid.org/tools/contact.php?user_id=2476478&subject=catbox.co) | 3732 days ago (11/28/2015) | 0 |
+| catbox.co (139 hosts in use) website | public | [ccardali](https://freedns.afraid.org/tools/contact.php?user_id=2476478&subject=catbox.co) | 3732 days ago (11/28/2015) | 0 |
 | catfish.gq (26 hosts in use) website | public | [ruochenjia](https://freedns.afraid.org/tools/contact.php?user_id=3887433&subject=catfish.gq) | 249 days ago (05/31/2025) | 0 |
 | catjpg.com (51 hosts in use) website | private | [peterquest](https://freedns.afraid.org/tools/contact.php?user_id=927860&subject=catjpg.com) | 4846 days ago (10/30/2012) | 0 |
 | catros.com (13 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=catros.com) | 6145 days ago (03/18/2009) | 0 |
@@ -4507,7 +4493,7 @@ Total domains: 25241
 | dineras.bg (23 hosts in use) website | private | [dineras](https://freedns.afraid.org/tools/contact.php?user_id=1419565&subject=dineras.bg) | 4568 days ago (07/12/2013) | 0 |
 | dirnea.org (96 hosts in use) website | private | [admdirnea](https://freedns.afraid.org/tools/contact.php?user_id=1924118&subject=dirnea.org) | 6321 days ago (10/22/2008) | 0 |
 | distql.com (11 hosts in use) website | private | [joshinisarg](https://freedns.afraid.org/tools/contact.php?user_id=1948600&subject=distql.com) | 2845 days ago (03/31/2018) | 0 |
-| dj-bug.com (35 hosts in use) website | private | [c02](https://freedns.afraid.org/tools/contact.php?user_id=37237&subject=dj-bug.com) | 6181 days ago (03/13/2009) | 0 |
+| dj-bug.com (36 hosts in use) website | private | [c02](https://freedns.afraid.org/tools/contact.php?user_id=37237&subject=dj-bug.com) | 6184 days ago (03/13/2009) | 0 |
 | djcilfov.ro (5 hosts in use) website | private | [djcilfov](https://freedns.afraid.org/tools/contact.php?user_id=4144487&subject=djcilfov.ro) | 625 days ago (04/28/2024) | 0 |
 | djinlove.de (8 hosts in use) website | private | [danielkuhnke](https://freedns.afraid.org/tools/contact.php?user_id=3027121&subject=djinlove.de) | 1826 days ago (01/20/2021) | 0 |
 | dka.com.np (91 hosts in use) website | public | [dkadhikari](https://freedns.afraid.org/tools/contact.php?user_id=2233802&subject=dka.com.np) | 3708 days ago (12/17/2015) | 0 |
@@ -4565,7 +4551,7 @@ Total domains: 25241
 | dynoday.ch (28 hosts in use) website | private | [fastforward](https://freedns.afraid.org/tools/contact.php?user_id=140101&subject=dynoday.ch) | 7059 days ago (09/16/2006) | 0 |
 | dysmile.tw (13 hosts in use) website | private | [derrick99](https://freedns.afraid.org/tools/contact.php?user_id=1592414&subject=dysmile.tw) | 4273 days ago (05/05/2014) | 0 |
 | dywbas.com (16 hosts in use) website | private | [kjordan79](https://freedns.afraid.org/tools/contact.php?user_id=2679955&subject=dywbas.com) | 2426 days ago (06/24/2019) | 0 |
-| e-c-h-o.tw (38 hosts in use) website | public | [echotw](https://freedns.afraid.org/tools/contact.php?user_id=3627097&subject=e-c-h-o.tw) | 1517 days ago (12/21/2021) | 0 |
+| e-c-h-o.tw (43 hosts in use) website | public | [echotw](https://freedns.afraid.org/tools/contact.php?user_id=3627097&subject=e-c-h-o.tw) | 1518 days ago (12/21/2021) | 0 |
 | e-value.cl (31 hosts in use) website | private | [gatopresente](https://freedns.afraid.org/tools/contact.php?user_id=1475501&subject=e-value.cl) | 1614 days ago (09/09/2021) | 0 |
 | eapwws.org (31 hosts in use) website | private | [daveadk](https://freedns.afraid.org/tools/contact.php?user_id=2720559&subject=eapwws.org) | 3449 days ago (09/02/2016) | 0 |
 | eastlog.ro (12 hosts in use) website | private | [zsokos](https://freedns.afraid.org/tools/contact.php?user_id=555414&subject=eastlog.ro) | 2811 days ago (05/04/2018) | 0 |
@@ -4627,7 +4613,7 @@ Total domains: 25241
 | eurashe.be (28 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=eurashe.be) | 5750 days ago (05/11/2010) | 0 |
 | evgekus.ru (59 hosts in use) website | private | [gaxx](https://freedns.afraid.org/tools/contact.php?user_id=2569274&subject=evgekus.ru) | 3618 days ago (02/19/2016) | 0 |
 | evilbs.com (33 hosts in use) website | private | [michail1](https://freedns.afraid.org/tools/contact.php?user_id=1117324&subject=evilbs.com) | 4938 days ago (07/25/2012) | 0 |
-| evils.in (4297 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=evils.in) | 6739 days ago (09/03/2007) | 0 |
+| evils.in (4298 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=evils.in) | 6740 days ago (09/03/2007) | 0 |
 | evolvica.md (7 hosts in use) website | public | [konstantinch](https://freedns.afraid.org/tools/contact.php?user_id=4344562&subject=evolvica.md) | 398 days ago (01/13/2025) | 0 |
 | excited.es (24 hosts in use) website | private | [hastursan](https://freedns.afraid.org/tools/contact.php?user_id=105424&subject=excited.es) | 6757 days ago (08/15/2007) | 0 |
 | excuse.ro (180 hosts in use) website | public | [amunra81](https://freedns.afraid.org/tools/contact.php?user_id=643279&subject=excuse.ro) | 5633 days ago (09/11/2010) | 0 |
@@ -4653,13 +4639,14 @@ Total domains: 25241
 | fhoster.ru (18 hosts in use) website | private | [blez61](https://freedns.afraid.org/tools/contact.php?user_id=4117314&subject=fhoster.ru) | 376 days ago (01/30/2025) | 0 |
 | fibarra.cl (80 hosts in use) website | public | [fgibarra](https://freedns.afraid.org/tools/contact.php?user_id=1667338&subject=fibarra.cl) | 4364 days ago (02/17/2014) | 0 |
 | fightkit.uk (6 hosts in use) website | private | [emperoruk](https://freedns.afraid.org/tools/contact.php?user_id=536123&subject=fightkit.uk) | 1059 days ago (02/19/2023) | 0 |
+| fineone.ru (11 hosts in use) website | private | [blez61](https://freedns.afraid.org/tools/contact.php?user_id=4117314&subject=fineone.ru) | 696 days ago (03/22/2024) | 0 |
 | finsco.ch (131 hosts in use) website | public | [rvotta](https://freedns.afraid.org/tools/contact.php?user_id=381739&subject=finsco.ch) | 4120 days ago (11/03/2014) | 0 |
 | fircoli.ar (34 hosts in use) website | private | [marcelojgf](https://freedns.afraid.org/tools/contact.php?user_id=261675&subject=fircoli.ar) | 2334 days ago (09/26/2019) | 0 |
 | fit-tw.com (18 hosts in use) website | public | [isreal](https://freedns.afraid.org/tools/contact.php?user_id=762128&subject=fit-tw.com) | 1550 days ago (11/18/2021) | 0 |
 | flachs.it (123 hosts in use) website | public | [fflax](https://freedns.afraid.org/tools/contact.php?user_id=2885430&subject=flachs.it) | 3182 days ago (05/31/2017) | 0 |
 | flamex.hm (191 hosts in use) website | public | [xpkstudx](https://freedns.afraid.org/tools/contact.php?user_id=1068229&subject=flamex.hm) | 6628 days ago (12/22/2007) | 0 |
 | flatline.ro (7 hosts in use) website | private | [lysandergray](https://freedns.afraid.org/tools/contact.php?user_id=669786&subject=flatline.ro) | 1599 days ago (08/28/2021) | 0 |
-| flipme.net (20 hosts in use) website | private | [rblenkhorn](https://freedns.afraid.org/tools/contact.php?user_id=393711&subject=flipme.net) | 1940 days ago (10/24/2020) | 0 |
+| flipme.net (21 hosts in use) website | private | [rblenkhorn](https://freedns.afraid.org/tools/contact.php?user_id=393711&subject=flipme.net) | 1940 days ago (10/24/2020) | 0 |
 | flipme.org (17 hosts in use) website | private | [rblenkhorn](https://freedns.afraid.org/tools/contact.php?user_id=393711&subject=flipme.org) | 1936 days ago (10/24/2020) | 0 |
 | florence.hk (7 hosts in use) website | private | [intellim](https://freedns.afraid.org/tools/contact.php?user_id=41376&subject=florence.hk) | 6584 days ago (01/04/2008) | 0 |
 | flower.is (110 hosts in use) website | private | [iceski](https://freedns.afraid.org/tools/contact.php?user_id=165586&subject=flower.is) | 7269 days ago (03/21/2006) | 0 |
@@ -4732,7 +4719,7 @@ Total domains: 25241
 | germlab.ca (15 hosts in use) website | private | [neutrino37](https://freedns.afraid.org/tools/contact.php?user_id=1252457&subject=germlab.ca) | 1736 days ago (05/06/2021) | 0 |
 | ges.com.np (12 hosts in use) website | private | [azazpathan](https://freedns.afraid.org/tools/contact.php?user_id=3171931&subject=ges.com.np) | 2475 days ago (04/27/2019) | 0 |
 | gescorp.cl (18 hosts in use) website | private | [alecofre](https://freedns.afraid.org/tools/contact.php?user_id=811599&subject=gescorp.cl) | 5225 days ago (09/26/2011) | 0 |
-| gestium.cl (66 hosts in use) website | public | [claretbasica](https://freedns.afraid.org/tools/contact.php?user_id=777560&subject=gestium.cl) | 3603 days ago (04/05/2016) | 0 |
+| gestium.cl (68 hosts in use) website | public | [claretbasica](https://freedns.afraid.org/tools/contact.php?user_id=777560&subject=gestium.cl) | 3604 days ago (04/05/2016) | 0 |
 | gfebio.com (26 hosts in use) website | private | [exile600](https://freedns.afraid.org/tools/contact.php?user_id=812441&subject=gfebio.com) | 1073 days ago (03/07/2023) | 0 |
 | gfickt.de (218 hosts in use) website | public | [kindlepi](https://freedns.afraid.org/tools/contact.php?user_id=1580357&subject=gfickt.de) | 4464 days ago (11/21/2013) | 0 |
 | gfrior.com (99 hosts in use) website | private | [gfrior](https://freedns.afraid.org/tools/contact.php?user_id=1723182&subject=gfrior.com) | 4317 days ago (04/08/2014) | 0 |
@@ -4792,7 +4779,7 @@ Total domains: 25241
 | h-on.co.uk (37 hosts in use) website | private | [sbillings](https://freedns.afraid.org/tools/contact.php?user_id=842737&subject=h-on.co.uk) | 5180 days ago (11/08/2011) | 0 |
 | h4xxel.org (63 hosts in use) website | private | [h4xxel](https://freedns.afraid.org/tools/contact.php?user_id=803972&subject=h4xxel.org) | 5276 days ago (09/06/2011) | 0 |
 | ha-cloud.es (5 hosts in use) website | private | [mavksoft2](https://freedns.afraid.org/tools/contact.php?user_id=2231709&subject=ha-cloud.es) | 1132 days ago (12/08/2022) | 0 |
-| haemes.com (35 hosts in use) website | private | [acoltye](https://freedns.afraid.org/tools/contact.php?user_id=182316&subject=haemes.com) | 5295 days ago (08/15/2011) | 0 |
+| haemes.com (35 hosts in use) website | private | [acoltye](https://freedns.afraid.org/tools/contact.php?user_id=182316&subject=haemes.com) | 5299 days ago (08/15/2011) | 0 |
 | haetsal.me (73 hosts in use) website | private | [winbaram1000](https://freedns.afraid.org/tools/contact.php?user_id=3319247&subject=haetsal.me) | 1862 days ago (01/08/2021) | 0 |
 | hakons.info (5 hosts in use) website | private | [thespork](https://freedns.afraid.org/tools/contact.php?user_id=251293&subject=hakons.info) | 5266 days ago (09/06/2011) | 0 |
 | ham.one.pl (23 hosts in use) website | private | [d4rkp](https://freedns.afraid.org/tools/contact.php?user_id=192251&subject=ham.one.pl) | 3014 days ago (10/31/2017) | 0 |
@@ -4894,7 +4881,7 @@ Total domains: 25241
 | im2fly.com (40 hosts in use) website | private | [creary](https://freedns.afraid.org/tools/contact.php?user_id=565071&subject=im2fly.com) | 5799 days ago (03/07/2010) | 0 |
 | imascota.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=imascota.ar) | 1519 days ago (11/16/2021) | 0 |
 | imass.name (19 hosts in use) website | private | [aimass](https://freedns.afraid.org/tools/contact.php?user_id=55619&subject=imass.name) | 4178 days ago (09/05/2014) | 0 |
-| imatic.gr (193 hosts in use) website | public | [drkyriakos](https://freedns.afraid.org/tools/contact.php?user_id=185075&subject=imatic.gr) | 6270 days ago (12/13/2008) | 0 |
+| imatic.gr (193 hosts in use) website | public | [drkyriakos](https://freedns.afraid.org/tools/contact.php?user_id=185075&subject=imatic.gr) | 6274 days ago (12/13/2008) | 0 |
 | imgmetal.cl (8 hosts in use) website | private | [bcausenet](https://freedns.afraid.org/tools/contact.php?user_id=2666457&subject=imgmetal.cl) | 177 days ago (07/31/2025) | 0 |
 | imissu.com (41 hosts in use) website | private | [chrislyw](https://freedns.afraid.org/tools/contact.php?user_id=1653971&subject=imissu.com) | 4391 days ago (02/04/2014) | 0 |
 | imitch.net (38 hosts in use) website | private | [flipmcgee](https://freedns.afraid.org/tools/contact.php?user_id=785714&subject=imitch.net) | 5300 days ago (08/13/2011) | 0 |
@@ -4911,7 +4898,7 @@ Total domains: 25241
 | incatel.cl (31 hosts in use) website | private | [incatel](https://freedns.afraid.org/tools/contact.php?user_id=1221216&subject=incatel.cl) | 4509 days ago (10/09/2013) | 0 |
 | incatel.es (10 hosts in use) website | private | [incatel](https://freedns.afraid.org/tools/contact.php?user_id=1221216&subject=incatel.es) | 2339 days ago (09/17/2019) | 0 |
 | indotos.com (5 hosts in use) website | private | [dbassa](https://freedns.afraid.org/tools/contact.php?user_id=694423&subject=indotos.com) | 3921 days ago (05/18/2015) | 0 |
-| info.gf (10959 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=info.gf) | 6012 days ago (08/31/2009) | 0 |
+| info.gf (10959 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=info.gf) | 6013 days ago (08/31/2009) | 0 |
 | infonox.co (11 hosts in use) website | private | [cayenne](https://freedns.afraid.org/tools/contact.php?user_id=450439&subject=infonox.co) | 10 days ago (01/05/2026) | 0 |
 | ingeker.cl (45 hosts in use) website | public | [beto1232023](https://freedns.afraid.org/tools/contact.php?user_id=3992687&subject=ingeker.cl) | 802 days ago (11/03/2023) | 0 |
 | ingemas.cl (34 hosts in use) website | private | [ingemas](https://freedns.afraid.org/tools/contact.php?user_id=2885132&subject=ingemas.cl) | 4995 days ago (05/27/2012) | 0 |
@@ -4938,7 +4925,7 @@ Total domains: 25241
 | irepel.com (48 hosts in use) website | private | [worldpromo](https://freedns.afraid.org/tools/contact.php?user_id=439337&subject=irepel.com) | 6291 days ago (11/23/2008) | 0 |
 | irkant.com (38 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=irkant.com) | 5476 days ago (02/14/2011) | 0 |
 | iseasy.tw (135 hosts in use) website | public | [dovtw](https://freedns.afraid.org/tools/contact.php?user_id=381817&subject=iseasy.tw) | 6512 days ago (04/11/2008) | 0 |
-| isukato.de (22 hosts in use) website | private | [nicofeatbvb](https://freedns.afraid.org/tools/contact.php?user_id=4106746&subject=isukato.de) | 451 days ago (11/21/2024) | 0 |
+| isukato.de (45 hosts in use) website | private | [nicofeatbvb](https://freedns.afraid.org/tools/contact.php?user_id=4106746&subject=isukato.de) | 452 days ago (11/21/2024) | 0 |
 | itela.info (23 hosts in use) website | private | [mathiasf](https://freedns.afraid.org/tools/contact.php?user_id=398349&subject=itela.info) | 6437 days ago (06/28/2008) | 0 |
 | itgems.org (20 hosts in use) website | private | [sergeyzauzolkovr](https://freedns.afraid.org/tools/contact.php?user_id=493565&subject=itgems.org) | 2909 days ago (02/19/2018) | 0 |
 | ithjalp.com (8 hosts in use) website | private | [hrkrilen](https://freedns.afraid.org/tools/contact.php?user_id=800093&subject=ithjalp.com) | 3906 days ago (05/05/2015) | 0 |
@@ -4993,8 +4980,8 @@ Total domains: 25241
 | judgex.com (49 hosts in use) website | private | [judgex](https://freedns.afraid.org/tools/contact.php?user_id=92901&subject=judgex.com) | 7817 days ago (09/21/2004) | 0 |
 | juhwan.com (95 hosts in use) website | private | [juhwan](https://freedns.afraid.org/tools/contact.php?user_id=2478244&subject=juhwan.com) | 3262 days ago (03/01/2017) | 0 |
 | juhwan.net (76 hosts in use) website | private | [juhwan](https://freedns.afraid.org/tools/contact.php?user_id=2478244&subject=juhwan.net) | 3726 days ago (11/30/2015) | 0 |
-| julten.com (35 hosts in use) website | private | [cabacca](https://freedns.afraid.org/tools/contact.php?user_id=1231432&subject=julten.com) | 4824 days ago (11/22/2012) | 0 |
-| jundy.org (513 hosts in use) website | public | [jundy](https://freedns.afraid.org/tools/contact.php?user_id=330266&subject=jundy.org) | 6724 days ago (09/19/2007) | 0 |
+| julten.com (35 hosts in use) website | private | [cabacca](https://freedns.afraid.org/tools/contact.php?user_id=1231432&subject=julten.com) | 4834 days ago (11/22/2012) | 0 |
+| jundy.org (514 hosts in use) website | public | [jundy](https://freedns.afraid.org/tools/contact.php?user_id=330266&subject=jundy.org) | 6725 days ago (09/19/2007) | 0 |
 | junliu.com (36 hosts in use) website | private | [ikeliu](https://freedns.afraid.org/tools/contact.php?user_id=470777&subject=junliu.com) | 6177 days ago (03/17/2009) | 0 |
 | jurglic.si (38 hosts in use) website | private | [matix](https://freedns.afraid.org/tools/contact.php?user_id=272451&subject=jurglic.si) | 6296 days ago (11/18/2008) | 0 |
 | k-178.net (105 hosts in use) website | public | [kouji178](https://freedns.afraid.org/tools/contact.php?user_id=755051&subject=k-178.net) | 5140 days ago (01/17/2012) | 0 |
@@ -5104,7 +5091,7 @@ Total domains: 25241
 | leanspa.cl (29 hosts in use) website | private | [pchamaca](https://freedns.afraid.org/tools/contact.php?user_id=2887469&subject=leanspa.cl) | 3558 days ago (05/17/2016) | 0 |
 | leason.biz (21 hosts in use) website | private | [shawnlawe](https://freedns.afraid.org/tools/contact.php?user_id=82392&subject=leason.biz) | 6824 days ago (06/09/2007) | 0 |
 | leavitt.us (45 hosts in use) website | private | [laramie](https://freedns.afraid.org/tools/contact.php?user_id=320910&subject=leavitt.us) | 6760 days ago (08/12/2007) | 0 |
-| lecorps.ar (14 hosts in use) website | private | [tejerolucas](https://freedns.afraid.org/tools/contact.php?user_id=3952198&subject=lecorps.ar) | 200 days ago (07/30/2025) | 0 |
+| lecorps.ar (43 hosts in use) website | private | [tejerolucas](https://freedns.afraid.org/tools/contact.php?user_id=3952198&subject=lecorps.ar) | 200 days ago (07/30/2025) | 0 |
 | ledonne.me (30 hosts in use) website | private | [eledonne](https://freedns.afraid.org/tools/contact.php?user_id=660711&subject=ledonne.me) | 5569 days ago (11/15/2010) | 0 |
 | legont.com (28 hosts in use) website | private | [legont](https://freedns.afraid.org/tools/contact.php?user_id=2267458&subject=legont.com) | 3930 days ago (04/13/2015) | 0 |
 | lehmann.im (81 hosts in use) website | public | [anongee01](https://freedns.afraid.org/tools/contact.php?user_id=1753891&subject=lehmann.im) | 4309 days ago (04/26/2014) | 0 |
@@ -5122,17 +5109,16 @@ Total domains: 25241
 | liljas.info (5 hosts in use) website | private | [thespork](https://freedns.afraid.org/tools/contact.php?user_id=251293&subject=liljas.info) | 5266 days ago (09/06/2011) | 0 |
 | lillalo.se (22 hosts in use) website | private | [mrmadski](https://freedns.afraid.org/tools/contact.php?user_id=1296406&subject=lillalo.se) | 4723 days ago (03/02/2013) | 0 |
 | limana.rs (104 hosts in use) website | private | [ssladojevic](https://freedns.afraid.org/tools/contact.php?user_id=1212287&subject=limana.rs) | 3336 days ago (12/14/2016) | 0 |
-| limnet.org (31 hosts in use) website | private | [edwinlim](https://freedns.afraid.org/tools/contact.php?user_id=210303&subject=limnet.org) | 6579 days ago (02/09/2008) | 0 |
+| limnet.org (32 hosts in use) website | private | [edwinlim](https://freedns.afraid.org/tools/contact.php?user_id=210303&subject=limnet.org) | 6582 days ago (02/09/2008) | 0 |
 | linhta.com (33 hosts in use) website | private | [kimsmith](https://freedns.afraid.org/tools/contact.php?user_id=1185016&subject=linhta.com) | 3463 days ago (08/18/2016) | 0 |
 | linsoft.cl (72 hosts in use) website | public | [dcortes62](https://freedns.afraid.org/tools/contact.php?user_id=3947027&subject=linsoft.cl) | 5645 days ago (09/01/2010) | 0 |
 | lintaru.ro (33 hosts in use) website | private | [monitorr](https://freedns.afraid.org/tools/contact.php?user_id=465391&subject=lintaru.ro) | 6196 days ago (02/26/2009) | 0 |
 | linuts.com (41 hosts in use) website | private | [linuts](https://freedns.afraid.org/tools/contact.php?user_id=49393&subject=linuts.com) | 8072 days ago (12/25/2003) | 0 |
-| linuts.org (33 hosts in use) website | private | [linuts](https://freedns.afraid.org/tools/contact.php?user_id=49393&subject=linuts.org) | 7228 days ago (04/30/2006) | 0 |
+| linuts.org (33 hosts in use) website | private | [linuts](https://freedns.afraid.org/tools/contact.php?user_id=49393&subject=linuts.org) | 7232 days ago (04/30/2006) | 0 |
 | liolam.com (19 hosts in use) website | private | [dsanchez35](https://freedns.afraid.org/tools/contact.php?user_id=747902&subject=liolam.com) | 1675 days ago (07/08/2021) | 0 |
 | lirekit.ch (25 hosts in use) website | private | [attratech](https://freedns.afraid.org/tools/contact.php?user_id=730945&subject=lirekit.ch) | 3150 days ago (06/01/2017) | 0 |
 | lirekit.com (7 hosts in use) website | private | [attratech](https://freedns.afraid.org/tools/contact.php?user_id=730945&subject=lirekit.com) | 3148 days ago (06/01/2017) | 0 |
 | lisscom.ro (38 hosts in use) website | private | [mailexpert](https://freedns.afraid.org/tools/contact.php?user_id=1995296&subject=lisscom.ro) | 3913 days ago (04/28/2015) | 0 |
-| litecva.cl (26 hosts in use) website | private | [litecva](https://freedns.afraid.org/tools/contact.php?user_id=2839321&subject=litecva.cl) | 3233 days ago (03/10/2017) | 0 |
 | liujun.com (40 hosts in use) website | private | [ikeliu](https://freedns.afraid.org/tools/contact.php?user_id=470777&subject=liujun.com) | 6177 days ago (03/17/2009) | 0 |
 | lizerd.net (34 hosts in use) website | private | [lizerd](https://freedns.afraid.org/tools/contact.php?user_id=21843&subject=lizerd.net) | 5130 days ago (01/26/2012) | 0 |
 | lmpprk.com (37 hosts in use) website | private | [lmpprk](https://freedns.afraid.org/tools/contact.php?user_id=1229083&subject=lmpprk.com) | 4152 days ago (09/13/2014) | 0 |
@@ -5141,7 +5127,7 @@ Total domains: 25241
 | loomer.org (44 hosts in use) website | private | [roomloo](https://freedns.afraid.org/tools/contact.php?user_id=352623&subject=loomer.org) | 6629 days ago (12/23/2007) | 0 |
 | loopas.cl (173 hosts in use) website | public | [jcabezas](https://freedns.afraid.org/tools/contact.php?user_id=939584&subject=loopas.cl) | 3624 days ago (03/15/2016) | 0 |
 | looping.ca (19 hosts in use) website | private | [debianboy](https://freedns.afraid.org/tools/contact.php?user_id=1301373&subject=looping.ca) | 1807 days ago (03/03/2021) | 0 |
-| loskks.org (71 hosts in use) website | public | [mahe96](https://freedns.afraid.org/tools/contact.php?user_id=4256196&subject=loskks.org) | 499 days ago (09/17/2024) | 0 |
+| loskks.org (70 hosts in use) website | public | [mahe96](https://freedns.afraid.org/tools/contact.php?user_id=4256196&subject=loskks.org) | 517 days ago (09/17/2024) | 0 |
 | lovemag.ro (14 hosts in use) website | private | [unixmarius](https://freedns.afraid.org/tools/contact.php?user_id=379423&subject=lovemag.ro) | 2877 days ago (02/27/2018) | 0 |
 | loxs.co.uk (52 hosts in use) website | private | [loxs](https://freedns.afraid.org/tools/contact.php?user_id=805104&subject=loxs.co.uk) | 5268 days ago (09/08/2011) | 0 |
 | lozan.com (624 hosts in use) website | public | [imutluay](https://freedns.afraid.org/tools/contact.php?user_id=687267&subject=lozan.com) | 6609 days ago (01/12/2008) | 0 |
@@ -5150,7 +5136,7 @@ Total domains: 25241
 | luanngo.ca (62 hosts in use) website | private | [luanngo](https://freedns.afraid.org/tools/contact.php?user_id=2783972&subject=luanngo.ca) | 3306 days ago (01/17/2017) | 0 |
 | luchonet.ar (7 hosts in use) website | public | [lucianobaez](https://freedns.afraid.org/tools/contact.php?user_id=3339037&subject=luchonet.ar) | 1859 days ago (12/18/2020) | 0 |
 | ludopop.cl (45 hosts in use) website | private | [fbnaulin](https://freedns.afraid.org/tools/contact.php?user_id=777306&subject=ludopop.cl) | 363 days ago (01/17/2025) | 0 |
-| lugglet.it (30 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=lugglet.it) | 2488 days ago (04/17/2019) | 0 |
+| lugglet.it (30 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=lugglet.it) | 2497 days ago (04/17/2019) | 0 |
 | luhash.net (30 hosts in use) website | private | [luhash](https://freedns.afraid.org/tools/contact.php?user_id=1051598&subject=luhash.net) | 5017 days ago (05/22/2012) | 0 |
 | lumbago.nu (18 hosts in use) website | private | [blecknet](https://freedns.afraid.org/tools/contact.php?user_id=554052&subject=lumbago.nu) | 2423 days ago (06/25/2019) | 0 |
 | lumiwow.su (31 hosts in use) website | public | [toshuk](https://freedns.afraid.org/tools/contact.php?user_id=1579940&subject=lumiwow.su) | 172 days ago (08/17/2025) | 0 |
@@ -5160,10 +5146,10 @@ Total domains: 25241
 | luxram.net (28 hosts in use) website | private | [sisluxram](https://freedns.afraid.org/tools/contact.php?user_id=3335438&subject=luxram.net) | 2263 days ago (12/06/2019) | 0 |
 | lv223.info (76 hosts in use) website | public | [topoulos](https://freedns.afraid.org/tools/contact.php?user_id=1114870&subject=lv223.info) | 4962 days ago (07/16/2012) | 0 |
 | lv426.co.uk (8 hosts in use) website | private | [spg666](https://freedns.afraid.org/tools/contact.php?user_id=898374&subject=lv426.co.uk) | 983 days ago (06/05/2023) | 0 |
-| lxrowe.net (30 hosts in use) website | private | [lxrowe](https://freedns.afraid.org/tools/contact.php?user_id=1170779&subject=lxrowe.net) | 4410 days ago (01/19/2014) | 0 |
+| lxrowe.net (28 hosts in use) website | private | [lxrowe](https://freedns.afraid.org/tools/contact.php?user_id=1170779&subject=lxrowe.net) | 4410 days ago (01/19/2014) | 0 |
 | lycoris.cc (25 hosts in use) website | private | [zlm324](https://freedns.afraid.org/tools/contact.php?user_id=3133706&subject=lycoris.cc) | 2572 days ago (12/29/2018) | 0 |
 | m31.net.br (28 hosts in use) website | private | [m31security](https://freedns.afraid.org/tools/contact.php?user_id=2200848&subject=m31.net.br) | 3419 days ago (10/04/2016) | 0 |
-| macao.net (219 hosts in use) website | public | [copperloi](https://freedns.afraid.org/tools/contact.php?user_id=1107021&subject=macao.net) | 4718 days ago (03/12/2013) | 0 |
+| macao.net (220 hosts in use) website | public | [copperloi](https://freedns.afraid.org/tools/contact.php?user_id=1107021&subject=macao.net) | 4723 days ago (03/12/2013) | 0 |
 | macao.org (279 hosts in use) website | public | [copperloi](https://freedns.afraid.org/tools/contact.php?user_id=1107021&subject=macao.org) | 4685 days ago (04/17/2013) | 0 |
 | macdari.com (8 hosts in use) website | public | [torrimac](https://freedns.afraid.org/tools/contact.php?user_id=3597247&subject=macdari.com) | 1602 days ago (09/19/2021) | 0 |
 | macromix.ar (3 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=macromix.ar) | 1549 days ago (11/16/2021) | 0 |
@@ -5221,7 +5207,6 @@ Total domains: 25241
 | me-pra.com (36 hosts in use) website | private | [gedco](https://freedns.afraid.org/tools/contact.php?user_id=1788346&subject=me-pra.com) | 3918 days ago (05/08/2015) | 0 |
 | meatpak.com (8 hosts in use) website | private | [wattzy](https://freedns.afraid.org/tools/contact.php?user_id=650489&subject=meatpak.com) | 2073 days ago (06/07/2020) | 0 |
 | medicine.hk (6 hosts in use) website | private | [natchan](https://freedns.afraid.org/tools/contact.php?user_id=831892&subject=medicine.hk) | 1882 days ago (11/18/2020) | 0 |
-| medipro.ro (26 hosts in use) website | private | [paraschiv](https://freedns.afraid.org/tools/contact.php?user_id=749047&subject=medipro.ro) | 6999 days ago (11/26/2006) | 0 |
 | meecrob.us (24 hosts in use) website | private | [aedwards21](https://freedns.afraid.org/tools/contact.php?user_id=804557&subject=meecrob.us) | 5242 days ago (09/07/2011) | 0 |
 | meehigh.com (7 hosts in use) website | private | [mihai1606](https://freedns.afraid.org/tools/contact.php?user_id=3136769&subject=meehigh.com) | 1088 days ago (02/20/2023) | 0 |
 | megbook.hk (12 hosts in use) website | private | [megmall](https://freedns.afraid.org/tools/contact.php?user_id=2337820&subject=megbook.hk) | 2320 days ago (10/03/2019) | 0 |
@@ -5241,14 +5226,14 @@ Total domains: 25241
 | midtech.cl (66 hosts in use) website | public | [biobioreciclajes](https://freedns.afraid.org/tools/contact.php?user_id=4286722&subject=midtech.cl) | 157 days ago (09/05/2025) | 0 |
 | mif.com.tr (32 hosts in use) website | private | [makbar](https://freedns.afraid.org/tools/contact.php?user_id=2820494&subject=mif.com.tr) | 3285 days ago (02/02/2017) | 0 |
 | miielz.com (50 hosts in use) website | private | [miielz](https://freedns.afraid.org/tools/contact.php?user_id=1727930&subject=miielz.com) | 4325 days ago (04/09/2014) | 0 |
-| mikata.ru (805 hosts in use) website | public | [techmag](https://freedns.afraid.org/tools/contact.php?user_id=873989&subject=mikata.ru) | 5181 days ago (12/09/2011) | 0 |
+| mikata.ru (807 hosts in use) website | public | [techmag](https://freedns.afraid.org/tools/contact.php?user_id=873989&subject=mikata.ru) | 5183 days ago (12/09/2011) | 0 |
 | mikechan.ca (8 hosts in use) website | public | [poopyto](https://freedns.afraid.org/tools/contact.php?user_id=2863593&subject=mikechan.ca) | 405 days ago (01/03/2025) | 0 |
 | mikifilm.sk (9 hosts in use) website | private | [newmediagroup](https://freedns.afraid.org/tools/contact.php?user_id=773163&subject=mikifilm.sk) | 1059 days ago (03/20/2023) | 0 |
 | milesy.net (25 hosts in use) website | private | [milesy](https://freedns.afraid.org/tools/contact.php?user_id=757444&subject=milesy.net) | 5330 days ago (07/05/2011) | 0 |
 | milhead.com (7 hosts in use) website | public | [davidmillerlowe](https://freedns.afraid.org/tools/contact.php?user_id=3682316&subject=milhead.com) | 1383 days ago (04/26/2022) | 0 |
 | mimagen.cl (15 hosts in use) website | private | [gatopresente](https://freedns.afraid.org/tools/contact.php?user_id=1475501&subject=mimagen.cl) | 727 days ago (01/17/2024) | 0 |
 | mindwin.ru (10 hosts in use) website | public | [mindwin24](https://freedns.afraid.org/tools/contact.php?user_id=3347365&subject=mindwin.ru) | 191 days ago (08/08/2025) | 0 |
-| mine.bz (15474 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=mine.bz) | 6745 days ago (08/29/2007) | 0 |
+| mine.bz (15476 hosts in use) website | public | [carlb613](https://freedns.afraid.org/tools/contact.php?user_id=323919&subject=mine.bz) | 6746 days ago (08/29/2007) | 0 |
 | miniair.tw (20 hosts in use) website | private | [miniair168](https://freedns.afraid.org/tools/contact.php?user_id=1668727&subject=miniair.tw) | 4347 days ago (02/18/2014) | 0 |
 | minvest.se (30 hosts in use) website | private | [lingodawg](https://freedns.afraid.org/tools/contact.php?user_id=641202&subject=minvest.se) | 5112 days ago (02/07/2012) | 0 |
 | mirena.si (137 hosts in use) website | public | [red76](https://freedns.afraid.org/tools/contact.php?user_id=574467&subject=mirena.si) | 5459 days ago (02/09/2011) | 0 |
@@ -5282,9 +5267,9 @@ Total domains: 25241
 | motodoom.ro (3 hosts in use) website | private | [pintearares](https://freedns.afraid.org/tools/contact.php?user_id=298989&subject=motodoom.ro) | 95 days ago (10/30/2025) | 0 |
 | moulaie.ir (18 hosts in use) website | private | [elesar](https://freedns.afraid.org/tools/contact.php?user_id=657448&subject=moulaie.ir) | 3461 days ago (08/22/2016) | 0 |
 | mr-rixa.fi (28 hosts in use) website | private | [mrrixa](https://freedns.afraid.org/tools/contact.php?user_id=2095285&subject=mr-rixa.fi) | 4042 days ago (01/19/2015) | 0 |
-| mrpats.com (36 hosts in use) website | private | [mrpats](https://freedns.afraid.org/tools/contact.php?user_id=2941298&subject=mrpats.com) | 3044 days ago (10/03/2017) | 0 |
+| mrpats.com (36 hosts in use) website | private | [mrpats](https://freedns.afraid.org/tools/contact.php?user_id=2941298&subject=mrpats.com) | 3058 days ago (10/03/2017) | 0 |
 | mrpats.net (25 hosts in use) website | private | [mrpats](https://freedns.afraid.org/tools/contact.php?user_id=2941298&subject=mrpats.net) | 3045 days ago (10/03/2017) | 0 |
-| mrunix.com (36 hosts in use) website | private | [mrunix](https://freedns.afraid.org/tools/contact.php?user_id=1013791&subject=mrunix.com) | 5065 days ago (04/01/2012) | 0 |
+| mrunix.com (36 hosts in use) website | private | [mrunix](https://freedns.afraid.org/tools/contact.php?user_id=1013791&subject=mrunix.com) | 5069 days ago (04/01/2012) | 0 |
 | mrunix.net (65 hosts in use) website | private | [mrunix](https://freedns.afraid.org/tools/contact.php?user_id=1013791&subject=mrunix.net) | 5064 days ago (04/01/2012) | 0 |
 | msi.org.mx (34 hosts in use) website | public | [virusanonimo](https://freedns.afraid.org/tools/contact.php?user_id=2014719&subject=msi.org.mx) | 109 days ago (10/25/2025) | 0 |
 | mt0.com.ar (67 hosts in use) website | private | [mostro3000](https://freedns.afraid.org/tools/contact.php?user_id=417427&subject=mt0.com.ar) | 5226 days ago (10/18/2011) | 0 |
@@ -5324,7 +5309,7 @@ Total domains: 25241
 | narthar.it (20 hosts in use) website | private | [narthar](https://freedns.afraid.org/tools/contact.php?user_id=47701&subject=narthar.it) | 3979 days ago (03/20/2015) | 0 |
 | nasemo.com (41 hosts in use) website | private | [mistkr](https://freedns.afraid.org/tools/contact.php?user_id=762547&subject=nasemo.com) | 5193 days ago (11/01/2011) | 0 |
 | nasmans.nl (14 hosts in use) website | private | [lievenp](https://freedns.afraid.org/tools/contact.php?user_id=3974344&subject=nasmans.nl) | 823 days ago (10/13/2023) | 0 |
-| natbees.cl (81 hosts in use) website | public | [rhenriquezs](https://freedns.afraid.org/tools/contact.php?user_id=3056195&subject=natbees.cl) | 2832 days ago (05/16/2018) | 0 |
+| natbees.cl (82 hosts in use) website | public | [rhenriquezs](https://freedns.afraid.org/tools/contact.php?user_id=3056195&subject=natbees.cl) | 2832 days ago (05/16/2018) | 0 |
 | natesrv.com (2 hosts in use) website | private | [ndeneut](https://freedns.afraid.org/tools/contact.php?user_id=670013&subject=natesrv.com) | 53 days ago (12/22/2025) | 0 |
 | nathan.to (221 hosts in use) website | public | [nathanto](https://freedns.afraid.org/tools/contact.php?user_id=1283159&subject=nathan.to) | 4754 days ago (02/08/2013) | 0 |
 | naturism.pt (2 hosts in use) website | private | [pg12](https://freedns.afraid.org/tools/contact.php?user_id=5147688&subject=naturism.pt) | 55 days ago (11/19/2025) | 0 |
@@ -5381,13 +5366,13 @@ Total domains: 25241
 | npmpt.com (188 hosts in use) website | public | [npmpt](https://freedns.afraid.org/tools/contact.php?user_id=1136863&subject=npmpt.com) | 4939 days ago (08/06/2012) | 0 |
 | nsknipi.ru (23 hosts in use) website | private | [manliher](https://freedns.afraid.org/tools/contact.php?user_id=522671&subject=nsknipi.ru) | 3460 days ago (08/23/2016) | 0 |
 | ntpromo.ro (15 hosts in use) website | private | [nemo8080](https://freedns.afraid.org/tools/contact.php?user_id=697590&subject=ntpromo.ro) | 5444 days ago (02/17/2011) | 0 |
-| nublic.com (59 hosts in use) website | private | [nublic](https://freedns.afraid.org/tools/contact.php?user_id=721223&subject=nublic.com) | 5403 days ago (04/07/2011) | 0 |
+| nublic.com (59 hosts in use) website | private | [nublic](https://freedns.afraid.org/tools/contact.php?user_id=721223&subject=nublic.com) | 5428 days ago (04/07/2011) | 0 |
 | nuumix.com (34 hosts in use) website | private | [endy](https://freedns.afraid.org/tools/contact.php?user_id=744475&subject=nuumix.com) | 5273 days ago (08/09/2011) | 0 |
 | nyeste.info (5 hosts in use) website | private | [thespork](https://freedns.afraid.org/tools/contact.php?user_id=251293&subject=nyeste.info) | 5983 days ago (09/19/2009) | 0 |
 | o-kane.uk (146 hosts in use) website | public | [eokane67](https://freedns.afraid.org/tools/contact.php?user_id=3103243&subject=o-kane.uk) | 2669 days ago (10/11/2018) | 0 |
 | o2tent.com (39 hosts in use) website | private | [jaustgen](https://freedns.afraid.org/tools/contact.php?user_id=800575&subject=o2tent.com) | 5277 days ago (08/31/2011) | 0 |
 | obenabe.ch (23 hosts in use) website | private | [nundediepw1](https://freedns.afraid.org/tools/contact.php?user_id=1761967&subject=obenabe.ch) | 4305 days ago (05/01/2014) | 0 |
-| obscure.ch (17 hosts in use) website | private | [antonio333](https://freedns.afraid.org/tools/contact.php?user_id=401558&subject=obscure.ch) | 6411 days ago (06/25/2008) | 0 |
+| obscure.ch (18 hosts in use) website | private | [antonio333](https://freedns.afraid.org/tools/contact.php?user_id=401558&subject=obscure.ch) | 6445 days ago (06/25/2008) | 0 |
 | oc.com.ar (256 hosts in use) website | public | [odinociai](https://freedns.afraid.org/tools/contact.php?user_id=73695&subject=oc.com.ar) | 6719 days ago (09/22/2007) | 0 |
 | oceantrl.ca (9 hosts in use) website | private | [obll6omzq12kw7t](https://freedns.afraid.org/tools/contact.php?user_id=4423282&subject=oceantrl.ca) | 292 days ago (04/19/2025) | 0 |
 | ocegueda.us (6 hosts in use) website | private | [aocegueda](https://freedns.afraid.org/tools/contact.php?user_id=3424550&subject=ocegueda.us) | 2023 days ago (06/30/2020) | 0 |
@@ -5399,7 +5384,7 @@ Total domains: 25241
 | okudan.org (23 hosts in use) website | private | [erdem](https://freedns.afraid.org/tools/contact.php?user_id=529818&subject=okudan.org) | 4188 days ago (08/18/2014) | 0 |
 | olasoft.ru (77 hosts in use) website | private | [olasoft](https://freedns.afraid.org/tools/contact.php?user_id=944655&subject=olasoft.ru) | 4441 days ago (12/13/2013) | 0 |
 | olivrr.com (35 hosts in use) website | private | [ioliver](https://freedns.afraid.org/tools/contact.php?user_id=1431758&subject=olivrr.com) | 3117 days ago (08/01/2017) | 0 |
-| ololow.com (35 hosts in use) website | public | [ruytaro](https://freedns.afraid.org/tools/contact.php?user_id=1635081&subject=ololow.com) | 73 days ago (11/27/2025) | 0 |
+| ololow.com (36 hosts in use) website | public | [ruytaro](https://freedns.afraid.org/tools/contact.php?user_id=1635081&subject=ololow.com) | 81 days ago (11/27/2025) | 0 |
 | omarket.cl (40 hosts in use) website | private | [jaimesaavedra](https://freedns.afraid.org/tools/contact.php?user_id=2816293&subject=omarket.cl) | 3307 days ago (01/24/2017) | 0 |
 | omnifoc.us (33 hosts in use) website | private | [printgeek](https://freedns.afraid.org/tools/contact.php?user_id=879796&subject=omnifoc.us) | 4407 days ago (01/15/2014) | 0 |
 | on-call.ch (28 hosts in use) website | private | [oncall24adm](https://freedns.afraid.org/tools/contact.php?user_id=1452247&subject=on-call.ch) | 4545 days ago (08/10/2013) | 0 |
@@ -5506,7 +5491,7 @@ Total domains: 25241
 | poexali.ru (38 hosts in use) website | private | [gaxx](https://freedns.afraid.org/tools/contact.php?user_id=2569274&subject=poexali.ru) | 1187 days ago (10/17/2022) | 0 |
 | pointer.lv (16 hosts in use) website | private | [heons](https://freedns.afraid.org/tools/contact.php?user_id=300678&subject=pointer.lv) | 4847 days ago (10/08/2012) | 0 |
 | polarspa.cl (6 hosts in use) website | private | [marmule](https://freedns.afraid.org/tools/contact.php?user_id=4145618&subject=polarspa.cl) | 20 days ago (12/24/2025) | 0 |
-| polden.com (48 hosts in use) website | private | [shurao](https://freedns.afraid.org/tools/contact.php?user_id=394555&subject=polden.com) | 2227 days ago (01/08/2020) | 0 |
+| polden.com (44 hosts in use) website | private | [shurao](https://freedns.afraid.org/tools/contact.php?user_id=394555&subject=polden.com) | 2231 days ago (01/08/2020) | 0 |
 | polden21.ru (4 hosts in use) website | private | [shurao](https://freedns.afraid.org/tools/contact.php?user_id=394555&subject=polden21.ru) | 2225 days ago (01/09/2020) | 0 |
 | polente.mx (28 hosts in use) website | private | [jos3ma](https://freedns.afraid.org/tools/contact.php?user_id=758803&subject=polente.mx) | 5305 days ago (07/08/2011) | 0 |
 | polezen.bg (38 hosts in use) website | private | [vesel](https://freedns.afraid.org/tools/contact.php?user_id=2976389&subject=polezen.bg) | 2394 days ago (07/15/2019) | 0 |
@@ -5646,7 +5631,7 @@ Total domains: 25241
 | rsvpit.com (23 hosts in use) website | private | [piercedmedia](https://freedns.afraid.org/tools/contact.php?user_id=261147&subject=rsvpit.com) | 7014 days ago (12/01/2006) | 0 |
 | rthkdtt.hk (30 hosts in use) website | private | [rthkeng](https://freedns.afraid.org/tools/contact.php?user_id=2650536&subject=rthkdtt.hk) | 4199 days ago (08/12/2014) | 0 |
 | rubuspi.org (8 hosts in use) website | private | [javaconsigliere](https://freedns.afraid.org/tools/contact.php?user_id=2426523&subject=rubuspi.org) | 3754 days ago (10/04/2015) | 0 |
-| rudmud.com (27 hosts in use) website | private | [kylecline12](https://freedns.afraid.org/tools/contact.php?user_id=2822558&subject=rudmud.com) | 3294 days ago (02/06/2017) | 0 |
+| rudmud.com (27 hosts in use) website | private | [kylecline12](https://freedns.afraid.org/tools/contact.php?user_id=2822558&subject=rudmud.com) | 3297 days ago (02/06/2017) | 0 |
 | rumainco.cl (9 hosts in use) website | public | [nosena](https://freedns.afraid.org/tools/contact.php?user_id=1920249&subject=rumainco.cl) | 1894 days ago (12/05/2020) | 0 |
 | runbsd.io (192 hosts in use) website | public | [rafaelgp](https://freedns.afraid.org/tools/contact.php?user_id=296674&subject=runbsd.io) | 2019 days ago (08/06/2020) | 0 |
 | runit8.com (28 hosts in use) website | private | [runit](https://freedns.afraid.org/tools/contact.php?user_id=3725872&subject=runit8.com) | 823 days ago (11/10/2023) | 0 |
@@ -5679,7 +5664,7 @@ Total domains: 25241
 | sapidum.eu (31 hosts in use) website | private | [bitermo](https://freedns.afraid.org/tools/contact.php?user_id=742921&subject=sapidum.eu) | 3656 days ago (02/11/2016) | 0 |
 | sapidum.si (23 hosts in use) website | private | [bitermo](https://freedns.afraid.org/tools/contact.php?user_id=742921&subject=sapidum.si) | 3653 days ago (02/11/2016) | 0 |
 | sarabety.uk (7 hosts in use) website | private | [scaibbean](https://freedns.afraid.org/tools/contact.php?user_id=3089848&subject=sarabety.uk) | 2287 days ago (10/26/2019) | 0 |
-| sarahc.com (35 hosts in use) website | private | [patcou](https://freedns.afraid.org/tools/contact.php?user_id=489867&subject=sarahc.com) | 5799 days ago (03/29/2010) | 0 |
+| sarahc.com (36 hosts in use) website | private | [patcou](https://freedns.afraid.org/tools/contact.php?user_id=489867&subject=sarahc.com) | 5803 days ago (03/29/2010) | 0 |
 | sardar.org (26 hosts in use) website | private | [deepatel](https://freedns.afraid.org/tools/contact.php?user_id=1389067&subject=sardar.org) | 4628 days ago (06/10/2013) | 0 |
 | sauters.ch (26 hosts in use) website | private | [ranido65](https://freedns.afraid.org/tools/contact.php?user_id=1183764&subject=sauters.ch) | 4842 days ago (10/13/2012) | 0 |
 | saweko.org (34 hosts in use) website | private | [lov3](https://freedns.afraid.org/tools/contact.php?user_id=57286&subject=saweko.org) | 6938 days ago (02/15/2007) | 0 |
@@ -5701,7 +5686,7 @@ Total domains: 25241
 | sd-bbs.net (29 hosts in use) website | private | [huaxia](https://freedns.afraid.org/tools/contact.php?user_id=128886&subject=sd-bbs.net) | 5280 days ago (08/31/2011) | 0 |
 | sda.org.np (28 hosts in use) website | private | [namasteshangrila](https://freedns.afraid.org/tools/contact.php?user_id=3060923&subject=sda.org.np) | 2785 days ago (06/01/2018) | 0 |
 | sdm-tv.com (37 hosts in use) website | private | [lumanau](https://freedns.afraid.org/tools/contact.php?user_id=314547&subject=sdm-tv.com) | 6590 days ago (01/29/2008) | 0 |
-| seaiq.com (100 hosts in use) website | private | [markghayden](https://freedns.afraid.org/tools/contact.php?user_id=1572048&subject=seaiq.com) | 4468 days ago (11/10/2013) | 0 |
+| seaiq.com (101 hosts in use) website | private | [markghayden](https://freedns.afraid.org/tools/contact.php?user_id=1572048&subject=seaiq.com) | 4481 days ago (11/10/2013) | 0 |
 | seajay.com (30 hosts in use) website | private | [cpjenkins](https://freedns.afraid.org/tools/contact.php?user_id=3050366&subject=seajay.com) | 2844 days ago (04/30/2018) | 0 |
 | seanor.net (30 hosts in use) website | private | [akseanor](https://freedns.afraid.org/tools/contact.php?user_id=2691955&subject=seanor.net) | 3491 days ago (07/26/2016) | 0 |
 | secpat.com (31 hosts in use) website | private | [mrpats](https://freedns.afraid.org/tools/contact.php?user_id=2941298&subject=secpat.com) | 3057 days ago (10/03/2017) | 0 |
@@ -5719,7 +5704,7 @@ Total domains: 25241
 | sfggepsa.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=sfggepsa.ar) | 1519 days ago (11/16/2021) | 0 |
 | sfinxen.se (26 hosts in use) website | private | [sfinxen](https://freedns.afraid.org/tools/contact.php?user_id=82842&subject=sfinxen.se) | 7859 days ago (08/08/2004) | 0 |
 | sg1703.com (41 hosts in use) website | private | [sg1703](https://freedns.afraid.org/tools/contact.php?user_id=1041941&subject=sg1703.com) | 5026 days ago (05/09/2012) | 0 |
-| sgd688.com (35 hosts in use) website | private | [kadec](https://freedns.afraid.org/tools/contact.php?user_id=1412181&subject=sgd688.com) | 4147 days ago (10/04/2014) | 0 |
+| sgd688.com (35 hosts in use) website | private | [kadec](https://freedns.afraid.org/tools/contact.php?user_id=1412181&subject=sgd688.com) | 4153 days ago (10/04/2014) | 0 |
 | sgd789.com (53 hosts in use) website | private | [kadec](https://freedns.afraid.org/tools/contact.php?user_id=1412181&subject=sgd789.com) | 4403 days ago (01/16/2014) | 0 |
 | shamam.net (26 hosts in use) website | private | [zappatta](https://freedns.afraid.org/tools/contact.php?user_id=629417&subject=shamam.net) | 5261 days ago (09/18/2011) | 0 |
 | sharesi.de (22 hosts in use) website | private | [astast](https://freedns.afraid.org/tools/contact.php?user_id=3753629&subject=sharesi.de) | 328 days ago (03/09/2025) | 0 |
@@ -5736,7 +5721,7 @@ Total domains: 25241
 | sietovka.sk (8 hosts in use) website | private | [jumik](https://freedns.afraid.org/tools/contact.php?user_id=2951108&subject=sietovka.sk) | 3027 days ago (10/29/2017) | 0 |
 | siggjen.eu (24 hosts in use) website | public | [siggjen](https://freedns.afraid.org/tools/contact.php?user_id=113824&subject=siggjen.eu) | 1371 days ago (05/16/2022) | 0 |
 | sigmasat.ro (7 hosts in use) website | private | [tarantino2010](https://freedns.afraid.org/tools/contact.php?user_id=2847511&subject=sigmasat.ro) | 2496 days ago (03/15/2019) | 0 |
-| sigmgt.com (35 hosts in use) website | private | [mkasson](https://freedns.afraid.org/tools/contact.php?user_id=501737&subject=sigmgt.com) | 4688 days ago (04/11/2013) | 0 |
+| sigmgt.com (35 hosts in use) website | private | [mkasson](https://freedns.afraid.org/tools/contact.php?user_id=501737&subject=sigmgt.com) | 4694 days ago (04/11/2013) | 0 |
 | sikkin.com (72 hosts in use) website | private | [sikkin](https://freedns.afraid.org/tools/contact.php?user_id=917093&subject=sikkin.com) | 5079 days ago (03/19/2012) | 0 |
 | sildis.com (38 hosts in use) website | private | [dpeckham](https://freedns.afraid.org/tools/contact.php?user_id=393117&subject=sildis.com) | 4086 days ago (11/14/2014) | 0 |
 | silivan.ro (16 hosts in use) website | private | [cosminpurtan](https://freedns.afraid.org/tools/contact.php?user_id=4217184&subject=silivan.ro) | 5259 days ago (08/23/2011) | 0 |
@@ -5755,7 +5740,7 @@ Total domains: 25241
 | skifi-ns.ru (5 hosts in use) website | public | [nosferato](https://freedns.afraid.org/tools/contact.php?user_id=745719&subject=skifi-ns.ru) | 2497 days ago (03/27/2019) | 0 |
 | skolkam.sk (11 hosts in use) website | private | [dawidgk](https://freedns.afraid.org/tools/contact.php?user_id=619654&subject=skolkam.sk) | 4803 days ago (11/19/2012) | 0 |
 | skupka74.ru (9 hosts in use) website | private | [opferk](https://freedns.afraid.org/tools/contact.php?user_id=3795385&subject=skupka74.ru) | 507 days ago (09/21/2024) | 0 |
-| sky1ab.com (35 hosts in use) website | private | [skytab](https://freedns.afraid.org/tools/contact.php?user_id=4094398&subject=sky1ab.com) | 717 days ago (02/24/2024) | 0 |
+| sky1ab.com (34 hosts in use) website | private | [skytab](https://freedns.afraid.org/tools/contact.php?user_id=4094398&subject=sky1ab.com) | 723 days ago (02/24/2024) | 0 |
 | skylot.ru (130 hosts in use) website | private | [izeldur](https://freedns.afraid.org/tools/contact.php?user_id=659018&subject=skylot.ru) | 5583 days ago (10/29/2010) | 0 |
 | skysec.net (39 hosts in use) website | private | [lokiyiz](https://freedns.afraid.org/tools/contact.php?user_id=167627&subject=skysec.net) | 7396 days ago (11/16/2005) | 0 |
 | sl-aes.com (94 hosts in use) website | private | [cannedspaghetti](https://freedns.afraid.org/tools/contact.php?user_id=879237&subject=sl-aes.com) | 5120 days ago (01/30/2012) | 0 |
@@ -5785,7 +5770,7 @@ Total domains: 25241
 | soosin.com (65 hosts in use) website | private | [parksoosin](https://freedns.afraid.org/tools/contact.php?user_id=2080929&subject=soosin.com) | 4052 days ago (01/08/2015) | 0 |
 | sorjak.com (48 hosts in use) website | private | [sorjak](https://freedns.afraid.org/tools/contact.php?user_id=559770&subject=sorjak.com) | 5841 days ago (02/16/2010) | 0 |
 | sorynov.cl (64 hosts in use) website | public | [vjlema](https://freedns.afraid.org/tools/contact.php?user_id=799341&subject=sorynov.cl) | 993 days ago (05/17/2023) | 0 |
-| sotna.org (186 hosts in use) website | public | [ihabgam](https://freedns.afraid.org/tools/contact.php?user_id=2606825&subject=sotna.org) | 3603 days ago (04/05/2016) | 0 |
+| sotna.org (188 hosts in use) website | public | [ihabgam](https://freedns.afraid.org/tools/contact.php?user_id=2606825&subject=sotna.org) | 3604 days ago (04/05/2016) | 0 |
 | sousalan.pt (7 hosts in use) website | private | [nelsonsousa](https://freedns.afraid.org/tools/contact.php?user_id=4407589&subject=sousalan.pt) | 319 days ago (03/30/2025) | 0 |
 | sovdat.si (112 hosts in use) website | public | [bkomac](https://freedns.afraid.org/tools/contact.php?user_id=1566757&subject=sovdat.si) | 4481 days ago (11/06/2013) | 0 |
 | sp2qbq.com (36 hosts in use) website | private | [marciszr](https://freedns.afraid.org/tools/contact.php?user_id=57678&subject=sp2qbq.com) | 6862 days ago (05/02/2007) | 0 |
@@ -5806,7 +5791,7 @@ Total domains: 25241
 | srmck.com (221 hosts in use) website | public | [seanrmck](https://freedns.afraid.org/tools/contact.php?user_id=916303&subject=srmck.com) | 5141 days ago (01/19/2012) | 0 |
 | ss77892.ru (79 hosts in use) website | private | [ss77892](https://freedns.afraid.org/tools/contact.php?user_id=690483&subject=ss77892.ru) | 5488 days ago (02/03/2011) | 0 |
 | sscloud.dk (18 hosts in use) website | private | [ssnetdk](https://freedns.afraid.org/tools/contact.php?user_id=2804393&subject=sscloud.dk) | 3297 days ago (01/03/2017) | 0 |
-| ssott.com (311 hosts in use) website | public | [sbusleruk](https://freedns.afraid.org/tools/contact.php?user_id=1206452&subject=ssott.com) | 4859 days ago (10/25/2012) | 0 |
+| ssott.com (312 hosts in use) website | public | [sbusleruk](https://freedns.afraid.org/tools/contact.php?user_id=1206452&subject=ssott.com) | 4862 days ago (10/25/2012) | 0 |
 | sstint.net (27 hosts in use) website | private | [dborg89](https://freedns.afraid.org/tools/contact.php?user_id=464529&subject=sstint.net) | 4593 days ago (07/18/2013) | 0 |
 | stabbed.me (37 hosts in use) website | private | [wickedcpj](https://freedns.afraid.org/tools/contact.php?user_id=227335&subject=stabbed.me) | 6162 days ago (04/01/2009) | 0 |
 | starmet.ru (66 hosts in use) website | private | [johnet](https://freedns.afraid.org/tools/contact.php?user_id=1024588&subject=starmet.ru) | 5050 days ago (04/16/2012) | 0 |
@@ -5981,15 +5966,15 @@ Total domains: 25241
 | udu-dev.xyz (8 hosts in use) website | public | [victorgood](https://freedns.afraid.org/tools/contact.php?user_id=3543298&subject=udu-dev.xyz) | 1755 days ago (04/19/2021) | 0 |
 | ugego.com (217 hosts in use) website | private | [wtaojp](https://freedns.afraid.org/tools/contact.php?user_id=626615&subject=ugego.com) | 5541 days ago (12/11/2010) | 0 |
 | ugnss.net (177 hosts in use) website | public | [urbanss](https://freedns.afraid.org/tools/contact.php?user_id=1383388&subject=ugnss.net) | 4631 days ago (06/05/2013) | 0 |
-| ulicon.com (36 hosts in use) website | private | [sorjak](https://freedns.afraid.org/tools/contact.php?user_id=559770&subject=ulicon.com) | 3942 days ago (04/29/2015) | 0 |
+| ulicon.com (37 hosts in use) website | private | [sorjak](https://freedns.afraid.org/tools/contact.php?user_id=559770&subject=ulicon.com) | 3946 days ago (04/29/2015) | 0 |
 | ulring.com (39 hosts in use) website | private | [dulring](https://freedns.afraid.org/tools/contact.php?user_id=120747&subject=ulring.com) | 7657 days ago (02/26/2005) | 0 |
 | ultrav.us (101 hosts in use) website | public | [ciscon](https://freedns.afraid.org/tools/contact.php?user_id=1204160&subject=ultrav.us) | 2557 days ago (02/13/2019) | 0 |
 | ulyanov.ru (18 hosts in use) website | private | [dimumlik](https://freedns.afraid.org/tools/contact.php?user_id=825913&subject=ulyanov.ru) | 2612 days ago (11/21/2018) | 0 |
 | umbigo.org (18 hosts in use) website | private | [wilison](https://freedns.afraid.org/tools/contact.php?user_id=2509831&subject=umbigo.org) | 1445 days ago (02/28/2022) | 0 |
 | unavida.cl (89 hosts in use) website | public | [c1vida](https://freedns.afraid.org/tools/contact.php?user_id=1183680&subject=unavida.cl) | 4861 days ago (09/22/2012) | 0 |
 | uncork.biz (53 hosts in use) website | public | [uncork](https://freedns.afraid.org/tools/contact.php?user_id=4118796&subject=uncork.biz) | 665 days ago (04/17/2024) | 0 |
-| undo.it (11610 hosts in use) website | public | [lyranet](https://freedns.afraid.org/tools/contact.php?user_id=23700&subject=undo.it) | 7845 days ago (08/24/2004) | 0 |
-| unids.com (564 hosts in use) website | public | [pwf1960](https://freedns.afraid.org/tools/contact.php?user_id=686653&subject=unids.com) | 5496 days ago (01/27/2011) | 0 |
+| undo.it (11611 hosts in use) website | public | [lyranet](https://freedns.afraid.org/tools/contact.php?user_id=23700&subject=undo.it) | 7846 days ago (08/24/2004) | 0 |
+| unids.com (564 hosts in use) website | public | [pwf1960](https://freedns.afraid.org/tools/contact.php?user_id=686653&subject=unids.com) | 5499 days ago (01/27/2011) | 0 |
 | unified.ar (31 hosts in use) website | private | [larronde](https://freedns.afraid.org/tools/contact.php?user_id=3468579&subject=unified.ar) | 1762 days ago (03/18/2021) | 0 |
 | unixbsd.cl (10 hosts in use) website | private | [bidjan](https://freedns.afraid.org/tools/contact.php?user_id=2012736&subject=unixbsd.cl) | 4074 days ago (11/18/2014) | 0 |
 | unixdc.com (42 hosts in use) website | private | [grepdashv](https://freedns.afraid.org/tools/contact.php?user_id=528029&subject=unixdc.com) | 5905 days ago (11/27/2009) | 0 |
@@ -6008,7 +5993,7 @@ Total domains: 25241
 | urusei.net (26 hosts in use) website | private | [herbleong](https://freedns.afraid.org/tools/contact.php?user_id=3071979&subject=urusei.net) | 2782 days ago (07/02/2018) | 0 |
 | utaqua.com (32 hosts in use) website | private | [ebrowning](https://freedns.afraid.org/tools/contact.php?user_id=2377719&subject=utaqua.com) | 3841 days ago (08/09/2015) | 0 |
 | utopica.cl (28 hosts in use) website | private | [isaav](https://freedns.afraid.org/tools/contact.php?user_id=795291&subject=utopica.cl) | 3724 days ago (11/05/2015) | 0 |
-| uwsdrg.org (33 hosts in use) website | private | [sdrgtech](https://freedns.afraid.org/tools/contact.php?user_id=799415&subject=uwsdrg.org) | 3107 days ago (08/10/2017) | 0 |
+| uwsdrg.org (33 hosts in use) website | private | [sdrgtech](https://freedns.afraid.org/tools/contact.php?user_id=799415&subject=uwsdrg.org) | 3112 days ago (08/10/2017) | 0 |
 | uwuowo.com (80 hosts in use) website | private | [borsuczek](https://freedns.afraid.org/tools/contact.php?user_id=309847&subject=uwuowo.com) | 2197 days ago (02/10/2020) | 0 |
 | uzelac.net (25 hosts in use) website | private | [cuzelac](https://freedns.afraid.org/tools/contact.php?user_id=515530&subject=uzelac.net) | 5945 days ago (11/02/2009) | 0 |
 | v-lanze.de (24 hosts in use) website | private | [himbrr](https://freedns.afraid.org/tools/contact.php?user_id=1237716&subject=v-lanze.de) | 2439 days ago (05/17/2019) | 0 |
@@ -6020,9 +6005,9 @@ Total domains: 25241
 | vansolo.us (22 hosts in use) website | private | [vansolo](https://freedns.afraid.org/tools/contact.php?user_id=2091883&subject=vansolo.us) | 4013 days ago (01/18/2015) | 0 |
 | vawars.com (40 hosts in use) website | private | [cmurphy](https://freedns.afraid.org/tools/contact.php?user_id=551193&subject=vawars.com) | 5869 days ago (01/19/2010) | 0 |
 | vbfg.co.uk (31 hosts in use) website | private | [vbfg](https://freedns.afraid.org/tools/contact.php?user_id=2584072&subject=vbfg.co.uk) | 3444 days ago (08/31/2016) | 0 |
-| vbrao.com (287 hosts in use) website | public | [vbrao](https://freedns.afraid.org/tools/contact.php?user_id=744387&subject=vbrao.com) | 5365 days ago (06/07/2011) | 0 |
+| vbrao.com (288 hosts in use) website | public | [vbrao](https://freedns.afraid.org/tools/contact.php?user_id=744387&subject=vbrao.com) | 5368 days ago (06/07/2011) | 0 |
 | ve2reh.net (22 hosts in use) website | private | [lanhacker](https://freedns.afraid.org/tools/contact.php?user_id=624710&subject=ve2reh.net) | 5696 days ago (07/13/2010) | 0 |
-| vekotin.fi (12 hosts in use) website | private | [sikajussi](https://freedns.afraid.org/tools/contact.php?user_id=924515&subject=vekotin.fi) | 5092 days ago (02/04/2012) | 0 |
+| vekotin.fi (13 hosts in use) website | private | [sikajussi](https://freedns.afraid.org/tools/contact.php?user_id=924515&subject=vekotin.fi) | 5126 days ago (02/04/2012) | 0 |
 | velas.info (26 hosts in use) website | private | [meliorcon](https://freedns.afraid.org/tools/contact.php?user_id=1215025&subject=velas.info) | 3652 days ago (02/12/2016) | 0 |
 | veleanu.ro (32 hosts in use) website | private | [veleanub](https://freedns.afraid.org/tools/contact.php?user_id=683566&subject=veleanu.ro) | 5478 days ago (01/14/2011) | 0 |
 | velkat.org (90 hosts in use) website | public | [avasilenko](https://freedns.afraid.org/tools/contact.php?user_id=744493&subject=velkat.org) | 1671 days ago (07/20/2021) | 0 |
@@ -6124,7 +6109,7 @@ Total domains: 25241
 | wroth.org (215 hosts in use) website | public | [jons8](https://freedns.afraid.org/tools/contact.php?user_id=802613&subject=wroth.org) | 5276 days ago (09/04/2011) | 0 |
 | wsharp.com (93 hosts in use) website | public | [sanosay](https://freedns.afraid.org/tools/contact.php?user_id=1501718&subject=wsharp.com) | 2198 days ago (02/09/2020) | 0 |
 | wtfden.com (30 hosts in use) website | private | [core10](https://freedns.afraid.org/tools/contact.php?user_id=778098&subject=wtfden.com) | 4549 days ago (08/02/2013) | 0 |
-| wtfix.com (168 hosts in use) website | public | [wtfix](https://freedns.afraid.org/tools/contact.php?user_id=1069897&subject=wtfix.com) | 4992 days ago (06/11/2012) | 0 |
+| wtfix.com (168 hosts in use) website | public | [wtfix](https://freedns.afraid.org/tools/contact.php?user_id=1069897&subject=wtfix.com) | 4997 days ago (06/11/2012) | 0 |
 | wturtle.com (7 hosts in use) website | private | [wgturtle](https://freedns.afraid.org/tools/contact.php?user_id=3968738&subject=wturtle.com) | 840 days ago (10/06/2023) | 0 |
 | wuensch.it (25 hosts in use) website | private | [chris86](https://freedns.afraid.org/tools/contact.php?user_id=1350741&subject=wuensch.it) | 914 days ago (08/08/2023) | 0 |
 | wuensch.us (17 hosts in use) website | private | [chris86](https://freedns.afraid.org/tools/contact.php?user_id=1350741&subject=wuensch.us) | 915 days ago (08/06/2023) | 0 |
@@ -6198,7 +6183,7 @@ Total domains: 25241
 | 0psilab.com (31 hosts in use) website | private | [juxtatux](https://freedns.afraid.org/tools/contact.php?user_id=3064376&subject=0psilab.com) | 2747 days ago (08/06/2018) | 0 |
 | 100pilot.ru (24 hosts in use) website | private | [speed1000](https://freedns.afraid.org/tools/contact.php?user_id=1735301&subject=100pilot.ru) | 1833 days ago (02/04/2021) | 0 |
 | 11442424.xyz (6 hosts in use) website | private | [odradeknaismith](https://freedns.afraid.org/tools/contact.php?user_id=4250969&subject=11442424.xyz) | 491 days ago (09/09/2024) | 0 |
-| 120buntu.eu (54 hosts in use) website | private | [danja](https://freedns.afraid.org/tools/contact.php?user_id=750930&subject=120buntu.eu) | 335 days ago (03/17/2025) | 0 |
+| 120buntu.eu (88 hosts in use) website | private | [danja](https://freedns.afraid.org/tools/contact.php?user_id=750930&subject=120buntu.eu) | 335 days ago (03/17/2025) | 0 |
 | 123voip.com (50 hosts in use) website | private | [agerlin](https://freedns.afraid.org/tools/contact.php?user_id=421115&subject=123voip.com) | 6348 days ago (09/10/2008) | 0 |
 | 1904281.xyz (10 hosts in use) website | private | [gbs0](https://freedns.afraid.org/tools/contact.php?user_id=4223255&subject=1904281.xyz) | 532 days ago (08/01/2024) | 0 |
 | 19970627.xyz (6 hosts in use) website | private | [natexiao627](https://freedns.afraid.org/tools/contact.php?user_id=3367020&subject=19970627.xyz) | 2066 days ago (05/18/2020) | 0 |
@@ -6236,7 +6221,7 @@ Total domains: 25241
 | 99scouts.ca (35 hosts in use) website | private | [dominiclau](https://freedns.afraid.org/tools/contact.php?user_id=744309&subject=99scouts.ca) | 5287 days ago (08/21/2011) | 0 |
 | aarachne.at (22 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=aarachne.at) | 5279 days ago (08/03/2011) | 0 |
 | aardvarq.org (2 hosts in use) website | private | [aardvarq](https://freedns.afraid.org/tools/contact.php?user_id=1980092&subject=aardvarq.org) | 1116 days ago (12/24/2022) | 0 |
-| abilger.com (36 hosts in use) website | private | [syserror](https://freedns.afraid.org/tools/contact.php?user_id=85131&subject=abilger.com) | 6762 days ago (08/09/2007) | 0 |
+| abilger.com (37 hosts in use) website | private | [syserror](https://freedns.afraid.org/tools/contact.php?user_id=85131&subject=abilger.com) | 6765 days ago (08/09/2007) | 0 |
 | about360.de (27 hosts in use) website | private | [seha](https://freedns.afraid.org/tools/contact.php?user_id=1993675&subject=about360.de) | 1557 days ago (10/17/2021) | 0 |
 | abrobon.com (12 hosts in use) website | private | [mostafamemariani](https://freedns.afraid.org/tools/contact.php?user_id=2004687&subject=abrobon.com) | 1168 days ago (11/05/2022) | 0 |
 | abuserzy.eu (20 hosts in use) website | private | [honorek](https://freedns.afraid.org/tools/contact.php?user_id=523790&subject=abuserzy.eu) | 2249 days ago (12/16/2019) | 0 |
@@ -6258,7 +6243,7 @@ Total domains: 25241
 | adiwarna.id (10 hosts in use) website | private | [adiwarnaepc](https://freedns.afraid.org/tools/contact.php?user_id=3740354&subject=adiwarna.id) | 1224 days ago (09/09/2022) | 0 |
 | admiral-x.ru (6 hosts in use) website | private | [zxnet](https://freedns.afraid.org/tools/contact.php?user_id=2952826&subject=admiral-x.ru) | 649 days ago (04/04/2024) | 0 |
 | adrianka.ro (26 hosts in use) website | private | [impresiit](https://freedns.afraid.org/tools/contact.php?user_id=2279063&subject=adrianka.ro) | 2957 days ago (01/03/2018) | 0 |
-| adrydam.com (33 hosts in use) website | private | [damgraphy](https://freedns.afraid.org/tools/contact.php?user_id=3065315&subject=adrydam.com) | 2804 days ago (06/12/2018) | 0 |
+| adrydam.com (34 hosts in use) website | private | [damgraphy](https://freedns.afraid.org/tools/contact.php?user_id=3065315&subject=adrydam.com) | 2806 days ago (06/12/2018) | 0 |
 | aeroblast.co (9 hosts in use) website | private | [aeroblast19](https://freedns.afraid.org/tools/contact.php?user_id=4137524&subject=aeroblast.co) | 636 days ago (04/17/2024) | 0 |
 | aerotaxi.cl (16 hosts in use) website | private | [claudiosarmiento](https://freedns.afraid.org/tools/contact.php?user_id=750660&subject=aerotaxi.cl) | 5318 days ago (06/23/2011) | 0 |
 | aerwear.ro (111 hosts in use) website | public | [bogdanp9](https://freedns.afraid.org/tools/contact.php?user_id=821714&subject=aerwear.ro) | 4802 days ago (12/07/2012) | 0 |
@@ -6283,6 +6268,7 @@ Total domains: 25241
 | albertn.ru (231 hosts in use) website | public | [albertn](https://freedns.afraid.org/tools/contact.php?user_id=577337&subject=albertn.ru) | 5783 days ago (04/15/2010) | 0 |
 | alepinto.cl (66 hosts in use) website | public | [minux777](https://freedns.afraid.org/tools/contact.php?user_id=3087109&subject=alepinto.cl) | 2736 days ago (08/17/2018) | 0 |
 | alexgall.ca (32 hosts in use) website | private | [lesalgal](https://freedns.afraid.org/tools/contact.php?user_id=1631314&subject=alexgall.ca) | 4412 days ago (01/13/2014) | 0 |
+| alexkrav.se (15 hosts in use) website | private | [dantrag](https://freedns.afraid.org/tools/contact.php?user_id=3610887&subject=alexkrav.se) | 1570 days ago (10/30/2021) | 0 |
 | alhambra.cl (11 hosts in use) website | private | [incatel](https://freedns.afraid.org/tools/contact.php?user_id=1221216&subject=alhambra.cl) | 2328 days ago (09/20/2019) | 0 |
 | alicahue.cl (26 hosts in use) website | private | [orojo](https://freedns.afraid.org/tools/contact.php?user_id=1065000&subject=alicahue.cl) | 4972 days ago (06/05/2012) | 0 |
 | alifaan.ovh (21 hosts in use) website | private | [alifaan](https://freedns.afraid.org/tools/contact.php?user_id=1529417&subject=alifaan.ovh) | 4107 days ago (10/16/2014) | 0 |
@@ -6298,7 +6284,7 @@ Total domains: 25241
 | amango.org (220 hosts in use) website | public | [lucasman](https://freedns.afraid.org/tools/contact.php?user_id=1007849&subject=amango.org) | 5073 days ago (03/25/2012) | 0 |
 | ambitech.rs (27 hosts in use) website | private | [mika76](https://freedns.afraid.org/tools/contact.php?user_id=1986389&subject=ambitech.rs) | 4095 days ago (10/28/2014) | 0 |
 | amen.org.ar (35 hosts in use) website | private | [gustavop](https://freedns.afraid.org/tools/contact.php?user_id=151166&subject=amen.org.ar) | 5291 days ago (08/22/2011) | 0 |
-| amenabar.cl (22 hosts in use) website | private | [gody](https://freedns.afraid.org/tools/contact.php?user_id=545544&subject=amenabar.cl) | 5587 days ago (10/12/2010) | 0 |
+| amenabar.cl (22 hosts in use) website | private | [gody](https://freedns.afraid.org/tools/contact.php?user_id=545544&subject=amenabar.cl) | 5605 days ago (10/12/2010) | 0 |
 | amestris.cl (77 hosts in use) website | private | [badgov](https://freedns.afraid.org/tools/contact.php?user_id=2061172&subject=amestris.cl) | 4031 days ago (12/31/2014) | 0 |
 | amiausa.com (44 hosts in use) website | private | [bkeahl](https://freedns.afraid.org/tools/contact.php?user_id=748303&subject=amiausa.com) | 5206 days ago (11/04/2011) | 0 |
 | aminfood.in (27 hosts in use) website | private | [sadiqhirani](https://freedns.afraid.org/tools/contact.php?user_id=2979832&subject=aminfood.in) | 2930 days ago (01/07/2018) | 0 |
@@ -6328,7 +6314,7 @@ Total domains: 25241
 | anynall.com (38 hosts in use) website | private | [jsp2mbr](https://freedns.afraid.org/tools/contact.php?user_id=2463592&subject=anynall.com) | 3747 days ago (11/13/2015) | 0 |
 | apampin.com (20 hosts in use) website | public | [digitalweed](https://freedns.afraid.org/tools/contact.php?user_id=1482079&subject=apampin.com) | 4435 days ago (12/25/2013) | 0 |
 | apev.com.mx (10 hosts in use) website | private | [logistica](https://freedns.afraid.org/tools/contact.php?user_id=795359&subject=apev.com.mx) | 1006 days ago (05/08/2023) | 0 |
-| apexpeak.com (7 hosts in use) website | private | [issgroup](https://freedns.afraid.org/tools/contact.php?user_id=325035&subject=apexpeak.com) | 3 days ago (02/12/2026) | 0 |
+| apexpeak.com (8 hosts in use) website | private | [issgroup](https://freedns.afraid.org/tools/contact.php?user_id=325035&subject=apexpeak.com) | 3 days ago (02/12/2026) | 0 |
 | apltech.info (8 hosts in use) website | private | [csabi911](https://freedns.afraid.org/tools/contact.php?user_id=429253&subject=apltech.info) | 6266 days ago (11/17/2008) | 0 |
 | appmine.com (81 hosts in use) website | private | [dajablon](https://freedns.afraid.org/tools/contact.php?user_id=31325&subject=appmine.com) | 8295 days ago (05/29/2003) | 0 |
 | appprof.com (72 hosts in use) website | private | [appprof](https://freedns.afraid.org/tools/contact.php?user_id=1045929&subject=appprof.com) | 4671 days ago (05/03/2013) | 0 |
@@ -6373,17 +6359,17 @@ Total domains: 25241
 | atlasong.ro (28 hosts in use) website | private | [atlasodsibiu](https://freedns.afraid.org/tools/contact.php?user_id=2375140&subject=atlasong.ro) | 3815 days ago (08/06/2015) | 0 |
 | atom.com.np (19 hosts in use) website | private | [handimtolai](https://freedns.afraid.org/tools/contact.php?user_id=2785158&subject=atom.com.np) | 3340 days ago (11/28/2016) | 0 |
 | atvazuga.eu (16 hosts in use) website | private | [maounique](https://freedns.afraid.org/tools/contact.php?user_id=111348&subject=atvazuga.eu) | 1941 days ago (10/19/2020) | 0 |
-| atzie.co.uk (30 hosts in use) website | private | [antthomas](https://freedns.afraid.org/tools/contact.php?user_id=1336473&subject=atzie.co.uk) | 3233 days ago (03/30/2017) | 0 |
+| atzie.co.uk (30 hosts in use) website | private | [antthomas](https://freedns.afraid.org/tools/contact.php?user_id=1336473&subject=atzie.co.uk) | 3245 days ago (03/30/2017) | 0 |
 | audiopro.mx (15 hosts in use) website | private | [fcobos](https://freedns.afraid.org/tools/contact.php?user_id=193629&subject=audiopro.mx) | 5754 days ago (05/11/2010) | 0 |
 | auricus.com (18 hosts in use) website | private | [mvolkov](https://freedns.afraid.org/tools/contact.php?user_id=811677&subject=auricus.com) | 2409 days ago (06/10/2019) | 0 |
 | ausbeck.net (39 hosts in use) website | private | [ausbeck](https://freedns.afraid.org/tools/contact.php?user_id=1638554&subject=ausbeck.net) | 4121 days ago (11/03/2014) | 0 |
-| ausbeck.org (32 hosts in use) website | private | [ausbeck](https://freedns.afraid.org/tools/contact.php?user_id=1638554&subject=ausbeck.org) | 4109 days ago (11/12/2014) | 0 |
+| ausbeck.org (32 hosts in use) website | private | [ausbeck](https://freedns.afraid.org/tools/contact.php?user_id=1638554&subject=ausbeck.org) | 4114 days ago (11/12/2014) | 0 |
 | ausenses.com (1 hosts in use) website | private | [antann](https://freedns.afraid.org/tools/contact.php?user_id=2985570&subject=ausenses.com) | 2995 days ago (11/01/2017) | 0 |
 | aussiepie.es (6 hosts in use) website | private | [javilan](https://freedns.afraid.org/tools/contact.php?user_id=4214063&subject=aussiepie.es) | 545 days ago (08/13/2024) | 0 |
 | autokirja.fi (2 hosts in use) website | private | [hookander](https://freedns.afraid.org/tools/contact.php?user_id=832238&subject=autokirja.fi) | 1154 days ago (11/16/2022) | 0 |
 | autotenis.cl (7 hosts in use) website | private | [joako198](https://freedns.afraid.org/tools/contact.php?user_id=4493523&subject=autotenis.cl) | 183 days ago (07/14/2025) | 0 |
 | avantaro.ro (15 hosts in use) website | public | [srares](https://freedns.afraid.org/tools/contact.php?user_id=1956411&subject=avantaro.ro) | 133 days ago (09/30/2025) | 0 |
-| avatube.ru (108 hosts in use) website | public | [baur79](https://freedns.afraid.org/tools/contact.php?user_id=791171&subject=avatube.ru) | 3812 days ago (09/06/2015) | 0 |
+| avatube.ru (109 hosts in use) website | public | [baur79](https://freedns.afraid.org/tools/contact.php?user_id=791171&subject=avatube.ru) | 3816 days ago (09/06/2015) | 0 |
 | avemaria.cl (24 hosts in use) website | private | [diegobarriga](https://freedns.afraid.org/tools/contact.php?user_id=391195&subject=avemaria.cl) | 4927 days ago (07/21/2012) | 0 |
 | avengre.com (27 hosts in use) website | private | [assalitaj](https://freedns.afraid.org/tools/contact.php?user_id=852830&subject=avengre.com) | 5123 days ago (02/04/2012) | 0 |
 | avidguy.com (31 hosts in use) website | private | [avidguy](https://freedns.afraid.org/tools/contact.php?user_id=1302163&subject=avidguy.com) | 4694 days ago (03/08/2013) | 0 |
@@ -6490,7 +6476,7 @@ Total domains: 25241
 | bowling.vn (242 hosts in use) website | public | [nghaiha](https://freedns.afraid.org/tools/contact.php?user_id=567165&subject=bowling.vn) | 3628 days ago (03/11/2016) | 0 |
 | brabaria.ch (26 hosts in use) website | private | [pfy](https://freedns.afraid.org/tools/contact.php?user_id=188055&subject=brabaria.ch) | 5777 days ago (04/21/2010) | 0 |
 | bradam.org (161 hosts in use) website | private | [red76](https://freedns.afraid.org/tools/contact.php?user_id=574467&subject=bradam.org) | 5782 days ago (04/09/2010) | 0 |
-| bradeno.com (36 hosts in use) website | private | [bradeno](https://freedns.afraid.org/tools/contact.php?user_id=2776337&subject=bradeno.com) | 3354 days ago (11/28/2016) | 0 |
+| bradeno.com (37 hosts in use) website | private | [bradeno](https://freedns.afraid.org/tools/contact.php?user_id=2776337&subject=bradeno.com) | 3366 days ago (11/28/2016) | 0 |
 | bram.com.ar (28 hosts in use) website | private | [elaudano](https://freedns.afraid.org/tools/contact.php?user_id=1706695&subject=bram.com.ar) | 2828 days ago (05/11/2018) | 0 |
 | branchesi.ar (7 hosts in use) website | private | [ferny1987](https://freedns.afraid.org/tools/contact.php?user_id=1649288&subject=branchesi.ar) | 483 days ago (09/17/2024) | 0 |
 | brandmap.net (8 hosts in use) website | private | [indy16mm](https://freedns.afraid.org/tools/contact.php?user_id=1717064&subject=brandmap.net) | 2446 days ago (06/04/2019) | 0 |
@@ -6712,7 +6698,7 @@ Total domains: 25241
 | deep-blue.ro (7 hosts in use) website | private | [tr2001](https://freedns.afraid.org/tools/contact.php?user_id=4763526&subject=deep-blue.ro) | 6736 days ago (08/05/2007) | 0 |
 | deepclone.ar (2 hosts in use) website | private | [axelbrz](https://freedns.afraid.org/tools/contact.php?user_id=1180233&subject=deepclone.ar) | 1384 days ago (03/31/2022) | 0 |
 | deepmars.cn (15 hosts in use) website | private | [jamesteo](https://freedns.afraid.org/tools/contact.php?user_id=3584321&subject=deepmars.cn) | 1619 days ago (08/10/2021) | 0 |
-| deesaid.com (16 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=deesaid.com) | 6926 days ago (02/14/2007) | 0 |
+| deesaid.com (16 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=deesaid.com) | 6941 days ago (02/14/2007) | 0 |
 | deesaid.net (11 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=deesaid.net) | 6933 days ago (02/18/2007) | 0 |
 | deesaid.org (11 hosts in use) website | private | [deesaid](https://freedns.afraid.org/tools/contact.php?user_id=188810&subject=deesaid.org) | 6906 days ago (02/18/2007) | 0 |
 | degesis.com (24 hosts in use) website | private | [dnsjorge](https://freedns.afraid.org/tools/contact.php?user_id=638717&subject=degesis.com) | 3775 days ago (09/13/2015) | 0 |
@@ -6796,7 +6782,7 @@ Total domains: 25241
 | dusthost.de (32 hosts in use) website | private | [konni33100](https://freedns.afraid.org/tools/contact.php?user_id=1721245&subject=dusthost.de) | 3490 days ago (07/02/2016) | 0 |
 | dvlcube.com (47 hosts in use) website | private | [dvlcube](https://freedns.afraid.org/tools/contact.php?user_id=492453&subject=dvlcube.com) | 6064 days ago (06/07/2009) | 0 |
 | dynddns.top (81 hosts in use) website | public | [simonej](https://freedns.afraid.org/tools/contact.php?user_id=3746531&subject=dynddns.top) | 415 days ago (12/20/2024) | 0 |
-| dynet.com (6511 hosts in use) website | private | [charlton](https://freedns.afraid.org/tools/contact.php?user_id=190715&subject=dynet.com) | 6018 days ago (08/25/2009) | 0 |
+| dynet.com (6510 hosts in use) website | private | [charlton](https://freedns.afraid.org/tools/contact.php?user_id=190715&subject=dynet.com) | 6019 days ago (08/25/2009) | 0 |
 | dynorex.com (50 hosts in use) website | private | [dynorex](https://freedns.afraid.org/tools/contact.php?user_id=742469&subject=dynorex.com) | 3667 days ago (01/26/2016) | 0 |
 | dzacharo.eu (73 hosts in use) website | public | [dzacharo](https://freedns.afraid.org/tools/contact.php?user_id=289127&subject=dzacharo.eu) | 2579 days ago (01/22/2019) | 0 |
 | e-1race.com (38 hosts in use) website | private | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=e-1race.com) | 4985 days ago (06/12/2012) | 0 |
@@ -6809,7 +6795,7 @@ Total domains: 25241
 | eastagro.ro (17 hosts in use) website | private | [zsokos](https://freedns.afraid.org/tools/contact.php?user_id=555414&subject=eastagro.ro) | 2185 days ago (01/20/2020) | 0 |
 | eastonb.net (25 hosts in use) website | private | [beaston02](https://freedns.afraid.org/tools/contact.php?user_id=1865580&subject=eastonb.net) | 4226 days ago (07/13/2014) | 0 |
 | easycode.hk (36 hosts in use) website | private | [chanleong](https://freedns.afraid.org/tools/contact.php?user_id=1844177&subject=easycode.hk) | 3324 days ago (01/04/2017) | 0 |
-| easygate.eu (34 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=easygate.eu) | 5731 days ago (06/05/2010) | 0 |
+| easygate.eu (35 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=easygate.eu) | 5735 days ago (06/05/2010) | 0 |
 | eboboshi.ru (59 hosts in use) website | public | [chulavek](https://freedns.afraid.org/tools/contact.php?user_id=4315504&subject=eboboshi.ru) | 410 days ago (12/01/2024) | 0 |
 | ebwater.com (51 hosts in use) website | private | [chungcw](https://freedns.afraid.org/tools/contact.php?user_id=2021720&subject=ebwater.com) | 4053 days ago (12/09/2014) | 0 |
 | ec2boss.com (31 hosts in use) website | private | [chimpanzee](https://freedns.afraid.org/tools/contact.php?user_id=381545&subject=ec2boss.com) | 2546 days ago (02/24/2019) | 0 |
@@ -6822,7 +6808,7 @@ Total domains: 25241
 | edujose.com (32 hosts in use) website | private | [edujoseg](https://freedns.afraid.org/tools/contact.php?user_id=560515&subject=edujose.com) | 3220 days ago (04/08/2017) | 0 |
 | edujose.org (51 hosts in use) website | private | [edujoseg](https://freedns.afraid.org/tools/contact.php?user_id=560515&subject=edujose.org) | 5650 days ago (08/25/2010) | 0 |
 | eeii.com.ar (23 hosts in use) website | private | [estint](https://freedns.afraid.org/tools/contact.php?user_id=2287066&subject=eeii.com.ar) | 3284 days ago (01/30/2017) | 0 |
-| eemotors.uk (29 hosts in use) website | private | [giani](https://freedns.afraid.org/tools/contact.php?user_id=33733&subject=eemotors.uk) | 142 days ago (09/24/2025) | 0 |
+| eemotors.uk (30 hosts in use) website | private | [giani](https://freedns.afraid.org/tools/contact.php?user_id=33733&subject=eemotors.uk) | 145 days ago (09/24/2025) | 0 |
 | efeuran.com (37 hosts in use) website | private | [onururan](https://freedns.afraid.org/tools/contact.php?user_id=1645918&subject=efeuran.com) | 4104 days ago (10/30/2014) | 0 |
 | efikasoft.ru (5 hosts in use) website | private | [vkm](https://freedns.afraid.org/tools/contact.php?user_id=3508135&subject=efikasoft.ru) | 1810 days ago (01/29/2021) | 0 |
 | efrati.org (207 hosts in use) website | public | [navone](https://freedns.afraid.org/tools/contact.php?user_id=518393&subject=efrati.org) | 5771 days ago (04/25/2010) | 0 |
@@ -6892,7 +6878,7 @@ Total domains: 25241
 | expo-vpa.ru (10 hosts in use) website | private | [pahomov](https://freedns.afraid.org/tools/contact.php?user_id=882339&subject=expo-vpa.ru) | 122 days ago (09/13/2025) | 0 |
 | extorted.biz (9 hosts in use) website | private | [extorted34](https://freedns.afraid.org/tools/contact.php?user_id=4207541&subject=extorted.biz) | 582 days ago (07/10/2024) | 0 |
 | ezeetan.com (39 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=ezeetan.com) | 6192 days ago (03/02/2009) | 0 |
-| ezview.asia (66 hosts in use) website | public | [jaroon2517](https://freedns.afraid.org/tools/contact.php?user_id=2606457&subject=ezview.asia) | 3603 days ago (04/05/2016) | 0 |
+| ezview.asia (68 hosts in use) website | public | [jaroon2517](https://freedns.afraid.org/tools/contact.php?user_id=2606457&subject=ezview.asia) | 3604 days ago (04/05/2016) | 0 |
 | fabiohux.com (7 hosts in use) website | private | [fabiohux](https://freedns.afraid.org/tools/contact.php?user_id=3874900&subject=fabiohux.com) | 718 days ago (01/26/2024) | 0 |
 | falanster.su (7 hosts in use) website | private | [myetdns](https://freedns.afraid.org/tools/contact.php?user_id=442765&subject=falanster.su) | 868 days ago (08/29/2023) | 0 |
 | falquina.es (29 hosts in use) website | private | [jorfalqui](https://freedns.afraid.org/tools/contact.php?user_id=3483915&subject=falquina.es) | 1171 days ago (10/30/2022) | 0 |
@@ -6949,7 +6935,7 @@ Total domains: 25241
 | fortytwo.fi (15 hosts in use) website | private | [immomp](https://freedns.afraid.org/tools/contact.php?user_id=1015872&subject=fortytwo.fi) | 4977 days ago (05/31/2012) | 0 |
 | fotocicek.si (4 hosts in use) website | private | [bajs0r](https://freedns.afraid.org/tools/contact.php?user_id=540834&subject=fotocicek.si) | 454 days ago (10/16/2024) | 0 |
 | fqcomics.cl (22 hosts in use) website | private | [fqcomics](https://freedns.afraid.org/tools/contact.php?user_id=3852417&subject=fqcomics.cl) | 1014 days ago (04/11/2023) | 0 |
-| frankts.com (35 hosts in use) website | private | [mikef336](https://freedns.afraid.org/tools/contact.php?user_id=985749&subject=frankts.com) | 4868 days ago (10/16/2012) | 0 |
+| frankts.com (36 hosts in use) website | private | [mikef336](https://freedns.afraid.org/tools/contact.php?user_id=985749&subject=frankts.com) | 4871 days ago (10/16/2012) | 0 |
 | frapell.com (35 hosts in use) website | private | [frapell](https://freedns.afraid.org/tools/contact.php?user_id=247098&subject=frapell.com) | 4220 days ago (07/24/2014) | 0 |
 | free-mrp.com (7 hosts in use) website | public | [natxocc](https://freedns.afraid.org/tools/contact.php?user_id=837155&subject=free-mrp.com) | 421 days ago (12/19/2024) | 0 |
 | freemath.ch (72 hosts in use) website | private | [dfarruggio](https://freedns.afraid.org/tools/contact.php?user_id=418214&subject=freemath.ch) | 5900 days ago (12/19/2009) | 0 |
@@ -7032,7 +7018,7 @@ Total domains: 25241
 | goldtrip.ro (14 hosts in use) website | private | [zsokos](https://freedns.afraid.org/tools/contact.php?user_id=555414&subject=goldtrip.ro) | 2059 days ago (05/25/2020) | 0 |
 | gonature.ro (36 hosts in use) website | public | [youpc](https://freedns.afraid.org/tools/contact.php?user_id=538522&subject=gonature.ro) | 665 days ago (04/17/2024) | 0 |
 | gonsette.be (28 hosts in use) website | private | [jsgonsette](https://freedns.afraid.org/tools/contact.php?user_id=1180177&subject=gonsette.be) | 4880 days ago (09/18/2012) | 0 |
-| goroshka.ru (28 hosts in use) website | public | [petr28](https://freedns.afraid.org/tools/contact.php?user_id=4437821&subject=goroshka.ru) | 284 days ago (05/07/2025) | 0 |
+| goroshka.ru (59 hosts in use) website | public | [petr28](https://freedns.afraid.org/tools/contact.php?user_id=4437821&subject=goroshka.ru) | 284 days ago (05/07/2025) | 0 |
 | goroshko.ru (24 hosts in use) website | private | [evg4reg](https://freedns.afraid.org/tools/contact.php?user_id=1276430&subject=goroshko.ru) | 4744 days ago (01/30/2013) | 0 |
 | gostling.cl (30 hosts in use) website | private | [ian96](https://freedns.afraid.org/tools/contact.php?user_id=1283809&subject=gostling.cl) | 3877 days ago (06/05/2015) | 0 |
 | goteeem.com (59 hosts in use) website | public | [djsbx](https://freedns.afraid.org/tools/contact.php?user_id=542086&subject=goteeem.com) | 2516 days ago (03/25/2019) | 0 |
@@ -7056,13 +7042,13 @@ Total domains: 25241
 | grogg-sec.ch (9 hosts in use) website | private | [benjamingrogg](https://freedns.afraid.org/tools/contact.php?user_id=717709&subject=grogg-sec.ch) | 308 days ago (03/13/2025) | 0 |
 | grolanda.se (10 hosts in use) website | private | [volkis](https://freedns.afraid.org/tools/contact.php?user_id=418942&subject=grolanda.se) | 6368 days ago (09/09/2008) | 0 |
 | grouper.cl (148 hosts in use) website | public | [felipearaya](https://freedns.afraid.org/tools/contact.php?user_id=1656828&subject=grouper.cl) | 4385 days ago (02/04/2014) | 0 |
-| groups.id (1191 hosts in use) website | public | [dukungan](https://freedns.afraid.org/tools/contact.php?user_id=1839437&subject=groups.id) | 3172 days ago (06/10/2017) | 0 |
+| groups.id (1192 hosts in use) website | public | [dukungan](https://freedns.afraid.org/tools/contact.php?user_id=1839437&subject=groups.id) | 3172 days ago (06/10/2017) | 0 |
 | gsmarena.gr (45 hosts in use) website | public | [tonydigital](https://freedns.afraid.org/tools/contact.php?user_id=161302&subject=gsmarena.gr) | 5581 days ago (10/05/2010) | 0 |
 | guderjan.ca (36 hosts in use) website | private | [dguderjan](https://freedns.afraid.org/tools/contact.php?user_id=544795&subject=guderjan.ca) | 4049 days ago (01/08/2015) | 0 |
 | guiolife.cl (81 hosts in use) website | public | [colivares](https://freedns.afraid.org/tools/contact.php?user_id=888181&subject=guiolife.cl) | 5162 days ago (12/28/2011) | 0 |
 | gula.com.ar (94 hosts in use) website | public | [smineo1](https://freedns.afraid.org/tools/contact.php?user_id=674926&subject=gula.com.ar) | 5272 days ago (09/09/2011) | 0 |
 | gunas.co.id (14 hosts in use) website | private | [incasiraya](https://freedns.afraid.org/tools/contact.php?user_id=1507064&subject=gunas.co.id) | 4397 days ago (12/30/2013) | 0 |
-| gurdit.com (700 hosts in use) website | public | [gurdits](https://freedns.afraid.org/tools/contact.php?user_id=403825&subject=gurdit.com) | 6423 days ago (07/16/2008) | 0 |
+| gurdit.com (701 hosts in use) website | public | [gurdits](https://freedns.afraid.org/tools/contact.php?user_id=403825&subject=gurdit.com) | 6424 days ago (07/16/2008) | 0 |
 | gutzuki.com (37 hosts in use) website | private | [gutier1j](https://freedns.afraid.org/tools/contact.php?user_id=1876493&subject=gutzuki.com) | 4101 days ago (11/09/2014) | 0 |
 | guyhome.net (41 hosts in use) website | private | [gbnet](https://freedns.afraid.org/tools/contact.php?user_id=899422&subject=guyhome.net) | 5126 days ago (02/03/2012) | 0 |
 | gvpcsaa.org (21 hosts in use) website | private | [mantavyagajjar](https://freedns.afraid.org/tools/contact.php?user_id=806007&subject=gvpcsaa.org) | 5023 days ago (05/15/2012) | 0 |
@@ -7123,7 +7109,7 @@ Total domains: 25241
 | hotelria.ro (81 hosts in use) website | public | [xenopol](https://freedns.afraid.org/tools/contact.php?user_id=2812905&subject=hotelria.ro) | 3315 days ago (01/18/2017) | 0 |
 | hotzona.bg (101 hosts in use) website | private | [venicata](https://freedns.afraid.org/tools/contact.php?user_id=944071&subject=hotzona.bg) | 4082 days ago (12/10/2014) | 0 |
 | hqpi.com.np (22 hosts in use) website | private | [imursd](https://freedns.afraid.org/tools/contact.php?user_id=3027115&subject=hqpi.com.np) | 2871 days ago (03/05/2018) | 0 |
-| htims.co.uk (29 hosts in use) website | private | [smiffy1989](https://freedns.afraid.org/tools/contact.php?user_id=1407554&subject=htims.co.uk) | 3904 days ago (06/02/2015) | 0 |
+| htims.co.uk (29 hosts in use) website | private | [smiffy1989](https://freedns.afraid.org/tools/contact.php?user_id=1407554&subject=htims.co.uk) | 3912 days ago (06/02/2015) | 0 |
 | html5gam.es (15 hosts in use) website | private | [cmctrack](https://freedns.afraid.org/tools/contact.php?user_id=554944&subject=html5gam.es) | 4926 days ago (07/19/2012) | 0 |
 | hughjae.com (80 hosts in use) website | public | [azmeo](https://freedns.afraid.org/tools/contact.php?user_id=3408406&subject=hughjae.com) | 2074 days ago (05/27/2020) | 0 |
 | huhuhun.com (42 hosts in use) website | private | [mihchang](https://freedns.afraid.org/tools/contact.php?user_id=483587&subject=huhuhun.com) | 6100 days ago (05/04/2009) | 0 |
@@ -7182,7 +7168,7 @@ Total domains: 25241
 | inidsol.net (25 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=inidsol.net) | 1165 days ago (11/07/2022) | 0 |
 | inkcat.net (239 hosts in use) website | private | [maximkarban](https://freedns.afraid.org/tools/contact.php?user_id=662674&subject=inkcat.net) | 5559 days ago (11/23/2010) | 0 |
 | inkontra.at (12 hosts in use) website | private | [lauraof](https://freedns.afraid.org/tools/contact.php?user_id=4115874&subject=inkontra.at) | 3695 days ago (12/02/2015) | 0 |
-| inode.pp.ru (54 hosts in use) website | private | [lemonacid](https://freedns.afraid.org/tools/contact.php?user_id=2038375&subject=inode.pp.ru) | 4081 days ago (12/11/2014) | 0 |
+| inode.pp.ru (55 hosts in use) website | private | [lemonacid](https://freedns.afraid.org/tools/contact.php?user_id=2038375&subject=inode.pp.ru) | 4084 days ago (12/11/2014) | 0 |
 | insausti.cl (26 hosts in use) website | private | [finsaustim](https://freedns.afraid.org/tools/contact.php?user_id=684364&subject=insausti.cl) | 5475 days ago (01/17/2011) | 0 |
 | insheep.org (66 hosts in use) website | public | [pranowo](https://freedns.afraid.org/tools/contact.php?user_id=476362&subject=insheep.org) | 328 days ago (03/24/2025) | 0 |
 | inspond.com (54 hosts in use) website | private | [jolly73](https://freedns.afraid.org/tools/contact.php?user_id=2117059&subject=inspond.com) | 4008 days ago (02/04/2015) | 0 |
@@ -7202,7 +7188,7 @@ Total domains: 25241
 | ircnet.cafe (11 hosts in use) website | private | [togone76](https://freedns.afraid.org/tools/contact.php?user_id=478115&subject=ircnet.cafe) | 563 days ago (07/29/2024) | 0 |
 | ircnet.help (11 hosts in use) website | private | [togone76](https://freedns.afraid.org/tools/contact.php?user_id=478115&subject=ircnet.help) | 572 days ago (07/03/2024) | 0 |
 | isakira.com (43 hosts in use) website | private | [wwwadmin](https://freedns.afraid.org/tools/contact.php?user_id=425925&subject=isakira.com) | 1044 days ago (03/29/2023) | 0 |
-| isiklik.net (23 hosts in use) website | private | [laasik](https://freedns.afraid.org/tools/contact.php?user_id=797550&subject=isiklik.net) | 5285 days ago (08/28/2011) | 0 |
+| isiklik.net (24 hosts in use) website | private | [laasik](https://freedns.afraid.org/tools/contact.php?user_id=797550&subject=isiklik.net) | 5286 days ago (08/28/2011) | 0 |
 | istrash.com (18 hosts in use) website | private | [cyberstealth1024](https://freedns.afraid.org/tools/contact.php?user_id=625000&subject=istrash.com) | 5380 days ago (05/24/2011) | 0 |
 | itchile.com (41 hosts in use) website | private | [thekyla](https://freedns.afraid.org/tools/contact.php?user_id=298743&subject=itchile.com) | 6855 days ago (05/05/2007) | 0 |
 | itech-lab.gr (6 hosts in use) website | private | [dmdpc](https://freedns.afraid.org/tools/contact.php?user_id=4531052&subject=itech-lab.gr) | 141 days ago (08/27/2025) | 0 |
@@ -7217,7 +7203,7 @@ Total domains: 25241
 | izu104.com (120 hosts in use) website | public | [kouji178](https://freedns.afraid.org/tools/contact.php?user_id=755051&subject=izu104.com) | 5130 days ago (01/27/2012) | 0 |
 | j3jcloud.com (7 hosts in use) website | private | [phatcake](https://freedns.afraid.org/tools/contact.php?user_id=4361535&subject=j3jcloud.com) | 358 days ago (02/07/2025) | 0 |
 | jabscloud.de (4 hosts in use) website | private | [asshoff](https://freedns.afraid.org/tools/contact.php?user_id=5119985&subject=jabscloud.de) | 88 days ago (11/15/2025) | 0 |
-| jackng.net (192 hosts in use) website | public | [wkng](https://freedns.afraid.org/tools/contact.php?user_id=164089&subject=jackng.net) | 6838 days ago (05/27/2007) | 0 |
+| jackng.net (192 hosts in use) website | public | [wkng](https://freedns.afraid.org/tools/contact.php?user_id=164089&subject=jackng.net) | 6840 days ago (05/27/2007) | 0 |
 | jaditoba.de (41 hosts in use) website | private | [jaditoba](https://freedns.afraid.org/tools/contact.php?user_id=685894&subject=jaditoba.de) | 5497 days ago (01/23/2011) | 0 |
 | jajanan.com (39 hosts in use) website | private | [januslimar](https://freedns.afraid.org/tools/contact.php?user_id=2008481&subject=jajanan.com) | 4083 days ago (12/09/2014) | 0 |
 | jalcorn.com (27 hosts in use) website | private | [jbalcorn](https://freedns.afraid.org/tools/contact.php?user_id=379918&subject=jalcorn.com) | 6519 days ago (04/04/2008) | 0 |
@@ -7350,7 +7336,7 @@ Total domains: 25241
 | kopeika89.ru (9 hosts in use) website | public | [alwhite](https://freedns.afraid.org/tools/contact.php?user_id=3606690&subject=kopeika89.ru) | 1570 days ago (10/19/2021) | 0 |
 | koperca.com (60 hosts in use) website | private | [rabzelj](https://freedns.afraid.org/tools/contact.php?user_id=196528&subject=koperca.com) | 4605 days ago (07/08/2013) | 0 |
 | kormoco.com (26 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=kormoco.com) | 1183 days ago (11/07/2022) | 0 |
-| korp.net.ru (74 hosts in use) website | private | [korp](https://freedns.afraid.org/tools/contact.php?user_id=570912&subject=korp.net.ru) | 5802 days ago (03/25/2010) | 0 |
+| korp.net.ru (74 hosts in use) website | private | [korp](https://freedns.afraid.org/tools/contact.php?user_id=570912&subject=korp.net.ru) | 5807 days ago (03/25/2010) | 0 |
 | kostros.com (23 hosts in use) website | private | [matejkostros](https://freedns.afraid.org/tools/contact.php?user_id=3119998&subject=kostros.com) | 2637 days ago (11/22/2018) | 0 |
 | kotikolo.me (30 hosts in use) website | private | [teemupa](https://freedns.afraid.org/tools/contact.php?user_id=1645756&subject=kotikolo.me) | 4406 days ago (01/21/2014) | 0 |
 | kounavis.gr (13 hosts in use) website | private | [kbousias](https://freedns.afraid.org/tools/contact.php?user_id=529678&subject=kounavis.gr) | 5803 days ago (02/23/2010) | 0 |
@@ -7403,14 +7389,14 @@ Total domains: 25241
 | laurencio.ar (7 hosts in use) website | public | [hsuarez](https://freedns.afraid.org/tools/contact.php?user_id=3782735&subject=laurencio.ar) | 1076 days ago (03/04/2023) | 0 |
 | lawyerdb.hk (21 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=lawyerdb.hk) | 6191 days ago (03/03/2009) | 0 |
 | lazycoder.me (7 hosts in use) website | private | [fmatar](https://freedns.afraid.org/tools/contact.php?user_id=3309717&subject=lazycoder.me) | 2335 days ago (09/19/2019) | 0 |
-| ldine.co.uk (46 hosts in use) website | private | [amerwe4](https://freedns.afraid.org/tools/contact.php?user_id=238429&subject=ldine.co.uk) | 5983 days ago (09/28/2009) | 0 |
+| ldine.co.uk (46 hosts in use) website | private | [amerwe4](https://freedns.afraid.org/tools/contact.php?user_id=238429&subject=ldine.co.uk) | 5985 days ago (09/28/2009) | 0 |
 | leaderlub.ro (7 hosts in use) website | public | [gbanug](https://freedns.afraid.org/tools/contact.php?user_id=568511&subject=leaderlub.ro) | 2150 days ago (03/07/2020) | 0 |
 | leadpro.net (29 hosts in use) website | private | [telepro](https://freedns.afraid.org/tools/contact.php?user_id=450800&subject=leadpro.net) | 5078 days ago (03/22/2012) | 0 |
 | leamonde.com (7 hosts in use) website | private | [myquael](https://freedns.afraid.org/tools/contact.php?user_id=4116066&subject=leamonde.com) | 663 days ago (03/21/2024) | 0 |
 | lebrija.org (57 hosts in use) website | private | [skoteino](https://freedns.afraid.org/tools/contact.php?user_id=3745288&subject=lebrija.org) | 783 days ago (12/25/2023) | 0 |
 | lecroog.com (40 hosts in use) website | private | [sfansk](https://freedns.afraid.org/tools/contact.php?user_id=2958305&subject=lecroog.com) | 2983 days ago (11/15/2017) | 0 |
 | lecturapp.es (2 hosts in use) website | private | [manufosela](https://freedns.afraid.org/tools/contact.php?user_id=4522217&subject=lecturapp.es) | 145 days ago (08/21/2025) | 0 |
-| ledernc.com (27 hosts in use) website | private | [lederncc](https://freedns.afraid.org/tools/contact.php?user_id=3336173&subject=ledernc.com) | 2259 days ago (12/08/2019) | 0 |
+| ledernc.com (27 hosts in use) website | private | [lederncc](https://freedns.afraid.org/tools/contact.php?user_id=3336173&subject=ledernc.com) | 2262 days ago (12/08/2019) | 0 |
 | legacorp.cl (68 hosts in use) website | public | [lbaez](https://freedns.afraid.org/tools/contact.php?user_id=408796&subject=legacorp.cl) | 3378 days ago (11/04/2016) | 0 |
 | legalhost.de (9 hosts in use) website | private | [rapi63](https://freedns.afraid.org/tools/contact.php?user_id=1529542&subject=legalhost.de) | 3900 days ago (06/10/2015) | 0 |
 | legere.info (49 hosts in use) website | private | [lytedementia](https://freedns.afraid.org/tools/contact.php?user_id=1019529&subject=legere.info) | 4013 days ago (02/16/2015) | 0 |
@@ -7421,7 +7407,6 @@ Total domains: 25241
 | leoneti.com (38 hosts in use) website | private | [leoneti](https://freedns.afraid.org/tools/contact.php?user_id=1382670&subject=leoneti.com) | 4617 days ago (06/03/2013) | 0 |
 | leonili.com (49 hosts in use) website | private | [leonili](https://freedns.afraid.org/tools/contact.php?user_id=939599&subject=leonili.com) | 5096 days ago (02/14/2012) | 0 |
 | leotwins.com (8 hosts in use) website | private | [leonidbobovich](https://freedns.afraid.org/tools/contact.php?user_id=3315699&subject=leotwins.com) | 63 days ago (11/24/2025) | 0 |
-| lesavoie.ch (26 hosts in use) website | private | [lesavoie](https://freedns.afraid.org/tools/contact.php?user_id=1653370&subject=lesavoie.ch) | 4367 days ago (01/31/2014) | 0 |
 | level10.org (27 hosts in use) website | private | [harroguk](https://freedns.afraid.org/tools/contact.php?user_id=1935938&subject=level10.org) | 4165 days ago (09/16/2014) | 0 |
 | lewisj.co.uk (7 hosts in use) website | public | [smithuk](https://freedns.afraid.org/tools/contact.php?user_id=4149045&subject=lewisj.co.uk) | 4314 days ago (04/22/2014) | 0 |
 | lgmnow.com (121 hosts in use) website | public | [michael1112226](https://freedns.afraid.org/tools/contact.php?user_id=1751611&subject=lgmnow.com) | 2808 days ago (06/01/2018) | 0 |
@@ -7431,7 +7416,7 @@ Total domains: 25241
 | lidalist.ca (25 hosts in use) website | private | [himeko](https://freedns.afraid.org/tools/contact.php?user_id=946502&subject=lidalist.ca) | 3282 days ago (02/10/2017) | 0 |
 | liferod.com (53 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=liferod.com) | 204 days ago (07/21/2025) | 0 |
 | lift-crew.fi (8 hosts in use) website | private | [feenix](https://freedns.afraid.org/tools/contact.php?user_id=325848&subject=lift-crew.fi) | 1812 days ago (01/27/2021) | 0 |
-| liftcrew.fi (17 hosts in use) website | private | [feenix](https://freedns.afraid.org/tools/contact.php?user_id=325848&subject=liftcrew.fi) | 248 days ago (06/12/2025) | 0 |
+| liftcrew.fi (45 hosts in use) website | private | [feenix](https://freedns.afraid.org/tools/contact.php?user_id=325848&subject=liftcrew.fi) | 248 days ago (06/12/2025) | 0 |
 | lindajwu.ca (30 hosts in use) website | private | [wucolin](https://freedns.afraid.org/tools/contact.php?user_id=547261&subject=lindajwu.ca) | 5082 days ago (02/14/2012) | 0 |
 | lindoxy.com (34 hosts in use) website | private | [misdev](https://freedns.afraid.org/tools/contact.php?user_id=3540216&subject=lindoxy.com) | 1761 days ago (04/12/2021) | 0 |
 | linked8.net (31 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=linked8.net) | 207 days ago (07/21/2025) | 0 |
@@ -7448,7 +7433,7 @@ Total domains: 25241
 | liviumara.ro (7 hosts in use) website | private | [maralvdnl](https://freedns.afraid.org/tools/contact.php?user_id=2007528&subject=liviumara.ro) | 373 days ago (01/05/2025) | 0 |
 | lntxbox.com (42 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=lntxbox.com) | 201 days ago (07/21/2025) | 0 |
 | localnet.ca (22 hosts in use) website | private | [bl95ak](https://freedns.afraid.org/tools/contact.php?user_id=786077&subject=localnet.ca) | 4717 days ago (03/08/2013) | 0 |
-| logicas.org (32 hosts in use) website | private | [nightgreenwolf](https://freedns.afraid.org/tools/contact.php?user_id=3784202&subject=logicas.org) | 1144 days ago (12/25/2022) | 0 |
+| logicas.org (32 hosts in use) website | private | [nightgreenwolf](https://freedns.afraid.org/tools/contact.php?user_id=3784202&subject=logicas.org) | 1149 days ago (12/25/2022) | 0 |
 | logicos.org (12 hosts in use) website | private | [nightgreenwolf](https://freedns.afraid.org/tools/contact.php?user_id=3784202&subject=logicos.org) | 1115 days ago (12/25/2022) | 0 |
 | logntw.com (250 hosts in use) website | public | [lgd1008](https://freedns.afraid.org/tools/contact.php?user_id=589310&subject=logntw.com) | 5771 days ago (04/27/2010) | 0 |
 | logofatu.ro (85 hosts in use) website | public | [cristilogo](https://freedns.afraid.org/tools/contact.php?user_id=791649&subject=logofatu.ro) | 4767 days ago (12/26/2012) | 0 |
@@ -7459,7 +7444,6 @@ Total domains: 25241
 | lonko.co.uk (12 hosts in use) website | private | [cybernodo](https://freedns.afraid.org/tools/contact.php?user_id=1004778&subject=lonko.co.uk) | 271 days ago (05/16/2025) | 0 |
 | loongarch.ru (3 hosts in use) website | private | [cyfive](https://freedns.afraid.org/tools/contact.php?user_id=95652&subject=loongarch.ru) | 83 days ago (11/11/2025) | 0 |
 | lora-aprs.es (9 hosts in use) website | private | [eb1tk](https://freedns.afraid.org/tools/contact.php?user_id=455519&subject=lora-aprs.es) | 723 days ago (01/21/2024) | 0 |
-| loratech.ch (26 hosts in use) website | private | [nicatmu9](https://freedns.afraid.org/tools/contact.php?user_id=273849&subject=loratech.ch) | 2425 days ago (06/24/2019) | 0 |
 | lorddfu.com (63 hosts in use) website | private | [dbruce](https://freedns.afraid.org/tools/contact.php?user_id=278022&subject=lorddfu.com) | 5583 days ago (10/29/2010) | 0 |
 | lordkapi.com (6 hosts in use) website | private | [lordkapi](https://freedns.afraid.org/tools/contact.php?user_id=3318734&subject=lordkapi.com) | 2280 days ago (10/17/2019) | 0 |
 | losarcos.us (36 hosts in use) website | private | [kike3d](https://freedns.afraid.org/tools/contact.php?user_id=850150&subject=losarcos.us) | 2158 days ago (03/20/2020) | 0 |
@@ -7499,7 +7483,6 @@ Total domains: 25241
 | mainsail.pt (22 hosts in use) website | private | [mainsail](https://freedns.afraid.org/tools/contact.php?user_id=576778&subject=mainsail.pt) | 5753 days ago (04/14/2010) | 0 |
 | maivyinc.ca (32 hosts in use) website | private | [2qvideo](https://freedns.afraid.org/tools/contact.php?user_id=2141173&subject=maivyinc.ca) | 1701 days ago (06/10/2021) | 0 |
 | make-it.ro (114 hosts in use) website | public | [maeianzanfir](https://freedns.afraid.org/tools/contact.php?user_id=2416500&subject=make-it.ro) | 3787 days ago (09/23/2015) | 0 |
-| maksym.info (26 hosts in use) website | private | [maxsteciuk](https://freedns.afraid.org/tools/contact.php?user_id=3060093&subject=maksym.info) | 2813 days ago (05/31/2018) | 0 |
 | malsky.net (152 hosts in use) website | public | [soundhole](https://freedns.afraid.org/tools/contact.php?user_id=1201737&subject=malsky.net) | 3874 days ago (07/07/2015) | 0 |
 | manfrey.cl (117 hosts in use) website | public | [chago12](https://freedns.afraid.org/tools/contact.php?user_id=1184007&subject=manfrey.cl) | 4369 days ago (01/29/2014) | 0 |
 | manica.org (199 hosts in use) website | public | [manica](https://freedns.afraid.org/tools/contact.php?user_id=1747304&subject=manica.org) | 4313 days ago (04/22/2014) | 0 |
@@ -7511,7 +7494,7 @@ Total domains: 25241
 | margushka.ru (5 hosts in use) website | public | [alwhite](https://freedns.afraid.org/tools/contact.php?user_id=3606690&subject=margushka.ru) | 1577 days ago (10/19/2021) | 0 |
 | marinlarm.se (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=marinlarm.se) | 3953 days ago (03/19/2015) | 0 |
 | mariusl.com (29 hosts in use) website | private | [mariular](https://freedns.afraid.org/tools/contact.php?user_id=273841&subject=mariusl.com) | 5475 days ago (02/15/2011) | 0 |
-| markeby.net (17 hosts in use) website | private | [markeby](https://freedns.afraid.org/tools/contact.php?user_id=428985&subject=markeby.net) | 6240 days ago (01/11/2009) | 0 |
+| markeby.net (17 hosts in use) website | private | [markeby](https://freedns.afraid.org/tools/contact.php?user_id=428985&subject=markeby.net) | 6245 days ago (01/11/2009) | 0 |
 | markinux.es (21 hosts in use) website | private | [chopyo](https://freedns.afraid.org/tools/contact.php?user_id=1669390&subject=markinux.es) | 3137 days ago (06/14/2017) | 0 |
 | marowscy.pl (27 hosts in use) website | private | [jasiu](https://freedns.afraid.org/tools/contact.php?user_id=405475&subject=marowscy.pl) | 6391 days ago (07/17/2008) | 0 |
 | marowska.pl (22 hosts in use) website | private | [jasiu](https://freedns.afraid.org/tools/contact.php?user_id=405475&subject=marowska.pl) | 6251 days ago (12/04/2008) | 0 |
@@ -7533,11 +7516,9 @@ Total domains: 25241
 | maxbleck.tk (25 hosts in use) website | private | [christine1234](https://freedns.afraid.org/tools/contact.php?user_id=1766222&subject=maxbleck.tk) | 4014 days ago (01/17/2015) | 0 |
 | mayberry.fr (41 hosts in use) website | private | [bubsbilby](https://freedns.afraid.org/tools/contact.php?user_id=3346312&subject=mayberry.fr) | 2203 days ago (01/29/2020) | 0 |
 | mazedream.ar (9 hosts in use) website | private | [vikingoba](https://freedns.afraid.org/tools/contact.php?user_id=888153&subject=mazedream.ar) | 676 days ago (03/25/2024) | 0 |
-| mazznet.com (26 hosts in use) website | private | [mazz4365](https://freedns.afraid.org/tools/contact.php?user_id=2350674&subject=mazznet.com) | 2741 days ago (08/12/2018) | 0 |
 | mbrosini.ch (27 hosts in use) website | private | [swiftch](https://freedns.afraid.org/tools/contact.php?user_id=597862&subject=mbrosini.ch) | 5735 days ago (05/04/2010) | 0 |
 | mc-eden.net (25 hosts in use) website | private | [alphanimal](https://freedns.afraid.org/tools/contact.php?user_id=1652239&subject=mc-eden.net) | 2959 days ago (12/09/2017) | 0 |
 | mchini.com (251 hosts in use) website | public | [chmrc](https://freedns.afraid.org/tools/contact.php?user_id=1331940&subject=mchini.com) | 4685 days ago (04/11/2013) | 0 |
-| mcrenox.com (26 hosts in use) website | private | [dgrazio](https://freedns.afraid.org/tools/contact.php?user_id=1809298&subject=mcrenox.com) | 4272 days ago (06/03/2014) | 0 |
 | mdanyel.xyz (56 hosts in use) website | public | [danyel2012](https://freedns.afraid.org/tools/contact.php?user_id=1004071&subject=mdanyel.xyz) | 2142 days ago (04/05/2020) | 0 |
 | mdq.com.ar (102 hosts in use) website | public | [mdqdam](https://freedns.afraid.org/tools/contact.php?user_id=851832&subject=mdq.com.ar) | 5190 days ago (11/29/2011) | 0 |
 | mecctro.com (38 hosts in use) website | private | [exmortis](https://freedns.afraid.org/tools/contact.php?user_id=429938&subject=mecctro.com) | 5047 days ago (03/28/2012) | 0 |
@@ -7574,7 +7555,7 @@ Total domains: 25241
 | mindsoft.cl (35 hosts in use) website | private | [rodragor](https://freedns.afraid.org/tools/contact.php?user_id=702589&subject=mindsoft.cl) | 5425 days ago (03/10/2011) | 0 |
 | minident.md (19 hosts in use) website | private | [tolika](https://freedns.afraid.org/tools/contact.php?user_id=2443045&subject=minident.md) | 3764 days ago (10/22/2015) | 0 |
 | minisen.com (36 hosts in use) website | private | [ziemowit](https://freedns.afraid.org/tools/contact.php?user_id=112348&subject=minisen.com) | 7695 days ago (01/19/2005) | 0 |
-| mint0.co.uk (44 hosts in use) website | private | [mint0](https://freedns.afraid.org/tools/contact.php?user_id=2080417&subject=mint0.co.uk) | 4055 days ago (01/08/2015) | 0 |
+| mint0.co.uk (44 hosts in use) website | private | [mint0](https://freedns.afraid.org/tools/contact.php?user_id=2080417&subject=mint0.co.uk) | 4057 days ago (01/08/2015) | 0 |
 | mintrud55.ru (8 hosts in use) website | private | [drvicx](https://freedns.afraid.org/tools/contact.php?user_id=3733351&subject=mintrud55.ru) | 63 days ago (11/13/2025) | 0 |
 | mira.nom.za (10 hosts in use) website | public | [miradk](https://freedns.afraid.org/tools/contact.php?user_id=3895471&subject=mira.nom.za) | 974 days ago (06/15/2023) | 0 |
 | miracol.com (22 hosts in use) website | private | [esysolutions](https://freedns.afraid.org/tools/contact.php?user_id=2396998&subject=miracol.com) | 3787 days ago (09/01/2015) | 0 |
@@ -7596,7 +7577,7 @@ Total domains: 25241
 | mongoose.ee (36 hosts in use) website | private | [5p4c3](https://freedns.afraid.org/tools/contact.php?user_id=35107&subject=mongoose.ee) | 5883 days ago (01/05/2010) | 0 |
 | mongow.com (192 hosts in use) website | public | [andreacatto](https://freedns.afraid.org/tools/contact.php?user_id=2036619&subject=mongow.com) | 4085 days ago (12/10/2014) | 0 |
 | monheit.org (12 hosts in use) website | private | [dmon123](https://freedns.afraid.org/tools/contact.php?user_id=3428428&subject=monheit.org) | 2038 days ago (07/10/2020) | 0 |
-| mooo.info (5729 hosts in use) website | public | [dons](https://freedns.afraid.org/tools/contact.php?user_id=77509&subject=mooo.info) | 7907 days ago (06/23/2004) | 0 |
+| mooo.info (5729 hosts in use) website | public | [dons](https://freedns.afraid.org/tools/contact.php?user_id=77509&subject=mooo.info) | 7908 days ago (06/23/2004) | 0 |
 | moores-r.us (15 hosts in use) website | private | [cmoore4](https://freedns.afraid.org/tools/contact.php?user_id=1073542&subject=moores-r.us) | 4959 days ago (06/16/2012) | 0 |
 | mordeco.com (50 hosts in use) website | private | [yaoman41](https://freedns.afraid.org/tools/contact.php?user_id=3190970&subject=mordeco.com) | 2436 days ago (06/08/2019) | 0 |
 | moreale.net (34 hosts in use) website | private | [bellocarico](https://freedns.afraid.org/tools/contact.php?user_id=152134&subject=moreale.net) | 2397 days ago (07/21/2019) | 0 |
@@ -7605,7 +7586,7 @@ Total domains: 25241
 | motagest.pt (89 hosts in use) website | public | [greenironfist](https://freedns.afraid.org/tools/contact.php?user_id=1878572&subject=motagest.pt) | 4034 days ago (01/07/2015) | 0 |
 | motolife.sk (14 hosts in use) website | private | [jumik](https://freedns.afraid.org/tools/contact.php?user_id=2951108&subject=motolife.sk) | 2322 days ago (09/21/2019) | 0 |
 | motosfit.com (8 hosts in use) website | private | [kike3d](https://freedns.afraid.org/tools/contact.php?user_id=850150&subject=motosfit.com) | 2107 days ago (04/13/2020) | 0 |
-| motossa.com (47 hosts in use) website | private | [bubba19](https://freedns.afraid.org/tools/contact.php?user_id=640818&subject=motossa.com) | 3153 days ago (06/27/2017) | 0 |
+| motossa.com (47 hosts in use) website | private | [bubba19](https://freedns.afraid.org/tools/contact.php?user_id=640818&subject=motossa.com) | 3156 days ago (06/27/2017) | 0 |
 | mountain.tw (33 hosts in use) website | private | [ahaoa](https://freedns.afraid.org/tools/contact.php?user_id=468738&subject=mountain.tw) | 6156 days ago (03/09/2009) | 0 |
 | mpleague.com (2 hosts in use) website | private | [novacap](https://freedns.afraid.org/tools/contact.php?user_id=3560181&subject=mpleague.com) | 1577 days ago (10/18/2021) | 0 |
 | mpr.com.ve (124 hosts in use) website | public | [giannidtz](https://freedns.afraid.org/tools/contact.php?user_id=85463&subject=mpr.com.ve) | 5454 days ago (03/01/2011) | 0 |
@@ -7617,7 +7598,6 @@ Total domains: 25241
 | mrmadski.se (21 hosts in use) website | private | [mrmadski](https://freedns.afraid.org/tools/contact.php?user_id=1296406&subject=mrmadski.se) | 4735 days ago (02/28/2013) | 0 |
 | mrovcon.com (50 hosts in use) website | private | [mreformat](https://freedns.afraid.org/tools/contact.php?user_id=306684&subject=mrovcon.com) | 6007 days ago (09/03/2009) | 0 |
 | ms-smart.ru (12 hosts in use) website | private | [dam0nl](https://freedns.afraid.org/tools/contact.php?user_id=4369654&subject=ms-smart.ru) | 346 days ago (02/19/2025) | 0 |
-| mssl-hk.com (26 hosts in use) website | private | [wsktommy68](https://freedns.afraid.org/tools/contact.php?user_id=430881&subject=mssl-hk.com) | 5266 days ago (09/14/2011) | 0 |
 | msxmail.com (60 hosts in use) website | private | [es95pl](https://freedns.afraid.org/tools/contact.php?user_id=260436&subject=msxmail.com) | 7016 days ago (11/29/2006) | 0 |
 | mtsang.info (97 hosts in use) website | private | [mtsang](https://freedns.afraid.org/tools/contact.php?user_id=427614&subject=mtsang.info) | 6284 days ago (11/28/2008) | 0 |
 | mufazalov.ru (7 hosts in use) website | private | [edmufa](https://freedns.afraid.org/tools/contact.php?user_id=3665675&subject=mufazalov.ru) | 738 days ago (02/08/2024) | 0 |
@@ -7632,13 +7612,10 @@ Total domains: 25241
 | mureseni.ro (29 hosts in use) website | private | [ovidex01](https://freedns.afraid.org/tools/contact.php?user_id=1267667&subject=mureseni.ro) | 4264 days ago (05/12/2014) | 0 |
 | mustarie.ro (41 hosts in use) website | private | [fipilica](https://freedns.afraid.org/tools/contact.php?user_id=401158&subject=mustarie.ro) | 4325 days ago (04/11/2014) | 0 |
 | musteata.ro (28 hosts in use) website | private | [sky6lucky](https://freedns.afraid.org/tools/contact.php?user_id=556100&subject=musteata.ro) | 5413 days ago (03/22/2011) | 0 |
-| mvemjsun.de (26 hosts in use) website | private | [chrico19](https://freedns.afraid.org/tools/contact.php?user_id=3028434&subject=mvemjsun.de) | 2874 days ago (03/08/2018) | 0 |
 | mvhirsch.de (33 hosts in use) website | private | [hirschm](https://freedns.afraid.org/tools/contact.php?user_id=2598163&subject=mvhirsch.de) | 3590 days ago (03/24/2016) | 0 |
 | mwbread.com (37 hosts in use) website | private | [mjcocat](https://freedns.afraid.org/tools/contact.php?user_id=374065&subject=mwbread.com) | 262 days ago (05/08/2025) | 0 |
 | mwlibby.org (79 hosts in use) website | public | [marklibby](https://freedns.afraid.org/tools/contact.php?user_id=2948156&subject=mwlibby.org) | 3028 days ago (10/21/2017) | 0 |
-| mx-scan.com (26 hosts in use) website | private | [idobson](https://freedns.afraid.org/tools/contact.php?user_id=784356&subject=mx-scan.com) | 4402 days ago (01/25/2014) | 0 |
 | my-pv.info (116 hosts in use) website | public | [knutkohl](https://freedns.afraid.org/tools/contact.php?user_id=249279&subject=my-pv.info) | 5125 days ago (01/31/2012) | 0 |
-| my9dots.com (26 hosts in use) website | private | [kokkuen](https://freedns.afraid.org/tools/contact.php?user_id=1127038&subject=my9dots.com) | 2466 days ago (05/15/2019) | 0 |
 | myalias.net (40 hosts in use) website | private | [ant0nis](https://freedns.afraid.org/tools/contact.php?user_id=747485&subject=myalias.net) | 5362 days ago (06/12/2011) | 0 |
 | mybbdev.com (24 hosts in use) website | private | [mouse103](https://freedns.afraid.org/tools/contact.php?user_id=740323&subject=mybbdev.com) | 5105 days ago (01/25/2012) | 0 |
 | mydbapi.com (47 hosts in use) website | private | [egateit](https://freedns.afraid.org/tools/contact.php?user_id=701285&subject=mydbapi.com) | 3734 days ago (11/25/2015) | 0 |
@@ -7664,10 +7641,10 @@ Total domains: 25241
 | nanbean.net (49 hosts in use) website | private | [nanbean](https://freedns.afraid.org/tools/contact.php?user_id=299619&subject=nanbean.net) | 6855 days ago (05/09/2007) | 0 |
 | nanc.com.np (76 hosts in use) website | public | [jomanozgml](https://freedns.afraid.org/tools/contact.php?user_id=2864033&subject=nanc.com.np) | 2987 days ago (11/30/2017) | 0 |
 | nanobit.org (92 hosts in use) website | private | [catalinp](https://freedns.afraid.org/tools/contact.php?user_id=242165&subject=nanobit.org) | 4617 days ago (06/26/2013) | 0 |
-| nastyn8.com (24 hosts in use) website | public | [nn419](https://freedns.afraid.org/tools/contact.php?user_id=85004&subject=nastyn8.com) | 7854 days ago (08/15/2004) | 0 |
+| nastyn8.com (25 hosts in use) website | public | [nn419](https://freedns.afraid.org/tools/contact.php?user_id=85004&subject=nastyn8.com) | 7855 days ago (08/15/2004) | 0 |
 | naturista.pt (3 hosts in use) website | private | [pg12](https://freedns.afraid.org/tools/contact.php?user_id=5147688&subject=naturista.pt) | 79 days ago (11/24/2025) | 0 |
 | nazari.org (124 hosts in use) website | private | [siamakna](https://freedns.afraid.org/tools/contact.php?user_id=33194&subject=nazari.org) | 8269 days ago (06/25/2003) | 0 |
-| ncknms.com (177 hosts in use) website | public | [wasthebest](https://freedns.afraid.org/tools/contact.php?user_id=2612190&subject=ncknms.com) | 3597 days ago (04/11/2016) | 0 |
+| ncknms.com (179 hosts in use) website | public | [wasthebest](https://freedns.afraid.org/tools/contact.php?user_id=2612190&subject=ncknms.com) | 3598 days ago (04/11/2016) | 0 |
 | nctuiem.org (88 hosts in use) website | private | [ukliling](https://freedns.afraid.org/tools/contact.php?user_id=852042&subject=nctuiem.org) | 5054 days ago (04/15/2012) | 0 |
 | nekclan.com (39 hosts in use) website | private | [ctcsadmin](https://freedns.afraid.org/tools/contact.php?user_id=2146896&subject=nekclan.com) | 1828 days ago (01/29/2021) | 0 |
 | nekka.co.uk (50 hosts in use) website | private | [danielworrall](https://freedns.afraid.org/tools/contact.php?user_id=1945674&subject=nekka.co.uk) | 4144 days ago (09/26/2014) | 0 |
@@ -7745,7 +7722,7 @@ Total domains: 25241
 | oevi.com.ar (88 hosts in use) website | private | [gnievas](https://freedns.afraid.org/tools/contact.php?user_id=746356&subject=oevi.com.ar) | 5354 days ago (06/10/2011) | 0 |
 | ofagency.pw (18 hosts in use) website | private | [justfive](https://freedns.afraid.org/tools/contact.php?user_id=1130721&subject=ofagency.pw) | 601 days ago (05/22/2024) | 0 |
 | ogecca.net (176 hosts in use) website | public | [akoval](https://freedns.afraid.org/tools/contact.php?user_id=805913&subject=ogecca.net) | 5273 days ago (09/09/2011) | 0 |
-| ohbah.com (2433 hosts in use) website | public | [pattait](https://freedns.afraid.org/tools/contact.php?user_id=38481&subject=ohbah.com) | 8197 days ago (09/07/2003) | 0 |
+| ohbah.com (2437 hosts in use) website | public | [pattait](https://freedns.afraid.org/tools/contact.php?user_id=38481&subject=ohbah.com) | 8198 days ago (09/07/2003) | 0 |
 | oim-inc.net (37 hosts in use) website | private | [nature0814](https://freedns.afraid.org/tools/contact.php?user_id=798900&subject=oim-inc.net) | 4612 days ago (07/01/2013) | 0 |
 | olbud.one.pl (8 hosts in use) website | private | [plucik6](https://freedns.afraid.org/tools/contact.php?user_id=376825&subject=olbud.one.pl) | 1573 days ago (10/22/2021) | 0 |
 | olconet.com (19 hosts in use) website | private | [janinf](https://freedns.afraid.org/tools/contact.php?user_id=2566614&subject=olconet.com) | 3645 days ago (02/18/2016) | 0 |
@@ -7778,12 +7755,12 @@ Total domains: 25241
 | ottitsch.eu (26 hosts in use) website | private | [kriesu](https://freedns.afraid.org/tools/contact.php?user_id=498012&subject=ottitsch.eu) | 3447 days ago (09/03/2016) | 0 |
 | overleden.uk (7 hosts in use) website | private | [lhoon](https://freedns.afraid.org/tools/contact.php?user_id=2043222&subject=overleden.uk) | 2378 days ago (07/11/2019) | 0 |
 | overname.io (38 hosts in use) website | private | [tappaya](https://freedns.afraid.org/tools/contact.php?user_id=2851903&subject=overname.io) | 2490 days ago (03/27/2019) | 0 |
-| ovie.gob.mx (53 hosts in use) website | public | [implanags](https://freedns.afraid.org/tools/contact.php?user_id=3705014&subject=ovie.gob.mx) | 1336 days ago (06/20/2022) | 0 |
+| ovie.gob.mx (59 hosts in use) website | public | [implanags](https://freedns.afraid.org/tools/contact.php?user_id=3705014&subject=ovie.gob.mx) | 1337 days ago (06/20/2022) | 0 |
 | oystereo.com (5 hosts in use) website | private | [bmook](https://freedns.afraid.org/tools/contact.php?user_id=639865&subject=oystereo.com) | 1978 days ago (09/02/2020) | 0 |
 | ozium1.org (212 hosts in use) website | private | [jbgron](https://freedns.afraid.org/tools/contact.php?user_id=754299&subject=ozium1.org) | 5344 days ago (06/27/2011) | 0 |
 | paaca.com.np (7 hosts in use) website | public | [bring2pallav](https://freedns.afraid.org/tools/contact.php?user_id=2463319&subject=paaca.com.np) | 2181 days ago (02/19/2020) | 0 |
 | pactros.com (15 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=pactros.com) | 6535 days ago (02/25/2008) | 0 |
-| pahonia.net (11 hosts in use) website | private | [peterba](https://freedns.afraid.org/tools/contact.php?user_id=353645&subject=pahonia.net) | 154 days ago (09/10/2025) | 0 |
+| pahonia.net (11 hosts in use) website | private | [peterba](https://freedns.afraid.org/tools/contact.php?user_id=353645&subject=pahonia.net) | 158 days ago (09/10/2025) | 0 |
 | paisjusto.cl (5 hosts in use) website | private | [pmansilla](https://freedns.afraid.org/tools/contact.php?user_id=1498906&subject=paisjusto.cl) | 1205 days ago (09/26/2022) | 0 |
 | pakot.id.lv (32 hosts in use) website | private | [budzis](https://freedns.afraid.org/tools/contact.php?user_id=258571&subject=pakot.id.lv) | 5230 days ago (09/19/2011) | 0 |
 | paladin.cl (126 hosts in use) website | public | [prometeus](https://freedns.afraid.org/tools/contact.php?user_id=823842&subject=paladin.cl) | 5239 days ago (10/09/2011) | 0 |
@@ -7841,7 +7818,7 @@ Total domains: 25241
 | phaet0n.net (40 hosts in use) website | private | [phaet0n](https://freedns.afraid.org/tools/contact.php?user_id=522943&subject=phaet0n.net) | 5750 days ago (05/20/2010) | 0 |
 | pharmacy.is (31 hosts in use) website | private | [iceski](https://freedns.afraid.org/tools/contact.php?user_id=165586&subject=pharmacy.is) | 7232 days ago (04/27/2006) | 0 |
 | pheckel.com (38 hosts in use) website | private | [pheckel](https://freedns.afraid.org/tools/contact.php?user_id=1667466&subject=pheckel.com) | 4374 days ago (02/21/2014) | 0 |
-| phigo.co.uk (17 hosts in use) website | private | [joytoy](https://freedns.afraid.org/tools/contact.php?user_id=801179&subject=phigo.co.uk) | 5280 days ago (09/01/2011) | 0 |
+| phigo.co.uk (17 hosts in use) website | private | [joytoy](https://freedns.afraid.org/tools/contact.php?user_id=801179&subject=phigo.co.uk) | 5282 days ago (09/01/2011) | 0 |
 | philt3r.com (34 hosts in use) website | private | [philipbeadle](https://freedns.afraid.org/tools/contact.php?user_id=2782716&subject=philt3r.com) | 3352 days ago (11/24/2016) | 0 |
 | photomat.ar (65 hosts in use) website | public | [dbellomo](https://freedns.afraid.org/tools/contact.php?user_id=2194312&subject=photomat.ar) | 1946 days ago (09/17/2020) | 0 |
 | phvienna.at (13 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=phvienna.at) | 5332 days ago (06/09/2011) | 0 |
@@ -7870,7 +7847,7 @@ Total domains: 25241
 | piwzagan.pl (10 hosts in use) website | private | [przemass](https://freedns.afraid.org/tools/contact.php?user_id=17551&subject=piwzagan.pl) | 398 days ago (01/10/2025) | 0 |
 | pixeldoc.ch (21 hosts in use) website | private | [legrauduroi](https://freedns.afraid.org/tools/contact.php?user_id=2560270&subject=pixeldoc.ch) | 3624 days ago (02/11/2016) | 0 |
 | pixpanel.cl (16 hosts in use) website | private | [jgaetev](https://freedns.afraid.org/tools/contact.php?user_id=3959729&subject=pixpanel.cl) | 223 days ago (07/07/2025) | 0 |
-| pjsfeed.com (11 hosts in use) website | private | [fuxxy](https://freedns.afraid.org/tools/contact.php?user_id=3048225&subject=pjsfeed.com) | 655 days ago (05/01/2024) | 0 |
+| pjsfeed.com (14 hosts in use) website | private | [fuxxy](https://freedns.afraid.org/tools/contact.php?user_id=3048225&subject=pjsfeed.com) | 655 days ago (05/01/2024) | 0 |
 | plan-ted.com (9 hosts in use) website | private | [feenix](https://freedns.afraid.org/tools/contact.php?user_id=325848&subject=plan-ted.com) | 313 days ago (04/04/2025) | 0 |
 | plauzon.com (13 hosts in use) website | private | [kanucat](https://freedns.afraid.org/tools/contact.php?user_id=1489286&subject=plauzon.com) | 273 days ago (05/15/2025) | 0 |
 | plaza-h.com (15 hosts in use) website | private | [alexxdotnet](https://freedns.afraid.org/tools/contact.php?user_id=726805&subject=plaza-h.com) | 5383 days ago (04/20/2011) | 0 |
@@ -7885,7 +7862,7 @@ Total domains: 25241
 | polishmc.pl (72 hosts in use) website | public | [hondaj](https://freedns.afraid.org/tools/contact.php?user_id=2600875&subject=polishmc.pl) | 279 days ago (05/11/2025) | 0 |
 | polypack.cl (12 hosts in use) website | private | [marcelorojas1972](https://freedns.afraid.org/tools/contact.php?user_id=1162961&subject=polypack.cl) | 2356 days ago (08/02/2019) | 0 |
 | porchus.com (12 hosts in use) website | private | [porchus](https://freedns.afraid.org/tools/contact.php?user_id=2876120&subject=porchus.com) | 3174 days ago (05/12/2017) | 0 |
-| port0.org (5307 hosts in use) website | public | [tobywhite7](https://freedns.afraid.org/tools/contact.php?user_id=296384&subject=port0.org) | 6635 days ago (12/17/2007) | 0 |
+| port0.org (5310 hosts in use) website | public | [tobywhite7](https://freedns.afraid.org/tools/contact.php?user_id=296384&subject=port0.org) | 6636 days ago (12/17/2007) | 0 |
 | port82.net (230 hosts in use) website | public | [kazi](https://freedns.afraid.org/tools/contact.php?user_id=139300&subject=port82.net) | 4557 days ago (08/25/2013) | 0 |
 | porta137.com (7 hosts in use) website | private | [porta137](https://freedns.afraid.org/tools/contact.php?user_id=4647654&subject=porta137.com) | 123 days ago (09/12/2025) | 0 |
 | portalrzd.ru (8 hosts in use) website | private | [gladyshev](https://freedns.afraid.org/tools/contact.php?user_id=3076531&subject=portalrzd.ru) | 2605 days ago (11/26/2018) | 0 |
@@ -7959,7 +7936,7 @@ Total domains: 25241
 | raps.net.au (55 hosts in use) website | public | [pjudd](https://freedns.afraid.org/tools/contact.php?user_id=729166&subject=raps.net.au) | 5405 days ago (04/27/2011) | 0 |
 | rashuno.com (38 hosts in use) website | private | [rashuno](https://freedns.afraid.org/tools/contact.php?user_id=441477&subject=rashuno.com) | 5909 days ago (12/10/2009) | 0 |
 | raskin.name (20 hosts in use) website | private | [benraskin](https://freedns.afraid.org/tools/contact.php?user_id=1061648&subject=raskin.name) | 5004 days ago (06/01/2012) | 0 |
-| raspezd.org (33 hosts in use) website | private | [nspfunc](https://freedns.afraid.org/tools/contact.php?user_id=613947&subject=raspezd.org) | 5719 days ago (06/16/2010) | 0 |
+| raspezd.org (33 hosts in use) website | private | [nspfunc](https://freedns.afraid.org/tools/contact.php?user_id=613947&subject=raspezd.org) | 5724 days ago (06/16/2010) | 0 |
 | raygach.net (27 hosts in use) website | private | [teamfil](https://freedns.afraid.org/tools/contact.php?user_id=178123&subject=raygach.net) | 5404 days ago (04/29/2011) | 0 |
 | raymoon.guru (2 hosts in use) website | private | [ralf35](https://freedns.afraid.org/tools/contact.php?user_id=1472825&subject=raymoon.guru) | 962 days ago (05/27/2023) | 0 |
 | rbenson.net (37 hosts in use) website | private | [bensonr2](https://freedns.afraid.org/tools/contact.php?user_id=118597&subject=rbenson.net) | 7667 days ago (02/16/2005) | 0 |
@@ -7983,7 +7960,6 @@ Total domains: 25241
 | reformat.cc (39 hosts in use) website | private | [mreformat](https://freedns.afraid.org/tools/contact.php?user_id=306684&subject=reformat.cc) | 6786 days ago (06/18/2007) | 0 |
 | register.im (86 hosts in use) website | public | [bzfolk](https://freedns.afraid.org/tools/contact.php?user_id=727598&subject=register.im) | 4932 days ago (07/28/2012) | 0 |
 | reiman.club (17 hosts in use) website | public | [swetol](https://freedns.afraid.org/tools/contact.php?user_id=1157866&subject=reiman.club) | 1139 days ago (01/03/2023) | 0 |
-| rekkord.com (20 hosts in use) website | private | [felnik](https://freedns.afraid.org/tools/contact.php?user_id=1089377&subject=rekkord.com) | 4958 days ago (07/19/2012) | 0 |
 | releenc.org (29 hosts in use) website | private | [releenc](https://freedns.afraid.org/tools/contact.php?user_id=1105866&subject=releenc.org) | 4961 days ago (07/05/2012) | 0 |
 | remgard.com (17 hosts in use) website | private | [jonasjr](https://freedns.afraid.org/tools/contact.php?user_id=4063073&subject=remgard.com) | 733 days ago (01/26/2024) | 0 |
 | renaca.com (102 hosts in use) website | private | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=renaca.com) | 4472 days ago (10/18/2013) | 0 |
@@ -8035,7 +8011,7 @@ Total domains: 25241
 | rolotec.ro (150 hosts in use) website | public | [lgrig](https://freedns.afraid.org/tools/contact.php?user_id=569085&subject=rolotec.ro) | 5811 days ago (03/19/2010) | 0 |
 | romppais.ca (23 hosts in use) website | private | [dynorex](https://freedns.afraid.org/tools/contact.php?user_id=742469&subject=romppais.ca) | 2959 days ago (01/06/2018) | 0 |
 | ronsecco.cl (76 hosts in use) website | public | [gamoyano](https://freedns.afraid.org/tools/contact.php?user_id=1186741&subject=ronsecco.cl) | 4885 days ago (09/27/2012) | 0 |
-| rootcop.com (60 hosts in use) website | private | [trineox](https://freedns.afraid.org/tools/contact.php?user_id=196257&subject=rootcop.com) | 815 days ago (11/20/2023) | 0 |
+| rootcop.com (61 hosts in use) website | private | [trineox](https://freedns.afraid.org/tools/contact.php?user_id=196257&subject=rootcop.com) | 819 days ago (11/20/2023) | 0 |
 | rootforce.ch (9 hosts in use) website | private | [coderb](https://freedns.afraid.org/tools/contact.php?user_id=1553573&subject=rootforce.ch) | 4475 days ago (10/22/2013) | 0 |
 | rootile.com (59 hosts in use) website | private | [dkarametos](https://freedns.afraid.org/tools/contact.php?user_id=1706940&subject=rootile.com) | 4333 days ago (03/25/2014) | 0 |
 | rossetto.ar (23 hosts in use) website | private | [hmronline](https://freedns.afraid.org/tools/contact.php?user_id=121050&subject=rossetto.ar) | 1839 days ago (01/29/2021) | 0 |
@@ -8084,7 +8060,7 @@ Total domains: 25241
 | sandors.com (37 hosts in use) website | private | [rsandor](https://freedns.afraid.org/tools/contact.php?user_id=1473164&subject=sandors.com) | 4549 days ago (08/30/2013) | 0 |
 | sangpang.com (9 hosts in use) website | private | [secret58](https://freedns.afraid.org/tools/contact.php?user_id=1299170&subject=sangpang.com) | 3624 days ago (02/16/2016) | 0 |
 | sanicki.com (70 hosts in use) website | public | [sanicki](https://freedns.afraid.org/tools/contact.php?user_id=3904421&subject=sanicki.com) | 949 days ago (06/30/2023) | 0 |
-| sapit.co.uk (44 hosts in use) website | private | [lukechris](https://freedns.afraid.org/tools/contact.php?user_id=666286&subject=sapit.co.uk) | 4347 days ago (03/22/2014) | 0 |
+| sapit.co.uk (44 hosts in use) website | private | [lukechris](https://freedns.afraid.org/tools/contact.php?user_id=666286&subject=sapit.co.uk) | 4349 days ago (03/22/2014) | 0 |
 | saponinrc.cl (5 hosts in use) website | public | [tschotte](https://freedns.afraid.org/tools/contact.php?user_id=2876135&subject=saponinrc.cl) | 2420 days ago (07/02/2019) | 0 |
 | sarc.com.br (19 hosts in use) website | private | [cbughi](https://freedns.afraid.org/tools/contact.php?user_id=367351&subject=sarc.com.br) | 208 days ago (07/10/2025) | 0 |
 | sass.nom.za (27 hosts in use) website | private | [sassy007](https://freedns.afraid.org/tools/contact.php?user_id=1110470&subject=sass.nom.za) | 4069 days ago (12/19/2014) | 0 |
@@ -8146,7 +8122,7 @@ Total domains: 25241
 | shapach.net (52 hosts in use) website | private | [dudi13](https://freedns.afraid.org/tools/contact.php?user_id=123505&subject=shapach.net) | 3418 days ago (10/04/2016) | 0 |
 | shenycia.cl (20 hosts in use) website | private | [tshen](https://freedns.afraid.org/tools/contact.php?user_id=337419&subject=shenycia.cl) | 2674 days ago (09/20/2018) | 0 |
 | shepherd.hk (26 hosts in use) website | private | [ponnyli](https://freedns.afraid.org/tools/contact.php?user_id=604512&subject=shepherd.hk) | 4045 days ago (12/17/2014) | 0 |
-| shilnet.com (35 hosts in use) website | private | [ravenwind](https://freedns.afraid.org/tools/contact.php?user_id=1209045&subject=shilnet.com) | 4851 days ago (10/29/2012) | 0 |
+| shilnet.com (35 hosts in use) website | private | [ravenwind](https://freedns.afraid.org/tools/contact.php?user_id=1209045&subject=shilnet.com) | 4858 days ago (10/29/2012) | 0 |
 | siamect.com (68 hosts in use) website | private | [siamect](https://freedns.afraid.org/tools/contact.php?user_id=572529&subject=siamect.com) | 5798 days ago (03/31/2010) | 0 |
 | siangfu.com (29 hosts in use) website | private | [isreal](https://freedns.afraid.org/tools/contact.php?user_id=762128&subject=siangfu.com) | 3173 days ago (06/08/2017) | 0 |
 | sick.one.pl (31 hosts in use) website | private | [sickone](https://freedns.afraid.org/tools/contact.php?user_id=26532&subject=sick.one.pl) | 7248 days ago (04/11/2006) | 0 |
@@ -8214,7 +8190,7 @@ Total domains: 25241
 | spottt.com (437 hosts in use) website | public | [pudjam666](https://freedns.afraid.org/tools/contact.php?user_id=397404&subject=spottt.com) | 5879 days ago (01/11/2010) | 0 |
 | spravca.net (16 hosts in use) website | private | [newmediagroup](https://freedns.afraid.org/tools/contact.php?user_id=773163&subject=spravca.net) | 5082 days ago (03/14/2012) | 0 |
 | spykerk.eu (121 hosts in use) website | public | [skerkiras](https://freedns.afraid.org/tools/contact.php?user_id=1499231&subject=spykerk.eu) | 4527 days ago (09/24/2013) | 0 |
-| spyserv.com (34 hosts in use) website | private | [gleboff](https://freedns.afraid.org/tools/contact.php?user_id=324552&subject=spyserv.com) | 6425 days ago (07/10/2008) | 0 |
+| spyserv.com (34 hosts in use) website | private | [gleboff](https://freedns.afraid.org/tools/contact.php?user_id=324552&subject=spyserv.com) | 6430 days ago (07/10/2008) | 0 |
 | srirupa.com (43 hosts in use) website | private | [31d1](https://freedns.afraid.org/tools/contact.php?user_id=281911&subject=srirupa.com) | 5327 days ago (07/02/2011) | 0 |
 | srvfast.com (13 hosts in use) website | private | [informburo](https://freedns.afraid.org/tools/contact.php?user_id=2446015&subject=srvfast.com) | 3760 days ago (10/25/2015) | 0 |
 | ssitech.bg (187 hosts in use) website | private | [ytodorff](https://freedns.afraid.org/tools/contact.php?user_id=1428294&subject=ssitech.bg) | 4589 days ago (07/20/2013) | 0 |
@@ -8320,7 +8296,7 @@ Total domains: 25241
 | teranium.io (30 hosts in use) website | private | [viosoft](https://freedns.afraid.org/tools/contact.php?user_id=504165&subject=teranium.io) | 3081 days ago (08/09/2017) | 0 |
 | testbsd.com (39 hosts in use) website | private | [ahwachen](https://freedns.afraid.org/tools/contact.php?user_id=418716&subject=testbsd.com) | 3619 days ago (03/10/2016) | 0 |
 | textdata.ca (20 hosts in use) website | private | [scauchon56](https://freedns.afraid.org/tools/contact.php?user_id=3818797&subject=textdata.ca) | 600 days ago (06/15/2024) | 0 |
-| the-nest.at (31 hosts in use) website | public | [aloisr](https://freedns.afraid.org/tools/contact.php?user_id=4503460&subject=the-nest.at) | 202 days ago (07/28/2025) | 0 |
+| the-nest.at (36 hosts in use) website | public | [aloisr](https://freedns.afraid.org/tools/contact.php?user_id=4503460&subject=the-nest.at) | 203 days ago (07/28/2025) | 0 |
 | thecite.com (40 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=thecite.com) | 7904 days ago (06/24/2004) | 0 |
 | thedmfa.com (38 hosts in use) website | private | [danaug23](https://freedns.afraid.org/tools/contact.php?user_id=736425&subject=thedmfa.com) | 5353 days ago (05/19/2011) | 0 |
 | thedotin.ro (22 hosts in use) website | private | [deroude](https://freedns.afraid.org/tools/contact.php?user_id=811373&subject=thedotin.ro) | 2815 days ago (05/02/2018) | 0 |
@@ -8354,7 +8330,7 @@ Total domains: 25241
 | tmyd.com.ar (73 hosts in use) website | public | [javiergallego1](https://freedns.afraid.org/tools/contact.php?user_id=465447&subject=tmyd.com.ar) | 3493 days ago (07/19/2016) | 0 |
 | tntitans.com (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=tntitans.com) | 2691 days ago (09/01/2018) | 0 |
 | toc-cga.org (56 hosts in use) website | private | [tmchuang](https://freedns.afraid.org/tools/contact.php?user_id=2659489&subject=toc-cga.org) | 3504 days ago (06/12/2016) | 0 |
-| tomaszu.com (49 hosts in use) website | private | [tomaszu97](https://freedns.afraid.org/tools/contact.php?user_id=2985993&subject=tomaszu.com) | 316 days ago (03/25/2025) | 0 |
+| tomaszu.com (49 hosts in use) website | private | [tomaszu97](https://freedns.afraid.org/tools/contact.php?user_id=2985993&subject=tomaszu.com) | 328 days ago (03/25/2025) | 0 |
 | tomolyvi.gr (22 hosts in use) website | private | [daemonsgr](https://freedns.afraid.org/tools/contact.php?user_id=106843&subject=tomolyvi.gr) | 651 days ago (04/02/2024) | 0 |
 | tonalla.com (32 hosts in use) website | private | [hangreen12](https://freedns.afraid.org/tools/contact.php?user_id=1881284&subject=tonalla.com) | 4220 days ago (07/26/2014) | 0 |
 | topmoto.pl (379 hosts in use) website | public | [martyna](https://freedns.afraid.org/tools/contact.php?user_id=521063&subject=topmoto.pl) | 5986 days ago (09/24/2009) | 0 |
@@ -8396,7 +8372,7 @@ Total domains: 25241
 | tvr.com.ar (118 hosts in use) website | public | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=tvr.com.ar) | 5845 days ago (02/12/2010) | 0 |
 | twombleys.ca (7 hosts in use) website | private | [diaganos](https://freedns.afraid.org/tools/contact.php?user_id=4241276&subject=twombleys.ca) | 527 days ago (08/27/2024) | 0 |
 | twsystem.ro (34 hosts in use) website | private | [ezalpar](https://freedns.afraid.org/tools/contact.php?user_id=301392&subject=twsystem.ro) | 5597 days ago (09/17/2010) | 0 |
-| tx2600.net (289 hosts in use) website | public | [hinac](https://freedns.afraid.org/tools/contact.php?user_id=108750&subject=tx2600.net) | 7717 days ago (12/30/2004) | 0 |
+| tx2600.net (290 hosts in use) website | public | [hinac](https://freedns.afraid.org/tools/contact.php?user_id=108750&subject=tx2600.net) | 7718 days ago (12/30/2004) | 0 |
 | tyday.co.za (64 hosts in use) website | public | [pctpe](https://freedns.afraid.org/tools/contact.php?user_id=1130781&subject=tyday.co.za) | 4263 days ago (06/09/2014) | 0 |
 | tyden.name (189 hosts in use) website | public | [hannestyden](https://freedns.afraid.org/tools/contact.php?user_id=223092&subject=tyden.name) | 7174 days ago (06/26/2006) | 0 |
 | tymulroy.com (7 hosts in use) website | private | [tmulroy](https://freedns.afraid.org/tools/contact.php?user_id=771683&subject=tymulroy.com) | 2353 days ago (08/05/2019) | 0 |
@@ -8446,9 +8422,9 @@ Total domains: 25241
 | velocee.com (39 hosts in use) website | private | [dannybkv](https://freedns.afraid.org/tools/contact.php?user_id=2830227&subject=velocee.com) | 3276 days ago (02/21/2017) | 0 |
 | vendetta.ch (41 hosts in use) website | private | [cynay](https://freedns.afraid.org/tools/contact.php?user_id=645546&subject=vendetta.ch) | 5469 days ago (02/15/2011) | 0 |
 | vendrig.com (37 hosts in use) website | private | [vendrig](https://freedns.afraid.org/tools/contact.php?user_id=796300&subject=vendrig.com) | 5287 days ago (08/26/2011) | 0 |
-| venexie.org (46 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=venexie.org) | 4184 days ago (08/14/2014) | 0 |
+| venexie.org (46 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=venexie.org) | 4204 days ago (08/14/2014) | 0 |
 | veraport.com (2 hosts in use) website | private | [antann](https://freedns.afraid.org/tools/contact.php?user_id=2985570&subject=veraport.com) | 3038 days ago (09/19/2017) | 0 |
-| verbalis.fi (17 hosts in use) website | private | [verbalis](https://freedns.afraid.org/tools/contact.php?user_id=6260688&subject=verbalis.fi) | 10 days ago (02/03/2026) | 0 |
+| verbalis.fi (17 hosts in use) website | private | [verbalis](https://freedns.afraid.org/tools/contact.php?user_id=6260688&subject=verbalis.fi) | 13 days ago (02/03/2026) | 0 |
 | vertfin.com (41 hosts in use) website | private | [joncraker](https://freedns.afraid.org/tools/contact.php?user_id=799335&subject=vertfin.com) | 5166 days ago (11/30/2011) | 0 |
 | vets.co.il (152 hosts in use) website | private | [ggubkin](https://freedns.afraid.org/tools/contact.php?user_id=274481&subject=vets.co.il) | 4821 days ago (12/01/2012) | 0 |
 | vgonzalez.cl (6 hosts in use) website | private | [seivier](https://freedns.afraid.org/tools/contact.php?user_id=4375427&subject=vgonzalez.cl) | 338 days ago (02/27/2025) | 0 |
@@ -8581,7 +8557,7 @@ Total domains: 25241
 | your.my.id (411 hosts in use) website | private | [achunk](https://freedns.afraid.org/tools/contact.php?user_id=525175&subject=your.my.id) | 4224 days ago (07/21/2014) | 0 |
 | youspeak.nl (43 hosts in use) website | private | [maarten999](https://freedns.afraid.org/tools/contact.php?user_id=1071586&subject=youspeak.nl) | 4332 days ago (04/05/2014) | 0 |
 | yoyodyne.be (61 hosts in use) website | public | [usura](https://freedns.afraid.org/tools/contact.php?user_id=1273792&subject=yoyodyne.be) | 933 days ago (07/25/2023) | 0 |
-| yoyodyne.nl (73 hosts in use) website | public | [usura](https://freedns.afraid.org/tools/contact.php?user_id=1273792&subject=yoyodyne.nl) | 933 days ago (07/25/2023) | 0 |
+| yoyodyne.nl (74 hosts in use) website | public | [usura](https://freedns.afraid.org/tools/contact.php?user_id=1273792&subject=yoyodyne.nl) | 937 days ago (07/25/2023) | 0 |
 | yuanfey.com (48 hosts in use) website | private | [yuanfeycom](https://freedns.afraid.org/tools/contact.php?user_id=1260177&subject=yuanfey.com) | 4789 days ago (01/02/2013) | 0 |
 | yue.com.br (169 hosts in use) website | public | [lavorini](https://freedns.afraid.org/tools/contact.php?user_id=680727&subject=yue.com.br) | 5514 days ago (01/05/2011) | 0 |
 | yulmarket.ru (3 hosts in use) website | private | [gladyshev](https://freedns.afraid.org/tools/contact.php?user_id=3076531&subject=yulmarket.ru) | 2625 days ago (12/07/2018) | 0 |
@@ -8611,7 +8587,7 @@ Total domains: 25241
 | zipinsert.ru (4 hosts in use) website | private | [opferk](https://freedns.afraid.org/tools/contact.php?user_id=3795385&subject=zipinsert.ru) | 127 days ago (09/28/2025) | 0 |
 | zolotaev.ru (33 hosts in use) website | private | [notfop](https://freedns.afraid.org/tools/contact.php?user_id=1194918&subject=zolotaev.ru) | 4844 days ago (10/09/2012) | 0 |
 | zooglobe.pl (42 hosts in use) website | private | [tmrowiec](https://freedns.afraid.org/tools/contact.php?user_id=3024272&subject=zooglobe.pl) | 2880 days ago (02/26/2018) | 0 |
-| zorcrux.com (37 hosts in use) website | private | [cheneval](https://freedns.afraid.org/tools/contact.php?user_id=753409&subject=zorcrux.com) | 5100 days ago (01/29/2012) | 0 |
+| zorcrux.com (38 hosts in use) website | private | [cheneval](https://freedns.afraid.org/tools/contact.php?user_id=753409&subject=zorcrux.com) | 5131 days ago (01/29/2012) | 0 |
 | zoteev.name (17 hosts in use) website | private | [kozot](https://freedns.afraid.org/tools/contact.php?user_id=831950&subject=zoteev.name) | 5228 days ago (10/21/2011) | 0 |
 | zoxsoft.com (14 hosts in use) website | private | [javaconsigliere](https://freedns.afraid.org/tools/contact.php?user_id=2426523&subject=zoxsoft.com) | 654 days ago (04/23/2024) | 0 |
 | zvukulice.sk (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=zvukulice.sk) | 2692 days ago (08/31/2018) | 0 |
@@ -8657,7 +8633,7 @@ Total domains: 25241
 | aamar.com.np (21 hosts in use) website | private | [samundraregmi1](https://freedns.afraid.org/tools/contact.php?user_id=2386821&subject=aamar.com.np) | 3639 days ago (01/27/2016) | 0 |
 | aamir.com.np (27 hosts in use) website | private | [aamirsblog](https://freedns.afraid.org/tools/contact.php?user_id=1815125&subject=aamir.com.np) | 4268 days ago (06/03/2014) | 0 |
 | aarau-nord.ch (9 hosts in use) website | private | [elzecool](https://freedns.afraid.org/tools/contact.php?user_id=485268&subject=aarau-nord.ch) | 3698 days ago (12/29/2015) | 0 |
-| abgosnet.com (36 hosts in use) website | private | [slsawkal](https://freedns.afraid.org/tools/contact.php?user_id=3295738&subject=abgosnet.com) | 902 days ago (08/20/2023) | 0 |
+| abgosnet.com (35 hosts in use) website | private | [slsawkal](https://freedns.afraid.org/tools/contact.php?user_id=3295738&subject=abgosnet.com) | 910 days ago (08/20/2023) | 0 |
 | abi2026tmg.de (3 hosts in use) website | private | [nielow](https://freedns.afraid.org/tools/contact.php?user_id=2123544&subject=abi2026tmg.de) | 2155 days ago (03/19/2020) | 0 |
 | abstracta.cl (90 hosts in use) website | public | [vallejosoberg](https://freedns.afraid.org/tools/contact.php?user_id=2225869&subject=abstracta.cl) | 3981 days ago (03/19/2015) | 0 |
 | accesar.info (64 hosts in use) website | private | [nachosait](https://freedns.afraid.org/tools/contact.php?user_id=1480187&subject=accesar.info) | 4540 days ago (09/07/2013) | 0 |
@@ -8678,9 +8654,9 @@ Total domains: 25241
 | admin.com.ar (33 hosts in use) website | private | [adminaed](https://freedns.afraid.org/tools/contact.php?user_id=2289153&subject=admin.com.ar) | 3945 days ago (04/29/2015) | 0 |
 | adoubleu.de (204 hosts in use) website | public | [flowinto](https://freedns.afraid.org/tools/contact.php?user_id=778058&subject=adoubleu.de) | 5308 days ago (08/02/2011) | 0 |
 | adpra.org.ar (26 hosts in use) website | private | [defensoria](https://freedns.afraid.org/tools/contact.php?user_id=1218376&subject=adpra.org.ar) | 3713 days ago (11/16/2015) | 0 |
-| adtit.com.au (24 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=adtit.com.au) | 5869 days ago (01/19/2010) | 0 |
+| adtit.com.au (25 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=adtit.com.au) | 5872 days ago (01/19/2010) | 0 |
 | aduansisa.my (13 hosts in use) website | public | [lokmann](https://freedns.afraid.org/tools/contact.php?user_id=4127278&subject=aduansisa.my) | 5423 days ago (04/08/2011) | 0 |
-| adultboss.pl (87 hosts in use) website | public | [fberas](https://freedns.afraid.org/tools/contact.php?user_id=2572583&subject=adultboss.pl) | 3583 days ago (04/25/2016) | 0 |
+| adultboss.pl (88 hosts in use) website | public | [fberas](https://freedns.afraid.org/tools/contact.php?user_id=2572583&subject=adultboss.pl) | 3584 days ago (04/25/2016) | 0 |
 | aero-sales.ru (2 hosts in use) website | private | [gladyshev](https://freedns.afraid.org/tools/contact.php?user_id=3076531&subject=aero-sales.ru) | 2441 days ago (05/09/2019) | 0 |
 | aeroblast.org (7 hosts in use) website | private | [zacvoge](https://freedns.afraid.org/tools/contact.php?user_id=3781950&subject=aeroblast.org) | 161 days ago (09/03/2025) | 0 |
 | afinastom.ru (35 hosts in use) website | private | [auriev](https://freedns.afraid.org/tools/contact.php?user_id=1040345&subject=afinastom.ru) | 4479 days ago (10/09/2013) | 0 |
@@ -8753,23 +8729,23 @@ Total domains: 25241
 | aonetitle.com (4 hosts in use) website | private | [netmansam](https://freedns.afraid.org/tools/contact.php?user_id=799514&subject=aonetitle.com) | 3300 days ago (01/14/2017) | 0 |
 | aotectrl.com (22 hosts in use) website | private | [smartever](https://freedns.afraid.org/tools/contact.php?user_id=1116888&subject=aotectrl.com) | 2303 days ago (10/08/2019) | 0 |
 | apac.website (24 hosts in use) website | private | [legallybond](https://freedns.afraid.org/tools/contact.php?user_id=1404959&subject=apac.website) | 136 days ago (09/21/2025) | 0 |
-| apertura.com (37 hosts in use) website | public | [ecprodriguez](https://freedns.afraid.org/tools/contact.php?user_id=5124873&subject=apertura.com) | 95 days ago (11/12/2025) | 0 |
+| apertura.com (38 hosts in use) website | public | [ecprodriguez](https://freedns.afraid.org/tools/contact.php?user_id=5124873&subject=apertura.com) | 96 days ago (11/12/2025) | 0 |
 | aperture.cl (125 hosts in use) website | public | [criscubillos](https://freedns.afraid.org/tools/contact.php?user_id=1332198&subject=aperture.cl) | 4689 days ago (04/11/2013) | 0 |
 | apesalon.com (24 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=apesalon.com) | 5018 days ago (05/08/2012) | 0 |
 | apexdoyak.com (7 hosts in use) website | public | [pwy1575](https://freedns.afraid.org/tools/contact.php?user_id=4975371&subject=apexdoyak.com) | 127 days ago (09/27/2025) | 0 |
 | apicultor.eu (13 hosts in use) website | private | [trofosila](https://freedns.afraid.org/tools/contact.php?user_id=671623&subject=apicultor.eu) | 4398 days ago (12/29/2013) | 0 |
 | apl-algo.com (40 hosts in use) website | private | [csabi911](https://freedns.afraid.org/tools/contact.php?user_id=429253&subject=apl-algo.com) | 2903 days ago (02/26/2018) | 0 |
 | aplicador.cl (29 hosts in use) website | private | [claudiotri](https://freedns.afraid.org/tools/contact.php?user_id=3166956&subject=aplicador.cl) | 2463 days ago (04/19/2019) | 0 |
-| apogeeoi.com (36 hosts in use) website | private | [bensonj2](https://freedns.afraid.org/tools/contact.php?user_id=928799&subject=apogeeoi.com) | 5122 days ago (02/02/2012) | 0 |
+| apogeeoi.com (35 hosts in use) website | private | [bensonj2](https://freedns.afraid.org/tools/contact.php?user_id=928799&subject=apogeeoi.com) | 5127 days ago (02/02/2012) | 0 |
 | apostols.net (17 hosts in use) website | private | [apostols](https://freedns.afraid.org/tools/contact.php?user_id=162593&subject=apostols.net) | 4791 days ago (12/30/2012) | 0 |
 | appix.com.br (57 hosts in use) website | private | [cbughi](https://freedns.afraid.org/tools/contact.php?user_id=367351&subject=appix.com.br) | 3019 days ago (11/08/2017) | 0 |
-| appix.net.br (34 hosts in use) website | private | [cbughi](https://freedns.afraid.org/tools/contact.php?user_id=367351&subject=appix.net.br) | 4382 days ago (02/12/2014) | 0 |
+| appix.net.br (34 hosts in use) website | private | [cbughi](https://freedns.afraid.org/tools/contact.php?user_id=367351&subject=appix.net.br) | 4387 days ago (02/12/2014) | 0 |
 | apsiscom.com (72 hosts in use) website | private | [apsiscom](https://freedns.afraid.org/tools/contact.php?user_id=3355643&subject=apsiscom.com) | 2837 days ago (04/10/2018) | 0 |
 | apuntale.com (41 hosts in use) website | private | [apostols](https://freedns.afraid.org/tools/contact.php?user_id=162593&subject=apuntale.com) | 6373 days ago (09/02/2008) | 0 |
 | aqua-city.su (45 hosts in use) website | private | [garantpark](https://freedns.afraid.org/tools/contact.php?user_id=344480&subject=aqua-city.su) | 5948 days ago (11/01/2009) | 0 |
 | aqua-flo.biz (22 hosts in use) website | private | [aquaflo](https://freedns.afraid.org/tools/contact.php?user_id=1061516&subject=aqua-flo.biz) | 5003 days ago (05/31/2012) | 0 |
 | ar50n15t.com (25 hosts in use) website | private | [ar50n15t](https://freedns.afraid.org/tools/contact.php?user_id=1013469&subject=ar50n15t.com) | 5066 days ago (04/01/2012) | 0 |
-| arati.com.np (36 hosts in use) website | private | [dipesm](https://freedns.afraid.org/tools/contact.php?user_id=2106856&subject=arati.com.np) | 4032 days ago (01/27/2015) | 0 |
+| arati.com.np (35 hosts in use) website | private | [dipesm](https://freedns.afraid.org/tools/contact.php?user_id=2106856&subject=arati.com.np) | 4037 days ago (01/27/2015) | 0 |
 | araucoluz.cl (26 hosts in use) website | private | [rlemus](https://freedns.afraid.org/tools/contact.php?user_id=323915&subject=araucoluz.cl) | 5208 days ago (10/13/2011) | 0 |
 | archanet.org (35 hosts in use) website | private | [v5nv00](https://freedns.afraid.org/tools/contact.php?user_id=543664&subject=archanet.org) | 5895 days ago (12/22/2009) | 0 |
 | archie.or.id (17 hosts in use) website | private | [acapabalan1](https://freedns.afraid.org/tools/contact.php?user_id=451957&subject=archie.or.id) | 6214 days ago (01/08/2009) | 0 |
@@ -8812,7 +8788,7 @@ Total domains: 25241
 | autoload.org (35 hosts in use) website | private | [vyoufinder](https://freedns.afraid.org/tools/contact.php?user_id=237021&subject=autoload.org) | 5122 days ago (02/02/2012) | 0 |
 | autosroig.es (21 hosts in use) website | private | [mjrgestion](https://freedns.afraid.org/tools/contact.php?user_id=1024700&subject=autosroig.es) | 4775 days ago (01/14/2013) | 0 |
 | autothink.org (2 hosts in use) website | private | [allenbukoff](https://freedns.afraid.org/tools/contact.php?user_id=771185&subject=autothink.org) | 2579 days ago (12/22/2018) | 0 |
-| auyri.com.br (36 hosts in use) website | private | [auyri](https://freedns.afraid.org/tools/contact.php?user_id=434671&subject=auyri.com.br) | 5834 days ago (02/23/2010) | 0 |
+| auyri.com.br (37 hosts in use) website | private | [auyri](https://freedns.afraid.org/tools/contact.php?user_id=434671&subject=auyri.com.br) | 5836 days ago (02/23/2010) | 0 |
 | averight.com (32 hosts in use) website | private | [sgey](https://freedns.afraid.org/tools/contact.php?user_id=42883&subject=averight.com) | 4304 days ago (05/03/2014) | 0 |
 | aviamedia.ru (31 hosts in use) website | private | [alexwebman](https://freedns.afraid.org/tools/contact.php?user_id=1209472&subject=aviamedia.ru) | 4841 days ago (10/29/2012) | 0 |
 | avidgirl.com (19 hosts in use) website | private | [avidguy](https://freedns.afraid.org/tools/contact.php?user_id=1302163&subject=avidgirl.com) | 4723 days ago (03/08/2013) | 0 |
@@ -8841,7 +8817,7 @@ Total domains: 25241
 | bamapos.com (349 hosts in use) website | public | [provdev](https://freedns.afraid.org/tools/contact.php?user_id=431609&subject=bamapos.com) | 6071 days ago (07/02/2009) | 0 |
 | banamayi.com (31 hosts in use) website | private | [zadock](https://freedns.afraid.org/tools/contact.php?user_id=499824&subject=banamayi.com) | 1641 days ago (08/02/2021) | 0 |
 | banamayi.org (40 hosts in use) website | private | [zadock](https://freedns.afraid.org/tools/contact.php?user_id=499824&subject=banamayi.org) | 5943 days ago (11/06/2009) | 0 |
-| bangerade.us (90 hosts in use) website | public | [allen286](https://freedns.afraid.org/tools/contact.php?user_id=2582986&subject=bangerade.us) | 65 days ago (12/09/2025) | 0 |
+| bangerade.us (91 hosts in use) website | public | [allen286](https://freedns.afraid.org/tools/contact.php?user_id=2582986&subject=bangerade.us) | 68 days ago (12/09/2025) | 0 |
 | barcombe.net (63 hosts in use) website | private | [chrislear](https://freedns.afraid.org/tools/contact.php?user_id=166828&subject=barcombe.net) | 7058 days ago (10/18/2006) | 0 |
 | barkmail.net (31 hosts in use) website | private | [jamesbark](https://freedns.afraid.org/tools/contact.php?user_id=702482&subject=barkmail.net) | 3829 days ago (08/23/2015) | 0 |
 | barmaglot.ru (10 hosts in use) website | private | [barmaglot](https://freedns.afraid.org/tools/contact.php?user_id=4143194&subject=barmaglot.ru) | 645 days ago (04/29/2024) | 0 |
@@ -8855,7 +8831,7 @@ Total domains: 25241
 | bauground.sk (12 hosts in use) website | private | [newmediagroup](https://freedns.afraid.org/tools/contact.php?user_id=773163&subject=bauground.sk) | 1922 days ago (10/11/2020) | 0 |
 | bauretic.com (22 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=bauretic.com) | 1169 days ago (11/07/2022) | 0 |
 | baywords.org (25 hosts in use) website | private | [baddotdownload](https://freedns.afraid.org/tools/contact.php?user_id=3842402&subject=baywords.org) | 1008 days ago (04/30/2023) | 0 |
-| bayworld.net (84 hosts in use) website | private | [baytel](https://freedns.afraid.org/tools/contact.php?user_id=159566&subject=bayworld.net) | 7399 days ago (11/11/2005) | 0 |
+| bayworld.net (84 hosts in use) website | private | [baytel](https://freedns.afraid.org/tools/contact.php?user_id=159566&subject=bayworld.net) | 7401 days ago (11/11/2005) | 0 |
 | bbgc.com.my (109 hosts in use) website | private | [mbiselangor](https://freedns.afraid.org/tools/contact.php?user_id=4386705&subject=bbgc.com.my) | 2223 days ago (01/07/2020) | 0 |
 | bbnwcrc.shop (41 hosts in use) website | public | [iurenf9](https://freedns.afraid.org/tools/contact.php?user_id=5085299&subject=bbnwcrc.shop) | 108 days ago (10/30/2025) | 0 |
 | bbqunltd.com (21 hosts in use) website | private | [xlarge](https://freedns.afraid.org/tools/contact.php?user_id=119935&subject=bbqunltd.com) | 5731 days ago (05/06/2010) | 0 |
@@ -8910,7 +8886,7 @@ Total domains: 25241
 | bodotietz.ch (18 hosts in use) website | private | [nairboon](https://freedns.afraid.org/tools/contact.php?user_id=724872&subject=bodotietz.ch) | 5277 days ago (09/02/2011) | 0 |
 | bodyheater.no (7 hosts in use) website | public | [shakindudi](https://freedns.afraid.org/tools/contact.php?user_id=3171222&subject=bodyheater.no) | 1927 days ago (11/04/2020) | 0 |
 | boettiger.cl (60 hosts in use) website | private | [radapro](https://freedns.afraid.org/tools/contact.php?user_id=395438&subject=boettiger.cl) | 6465 days ago (06/02/2008) | 0 |
-| bofusinc.com (36 hosts in use) website | private | [fwhmolotok](https://freedns.afraid.org/tools/contact.php?user_id=3164776&subject=bofusinc.com) | 2503 days ago (04/04/2019) | 0 |
+| bofusinc.com (36 hosts in use) website | private | [fwhmolotok](https://freedns.afraid.org/tools/contact.php?user_id=3164776&subject=bofusinc.com) | 2509 days ago (04/04/2019) | 0 |
 | bokparti.com (47 hosts in use) website | private | [bokparti](https://freedns.afraid.org/tools/contact.php?user_id=664961&subject=bokparti.com) | 5566 days ago (11/18/2010) | 0 |
 | bolboroace.ro (7 hosts in use) website | private | [cristiburcos23](https://freedns.afraid.org/tools/contact.php?user_id=1323850&subject=bolboroace.ro) | 556 days ago (07/06/2024) | 0 |
 | boncfoldi.hu (10 hosts in use) website | private | [bonmar](https://freedns.afraid.org/tools/contact.php?user_id=1509817&subject=boncfoldi.hu) | 4485 days ago (10/03/2013) | 0 |
@@ -8920,7 +8896,7 @@ Total domains: 25241
 | borqqueen.ch (13 hosts in use) website | private | [wensus](https://freedns.afraid.org/tools/contact.php?user_id=2603775&subject=borqqueen.ch) | 3604 days ago (04/01/2016) | 0 |
 | bostan-di.ru (25 hosts in use) website | private | [funtaz12](https://freedns.afraid.org/tools/contact.php?user_id=3455670&subject=bostan-di.ru) | 1544 days ago (10/22/2021) | 0 |
 | box-play.com (21 hosts in use) website | private | [raffio](https://freedns.afraid.org/tools/contact.php?user_id=2801336&subject=box-play.com) | 3336 days ago (12/27/2016) | 0 |
-| boyboyhk.com (36 hosts in use) website | private | [waterseven](https://freedns.afraid.org/tools/contact.php?user_id=754638&subject=boyboyhk.com) | 5336 days ago (06/28/2011) | 0 |
+| boyboyhk.com (36 hosts in use) website | private | [waterseven](https://freedns.afraid.org/tools/contact.php?user_id=754638&subject=boyboyhk.com) | 5346 days ago (06/28/2011) | 0 |
 | boyernet.net (31 hosts in use) website | private | [gcsau](https://freedns.afraid.org/tools/contact.php?user_id=470455&subject=boyernet.net) | 6180 days ago (03/16/2009) | 0 |
 | bpsah.com.np (82 hosts in use) website | public | [98511234](https://freedns.afraid.org/tools/contact.php?user_id=2261833&subject=bpsah.com.np) | 3848 days ago (07/30/2015) | 0 |
 | bradwiser.com (5 hosts in use) website | private | [theoberoco1987](https://freedns.afraid.org/tools/contact.php?user_id=2014932&subject=bradwiser.com) | 4072 days ago (11/20/2014) | 0 |
@@ -9001,7 +8977,7 @@ Total domains: 25241
 | cheungho.com (33 hosts in use) website | private | [nudnikming](https://freedns.afraid.org/tools/contact.php?user_id=1041727&subject=cheungho.com) | 2251 days ago (11/20/2019) | 0 |
 | chewlong.com (31 hosts in use) website | private | [chewlongcom](https://freedns.afraid.org/tools/contact.php?user_id=1021091&subject=chewlong.com) | 5051 days ago (04/11/2012) | 0 |
 | chikiyan.cl (143 hosts in use) website | public | [chikiyan](https://freedns.afraid.org/tools/contact.php?user_id=2260654&subject=chikiyan.cl) | 3963 days ago (04/07/2015) | 0 |
-| chillnau.net (30 hosts in use) website | private | [mikebem](https://freedns.afraid.org/tools/contact.php?user_id=549441&subject=chillnau.net) | 5194 days ago (11/27/2011) | 0 |
+| chillnau.net (31 hosts in use) website | private | [mikebem](https://freedns.afraid.org/tools/contact.php?user_id=549441&subject=chillnau.net) | 5195 days ago (11/27/2011) | 0 |
 | chinacig.com (37 hosts in use) website | private | [kimobebe](https://freedns.afraid.org/tools/contact.php?user_id=523162&subject=chinacig.com) | 5810 days ago (02/27/2010) | 0 |
 | chloechu.com (35 hosts in use) website | private | [dulllou](https://freedns.afraid.org/tools/contact.php?user_id=2723646&subject=chloechu.com) | 1477 days ago (01/25/2022) | 0 |
 | chompchomp.ca (9 hosts in use) website | public | [untied](https://freedns.afraid.org/tools/contact.php?user_id=74423&subject=chompchomp.ca) | 2108 days ago (04/29/2020) | 0 |
@@ -9088,7 +9064,7 @@ Total domains: 25241
 | customies.gr (16 hosts in use) website | private | [kbousias](https://freedns.afraid.org/tools/contact.php?user_id=529678&subject=customies.gr) | 5414 days ago (03/19/2011) | 0 |
 | cxnquerxr.moe (6 hosts in use) website | private | [cxnquerxr](https://freedns.afraid.org/tools/contact.php?user_id=4289813&subject=cxnquerxr.moe) | 193 days ago (07/04/2025) | 0 |
 | cyber-ag.com (80 hosts in use) website | public | [fumifire](https://freedns.afraid.org/tools/contact.php?user_id=732879&subject=cyber-ag.com) | 1611 days ago (09/10/2021) | 0 |
-| cyberbear.io (13 hosts in use) website | public | [coctal001](https://freedns.afraid.org/tools/contact.php?user_id=4009752&subject=cyberbear.io) | 738 days ago (02/08/2024) | 0 |
+| cyberbear.io (14 hosts in use) website | public | [coctal001](https://freedns.afraid.org/tools/contact.php?user_id=4009752&subject=cyberbear.io) | 739 days ago (02/08/2024) | 0 |
 | cybercpu.org (36 hosts in use) website | private | [vdub](https://freedns.afraid.org/tools/contact.php?user_id=311005&subject=cybercpu.org) | 5038 days ago (04/26/2012) | 0 |
 | cyberewt.com (38 hosts in use) website | private | [cyberewt](https://freedns.afraid.org/tools/contact.php?user_id=1717123&subject=cyberewt.com) | 4297 days ago (05/04/2014) | 0 |
 | cyberninja.ie (7 hosts in use) website | private | [ewaldtk](https://freedns.afraid.org/tools/contact.php?user_id=1735342&subject=cyberninja.ie) | 723 days ago (02/20/2024) | 0 |
@@ -9111,7 +9087,7 @@ Total domains: 25241
 | dansted.org (273 hosts in use) website | public | [gmatht](https://freedns.afraid.org/tools/contact.php?user_id=1415647&subject=dansted.org) | 4390 days ago (02/04/2014) | 0 |
 | darkblue.ch (108 hosts in use) website | private | [bandido6](https://freedns.afraid.org/tools/contact.php?user_id=322128&subject=darkblue.ch) | 6136 days ago (04/27/2009) | 0 |
 | darkevil.net (35 hosts in use) website | private | [wolfdogmp](https://freedns.afraid.org/tools/contact.php?user_id=259332&subject=darkevil.net) | 6415 days ago (07/24/2008) | 0 |
-| darkwolf.ca (117 hosts in use) website | public | [devilwolf22](https://freedns.afraid.org/tools/contact.php?user_id=883587&subject=darkwolf.ca) | 5167 days ago (12/23/2011) | 0 |
+| darkwolf.ca (118 hosts in use) website | public | [devilwolf22](https://freedns.afraid.org/tools/contact.php?user_id=883587&subject=darkwolf.ca) | 5168 days ago (12/23/2011) | 0 |
 | darthlabs.es (17 hosts in use) website | private | [darthagus](https://freedns.afraid.org/tools/contact.php?user_id=3679265&subject=darthlabs.es) | 1379 days ago (04/19/2022) | 0 |
 | databytes.org (9 hosts in use) website | public | [jadeyemi](https://freedns.afraid.org/tools/contact.php?user_id=4490058&subject=databytes.org) | 217 days ago (07/09/2025) | 0 |
 | datacenter.ar (3 hosts in use) website | public | [taglioultimate](https://freedns.afraid.org/tools/contact.php?user_id=1357915&subject=datacenter.ar) | 1948 days ago (10/14/2020) | 0 |
@@ -9145,7 +9121,7 @@ Total domains: 25241
 | deltako.com (215 hosts in use) website | public | [pmieczkowski](https://freedns.afraid.org/tools/contact.php?user_id=788209&subject=deltako.com) | 5194 days ago (11/20/2011) | 0 |
 | delucify.com (17 hosts in use) website | private | [lgdl](https://freedns.afraid.org/tools/contact.php?user_id=602701&subject=delucify.com) | 2052 days ago (07/04/2020) | 0 |
 | demian.com.ar (8 hosts in use) website | private | [demodawid](https://freedns.afraid.org/tools/contact.php?user_id=1201300&subject=demian.com.ar) | 3488 days ago (07/02/2016) | 0 |
-| demoteam.ch (452 hosts in use) website | public | [liquinux](https://freedns.afraid.org/tools/contact.php?user_id=531270&subject=demoteam.ch) | 5945 days ago (11/04/2009) | 0 |
+| demoteam.ch (452 hosts in use) website | public | [liquinux](https://freedns.afraid.org/tools/contact.php?user_id=531270&subject=demoteam.ch) | 5948 days ago (11/04/2009) | 0 |
 | deore.one.pl (26 hosts in use) website | private | [astronserw](https://freedns.afraid.org/tools/contact.php?user_id=354305&subject=deore.one.pl) | 6619 days ago (12/31/2007) | 0 |
 | depablos.cat (23 hosts in use) website | private | [vicerio](https://freedns.afraid.org/tools/contact.php?user_id=1873430&subject=depablos.cat) | 1797 days ago (03/12/2021) | 0 |
 | desomere.net (31 hosts in use) website | private | [tfgtechnology](https://freedns.afraid.org/tools/contact.php?user_id=2053713&subject=desomere.net) | 4064 days ago (12/25/2014) | 0 |
@@ -9170,7 +9146,7 @@ Total domains: 25241
 | dikson-bg.eu (23 hosts in use) website | private | [tdileo](https://freedns.afraid.org/tools/contact.php?user_id=1018740&subject=dikson-bg.eu) | 4500 days ago (10/17/2013) | 0 |
 | dilmi.com.ar (49 hosts in use) website | public | [dilmi](https://freedns.afraid.org/tools/contact.php?user_id=1959474&subject=dilmi.com.ar) | 4101 days ago (11/22/2014) | 0 |
 | dinachile.cl (11 hosts in use) website | private | [deliveryadmin](https://freedns.afraid.org/tools/contact.php?user_id=563841&subject=dinachile.cl) | 4875 days ago (09/10/2012) | 0 |
-| dinprima.ro (249 hosts in use) website | public | [zettu](https://freedns.afraid.org/tools/contact.php?user_id=333288&subject=dinprima.ro) | 840 days ago (10/26/2023) | 0 |
+| dinprima.ro (250 hosts in use) website | public | [zettu](https://freedns.afraid.org/tools/contact.php?user_id=333288&subject=dinprima.ro) | 843 days ago (10/26/2023) | 0 |
 | dipes.com.np (38 hosts in use) website | private | [dipesm](https://freedns.afraid.org/tools/contact.php?user_id=2106856&subject=dipes.com.np) | 4034 days ago (01/27/2015) | 0 |
 | direitus.com (43 hosts in use) website | private | [grandonia](https://freedns.afraid.org/tools/contact.php?user_id=754982&subject=direitus.com) | 5324 days ago (07/02/2011) | 0 |
 | ditommaso.ar (49 hosts in use) website | public | [ltommaso](https://freedns.afraid.org/tools/contact.php?user_id=602637&subject=ditommaso.ar) | 1772 days ago (04/08/2021) | 0 |
@@ -9191,7 +9167,7 @@ Total domains: 25241
 | dolan.net.au (28 hosts in use) website | private | [josh43](https://freedns.afraid.org/tools/contact.php?user_id=653411&subject=dolan.net.au) | 5269 days ago (09/11/2011) | 0 |
 | dolcecasa.ch (33 hosts in use) website | private | [toeltl](https://freedns.afraid.org/tools/contact.php?user_id=362120&subject=dolcecasa.ch) | 6587 days ago (02/01/2008) | 0 |
 | dolcefood.cl (26 hosts in use) website | private | [gatopresente](https://freedns.afraid.org/tools/contact.php?user_id=1475501&subject=dolcefood.cl) | 1832 days ago (02/03/2021) | 0 |
-| domenici.org (68 hosts in use) website | public | [gdomenici](https://freedns.afraid.org/tools/contact.php?user_id=4037999&subject=domenici.org) | 761 days ago (12/27/2023) | 0 |
+| domenici.org (68 hosts in use) website | public | [gdomenici](https://freedns.afraid.org/tools/contact.php?user_id=4037999&subject=domenici.org) | 781 days ago (12/27/2023) | 0 |
 | donandren.eu (69 hosts in use) website | public | [donandren](https://freedns.afraid.org/tools/contact.php?user_id=3522289&subject=donandren.eu) | 1782 days ago (02/28/2021) | 0 |
 | donauhain.de (41 hosts in use) website | private | [susaa](https://freedns.afraid.org/tools/contact.php?user_id=749050&subject=donauhain.de) | 3848 days ago (07/22/2015) | 0 |
 | donklime.com (11 hosts in use) website | private | [doklime1](https://freedns.afraid.org/tools/contact.php?user_id=3343611&subject=donklime.com) | 1554 days ago (10/28/2021) | 0 |
@@ -9203,8 +9179,8 @@ Total domains: 25241
 | dotatdot.net (57 hosts in use) website | private | [caphec](https://freedns.afraid.org/tools/contact.php?user_id=22450&subject=dotatdot.net) | 6205 days ago (02/17/2009) | 0 |
 | dowson.com.my (6 hosts in use) website | private | [acparts](https://freedns.afraid.org/tools/contact.php?user_id=3672909&subject=dowson.com.my) | 923 days ago (07/05/2023) | 0 |
 | dpdenton.com (13 hosts in use) website | private | [danieldenton](https://freedns.afraid.org/tools/contact.php?user_id=1678801&subject=dpdenton.com) | 4338 days ago (03/01/2014) | 0 |
-| dragos.co.uk (30 hosts in use) website | private | [silviu23](https://freedns.afraid.org/tools/contact.php?user_id=1037570&subject=dragos.co.uk) | 5006 days ago (05/02/2012) | 0 |
-| drciocan.ro (284 hosts in use) website | public | [yahim91](https://freedns.afraid.org/tools/contact.php?user_id=1956599&subject=drciocan.ro) | 3693 days ago (01/06/2016) | 0 |
+| dragos.co.uk (31 hosts in use) website | private | [silviu23](https://freedns.afraid.org/tools/contact.php?user_id=1037570&subject=dragos.co.uk) | 5038 days ago (05/02/2012) | 0 |
+| drciocan.ro (286 hosts in use) website | public | [yahim91](https://freedns.afraid.org/tools/contact.php?user_id=1956599&subject=drciocan.ro) | 3694 days ago (01/06/2016) | 0 |
 | drdao.adv.br (33 hosts in use) website | private | [nichollascorrea](https://freedns.afraid.org/tools/contact.php?user_id=594130&subject=drdao.adv.br) | 5748 days ago (04/29/2010) | 0 |
 | dreamisle.ca (34 hosts in use) website | private | [roach00](https://freedns.afraid.org/tools/contact.php?user_id=799705&subject=dreamisle.ca) | 5276 days ago (08/30/2011) | 0 |
 | drewluty.com (97 hosts in use) website | public | [drewber47](https://freedns.afraid.org/tools/contact.php?user_id=710354&subject=drewluty.com) | 2406 days ago (07/16/2019) | 0 |
@@ -9315,7 +9291,7 @@ Total domains: 25241
 | fantastic.pt (19 hosts in use) website | private | [motocondria](https://freedns.afraid.org/tools/contact.php?user_id=189492&subject=fantastic.pt) | 4738 days ago (01/23/2013) | 0 |
 | farfleet.com (29 hosts in use) website | public | [markjlyon](https://freedns.afraid.org/tools/contact.php?user_id=3504137&subject=farfleet.com) | 652 days ago (04/28/2024) | 0 |
 | farruggio.ch (54 hosts in use) website | private | [dfarruggio](https://freedns.afraid.org/tools/contact.php?user_id=418214&subject=farruggio.ch) | 6376 days ago (08/30/2008) | 0 |
-| farted.net (6189 hosts in use) website | public | [n8walker](https://freedns.afraid.org/tools/contact.php?user_id=95551&subject=farted.net) | 7281 days ago (03/11/2006) | 0 |
+| farted.net (6192 hosts in use) website | public | [n8walker](https://freedns.afraid.org/tools/contact.php?user_id=95551&subject=farted.net) | 7282 days ago (03/11/2006) | 0 |
 | fastmuon.com (13 hosts in use) website | private | [lostxor](https://freedns.afraid.org/tools/contact.php?user_id=3488887&subject=fastmuon.com) | 278 days ago (04/10/2025) | 0 |
 | fatducky.com (13 hosts in use) website | private | [ductran](https://freedns.afraid.org/tools/contact.php?user_id=75574&subject=fatducky.com) | 1926 days ago (10/29/2020) | 0 |
 | fatshark.net (28 hosts in use) website | private | [sputnik](https://freedns.afraid.org/tools/contact.php?user_id=14249&subject=fatshark.net) | 7400 days ago (11/12/2005) | 0 |
@@ -9427,7 +9403,7 @@ Total domains: 25241
 | gixiqpyp.top (26 hosts in use) website | public | [iurenf9](https://freedns.afraid.org/tools/contact.php?user_id=5085299&subject=gixiqpyp.top) | 97 days ago (11/05/2025) | 0 |
 | gku-gazk.ru (131 hosts in use) website | public | [gusev8386](https://freedns.afraid.org/tools/contact.php?user_id=1227929&subject=gku-gazk.ru) | 4833 days ago (11/19/2012) | 0 |
 | gleicker.com (21 hosts in use) website | private | [rlimbanda](https://freedns.afraid.org/tools/contact.php?user_id=3122264&subject=gleicker.com) | 3089 days ago (08/29/2017) | 0 |
-| glenjohn.com (35 hosts in use) website | private | [glenjohn](https://freedns.afraid.org/tools/contact.php?user_id=803865&subject=glenjohn.com) | 5273 days ago (09/06/2011) | 0 |
+| glenjohn.com (35 hosts in use) website | private | [glenjohn](https://freedns.afraid.org/tools/contact.php?user_id=803865&subject=glenjohn.com) | 5277 days ago (09/06/2011) | 0 |
 | glennwang.cc (19 hosts in use) website | private | [carlwang](https://freedns.afraid.org/tools/contact.php?user_id=726426&subject=glennwang.cc) | 2350 days ago (08/08/2019) | 0 |
 | globocafe.ro (29 hosts in use) website | private | [greensoft](https://freedns.afraid.org/tools/contact.php?user_id=787496&subject=globocafe.ro) | 3380 days ago (10/14/2016) | 0 |
 | gmattice.com (38 hosts in use) website | private | [runtintn](https://freedns.afraid.org/tools/contact.php?user_id=569698&subject=gmattice.com) | 5799 days ago (03/23/2010) | 0 |
@@ -9455,7 +9431,7 @@ Total domains: 25241
 | grnyiui.shop (13 hosts in use) website | public | [iurenf9](https://freedns.afraid.org/tools/contact.php?user_id=5085299&subject=grnyiui.shop) | 85 days ago (10/30/2025) | 0 |
 | growhydro.eu (18 hosts in use) website | private | [mjeroncic](https://freedns.afraid.org/tools/contact.php?user_id=3107457&subject=growhydro.eu) | 2564 days ago (01/08/2019) | 0 |
 | growietek.com (6 hosts in use) website | private | [plambe](https://freedns.afraid.org/tools/contact.php?user_id=309207&subject=growietek.com) | 708 days ago (02/05/2024) | 0 |
-| guard.net.ru (47 hosts in use) website | private | [khartool](https://freedns.afraid.org/tools/contact.php?user_id=549669&subject=guard.net.ru) | 5870 days ago (01/20/2010) | 0 |
+| guard.net.ru (47 hosts in use) website | private | [khartool](https://freedns.afraid.org/tools/contact.php?user_id=549669&subject=guard.net.ru) | 5871 days ago (01/20/2010) | 0 |
 | guazo.com.mx (19 hosts in use) website | private | [dashhx](https://freedns.afraid.org/tools/contact.php?user_id=714596&subject=guazo.com.mx) | 5252 days ago (09/21/2011) | 0 |
 | guderjahn.at (24 hosts in use) website | private | [hirnscheisse](https://freedns.afraid.org/tools/contact.php?user_id=3118931&subject=guderjahn.at) | 2634 days ago (11/19/2018) | 0 |
 | guido.eng.br (68 hosts in use) website | private | [guido13](https://freedns.afraid.org/tools/contact.php?user_id=785139&subject=guido.eng.br) | 5289 days ago (08/12/2011) | 0 |
@@ -9472,7 +9448,7 @@ Total domains: 25241
 | haigetal.com (47 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=haigetal.com) | 5623 days ago (09/09/2010) | 0 |
 | haigetal.net (35 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=haigetal.net) | 5634 days ago (09/09/2010) | 0 |
 | haigetal.org (26 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=haigetal.org) | 5632 days ago (09/09/2010) | 0 |
-| halftech.com (19 hosts in use) website | public | [halftech](https://freedns.afraid.org/tools/contact.php?user_id=221696&subject=halftech.com) | 586 days ago (07/07/2024) | 0 |
+| halftech.com (20 hosts in use) website | public | [halftech](https://freedns.afraid.org/tools/contact.php?user_id=221696&subject=halftech.com) | 588 days ago (07/07/2024) | 0 |
 | halimali.com (40 hosts in use) website | private | [halimsagi](https://freedns.afraid.org/tools/contact.php?user_id=747135&subject=halimali.com) | 5352 days ago (06/11/2011) | 0 |
 | ham-tetra.es (17 hosts in use) website | private | [eb1tk](https://freedns.afraid.org/tools/contact.php?user_id=455519&subject=ham-tetra.es) | 1803 days ago (02/07/2021) | 0 |
 | hamblenho.me (26 hosts in use) website | private | [rioplay](https://freedns.afraid.org/tools/contact.php?user_id=3823284&subject=hamblenho.me) | 1084 days ago (02/25/2023) | 0 |
@@ -9502,7 +9478,7 @@ Total domains: 25241
 | head-end.com (39 hosts in use) website | private | [gtdorin](https://freedns.afraid.org/tools/contact.php?user_id=699907&subject=head-end.com) | 2750 days ago (07/06/2018) | 0 |
 | hedmarks.com (43 hosts in use) website | private | [hedish](https://freedns.afraid.org/tools/contact.php?user_id=189419&subject=hedmarks.com) | 7297 days ago (02/21/2006) | 0 |
 | heiamoss.com (38 hosts in use) website | private | [joabakk](https://freedns.afraid.org/tools/contact.php?user_id=1035157&subject=heiamoss.com) | 5025 days ago (04/29/2012) | 0 |
-| helicoach.ch (80 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=helicoach.ch) | 3619 days ago (03/20/2016) | 0 |
+| helicoach.ch (81 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=helicoach.ch) | 3620 days ago (03/20/2016) | 0 |
 | hellyer.info (30 hosts in use) website | private | [shellyer](https://freedns.afraid.org/tools/contact.php?user_id=418188&subject=hellyer.info) | 5719 days ago (06/16/2010) | 0 |
 | help-ozon.ru (15 hosts in use) website | private | [gladyshev](https://freedns.afraid.org/tools/contact.php?user_id=3076531&subject=help-ozon.ru) | 2587 days ago (01/15/2019) | 0 |
 | helpgeek.com (48 hosts in use) website | private | [srailey](https://freedns.afraid.org/tools/contact.php?user_id=1837519&subject=helpgeek.com) | 4249 days ago (06/26/2014) | 0 |
@@ -9576,7 +9552,7 @@ Total domains: 25241
 | ifixthat.com (40 hosts in use) website | private | [icecreamman](https://freedns.afraid.org/tools/contact.php?user_id=535991&subject=ifixthat.com) | 3975 days ago (02/25/2015) | 0 |
 | iglyfrog.com (36 hosts in use) website | private | [mrchris2000](https://freedns.afraid.org/tools/contact.php?user_id=1246410&subject=iglyfrog.com) | 4150 days ago (09/26/2014) | 0 |
 | ihlemann.xyz (24 hosts in use) website | private | [ivo002](https://freedns.afraid.org/tools/contact.php?user_id=1834026&subject=ihlemann.xyz) | 1777 days ago (03/03/2021) | 0 |
-| iiiii.info (1986 hosts in use) website | public | [dons](https://freedns.afraid.org/tools/contact.php?user_id=77509&subject=iiiii.info) | 7906 days ago (06/23/2004) | 0 |
+| iiiii.info (1988 hosts in use) website | public | [dons](https://freedns.afraid.org/tools/contact.php?user_id=77509&subject=iiiii.info) | 7908 days ago (06/23/2004) | 0 |
 | illicotv.biz (20 hosts in use) website | private | [kakayara](https://freedns.afraid.org/tools/contact.php?user_id=463257&subject=illicotv.biz) | 6191 days ago (03/03/2009) | 0 |
 | ilmanfd.co.kr (5 hosts in use) website | public | [hl4ciw](https://freedns.afraid.org/tools/contact.php?user_id=3984604&subject=ilmanfd.co.kr) | 840 days ago (10/26/2023) | 0 |
 | ilovepiter.ru (2 hosts in use) website | private | [chugun](https://freedns.afraid.org/tools/contact.php?user_id=2578199&subject=ilovepiter.ru) | 1025 days ago (03/25/2023) | 0 |
@@ -9654,7 +9630,7 @@ Total domains: 25241
 | isyour.guru (184 hosts in use) website | public | [tiinusen](https://freedns.afraid.org/tools/contact.php?user_id=1902440&subject=isyour.guru) | 4202 days ago (08/15/2014) | 0 |
 | it-touch.com (33 hosts in use) website | private | [chrislyw](https://freedns.afraid.org/tools/contact.php?user_id=1653971&subject=it-touch.com) | 4390 days ago (02/04/2014) | 0 |
 | itaxxion.com (50 hosts in use) website | private | [felipesilvame](https://freedns.afraid.org/tools/contact.php?user_id=2804730&subject=itaxxion.com) | 3081 days ago (08/24/2017) | 0 |
-| itcourses.cl (25 hosts in use) website | private | [rodrigobarrios](https://freedns.afraid.org/tools/contact.php?user_id=3142261&subject=itcourses.cl) | 2547 days ago (01/23/2019) | 0 |
+| itcourses.cl (26 hosts in use) website | private | [rodrigobarrios](https://freedns.afraid.org/tools/contact.php?user_id=3142261&subject=itcourses.cl) | 2581 days ago (01/23/2019) | 0 |
 | itesa.com.ar (23 hosts in use) website | private | [itesacomar](https://freedns.afraid.org/tools/contact.php?user_id=2386543&subject=itesa.com.ar) | 3799 days ago (08/20/2015) | 0 |
 | itlawyers.hk (28 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=itlawyers.hk) | 6191 days ago (03/03/2009) | 0 |
 | itprofdelo.ru (5 hosts in use) website | private | [fakegrek](https://freedns.afraid.org/tools/contact.php?user_id=4021590&subject=itprofdelo.ru) | 2275 days ago (10/24/2019) | 0 |
@@ -9711,7 +9687,7 @@ Total domains: 25241
 | johansson.io (39 hosts in use) website | private | [johansson](https://freedns.afraid.org/tools/contact.php?user_id=1403256&subject=johansson.io) | 4587 days ago (06/25/2013) | 0 |
 | johngallo.net (4 hosts in use) website | private | [four2theizz0](https://freedns.afraid.org/tools/contact.php?user_id=248679&subject=johngallo.net) | 7065 days ago (10/10/2006) | 0 |
 | johnreoli.com (7 hosts in use) website | private | [vejjamos](https://freedns.afraid.org/tools/contact.php?user_id=2844125&subject=johnreoli.com) | 415 days ago (12/14/2024) | 0 |
-| jonmay.co.uk (29 hosts in use) website | private | [jmiller125](https://freedns.afraid.org/tools/contact.php?user_id=3671035&subject=jonmay.co.uk) | 1414 days ago (03/27/2022) | 0 |
+| jonmay.co.uk (29 hosts in use) website | private | [jmiller125](https://freedns.afraid.org/tools/contact.php?user_id=3671035&subject=jonmay.co.uk) | 1422 days ago (03/27/2022) | 0 |
 | jonward.com (492 hosts in use) website | public | [jwlondon](https://freedns.afraid.org/tools/contact.php?user_id=512264&subject=jonward.com) | 6024 days ago (08/19/2009) | 0 |
 | joojoo.space (26 hosts in use) website | private | [zufar](https://freedns.afraid.org/tools/contact.php?user_id=607847&subject=joojoo.space) | 3027 days ago (10/08/2017) | 0 |
 | jorgebozo.cl (24 hosts in use) website | private | [jorgebozo](https://freedns.afraid.org/tools/contact.php?user_id=665002&subject=jorgebozo.cl) | 5535 days ago (11/18/2010) | 0 |
@@ -9846,10 +9822,9 @@ Total domains: 25241
 | lebulbe.info (16 hosts in use) website | private | [lebulbe](https://freedns.afraid.org/tools/contact.php?user_id=1137420&subject=lebulbe.info) | 3740 days ago (10/20/2015) | 0 |
 | ledwidge.net (33 hosts in use) website | private | [hindustickman](https://freedns.afraid.org/tools/contact.php?user_id=1983812&subject=ledwidge.net) | 4127 days ago (10/26/2014) | 0 |
 | legge.org.nz (17 hosts in use) website | private | [glegge](https://freedns.afraid.org/tools/contact.php?user_id=549367&subject=legge.org.nz) | 5874 days ago (01/13/2010) | 0 |
-| legonas.net (179 hosts in use) website | public | [legonas](https://freedns.afraid.org/tools/contact.php?user_id=63527&subject=legonas.net) | 6358 days ago (09/17/2008) | 0 |
+| legonas.net (180 hosts in use) website | public | [legonas](https://freedns.afraid.org/tools/contact.php?user_id=63527&subject=legonas.net) | 6361 days ago (09/17/2008) | 0 |
 | lehcloud.com (34 hosts in use) website | private | [213374you](https://freedns.afraid.org/tools/contact.php?user_id=1358305&subject=lehcloud.com) | 4650 days ago (05/14/2013) | 0 |
 | lelup.com.ar (29 hosts in use) website | private | [jpinnel](https://freedns.afraid.org/tools/contact.php?user_id=743820&subject=lelup.com.ar) | 5333 days ago (06/10/2011) | 0 |
-| lentus.co.kr (26 hosts in use) website | private | [inposs](https://freedns.afraid.org/tools/contact.php?user_id=2897851&subject=lentus.co.kr) | 3142 days ago (06/26/2017) | 0 |
 | leowongtc.hk (19 hosts in use) website | private | [leowongtc](https://freedns.afraid.org/tools/contact.php?user_id=3495339&subject=leowongtc.hk) | 1839 days ago (01/02/2021) | 0 |
 | leozilla.com (62 hosts in use) website | private | [lrodriugez1212](https://freedns.afraid.org/tools/contact.php?user_id=649240&subject=leozilla.com) | 5617 days ago (09/28/2010) | 0 |
 | lepak.com.my (79 hosts in use) website | private | [budhead](https://freedns.afraid.org/tools/contact.php?user_id=873455&subject=lepak.com.my) | 5143 days ago (12/15/2011) | 0 |
@@ -9916,7 +9891,7 @@ Total domains: 25241
 | m2estudio.cl (65 hosts in use) website | public | [m2estudio](https://freedns.afraid.org/tools/contact.php?user_id=2352240&subject=m2estudio.cl) | 3869 days ago (07/08/2015) | 0 |
 | ma-dang.com (153 hosts in use) website | public | [cjsak18](https://freedns.afraid.org/tools/contact.php?user_id=1253823&subject=ma-dang.com) | 4123 days ago (10/30/2014) | 0 |
 | macauley.us (100 hosts in use) website | public | [mikailovm](https://freedns.afraid.org/tools/contact.php?user_id=290154&subject=macauley.us) | 4908 days ago (09/06/2012) | 0 |
-| macrofox.com (31 hosts in use) website | private | [macrofox](https://freedns.afraid.org/tools/contact.php?user_id=257236&subject=macrofox.com) | 7031 days ago (11/14/2006) | 0 |
+| macrofox.com (30 hosts in use) website | private | [macrofox](https://freedns.afraid.org/tools/contact.php?user_id=257236&subject=macrofox.com) | 7033 days ago (11/14/2006) | 0 |
 | macroscope.cl (6 hosts in use) website | private | [friedrich](https://freedns.afraid.org/tools/contact.php?user_id=1165834&subject=macroscope.cl) | 2160 days ago (02/14/2020) | 0 |
 | macyszyn.com (41 hosts in use) website | private | [lukemac77](https://freedns.afraid.org/tools/contact.php?user_id=352678&subject=macyszyn.com) | 6627 days ago (12/23/2007) | 0 |
 | madalinux.ro (20 hosts in use) website | private | [madalintoo](https://freedns.afraid.org/tools/contact.php?user_id=1050093&subject=madalinux.ro) | 4936 days ago (07/25/2012) | 0 |
@@ -9931,7 +9906,7 @@ Total domains: 25241
 | majatanzt.ch (45 hosts in use) website | private | [eyesound](https://freedns.afraid.org/tools/contact.php?user_id=198977&subject=majatanzt.ch) | 6832 days ago (06/01/2007) | 0 |
 | majoitus.ee (203 hosts in use) website | public | [saulermarketing](https://freedns.afraid.org/tools/contact.php?user_id=789116&subject=majoitus.ee) | 5218 days ago (11/03/2011) | 0 |
 | makesimply.ru (2 hosts in use) website | private | [i6z7cd2p](https://freedns.afraid.org/tools/contact.php?user_id=1294145&subject=makesimply.ru) | 373 days ago (01/05/2025) | 0 |
-| makisupa.org (31 hosts in use) website | private | [makisupa](https://freedns.afraid.org/tools/contact.php?user_id=487498&subject=makisupa.org) | 5909 days ago (12/10/2009) | 0 |
+| makisupa.org (32 hosts in use) website | private | [makisupa](https://freedns.afraid.org/tools/contact.php?user_id=487498&subject=makisupa.org) | 5912 days ago (12/10/2009) | 0 |
 | makovecz.com (53 hosts in use) website | private | [amakovec](https://freedns.afraid.org/tools/contact.php?user_id=3102181&subject=makovecz.com) | 2676 days ago (10/04/2018) | 0 |
 | man-insa.com (14 hosts in use) website | private | [ecamey](https://freedns.afraid.org/tools/contact.php?user_id=2218876&subject=man-insa.com) | 398 days ago (01/08/2025) | 0 |
 | mandinga.com (32 hosts in use) website | private | [swhickman](https://freedns.afraid.org/tools/contact.php?user_id=531715&subject=mandinga.com) | 5944 days ago (11/05/2009) | 0 |
@@ -9942,7 +9917,7 @@ Total domains: 25241
 | manuja.com.np (8 hosts in use) website | public | [programmersaugat](https://freedns.afraid.org/tools/contact.php?user_id=2970926&subject=manuja.com.np) | 1544 days ago (11/21/2021) | 0 |
 | marcorast.com (6 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=marcorast.com) | 1800 days ago (03/11/2021) | 0 |
 | markcole.net (16 hosts in use) website | private | [markcole](https://freedns.afraid.org/tools/contact.php?user_id=1387846&subject=markcole.net) | 2623 days ago (12/09/2018) | 0 |
-| markiper.com (24 hosts in use) website | private | [markiper](https://freedns.afraid.org/tools/contact.php?user_id=2943998&subject=markiper.com) | 2975 days ago (12/14/2017) | 0 |
+| markiper.com (24 hosts in use) website | private | [markiper](https://freedns.afraid.org/tools/contact.php?user_id=2943998&subject=markiper.com) | 2986 days ago (12/14/2017) | 0 |
 | markusoft.se (86 hosts in use) website | private | [uffetuff](https://freedns.afraid.org/tools/contact.php?user_id=62491&subject=markusoft.se) | 7998 days ago (03/22/2004) | 0 |
 | maroubra.pub (85 hosts in use) website | public | [maxlees](https://freedns.afraid.org/tools/contact.php?user_id=1843725&subject=maroubra.pub) | 3055 days ago (10/05/2017) | 0 |
 | martiago.com (30 hosts in use) website | private | [jaserradilla](https://freedns.afraid.org/tools/contact.php?user_id=1229853&subject=martiago.com) | 4744 days ago (02/15/2013) | 0 |
@@ -9952,7 +9927,7 @@ Total domains: 25241
 | mateotour.ro (24 hosts in use) website | private | [crush3r](https://freedns.afraid.org/tools/contact.php?user_id=626469&subject=mateotour.ro) | 2826 days ago (05/09/2018) | 0 |
 | mateusz.info (43 hosts in use) website | private | [rosomak](https://freedns.afraid.org/tools/contact.php?user_id=27512&subject=mateusz.info) | 8102 days ago (12/09/2003) | 0 |
 | matheus24.de (27 hosts in use) website | private | [matheus24](https://freedns.afraid.org/tools/contact.php?user_id=2629839&subject=matheus24.de) | 3547 days ago (05/04/2016) | 0 |
-| mathiesen.ws (17 hosts in use) website | private | [henrikmat](https://freedns.afraid.org/tools/contact.php?user_id=2480082&subject=mathiesen.ws) | 1611 days ago (08/16/2021) | 0 |
+| mathiesen.ws (18 hosts in use) website | private | [henrikmat](https://freedns.afraid.org/tools/contact.php?user_id=2480082&subject=mathiesen.ws) | 1645 days ago (08/16/2021) | 0 |
 | matles.com.ar (5 hosts in use) website | private | [gcapo](https://freedns.afraid.org/tools/contact.php?user_id=602268&subject=matles.com.ar) | 5750 days ago (05/11/2010) | 0 |
 | matt14153.com (7 hosts in use) website | private | [matt14153](https://freedns.afraid.org/tools/contact.php?user_id=5195916&subject=matt14153.com) | 64 days ago (12/07/2025) | 0 |
 | mattben.info (91 hosts in use) website | public | [mattben](https://freedns.afraid.org/tools/contact.php?user_id=1178470&subject=mattben.info) | 4901 days ago (09/15/2012) | 0 |
@@ -9975,9 +9950,8 @@ Total domains: 25241
 | meendu-it.de (48 hosts in use) website | private | [dennisrupp](https://freedns.afraid.org/tools/contact.php?user_id=2794666&subject=meendu-it.de) | 3345 days ago (12/13/2016) | 0 |
 | meersman.org (31 hosts in use) website | private | [grepdashv](https://freedns.afraid.org/tools/contact.php?user_id=528029&subject=meersman.org) | 5953 days ago (10/25/2009) | 0 |
 | mehendale.in (24 hosts in use) website | private | [chartoon](https://freedns.afraid.org/tools/contact.php?user_id=667066&subject=mehendale.in) | 5528 days ago (11/25/2010) | 0 |
-| meindlnet.at (26 hosts in use) website | private | [nik006](https://freedns.afraid.org/tools/contact.php?user_id=2858794&subject=meindlnet.at) | 3216 days ago (04/14/2017) | 0 |
 | mekanbaz.com (37 hosts in use) website | private | [sebgymn](https://freedns.afraid.org/tools/contact.php?user_id=804381&subject=mekanbaz.com) | 3051 days ago (09/18/2017) | 0 |
-| melindro.org (19 hosts in use) website | private | [cuquet](https://freedns.afraid.org/tools/contact.php?user_id=496334&subject=melindro.org) | 5792 days ago (04/08/2010) | 0 |
+| melindro.org (20 hosts in use) website | private | [cuquet](https://freedns.afraid.org/tools/contact.php?user_id=496334&subject=melindro.org) | 5793 days ago (04/08/2010) | 0 |
 | mentoring.cl (22 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=mentoring.cl) | 3511 days ago (06/30/2016) | 0 |
 | menushelf.com (6 hosts in use) website | private | [mihai1606](https://freedns.afraid.org/tools/contact.php?user_id=3136769&subject=menushelf.com) | 2563 days ago (01/07/2019) | 0 |
 | merentitis.gr (3 hosts in use) website | private | [meres](https://freedns.afraid.org/tools/contact.php?user_id=2890855&subject=merentitis.gr) | 3169 days ago (06/12/2017) | 0 |
@@ -10010,7 +9984,6 @@ Total domains: 25241
 | mingugge.com (36 hosts in use) website | private | [ziemowit](https://freedns.afraid.org/tools/contact.php?user_id=112348&subject=mingugge.com) | 7694 days ago (01/19/2005) | 0 |
 | minhhong.com (28 hosts in use) website | private | [nhoangf](https://freedns.afraid.org/tools/contact.php?user_id=1046886&subject=minhhong.com) | 4820 days ago (11/02/2012) | 0 |
 | minihub.space (6 hosts in use) website | private | [vellpim](https://freedns.afraid.org/tools/contact.php?user_id=4259098&subject=minihub.space) | 315 days ago (03/04/2025) | 0 |
-| minplekke.be (26 hosts in use) website | private | [lievenbaes](https://freedns.afraid.org/tools/contact.php?user_id=1639876&subject=minplekke.be) | 4396 days ago (01/15/2014) | 0 |
 | mipiquito.com (2 hosts in use) website | private | [uveh](https://freedns.afraid.org/tools/contact.php?user_id=4192524&subject=mipiquito.com) | 595 days ago (06/21/2024) | 0 |
 | miscursos.ec (29 hosts in use) website | private | [palma03](https://freedns.afraid.org/tools/contact.php?user_id=3808186&subject=miscursos.ec) | 1094 days ago (02/04/2023) | 0 |
 | missionwg.ch (28 hosts in use) website | private | [missionwg](https://freedns.afraid.org/tools/contact.php?user_id=381626&subject=missionwg.ch) | 7285 days ago (03/04/2006) | 0 |
@@ -10023,27 +9996,25 @@ Total domains: 25241
 | mobileamc.com (7 hosts in use) website | private | [acieslinski](https://freedns.afraid.org/tools/contact.php?user_id=2807200&subject=mobileamc.com) | 939 days ago (07/17/2023) | 0 |
 | modelinfo.be (36 hosts in use) website | private | [mdoigny](https://freedns.afraid.org/tools/contact.php?user_id=91745&subject=modelinfo.be) | 5871 days ago (01/17/2010) | 0 |
 | moeller1.com (30 hosts in use) website | private | [smmoeller1969](https://freedns.afraid.org/tools/contact.php?user_id=2016735&subject=moeller1.com) | 4068 days ago (12/05/2014) | 0 |
-| mojoteeth.ca (31 hosts in use) website | public | [happypc](https://freedns.afraid.org/tools/contact.php?user_id=325391&subject=mojoteeth.ca) | 347 days ago (03/02/2025) | 0 |
+| mojoteeth.ca (36 hosts in use) website | public | [happypc](https://freedns.afraid.org/tools/contact.php?user_id=325391&subject=mojoteeth.ca) | 351 days ago (03/02/2025) | 0 |
 | mokrycki.com (24 hosts in use) website | private | [admokrycki762](https://freedns.afraid.org/tools/contact.php?user_id=1115531&subject=mokrycki.com) | 4552 days ago (07/30/2013) | 0 |
 | molthmex.com (24 hosts in use) website | private | [softdevs18](https://freedns.afraid.org/tools/contact.php?user_id=3034512&subject=molthmex.com) | 2653 days ago (10/11/2018) | 0 |
 | monkymakes.me (2 hosts in use) website | private | [jtrujillo](https://freedns.afraid.org/tools/contact.php?user_id=609458&subject=monkymakes.me) | 1391 days ago (03/24/2022) | 0 |
 | moogled.info (25 hosts in use) website | private | [moogled](https://freedns.afraid.org/tools/contact.php?user_id=755295&subject=moogled.info) | 4583 days ago (07/27/2013) | 0 |
 | mookernet.nl (73 hosts in use) website | private | [mikeverheijen](https://freedns.afraid.org/tools/contact.php?user_id=3443865&subject=mookernet.nl) | 1973 days ago (08/21/2020) | 0 |
-| mooo.com (817784 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=mooo.com) | 9103 days ago (03/15/2001) | 0 |
+| mooo.com (817924 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=mooo.com) | 9104 days ago (03/15/2001) | 0 |
 | mooreretro.be (9 hosts in use) website | private | [tsm1033](https://freedns.afraid.org/tools/contact.php?user_id=1589579&subject=mooreretro.be) | 198 days ago (07/30/2025) | 0 |
 | mopszucht.ch (10 hosts in use) website | private | [freiu](https://freedns.afraid.org/tools/contact.php?user_id=785548&subject=mopszucht.ch) | 3275 days ago (02/05/2017) | 0 |
 | morgeweb.com (32 hosts in use) website | private | [morge](https://freedns.afraid.org/tools/contact.php?user_id=455054&subject=morgeweb.com) | 3646 days ago (02/07/2016) | 0 |
-| morrisis.com (36 hosts in use) website | private | [morrisis](https://freedns.afraid.org/tools/contact.php?user_id=321990&subject=morrisis.com) | 6740 days ago (08/16/2007) | 0 |
+| morrisis.com (36 hosts in use) website | private | [morrisis](https://freedns.afraid.org/tools/contact.php?user_id=321990&subject=morrisis.com) | 6759 days ago (08/16/2007) | 0 |
 | morrisis.net (80 hosts in use) website | public | [morrisis](https://freedns.afraid.org/tools/contact.php?user_id=321990&subject=morrisis.net) | 2738 days ago (08/14/2018) | 0 |
 | morskosci.pl (10 hosts in use) website | private | [emesik](https://freedns.afraid.org/tools/contact.php?user_id=697550&subject=morskosci.pl) | 2520 days ago (03/16/2019) | 0 |
 | mosbricka.nu (23 hosts in use) website | private | [theyak99](https://freedns.afraid.org/tools/contact.php?user_id=2774682&subject=mosbricka.nu) | 3358 days ago (11/24/2016) | 0 |
 | mosur.com.ar (88 hosts in use) website | public | [tomcat09](https://freedns.afraid.org/tools/contact.php?user_id=1104927&subject=mosur.com.ar) | 4971 days ago (07/04/2012) | 0 |
 | motorxxi.com (14 hosts in use) website | private | [jortellsg](https://freedns.afraid.org/tools/contact.php?user_id=2949499&subject=motorxxi.com) | 3002 days ago (10/25/2017) | 0 |
-| mountains.tw (26 hosts in use) website | private | [ahaoa](https://freedns.afraid.org/tools/contact.php?user_id=468738&subject=mountains.tw) | 6185 days ago (03/09/2009) | 0 |
 | mountjade.com (8 hosts in use) website | private | [raycherng](https://freedns.afraid.org/tools/contact.php?user_id=1943334&subject=mountjade.com) | 1583 days ago (09/29/2021) | 0 |
 | moure.com.ar (86 hosts in use) website | public | [einstein007](https://freedns.afraid.org/tools/contact.php?user_id=2175425&subject=moure.com.ar) | 3989 days ago (03/05/2015) | 0 |
 | mozammal.com (45 hosts in use) website | private | [diponairnet](https://freedns.afraid.org/tools/contact.php?user_id=396734&subject=mozammal.com) | 4280 days ago (05/11/2014) | 0 |
-| mp3gratis.us (26 hosts in use) website | private | [clickhere3](https://freedns.afraid.org/tools/contact.php?user_id=1823940&subject=mp3gratis.us) | 4276 days ago (04/30/2014) | 0 |
 | mpegfour.net (24 hosts in use) website | private | [achen60](https://freedns.afraid.org/tools/contact.php?user_id=1102115&subject=mpegfour.net) | 4947 days ago (07/27/2012) | 0 |
 | mrkrier.info (24 hosts in use) website | private | [dhabecker](https://freedns.afraid.org/tools/contact.php?user_id=457945&subject=mrkrier.info) | 6148 days ago (04/15/2009) | 0 |
 | mrothwell.me (31 hosts in use) website | private | [rothwell](https://freedns.afraid.org/tools/contact.php?user_id=306887&subject=mrothwell.me) | 4983 days ago (06/23/2012) | 0 |
@@ -10057,8 +10028,6 @@ Total domains: 25241
 | multikult.ro (23 hosts in use) website | private | [alpinism](https://freedns.afraid.org/tools/contact.php?user_id=2432945&subject=multikult.ro) | 3005 days ago (10/22/2017) | 0 |
 | multiplex.io (45 hosts in use) website | private | [mikebz](https://freedns.afraid.org/tools/contact.php?user_id=1027665&subject=multiplex.io) | 5019 days ago (04/19/2012) | 0 |
 | multitemp.ro (10 hosts in use) website | private | [zsokos](https://freedns.afraid.org/tools/contact.php?user_id=555414&subject=multitemp.ro) | 2044 days ago (06/09/2020) | 0 |
-| munoa.com.ar (26 hosts in use) website | private | [pablomunoa](https://freedns.afraid.org/tools/contact.php?user_id=352715&subject=munoa.com.ar) | 5847 days ago (02/09/2010) | 0 |
-| murchnet.com (26 hosts in use) website | private | [dmurch90](https://freedns.afraid.org/tools/contact.php?user_id=3137573&subject=murchnet.com) | 2558 days ago (01/21/2019) | 0 |
 | murighiol.ro (51 hosts in use) website | public | [arthurdeme](https://freedns.afraid.org/tools/contact.php?user_id=2346240&subject=murighiol.ro) | 3870 days ago (06/30/2015) | 0 |
 | mustinet.org (39 hosts in use) website | private | [mustinet](https://freedns.afraid.org/tools/contact.php?user_id=609967&subject=mustinet.org) | 5725 days ago (06/07/2010) | 0 |
 | mutluay.com (212 hosts in use) website | public | [imutluay](https://freedns.afraid.org/tools/contact.php?user_id=687267&subject=mutluay.com) | 5498 days ago (01/26/2011) | 0 |
@@ -10090,7 +10059,6 @@ Total domains: 25241
 | nchped.org.np (7 hosts in use) website | private | [iomdit](https://freedns.afraid.org/tools/contact.php?user_id=3352991&subject=nchped.org.np) | 64 days ago (12/10/2025) | 0 |
 | neatbits.com (41 hosts in use) website | private | [jayemce](https://freedns.afraid.org/tools/contact.php?user_id=2122456&subject=neatbits.com) | 4018 days ago (02/09/2015) | 0 |
 | necik.waw.pl (53 hosts in use) website | public | [tzagorski](https://freedns.afraid.org/tools/contact.php?user_id=3175614&subject=necik.waw.pl) | 2305 days ago (09/24/2019) | 0 |
-| nectarte.com (26 hosts in use) website | private | [motocondria](https://freedns.afraid.org/tools/contact.php?user_id=189492&subject=nectarte.com) | 4050 days ago (01/12/2015) | 0 |
 | nedelin.info (29 hosts in use) website | private | [nedelin](https://freedns.afraid.org/tools/contact.php?user_id=54299&subject=nedelin.info) | 7187 days ago (06/09/2006) | 0 |
 | nedtobin.com (48 hosts in use) website | private | [kingkabuz](https://freedns.afraid.org/tools/contact.php?user_id=354382&subject=nedtobin.com) | 6619 days ago (12/31/2007) | 0 |
 | negociar.org (99 hosts in use) website | private | [aalvesme](https://freedns.afraid.org/tools/contact.php?user_id=2490843&subject=negociar.org) | 3447 days ago (08/27/2016) | 0 |
@@ -10216,7 +10184,7 @@ Total domains: 25241
 | parnassia.xyz (6 hosts in use) website | private | [geertdesmet](https://freedns.afraid.org/tools/contact.php?user_id=3763099&subject=parnassia.xyz) | 1163 days ago (11/07/2022) | 0 |
 | parun.com.ar (12 hosts in use) website | private | [beto](https://freedns.afraid.org/tools/contact.php?user_id=135399&subject=parun.com.ar) | 7117 days ago (07/20/2006) | 0 |
 | pastnote.org (26 hosts in use) website | private | [calebx](https://freedns.afraid.org/tools/contact.php?user_id=2580294&subject=pastnote.org) | 3570 days ago (04/07/2016) | 0 |
-| patrol-x.com (11 hosts in use) website | private | [ryach](https://freedns.afraid.org/tools/contact.php?user_id=3886201&subject=patrol-x.com) | 969 days ago (06/19/2023) | 0 |
+| patrol-x.com (20 hosts in use) website | private | [ryach](https://freedns.afraid.org/tools/contact.php?user_id=3886201&subject=patrol-x.com) | 973 days ago (06/19/2023) | 0 |
 | patshin.com (123 hosts in use) website | private | [jalexus](https://freedns.afraid.org/tools/contact.php?user_id=709064&subject=patshin.com) | 5439 days ago (03/16/2011) | 0 |
 | paulbirch.eu (13 hosts in use) website | private | [pallee](https://freedns.afraid.org/tools/contact.php?user_id=1761622&subject=paulbirch.eu) | 4275 days ago (05/01/2014) | 0 |
 | paulbirch.se (12 hosts in use) website | private | [pallee](https://freedns.afraid.org/tools/contact.php?user_id=1761622&subject=paulbirch.se) | 2028 days ago (07/28/2020) | 0 |
@@ -10256,7 +10224,6 @@ Total domains: 25241
 | pimentas.org (70 hosts in use) website | private | [lrothc](https://freedns.afraid.org/tools/contact.php?user_id=103065&subject=pimentas.org) | 7320 days ago (01/29/2006) | 0 |
 | pinkwrath.com (7 hosts in use) website | private | [blueflame78504](https://freedns.afraid.org/tools/contact.php?user_id=515036&subject=pinkwrath.com) | 4816 days ago (12/05/2012) | 0 |
 | pipeguard.ar (36 hosts in use) website | private | [snicolet](https://freedns.afraid.org/tools/contact.php?user_id=1044765&subject=pipeguard.ar) | 1364 days ago (05/23/2022) | 0 |
-| piratewan.com (9 hosts in use) website | private | [mdelise](https://freedns.afraid.org/tools/contact.php?user_id=1673758&subject=piratewan.com) | 647 days ago (05/08/2024) | 0 |
 | pissurno.com (53 hosts in use) website | private | [rafaelpissurno](https://freedns.afraid.org/tools/contact.php?user_id=340011&subject=pissurno.com) | 6469 days ago (05/29/2008) | 0 |
 | pixtoria.com (39 hosts in use) website | private | [alash](https://freedns.afraid.org/tools/contact.php?user_id=309510&subject=pixtoria.com) | 6646 days ago (12/04/2007) | 0 |
 | piyushks.xyz (14 hosts in use) website | private | [piyushks](https://freedns.afraid.org/tools/contact.php?user_id=4185344&subject=piyushks.xyz) | 575 days ago (06/19/2024) | 0 |
@@ -10415,7 +10382,7 @@ Total domains: 25241
 | rudrak.com.np (7 hosts in use) website | private | [bishnuk](https://freedns.afraid.org/tools/contact.php?user_id=3123912&subject=rudrak.com.np) | 2596 days ago (12/05/2018) | 0 |
 | rugbytots.ie (30 hosts in use) website | private | [robcaston](https://freedns.afraid.org/tools/contact.php?user_id=3348387&subject=rugbytots.ie) | 5013 days ago (04/23/2012) | 0 |
 | rumbatan.com (37 hosts in use) website | private | [rumbatan](https://freedns.afraid.org/tools/contact.php?user_id=2327776&subject=rumbatan.com) | 3903 days ago (06/08/2015) | 0 |
-| rupes.com.ar (29 hosts in use) website | private | [maxcode](https://freedns.afraid.org/tools/contact.php?user_id=2331165&subject=rupes.com.ar) | 3587 days ago (03/21/2016) | 0 |
+| rupes.com.ar (30 hosts in use) website | private | [maxcode](https://freedns.afraid.org/tools/contact.php?user_id=2331165&subject=rupes.com.ar) | 3619 days ago (03/21/2016) | 0 |
 | ruppoukko.fi (20 hosts in use) website | private | [petrodin](https://freedns.afraid.org/tools/contact.php?user_id=2946381&subject=ruppoukko.fi) | 2923 days ago (02/10/2018) | 0 |
 | ruscio.com.ar (9 hosts in use) website | private | [patouruzu](https://freedns.afraid.org/tools/contact.php?user_id=777380&subject=ruscio.com.ar) | 2450 days ago (04/30/2019) | 0 |
 | rutilus.net (186 hosts in use) website | public | [timbutler93](https://freedns.afraid.org/tools/contact.php?user_id=1779289&subject=rutilus.net) | 4299 days ago (05/10/2014) | 0 |
@@ -10450,7 +10417,6 @@ Total domains: 25241
 | samsoong.com (31 hosts in use) website | private | [samsung08](https://freedns.afraid.org/tools/contact.php?user_id=388689&subject=samsoong.com) | 1765 days ago (04/15/2021) | 0 |
 | samyagan.com (32 hosts in use) website | private | [ccoyne](https://freedns.afraid.org/tools/contact.php?user_id=243504&subject=samyagan.com) | 6611 days ago (01/08/2008) | 0 |
 | sanchez5.net (46 hosts in use) website | private | [kart14](https://freedns.afraid.org/tools/contact.php?user_id=621077&subject=sanchez5.net) | 5704 days ago (07/02/2010) | 0 |
-| sandi.web.id (73 hosts in use) website | private | [sandihartono](https://freedns.afraid.org/tools/contact.php?user_id=5041230&subject=sandi.web.id) | 128 days ago (10/10/2025) | 0 |
 | sanitaras.lt (19 hosts in use) website | private | [karmac](https://freedns.afraid.org/tools/contact.php?user_id=459301&subject=sanitaras.lt) | 3736 days ago (10/24/2015) | 0 |
 | santafevr.com (8 hosts in use) website | private | [netmansam](https://freedns.afraid.org/tools/contact.php?user_id=799514&subject=santafevr.com) | 4486 days ago (10/09/2013) | 0 |
 | saraibeam.fi (23 hosts in use) website | private | [vsuojanen](https://freedns.afraid.org/tools/contact.php?user_id=2816315&subject=saraibeam.fi) | 3101 days ago (07/20/2017) | 0 |
@@ -10505,7 +10471,7 @@ Total domains: 25241
 | shokodeal.ru (53 hosts in use) website | public | [fix27](https://freedns.afraid.org/tools/contact.php?user_id=536327&subject=shokodeal.ru) | 2665 days ago (10/30/2018) | 0 |
 | shoulson.com (34 hosts in use) website | private | [clsn](https://freedns.afraid.org/tools/contact.php?user_id=442221&subject=shoulson.com) | 5844 days ago (02/11/2010) | 0 |
 | show-iot.com (14 hosts in use) website | private | [showiot](https://freedns.afraid.org/tools/contact.php?user_id=4476635&subject=show-iot.com) | 212 days ago (06/17/2025) | 0 |
-| show-run.com (35 hosts in use) website | private | [yozh](https://freedns.afraid.org/tools/contact.php?user_id=27194&subject=show-run.com) | 5941 days ago (11/07/2009) | 0 |
+| show-run.com (35 hosts in use) website | private | [yozh](https://freedns.afraid.org/tools/contact.php?user_id=27194&subject=show-run.com) | 5945 days ago (11/07/2009) | 0 |
 | show-time.sk (18 hosts in use) website | private | [newmediagroup](https://freedns.afraid.org/tools/contact.php?user_id=773163&subject=show-time.sk) | 5281 days ago (08/30/2011) | 0 |
 | shredwake.com (2 hosts in use) website | private | [sayramacan1984](https://freedns.afraid.org/tools/contact.php?user_id=2025928&subject=shredwake.com) | 4061 days ago (12/01/2014) | 0 |
 | siafarm.com (100 hosts in use) website | private | [rcgroup](https://freedns.afraid.org/tools/contact.php?user_id=1402642&subject=siafarm.com) | 4459 days ago (11/18/2013) | 0 |
@@ -10605,7 +10571,7 @@ Total domains: 25241
 | spydersed.com (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=spydersed.com) | 3039 days ago (09/18/2017) | 0 |
 | sramage.net (158 hosts in use) website | public | [scott4957](https://freedns.afraid.org/tools/contact.php?user_id=2054309&subject=sramage.net) | 4067 days ago (12/26/2014) | 0 |
 | srwgroup.com (40 hosts in use) website | private | [srwgroup](https://freedns.afraid.org/tools/contact.php?user_id=2426668&subject=srwgroup.com) | 3773 days ago (10/04/2015) | 0 |
-| ssident.com (366 hosts in use) website | public | [sheboke](https://freedns.afraid.org/tools/contact.php?user_id=696122&subject=ssident.com) | 3614 days ago (03/25/2016) | 0 |
+| ssident.com (368 hosts in use) website | public | [sheboke](https://freedns.afraid.org/tools/contact.php?user_id=696122&subject=ssident.com) | 3615 days ago (03/25/2016) | 0 |
 | stach.one.pl (18 hosts in use) website | private | [stach666](https://freedns.afraid.org/tools/contact.php?user_id=33299&subject=stach.one.pl) | 5238 days ago (10/13/2011) | 0 |
 | staldemes.nl (26 hosts in use) website | private | [arjanmes](https://freedns.afraid.org/tools/contact.php?user_id=2905712&subject=staldemes.nl) | 3109 days ago (07/12/2017) | 0 |
 | stalouis.com (10 hosts in use) website | private | [marcstlouis](https://freedns.afraid.org/tools/contact.php?user_id=6251673&subject=stalouis.com) | 21 days ago (01/23/2026) | 0 |
@@ -10705,7 +10671,7 @@ Total domains: 25241
 | tectonica.cl (11 hosts in use) website | private | [esetec](https://freedns.afraid.org/tools/contact.php?user_id=339419&subject=tectonica.cl) | 299 days ago (04/19/2025) | 0 |
 | tegacore.com (15 hosts in use) website | private | [697606](https://freedns.afraid.org/tools/contact.php?user_id=2596283&subject=tegacore.com) | 3367 days ago (11/24/2016) | 0 |
 | teimporto.cl (45 hosts in use) website | public | [plepe](https://freedns.afraid.org/tools/contact.php?user_id=3445098&subject=teimporto.cl) | 2001 days ago (08/24/2020) | 0 |
-| teknolet.com (36 hosts in use) website | private | [accessorychoice](https://freedns.afraid.org/tools/contact.php?user_id=1046900&subject=teknolet.com) | 4692 days ago (04/11/2013) | 0 |
+| teknolet.com (36 hosts in use) website | private | [accessorychoice](https://freedns.afraid.org/tools/contact.php?user_id=1046900&subject=teknolet.com) | 4694 days ago (04/11/2013) | 0 |
 | tekolste.com (33 hosts in use) website | private | [athenny](https://freedns.afraid.org/tools/contact.php?user_id=837883&subject=tekolste.com) | 5221 days ago (10/30/2011) | 0 |
 | tekwerks.org (34 hosts in use) website | private | [evoeight](https://freedns.afraid.org/tools/contact.php?user_id=191579&subject=tekwerks.org) | 7287 days ago (03/03/2006) | 0 |
 | telemako.org (22 hosts in use) website | private | [valzen](https://freedns.afraid.org/tools/contact.php?user_id=1187077&subject=telemako.org) | 4867 days ago (10/07/2012) | 0 |
@@ -10951,12 +10917,12 @@ Total domains: 25241
 | zabavnov.com (13 hosts in use) website | private | [vzabavnov](https://freedns.afraid.org/tools/contact.php?user_id=1399370&subject=zabavnov.com) | 4589 days ago (06/21/2013) | 0 |
 | zafirus.name (26 hosts in use) website | private | [zafirus](https://freedns.afraid.org/tools/contact.php?user_id=891629&subject=zafirus.name) | 5126 days ago (01/01/2012) | 0 |
 | zahumny11.cz (16 hosts in use) website | private | [michaelpospisil](https://freedns.afraid.org/tools/contact.php?user_id=4121509&subject=zahumny11.cz) | 661 days ago (03/25/2024) | 0 |
-| zanity.net (3154 hosts in use) website | public | [zanity](https://freedns.afraid.org/tools/contact.php?user_id=25167&subject=zanity.net) | 8219 days ago (08/16/2003) | 0 |
+| zanity.net (3153 hosts in use) website | public | [zanity](https://freedns.afraid.org/tools/contact.php?user_id=25167&subject=zanity.net) | 8220 days ago (08/16/2003) | 0 |
 | zapni.com.mx (88 hosts in use) website | private | [reyval](https://freedns.afraid.org/tools/contact.php?user_id=3302059&subject=zapni.com.mx) | 4274 days ago (05/30/2014) | 0 |
 | zapp4you.xyz (47 hosts in use) website | public | [belalim](https://freedns.afraid.org/tools/contact.php?user_id=3644702&subject=zapp4you.xyz) | 1473 days ago (01/25/2022) | 0 |
 | zasadbreg.in (27 hosts in use) website | private | [dinokovac](https://freedns.afraid.org/tools/contact.php?user_id=3044091&subject=zasadbreg.in) | 2335 days ago (09/08/2019) | 0 |
 | zauzolkov.ru (22 hosts in use) website | private | [sergeyzauzolkovr](https://freedns.afraid.org/tools/contact.php?user_id=493565&subject=zauzolkov.ru) | 4973 days ago (07/02/2012) | 0 |
-| zaxis.com.ar (37 hosts in use) website | private | [epoxi](https://freedns.afraid.org/tools/contact.php?user_id=66553&subject=zaxis.com.ar) | 4477 days ago (11/13/2013) | 0 |
+| zaxis.com.ar (38 hosts in use) website | private | [epoxi](https://freedns.afraid.org/tools/contact.php?user_id=66553&subject=zaxis.com.ar) | 4477 days ago (11/13/2013) | 0 |
 | zayqan.co.uk (13 hosts in use) website | private | [mizfar](https://freedns.afraid.org/tools/contact.php?user_id=325202&subject=zayqan.co.uk) | 3323 days ago (12/20/2016) | 0 |
 | zdravstvo.si (16 hosts in use) website | private | [zkristof](https://freedns.afraid.org/tools/contact.php?user_id=2080699&subject=zdravstvo.si) | 2279 days ago (11/03/2019) | 0 |
 | zedbogey.com (39 hosts in use) website | private | [sldobson](https://freedns.afraid.org/tools/contact.php?user_id=3202293&subject=zedbogey.com) | 2379 days ago (07/17/2019) | 0 |
@@ -10981,7 +10947,7 @@ Total domains: 25241
 | 001-lab.space (16 hosts in use) website | public | [laborant416](https://freedns.afraid.org/tools/contact.php?user_id=3540076&subject=001-lab.space) | 1771 days ago (04/11/2021) | 0 |
 | 0x00000001.de (32 hosts in use) website | private | [bastik122014](https://freedns.afraid.org/tools/contact.php?user_id=2029690&subject=0x00000001.de) | 4066 days ago (12/04/2014) | 0 |
 | 0x35a4e4f5.cc (31 hosts in use) website | public | [0x35a4e4f5](https://freedns.afraid.org/tools/contact.php?user_id=5070174&subject=0x35a4e4f5.cc) | 114 days ago (10/24/2025) | 0 |
-| 1000doors.com (36 hosts in use) website | private | [nfelsen](https://freedns.afraid.org/tools/contact.php?user_id=1175273&subject=1000doors.com) | 4902 days ago (09/11/2012) | 0 |
+| 1000doors.com (37 hosts in use) website | private | [nfelsen](https://freedns.afraid.org/tools/contact.php?user_id=1175273&subject=1000doors.com) | 4905 days ago (09/11/2012) | 0 |
 | 1000views.com (41 hosts in use) website | private | [yischon](https://freedns.afraid.org/tools/contact.php?user_id=1666607&subject=1000views.com) | 4365 days ago (02/16/2014) | 0 |
 | 100dessins.ca (28 hosts in use) website | private | [zedragon84](https://freedns.afraid.org/tools/contact.php?user_id=1756368&subject=100dessins.ca) | 1455 days ago (02/11/2022) | 0 |
 | 113spacial.com (6 hosts in use) website | private | [chenzetian](https://freedns.afraid.org/tools/contact.php?user_id=3576703&subject=113spacial.com) | 1246 days ago (08/18/2022) | 0 |
@@ -11010,7 +10976,7 @@ Total domains: 25241
 | acesid.com.ar (39 hosts in use) website | private | [aichino](https://freedns.afraid.org/tools/contact.php?user_id=729096&subject=acesid.com.ar) | 5295 days ago (08/17/2011) | 0 |
 | acgcotton.com (88 hosts in use) website | private | [djgoodman72](https://freedns.afraid.org/tools/contact.php?user_id=813740&subject=acgcotton.com) | 4616 days ago (06/14/2013) | 0 |
 | acharalaw.com (47 hosts in use) website | private | [kampon](https://freedns.afraid.org/tools/contact.php?user_id=667080&subject=acharalaw.com) | 5530 days ago (11/25/2010) | 0 |
-| acmenet.co.uk (42 hosts in use) website | private | [acmenet](https://freedns.afraid.org/tools/contact.php?user_id=2078215&subject=acmenet.co.uk) | 4056 days ago (01/07/2015) | 0 |
+| acmenet.co.uk (42 hosts in use) website | private | [acmenet](https://freedns.afraid.org/tools/contact.php?user_id=2078215&subject=acmenet.co.uk) | 4058 days ago (01/07/2015) | 0 |
 | actopan.com.mx (7 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=actopan.com.mx) | 697 days ago (03/12/2024) | 0 |
 | adamacord.com (38 hosts in use) website | private | [acacord](https://freedns.afraid.org/tools/contact.php?user_id=1727763&subject=adamacord.com) | 4327 days ago (04/09/2014) | 0 |
 | adammarek.net (49 hosts in use) website | private | [amarek](https://freedns.afraid.org/tools/contact.php?user_id=443955&subject=adammarek.net) | 6278 days ago (12/06/2008) | 0 |
@@ -11051,7 +11017,7 @@ Total domains: 25241
 | alexandra.tw (104 hosts in use) website | public | [jo3c](https://freedns.afraid.org/tools/contact.php?user_id=804817&subject=alexandra.tw) | 5152 days ago (12/15/2011) | 0 |
 | alexkoller.cl (20 hosts in use) website | private | [rodrigo71](https://freedns.afraid.org/tools/contact.php?user_id=3158726&subject=alexkoller.cl) | 2029 days ago (07/18/2020) | 0 |
 | alfa1024.info (25 hosts in use) website | private | [alfa1024](https://freedns.afraid.org/tools/contact.php?user_id=1559694&subject=alfa1024.info) | 4434 days ago (12/22/2013) | 0 |
-| alfa145.co.uk (44 hosts in use) website | private | [ajcarter](https://freedns.afraid.org/tools/contact.php?user_id=620291&subject=alfa145.co.uk) | 5706 days ago (06/29/2010) | 0 |
+| alfa145.co.uk (44 hosts in use) website | private | [ajcarter](https://freedns.afraid.org/tools/contact.php?user_id=620291&subject=alfa145.co.uk) | 5711 days ago (06/29/2010) | 0 |
 | aliexpress.nl (41 hosts in use) website | private | [afraidnameserver](https://freedns.afraid.org/tools/contact.php?user_id=3782617&subject=aliexpress.nl) | 4218 days ago (07/30/2014) | 0 |
 | alindstrom.se (24 hosts in use) website | private | [lingodawg](https://freedns.afraid.org/tools/contact.php?user_id=641202&subject=alindstrom.se) | 3825 days ago (08/17/2015) | 0 |
 | alisasalon.ru (43 hosts in use) website | private | [wakh](https://freedns.afraid.org/tools/contact.php?user_id=830597&subject=alisasalon.ru) | 5230 days ago (10/19/2011) | 0 |
@@ -11136,7 +11102,7 @@ Total domains: 25241
 | atelierelf.ch (18 hosts in use) website | private | [nairboon](https://freedns.afraid.org/tools/contact.php?user_id=724872&subject=atelierelf.ch) | 5261 days ago (09/15/2011) | 0 |
 | atlasorion.com (6 hosts in use) website | private | [tytnatlas](https://freedns.afraid.org/tools/contact.php?user_id=4143158&subject=atlasorion.com) | 628 days ago (04/25/2024) | 0 |
 | atomicity.org (49 hosts in use) website | private | [atomgalaxy](https://freedns.afraid.org/tools/contact.php?user_id=194472&subject=atomicity.org) | 7189 days ago (06/09/2006) | 0 |
-| audicolsas.co (60 hosts in use) website | public | [biocneto](https://freedns.afraid.org/tools/contact.php?user_id=1250041&subject=audicolsas.co) | 1854 days ago (01/18/2021) | 0 |
+| audicolsas.co (60 hosts in use) website | public | [biocneto](https://freedns.afraid.org/tools/contact.php?user_id=1250041&subject=audicolsas.co) | 1855 days ago (01/18/2021) | 0 |
 | aulavirtual.mx (8 hosts in use) website | private | [gerardobg](https://freedns.afraid.org/tools/contact.php?user_id=979685&subject=aulavirtual.mx) | 3254 days ago (03/17/2017) | 0 |
 | aurilo.com.au (79 hosts in use) website | private | [edvhelpdesk](https://freedns.afraid.org/tools/contact.php?user_id=1662717&subject=aurilo.com.au) | 4280 days ago (05/26/2014) | 0 |
 | auszeiter.ch (241 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=auszeiter.ch) | 3646 days ago (02/20/2016) | 0 |
@@ -11149,7 +11115,7 @@ Total domains: 25241
 | aweejobby.com (64 hosts in use) website | public | [esaenz40](https://freedns.afraid.org/tools/contact.php?user_id=2270768&subject=aweejobby.com) | 618 days ago (06/03/2024) | 0 |
 | awoofcity.com (29 hosts in use) website | private | [obichijioke](https://freedns.afraid.org/tools/contact.php?user_id=613155&subject=awoofcity.com) | 341 days ago (03/11/2025) | 0 |
 | axatrading.ro (27 hosts in use) website | private | [kitzuboss](https://freedns.afraid.org/tools/contact.php?user_id=162434&subject=axatrading.ro) | 4271 days ago (05/05/2014) | 0 |
-| aygenerji.com (36 hosts in use) website | private | [bertanaygun](https://freedns.afraid.org/tools/contact.php?user_id=355108&subject=aygenerji.com) | 6614 days ago (01/03/2008) | 0 |
+| aygenerji.com (35 hosts in use) website | private | [bertanaygun](https://freedns.afraid.org/tools/contact.php?user_id=355108&subject=aygenerji.com) | 6618 days ago (01/03/2008) | 0 |
 | ayvaparmar.com (9 hosts in use) website | private | [hiteshparmar87](https://freedns.afraid.org/tools/contact.php?user_id=2288293&subject=ayvaparmar.com) | 2847 days ago (04/10/2018) | 0 |
 | azovstroy.com (14 hosts in use) website | private | [azovstroy](https://freedns.afraid.org/tools/contact.php?user_id=3035147&subject=azovstroy.com) | 2885 days ago (03/21/2018) | 0 |
 | azurecube.org (27 hosts in use) website | private | [azurecube](https://freedns.afraid.org/tools/contact.php?user_id=482369&subject=azurecube.org) | 6134 days ago (04/29/2009) | 0 |
@@ -11207,7 +11173,7 @@ Total domains: 25241
 | bitsultans.it (25 hosts in use) website | private | [bitsultans](https://freedns.afraid.org/tools/contact.php?user_id=4452175&subject=bitsultans.it) | 270 days ago (05/17/2025) | 0 |
 | bizcom.com.ar (37 hosts in use) website | private | [eyanson](https://freedns.afraid.org/tools/contact.php?user_id=1944768&subject=bizcom.com.ar) | 4161 days ago (09/25/2014) | 0 |
 | bizuit.com.ar (75 hosts in use) website | public | [ferbono](https://freedns.afraid.org/tools/contact.php?user_id=1298747&subject=bizuit.com.ar) | 2658 days ago (10/25/2018) | 0 |
-| bjornvold.com (36 hosts in use) website | private | [ulfb](https://freedns.afraid.org/tools/contact.php?user_id=751704&subject=bjornvold.com) | 5345 days ago (06/24/2011) | 0 |
+| bjornvold.com (35 hosts in use) website | private | [ulfb](https://freedns.afraid.org/tools/contact.php?user_id=751704&subject=bjornvold.com) | 5350 days ago (06/24/2011) | 0 |
 | black-car.net (15 hosts in use) website | private | [corpamarillo](https://freedns.afraid.org/tools/contact.php?user_id=576511&subject=black-car.net) | 5782 days ago (04/14/2010) | 0 |
 | blackfalds.ca (39 hosts in use) website | private | [kwilson](https://freedns.afraid.org/tools/contact.php?user_id=399147&subject=blackfalds.ca) | 6443 days ago (06/16/2008) | 0 |
 | bladezeta.cl (109 hosts in use) website | public | [bladezeta](https://freedns.afraid.org/tools/contact.php?user_id=1252462&subject=bladezeta.cl) | 4804 days ago (12/21/2012) | 0 |
@@ -11345,7 +11311,7 @@ Total domains: 25241
 | clubtengen.cl (26 hosts in use) website | private | [morsoinferno](https://freedns.afraid.org/tools/contact.php?user_id=3032434&subject=clubtengen.cl) | 2863 days ago (03/15/2018) | 0 |
 | cmbserver.com (26 hosts in use) website | private | [cmbserver](https://freedns.afraid.org/tools/contact.php?user_id=245617&subject=cmbserver.com) | 7070 days ago (09/24/2006) | 0 |
 | cmogaming.com (31 hosts in use) website | private | [degrinch](https://freedns.afraid.org/tools/contact.php?user_id=2442371&subject=cmogaming.com) | 1149 days ago (12/16/2022) | 0 |
-| cmstarhely.hu (41 hosts in use) website | private | [tele24](https://freedns.afraid.org/tools/contact.php?user_id=3754423&subject=cmstarhely.hu) | 1218 days ago (10/16/2022) | 0 |
+| cmstarhely.hu (46 hosts in use) website | private | [tele24](https://freedns.afraid.org/tools/contact.php?user_id=3754423&subject=cmstarhely.hu) | 1219 days ago (10/16/2022) | 0 |
 | cnfirsthk.com (24 hosts in use) website | private | [cnfirst](https://freedns.afraid.org/tools/contact.php?user_id=1513492&subject=cnfirsthk.com) | 281 days ago (05/05/2025) | 0 |
 | codeastur.com (34 hosts in use) website | private | [eb1tk](https://freedns.afraid.org/tools/contact.php?user_id=455519&subject=codeastur.com) | 4444 days ago (12/12/2013) | 0 |
 | codedtech.com (59 hosts in use) website | private | [telsen](https://freedns.afraid.org/tools/contact.php?user_id=2396720&subject=codedtech.com) | 4674 days ago (04/16/2013) | 0 |
@@ -11369,15 +11335,15 @@ Total domains: 25241
 | cookerman.com (37 hosts in use) website | private | [ed88](https://freedns.afraid.org/tools/contact.php?user_id=228154&subject=cookerman.com) | 7135 days ago (07/13/2006) | 0 |
 | cookerman.org (45 hosts in use) website | private | [ed88](https://freedns.afraid.org/tools/contact.php?user_id=228154&subject=cookerman.org) | 7137 days ago (07/13/2006) | 0 |
 | coppertech.cl (71 hosts in use) website | public | [mcaimio](https://freedns.afraid.org/tools/contact.php?user_id=2454324&subject=coppertech.cl) | 2093 days ago (05/20/2020) | 0 |
-| corcaribe.com (35 hosts in use) website | private | [aimass](https://freedns.afraid.org/tools/contact.php?user_id=55619&subject=corcaribe.com) | 6935 days ago (02/18/2007) | 0 |
+| corcaribe.com (36 hosts in use) website | private | [aimass](https://freedns.afraid.org/tools/contact.php?user_id=55619&subject=corcaribe.com) | 6938 days ago (02/18/2007) | 0 |
 | cordisma.com (160 hosts in use) website | private | [cordisma](https://freedns.afraid.org/tools/contact.php?user_id=1273811&subject=cordisma.com) | 4761 days ago (01/25/2013) | 0 |
-| coredinet.com (35 hosts in use) website | private | [diponairnet](https://freedns.afraid.org/tools/contact.php?user_id=396734&subject=coredinet.com) | 2750 days ago (08/05/2018) | 0 |
+| coredinet.com (36 hosts in use) website | private | [diponairnet](https://freedns.afraid.org/tools/contact.php?user_id=396734&subject=coredinet.com) | 2752 days ago (08/05/2018) | 0 |
 | corepanic.com (41 hosts in use) website | private | [jaceverg](https://freedns.afraid.org/tools/contact.php?user_id=758659&subject=corepanic.com) | 5165 days ago (12/01/2011) | 0 |
 | corepanic.net (28 hosts in use) website | private | [jaceverg](https://freedns.afraid.org/tools/contact.php?user_id=758659&subject=corepanic.net) | 5189 days ago (12/01/2011) | 0 |
 | corkytech.com (28 hosts in use) website | private | [corkytech](https://freedns.afraid.org/tools/contact.php?user_id=3118543&subject=corkytech.com) | 2628 days ago (11/17/2018) | 0 |
 | corndaddy.com (30 hosts in use) website | private | [potsie](https://freedns.afraid.org/tools/contact.php?user_id=145293&subject=corndaddy.com) | 7280 days ago (03/09/2006) | 0 |
 | corporater.ro (24 hosts in use) website | private | [corpoict](https://freedns.afraid.org/tools/contact.php?user_id=804317&subject=corporater.ro) | 5272 days ago (09/07/2011) | 0 |
-| correccion.cl (49 hosts in use) website | private | [claudiotri](https://freedns.afraid.org/tools/contact.php?user_id=3166956&subject=correccion.cl) | 1098 days ago (02/13/2023) | 0 |
+| correccion.cl (58 hosts in use) website | private | [claudiotri](https://freedns.afraid.org/tools/contact.php?user_id=3166956&subject=correccion.cl) | 1099 days ago (02/13/2023) | 0 |
 | cosmic.net.br (25 hosts in use) website | private | [mcosme](https://freedns.afraid.org/tools/contact.php?user_id=529205&subject=cosmic.net.br) | 5953 days ago (10/27/2009) | 0 |
 | cosmowaves.gr (13 hosts in use) website | private | [cosmowaves](https://freedns.afraid.org/tools/contact.php?user_id=252827&subject=cosmowaves.gr) | 3072 days ago (08/29/2017) | 0 |
 | coteboheme.ch (28 hosts in use) website | private | [beringhs](https://freedns.afraid.org/tools/contact.php?user_id=668011&subject=coteboheme.ch) | 4260 days ago (06/14/2014) | 0 |
@@ -11397,15 +11363,15 @@ Total domains: 25241
 | crivelli.info (20 hosts in use) website | private | [flo121284](https://freedns.afraid.org/tools/contact.php?user_id=1062598&subject=crivelli.info) | 4123 days ago (10/25/2014) | 0 |
 | croftmail.com (47 hosts in use) website | private | [tonyhalford](https://freedns.afraid.org/tools/contact.php?user_id=414469&subject=croftmail.com) | 6390 days ago (08/16/2008) | 0 |
 | cronix.com.ar (42 hosts in use) website | private | [kastor](https://freedns.afraid.org/tools/contact.php?user_id=159661&subject=cronix.com.ar) | 6820 days ago (06/14/2007) | 0 |
-| croqomiel.com (35 hosts in use) website | private | [charpentier](https://freedns.afraid.org/tools/contact.php?user_id=1487278&subject=croqomiel.com) | 4536 days ago (09/14/2013) | 0 |
+| croqomiel.com (36 hosts in use) website | private | [charpentier](https://freedns.afraid.org/tools/contact.php?user_id=1487278&subject=croqomiel.com) | 4538 days ago (09/14/2013) | 0 |
 | csgoit.com.np (21 hosts in use) website | private | [rajgoit](https://freedns.afraid.org/tools/contact.php?user_id=225271&subject=csgoit.com.np) | 2137 days ago (03/10/2020) | 0 |
 | csgoit.net.np (19 hosts in use) website | private | [csgoit](https://freedns.afraid.org/tools/contact.php?user_id=2875572&subject=csgoit.net.np) | 2084 days ago (06/02/2020) | 0 |
 | csmahjong.com (27 hosts in use) website | private | [led657052](https://freedns.afraid.org/tools/contact.php?user_id=3445729&subject=csmahjong.com) | 1991 days ago (08/26/2020) | 0 |
 | cthchile.com (209 hosts in use) website | public | [cthchilecl](https://freedns.afraid.org/tools/contact.php?user_id=1995859&subject=cthchile.com) | 4021 days ago (02/11/2015) | 0 |
-| cubeglobal.my (93 hosts in use) website | public | [magicien](https://freedns.afraid.org/tools/contact.php?user_id=2573452&subject=cubeglobal.my) | 3577 days ago (04/29/2016) | 0 |
+| cubeglobal.my (95 hosts in use) website | public | [magicien](https://freedns.afraid.org/tools/contact.php?user_id=2573452&subject=cubeglobal.my) | 3580 days ago (04/29/2016) | 0 |
 | cubicle51.com (10 hosts in use) website | public | [tsemple](https://freedns.afraid.org/tools/contact.php?user_id=4185862&subject=cubicle51.com) | 611 days ago (06/12/2024) | 0 |
 | cucograph.com (32 hosts in use) website | private | [cucograph](https://freedns.afraid.org/tools/contact.php?user_id=216174&subject=cucograph.com) | 7190 days ago (06/02/2006) | 0 |
-| cuetara.name (258 hosts in use) website | public | [bijou](https://freedns.afraid.org/tools/contact.php?user_id=123222&subject=cuetara.name) | 7643 days ago (03/12/2005) | 0 |
+| cuetara.name (258 hosts in use) website | public | [bijou](https://freedns.afraid.org/tools/contact.php?user_id=123222&subject=cuetara.name) | 7646 days ago (03/12/2005) | 0 |
 | cukierman.net (33 hosts in use) website | private | [ed88](https://freedns.afraid.org/tools/contact.php?user_id=228154&subject=cukierman.net) | 7153 days ago (07/13/2006) | 0 |
 | custermd.com (145 hosts in use) website | public | [custermd](https://freedns.afraid.org/tools/contact.php?user_id=360591&subject=custermd.com) | 3946 days ago (04/26/2015) | 0 |
 | customies.com (19 hosts in use) website | private | [kbousias](https://freedns.afraid.org/tools/contact.php?user_id=529678&subject=customies.com) | 5951 days ago (10/28/2009) | 0 |
@@ -11559,7 +11525,7 @@ Total domains: 25241
 | efratasol.com (40 hosts in use) website | private | [sentradigital](https://freedns.afraid.org/tools/contact.php?user_id=1727907&subject=efratasol.com) | 2852 days ago (04/10/2018) | 0 |
 | egood-tw.com (175 hosts in use) website | public | [ivanchen1124](https://freedns.afraid.org/tools/contact.php?user_id=813496&subject=egood-tw.com) | 5193 days ago (11/15/2011) | 0 |
 | eh-cameras.com (6 hosts in use) website | private | [rcolman](https://freedns.afraid.org/tools/contact.php?user_id=3332046&subject=eh-cameras.com) | 572 days ago (07/14/2024) | 0 |
-| eickerman.com (40 hosts in use) website | private | [jeickerman](https://freedns.afraid.org/tools/contact.php?user_id=118496&subject=eickerman.com) | 7667 days ago (02/16/2005) | 0 |
+| eickerman.com (41 hosts in use) website | private | [jeickerman](https://freedns.afraid.org/tools/contact.php?user_id=118496&subject=eickerman.com) | 7669 days ago (02/16/2005) | 0 |
 | eigenlicht.us (91 hosts in use) website | public | [xenther](https://freedns.afraid.org/tools/contact.php?user_id=1354586&subject=eigenlicht.us) | 4339 days ago (03/31/2014) | 0 |
 | ekushagra.com (43 hosts in use) website | private | [sksinha](https://freedns.afraid.org/tools/contact.php?user_id=730529&subject=ekushagra.com) | 5285 days ago (08/20/2011) | 0 |
 | elektrad.info (27 hosts in use) website | private | [elektra42](https://freedns.afraid.org/tools/contact.php?user_id=450406&subject=elektrad.info) | 5984 days ago (09/26/2009) | 0 |
@@ -11571,7 +11537,7 @@ Total domains: 25241
 | elmarketweb.ar (7 hosts in use) website | private | [noziglia](https://freedns.afraid.org/tools/contact.php?user_id=1100069&subject=elmarketweb.ar) | 264 days ago (04/24/2025) | 0 |
 | elmicha.com.ar (6 hosts in use) website | private | [michaseba](https://freedns.afraid.org/tools/contact.php?user_id=744941&subject=elmicha.com.ar) | 5333 days ago (06/08/2011) | 0 |
 | elnebuloso.com (8 hosts in use) website | private | [gfworkman](https://freedns.afraid.org/tools/contact.php?user_id=662897&subject=elnebuloso.com) | 1520 days ago (12/14/2021) | 0 |
-| elosornino.cl (21 hosts in use) website | public | [wilosorno](https://freedns.afraid.org/tools/contact.php?user_id=3335457&subject=elosornino.cl) | 2261 days ago (12/06/2019) | 0 |
+| elosornino.cl (22 hosts in use) website | public | [wilosorno](https://freedns.afraid.org/tools/contact.php?user_id=3335457&subject=elosornino.cl) | 2263 days ago (12/06/2019) | 0 |
 | elsiemohr.com (27 hosts in use) website | private | [sniffmonster](https://freedns.afraid.org/tools/contact.php?user_id=2749067&subject=elsiemohr.com) | 3408 days ago (10/10/2016) | 0 |
 | elumatesol.org (5 hosts in use) website | private | [armenic](https://freedns.afraid.org/tools/contact.php?user_id=3037635&subject=elumatesol.org) | 2159 days ago (02/15/2020) | 0 |
 | emendatus.com (47 hosts in use) website | private | [rosell](https://freedns.afraid.org/tools/contact.php?user_id=76682&subject=emendatus.com) | 5521 days ago (01/02/2011) | 0 |
@@ -11601,17 +11567,17 @@ Total domains: 25241
 | estudiohum.cl (32 hosts in use) website | private | [fsologuren](https://freedns.afraid.org/tools/contact.php?user_id=797849&subject=estudiohum.cl) | 5252 days ago (08/28/2011) | 0 |
 | ether3al.com (105 hosts in use) website | private | [distortedvoice](https://freedns.afraid.org/tools/contact.php?user_id=1584466&subject=ether3al.com) | 4372 days ago (02/18/2014) | 0 |
 | etk-resurs.ru (41 hosts in use) website | private | [etkresursru](https://freedns.afraid.org/tools/contact.php?user_id=720069&subject=etk-resurs.ru) | 5461 days ago (02/02/2011) | 0 |
-| euforiacs.com (10 hosts in use) website | public | [nashmen](https://freedns.afraid.org/tools/contact.php?user_id=3693597&subject=euforiacs.com) | 1360 days ago (05/27/2022) | 0 |
+| euforiacs.com (11 hosts in use) website | public | [nashmen](https://freedns.afraid.org/tools/contact.php?user_id=3693597&subject=euforiacs.com) | 1360 days ago (05/27/2022) | 0 |
 | eugenes.com.mx (7 hosts in use) website | public | [goosetheone](https://freedns.afraid.org/tools/contact.php?user_id=3497208&subject=eugenes.com.mx) | 1566 days ago (10/23/2021) | 0 |
 | euleio.com.br (63 hosts in use) website | public | [romanocarretas](https://freedns.afraid.org/tools/contact.php?user_id=1580851&subject=euleio.com.br) | 3759 days ago (10/30/2015) | 0 |
-| euro-line.hu (246 hosts in use) website | public | [bakjanos](https://freedns.afraid.org/tools/contact.php?user_id=2593797&subject=euro-line.hu) | 3618 days ago (03/21/2016) | 0 |
+| euro-line.hu (247 hosts in use) website | public | [bakjanos](https://freedns.afraid.org/tools/contact.php?user_id=2593797&subject=euro-line.hu) | 3619 days ago (03/21/2016) | 0 |
 | evonomist.com (23 hosts in use) website | private | [acoltye](https://freedns.afraid.org/tools/contact.php?user_id=182316&subject=evonomist.com) | 5574 days ago (11/08/2010) | 0 |
 | evtraders.com (24 hosts in use) website | private | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=evtraders.com) | 3196 days ago (04/29/2017) | 0 |
-| exercetur.com (54 hosts in use) website | private | [daedalus42](https://freedns.afraid.org/tools/contact.php?user_id=4206176&subject=exercetur.com) | 526 days ago (09/07/2024) | 0 |
+| exercetur.com (64 hosts in use) website | private | [daedalus42](https://freedns.afraid.org/tools/contact.php?user_id=4206176&subject=exercetur.com) | 527 days ago (09/07/2024) | 0 |
 | exiase.com.ar (88 hosts in use) website | public | [mzdominios](https://freedns.afraid.org/tools/contact.php?user_id=794455&subject=exiase.com.ar) | 4612 days ago (06/24/2013) | 0 |
 | expert.org.il (15 hosts in use) website | private | [nirnave](https://freedns.afraid.org/tools/contact.php?user_id=742661&subject=expert.org.il) | 5359 days ago (06/06/2011) | 0 |
 | exploratori.eu (3 hosts in use) website | private | [zaibar](https://freedns.afraid.org/tools/contact.php?user_id=748758&subject=exploratori.eu) | 1371 days ago (04/13/2022) | 0 |
-| extend47.com (100 hosts in use) website | public | [rpommer](https://freedns.afraid.org/tools/contact.php?user_id=575851&subject=extend47.com) | 3038 days ago (10/14/2017) | 0 |
+| extend47.com (101 hosts in use) website | public | [rpommer](https://freedns.afraid.org/tools/contact.php?user_id=575851&subject=extend47.com) | 3047 days ago (10/14/2017) | 0 |
 | ez4u2nvme.com (80 hosts in use) website | public | [ojrivera381](https://freedns.afraid.org/tools/contact.php?user_id=3147516&subject=ez4u2nvme.com) | 1384 days ago (04/17/2022) | 0 |
 | ezeewipes.com (39 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=ezeewipes.com) | 6192 days ago (03/02/2009) | 0 |
 | fabrissin.com (26 hosts in use) website | private | [alby79](https://freedns.afraid.org/tools/contact.php?user_id=112762&subject=fabrissin.com) | 7624 days ago (03/31/2005) | 0 |
@@ -11626,16 +11592,16 @@ Total domains: 25241
 | familie-bb.de (32 hosts in use) website | private | [yelogi](https://freedns.afraid.org/tools/contact.php?user_id=3423612&subject=familie-bb.de) | 3771 days ago (09/25/2015) | 0 |
 | family-lo.com (19 hosts in use) website | private | [jricky](https://freedns.afraid.org/tools/contact.php?user_id=764243&subject=family-lo.com) | 3413 days ago (10/09/2016) | 0 |
 | family.web.id (34 hosts in use) website | private | [familyweb](https://freedns.afraid.org/tools/contact.php?user_id=368918&subject=family.web.id) | 6563 days ago (02/25/2008) | 0 |
-| familyjam.es (241 hosts in use) website | public | [cybercowboy](https://freedns.afraid.org/tools/contact.php?user_id=742635&subject=familyjam.es) | 5364 days ago (06/07/2011) | 0 |
+| familyjam.es (242 hosts in use) website | public | [cybercowboy](https://freedns.afraid.org/tools/contact.php?user_id=742635&subject=familyjam.es) | 5368 days ago (06/07/2011) | 0 |
 | famolesen.com (38 hosts in use) website | private | [patole](https://freedns.afraid.org/tools/contact.php?user_id=798400&subject=famolesen.com) | 5271 days ago (08/29/2011) | 0 |
 | famolesen.net (33 hosts in use) website | private | [patole](https://freedns.afraid.org/tools/contact.php?user_id=798400&subject=famolesen.net) | 5280 days ago (08/29/2011) | 0 |
 | farmhellas.eu (10 hosts in use) website | private | [lsak](https://freedns.afraid.org/tools/contact.php?user_id=538217&subject=farmhellas.eu) | 3497 days ago (06/17/2016) | 0 |
 | fategash.com (176 hosts in use) website | public | [gcaramuto](https://freedns.afraid.org/tools/contact.php?user_id=1488621&subject=fategash.com) | 4527 days ago (09/17/2013) | 0 |
-| fdmtechnika.pl (6 hosts in use) website | private | [tomaszu97](https://freedns.afraid.org/tools/contact.php?user_id=2985993&subject=fdmtechnika.pl) | 319 days ago (03/27/2025) | 0 |
+| fdmtechnika.pl (8 hosts in use) website | private | [tomaszu97](https://freedns.afraid.org/tools/contact.php?user_id=2985993&subject=fdmtechnika.pl) | 325 days ago (03/27/2025) | 0 |
 | featherston.ar (9 hosts in use) website | private | [fedefeat](https://freedns.afraid.org/tools/contact.php?user_id=1637313&subject=featherston.ar) | 2310 days ago (09/17/2019) | 0 |
 | feedcube.org (157 hosts in use) website | public | [bg2015](https://freedns.afraid.org/tools/contact.php?user_id=2368969&subject=feedcube.org) | 2981 days ago (12/14/2017) | 0 |
 | feetender.com (37 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=feetender.com) | 6197 days ago (02/25/2009) | 0 |
-| fenesisu.moe (157 hosts in use) website | public | [danny8376](https://freedns.afraid.org/tools/contact.php?user_id=1481896&subject=fenesisu.moe) | 4221 days ago (07/24/2014) | 0 |
+| fenesisu.moe (158 hosts in use) website | public | [danny8376](https://freedns.afraid.org/tools/contact.php?user_id=1481896&subject=fenesisu.moe) | 4225 days ago (07/24/2014) | 0 |
 | fgstudios.com (36 hosts in use) website | private | [fgiotto](https://freedns.afraid.org/tools/contact.php?user_id=822938&subject=fgstudios.com) | 4443 days ago (12/11/2013) | 0 |
 | ficcuskids.cl (82 hosts in use) website | public | [maenmugu](https://freedns.afraid.org/tools/contact.php?user_id=1127384&subject=ficcuskids.cl) | 4941 days ago (07/31/2012) | 0 |
 | fiestawow.com (11 hosts in use) website | private | [dgrinovero](https://freedns.afraid.org/tools/contact.php?user_id=1614351&subject=fiestawow.com) | 165 days ago (08/01/2025) | 0 |
@@ -11677,7 +11643,7 @@ Total domains: 25241
 | freequeer.org (25 hosts in use) website | private | [lsblakk](https://freedns.afraid.org/tools/contact.php?user_id=1339322&subject=freequeer.org) | 4105 days ago (11/16/2014) | 0 |
 | freetrojan.pl (19 hosts in use) website | private | [rollecoster0](https://freedns.afraid.org/tools/contact.php?user_id=3579921&subject=freetrojan.pl) | 493 days ago (09/07/2024) | 0 |
 | freridein.nl (125 hosts in use) website | public | [freridein](https://freedns.afraid.org/tools/contact.php?user_id=1115198&subject=freridein.nl) | 4958 days ago (07/19/2012) | 0 |
-| fretnet.co.uk (17 hosts in use) website | private | [defretty](https://freedns.afraid.org/tools/contact.php?user_id=1142345&subject=fretnet.co.uk) | 4934 days ago (08/12/2012) | 0 |
+| fretnet.co.uk (17 hosts in use) website | private | [defretty](https://freedns.afraid.org/tools/contact.php?user_id=1142345&subject=fretnet.co.uk) | 4936 days ago (08/12/2012) | 0 |
 | frickalou.com (24 hosts in use) website | private | [zachron](https://freedns.afraid.org/tools/contact.php?user_id=742643&subject=frickalou.com) | 5362 days ago (06/06/2011) | 0 |
 | friedpope.com (24 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=friedpope.com) | 5150 days ago (01/04/2012) | 0 |
 | fruitbowl.xyz (17 hosts in use) website | private | [hasaple](https://freedns.afraid.org/tools/contact.php?user_id=2165529&subject=fruitbowl.xyz) | 2038 days ago (07/13/2020) | 0 |
@@ -11885,7 +11851,7 @@ Total domains: 25241
 | importastu.cl (24 hosts in use) website | private | [gprouliez](https://freedns.afraid.org/tools/contact.php?user_id=3083720&subject=importastu.cl) | 2718 days ago (08/07/2018) | 0 |
 | improvapp.com (51 hosts in use) website | private | [paf0](https://freedns.afraid.org/tools/contact.php?user_id=559429&subject=improvapp.com) | 5842 days ago (02/15/2010) | 0 |
 | impulsoti.com (37 hosts in use) website | private | [arturocp](https://freedns.afraid.org/tools/contact.php?user_id=1377731&subject=impulsoti.com) | 4642 days ago (05/29/2013) | 0 |
-| incoas.com.ar (77 hosts in use) website | public | [martinbrout](https://freedns.afraid.org/tools/contact.php?user_id=2138538&subject=incoas.com.ar) | 3995 days ago (02/18/2015) | 0 |
+| incoas.com.ar (76 hosts in use) website | public | [martinbrout](https://freedns.afraid.org/tools/contact.php?user_id=2138538&subject=incoas.com.ar) | 4016 days ago (02/18/2015) | 0 |
 | incorpnow.cn (174 hosts in use) website | public | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=incorpnow.cn) | 6241 days ago (01/12/2009) | 0 |
 | incorpnow.net (39 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=incorpnow.net) | 6243 days ago (01/12/2009) | 0 |
 | indoneska.com (97 hosts in use) website | public | [antariksa](https://freedns.afraid.org/tools/contact.php?user_id=1320969&subject=indoneska.com) | 4300 days ago (05/07/2014) | 0 |
@@ -11951,7 +11917,7 @@ Total domains: 25241
 | jeffpliska.us (60 hosts in use) website | private | [jpliska](https://freedns.afraid.org/tools/contact.php?user_id=1699945&subject=jeffpliska.us) | 4279 days ago (04/27/2014) | 0 |
 | jeffshouse.us (12 hosts in use) website | private | [jnuhfer](https://freedns.afraid.org/tools/contact.php?user_id=772398&subject=jeffshouse.us) | 5311 days ago (07/26/2011) | 0 |
 | jemcguffin.com (5 hosts in use) website | private | [telbebacksen1986](https://freedns.afraid.org/tools/contact.php?user_id=2013557&subject=jemcguffin.com) | 4865 days ago (09/18/2012) | 0 |
-| jerkface.net (574 hosts in use) website | public | [jerkface](https://freedns.afraid.org/tools/contact.php?user_id=4744&subject=jerkface.net) | 8669 days ago (05/23/2002) | 0 |
+| jerkface.net (574 hosts in use) website | public | [jerkface](https://freedns.afraid.org/tools/contact.php?user_id=4744&subject=jerkface.net) | 8670 days ago (05/23/2002) | 0 |
 | jesko-home.de (13 hosts in use) website | private | [felixx2012](https://freedns.afraid.org/tools/contact.php?user_id=2876516&subject=jesko-home.de) | 783 days ago (11/29/2023) | 0 |
 | jessandrob.us (10 hosts in use) website | private | [robgarrett](https://freedns.afraid.org/tools/contact.php?user_id=1379582&subject=jessandrob.us) | 4592 days ago (06/18/2013) | 0 |
 | jhkids.com.au (82 hosts in use) website | public | [comlinkit](https://freedns.afraid.org/tools/contact.php?user_id=1898638&subject=jhkids.com.au) | 2471 days ago (05/02/2019) | 0 |
@@ -12099,7 +12065,6 @@ Total domains: 25241
 | leader-vlbg.at (6 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=leader-vlbg.at) | 1790 days ago (03/23/2021) | 0 |
 | leameister.ch (12 hosts in use) website | private | [dynie](https://freedns.afraid.org/tools/contact.php?user_id=3079854&subject=leameister.ch) | 1479 days ago (12/26/2021) | 0 |
 | leemcleod.org (29 hosts in use) website | private | [leeemcleod](https://freedns.afraid.org/tools/contact.php?user_id=2474317&subject=leemcleod.org) | 3621 days ago (03/09/2016) | 0 |
-| legioagro.com (26 hosts in use) website | private | [mac121](https://freedns.afraid.org/tools/contact.php?user_id=3052763&subject=legioagro.com) | 2622 days ago (12/12/2018) | 0 |
 | leifwalsh.com (27 hosts in use) website | private | [adlaiff6](https://freedns.afraid.org/tools/contact.php?user_id=890737&subject=leifwalsh.com) | 5159 days ago (12/30/2011) | 0 |
 | leslie.com.au (81 hosts in use) website | private | [simoncollyer](https://freedns.afraid.org/tools/contact.php?user_id=1209038&subject=leslie.com.au) | 4838 days ago (10/29/2012) | 0 |
 | leso-pis.com (161 hosts in use) website | public | [red76](https://freedns.afraid.org/tools/contact.php?user_id=574467&subject=leso-pis.com) | 5598 days ago (10/08/2010) | 0 |
@@ -12146,7 +12111,6 @@ Total domains: 25241
 | lovelyday.net (63 hosts in use) website | private | [jmwild](https://freedns.afraid.org/tools/contact.php?user_id=297862&subject=lovelyday.net) | 6857 days ago (05/07/2007) | 0 |
 | lubeck.com.ar (83 hosts in use) website | public | [llubeck](https://freedns.afraid.org/tools/contact.php?user_id=2008675&subject=lubeck.com.ar) | 4099 days ago (11/14/2014) | 0 |
 | lucanorent.cl (39 hosts in use) website | private | [lucanorent](https://freedns.afraid.org/tools/contact.php?user_id=2958544&subject=lucanorent.cl) | 3003 days ago (11/15/2017) | 0 |
-| lucilasol.com (26 hosts in use) website | public | [fabricecosta](https://freedns.afraid.org/tools/contact.php?user_id=722713&subject=lucilasol.com) | 2281 days ago (11/18/2019) | 0 |
 | lucsanders.ca (95 hosts in use) website | public | [webenergy](https://freedns.afraid.org/tools/contact.php?user_id=877732&subject=lucsanders.ca) | 3374 days ago (11/17/2016) | 0 |
 | lucvachon.com (32 hosts in use) website | private | [lvachon](https://freedns.afraid.org/tools/contact.php?user_id=2002319&subject=lucvachon.com) | 4113 days ago (11/08/2014) | 0 |
 | lucyarcher.me (14 hosts in use) website | private | [yilarrefol](https://freedns.afraid.org/tools/contact.php?user_id=740917&subject=lucyarcher.me) | 3082 days ago (08/06/2017) | 0 |
@@ -12167,8 +12131,7 @@ Total domains: 25241
 | maddening.org (27 hosts in use) website | private | [wickedcpj](https://freedns.afraid.org/tools/contact.php?user_id=227335&subject=maddening.org) | 6140 days ago (04/23/2009) | 0 |
 | madebyojvy.com (9 hosts in use) website | private | [tbachelor](https://freedns.afraid.org/tools/contact.php?user_id=1180418&subject=madebyojvy.com) | 2137 days ago (03/11/2020) | 0 |
 | maderasrm.cl (200 hosts in use) website | public | [mbastias](https://freedns.afraid.org/tools/contact.php?user_id=2561316&subject=maderasrm.cl) | 3653 days ago (02/10/2016) | 0 |
-| maganaki.com (198 hosts in use) website | public | [aschiappapietra](https://freedns.afraid.org/tools/contact.php?user_id=374529&subject=maganaki.com) | 4000 days ago (03/04/2015) | 0 |
-| magiclight.ir (26 hosts in use) website | private | [mohsen1299](https://freedns.afraid.org/tools/contact.php?user_id=2937799&subject=magiclight.ir) | 2647 days ago (11/09/2018) | 0 |
+| maganaki.com (199 hosts in use) website | public | [aschiappapietra](https://freedns.afraid.org/tools/contact.php?user_id=374529&subject=maganaki.com) | 4002 days ago (03/04/2015) | 0 |
 | magnoshop.com (42 hosts in use) website | private | [cefer](https://freedns.afraid.org/tools/contact.php?user_id=407309&subject=magnoshop.com) | 6414 days ago (07/23/2008) | 0 |
 | magseguros.cl (68 hosts in use) website | public | [jphc](https://freedns.afraid.org/tools/contact.php?user_id=3005655&subject=magseguros.cl) | 2926 days ago (01/30/2018) | 0 |
 | maiaps.co.uk (193 hosts in use) website | public | [gmagm](https://freedns.afraid.org/tools/contact.php?user_id=1004192&subject=maiaps.co.uk) | 4974 days ago (07/04/2012) | 0 |
@@ -12186,7 +12149,6 @@ Total domains: 25241
 | mangaldin.com (18 hosts in use) website | private | [mmangaldin](https://freedns.afraid.org/tools/contact.php?user_id=4217664&subject=mangaldin.com) | 533 days ago (07/29/2024) | 0 |
 | maniel.one.pl (28 hosts in use) website | private | [maniel](https://freedns.afraid.org/tools/contact.php?user_id=408191&subject=maniel.one.pl) | 6415 days ago (07/22/2008) | 0 |
 | mannmithut.ch (27 hosts in use) website | private | [halthebest](https://freedns.afraid.org/tools/contact.php?user_id=1052257&subject=mannmithut.ch) | 5010 days ago (05/23/2012) | 0 |
-| mannyaslam.co (26 hosts in use) website | private | [mannyaslam](https://freedns.afraid.org/tools/contact.php?user_id=1902510&subject=mannyaslam.co) | 4199 days ago (08/15/2014) | 0 |
 | manonhand.com (35 hosts in use) website | private | [axyr](https://freedns.afraid.org/tools/contact.php?user_id=199545&subject=manonhand.com) | 6891 days ago (04/04/2007) | 0 |
 | mantravadi.in (93 hosts in use) website | public | [pborkar](https://freedns.afraid.org/tools/contact.php?user_id=548998&subject=mantravadi.in) | 5651 days ago (08/18/2010) | 0 |
 | mantuanet.com (28 hosts in use) website | private | [crispaiola](https://freedns.afraid.org/tools/contact.php?user_id=1748900&subject=mantuanet.com) | 4311 days ago (04/26/2014) | 0 |
@@ -12204,7 +12166,6 @@ Total domains: 25241
 | markosoft.ro (110 hosts in use) website | public | [amarkovits](https://freedns.afraid.org/tools/contact.php?user_id=1627146&subject=markosoft.ro) | 4424 days ago (01/01/2014) | 0 |
 | marrawudi.net (17 hosts in use) website | private | [krystind](https://freedns.afraid.org/tools/contact.php?user_id=726214&subject=marrawudi.net) | 5032 days ago (05/03/2012) | 0 |
 | marrfamily.ca (64 hosts in use) website | private | [beerden](https://freedns.afraid.org/tools/contact.php?user_id=1331475&subject=marrfamily.ca) | 4684 days ago (04/10/2013) | 0 |
-| martindiaz.eu (26 hosts in use) website | private | [luismartindiaz](https://freedns.afraid.org/tools/contact.php?user_id=4071475&subject=martindiaz.eu) | 737 days ago (02/04/2024) | 0 |
 | martindiaz.org (8 hosts in use) website | private | [luismartindiaz](https://freedns.afraid.org/tools/contact.php?user_id=4071475&subject=martindiaz.org) | 368 days ago (02/08/2025) | 0 |
 | martinovic.ar (18 hosts in use) website | private | [andresm13](https://freedns.afraid.org/tools/contact.php?user_id=294255&subject=martinovic.ar) | 2306 days ago (09/23/2019) | 0 |
 | maryjoepr.com (38 hosts in use) website | private | [alplax](https://freedns.afraid.org/tools/contact.php?user_id=1638923&subject=maryjoepr.com) | 4144 days ago (09/17/2014) | 0 |
@@ -12231,7 +12192,7 @@ Total domains: 25241
 | meadcrown.com (10 hosts in use) website | private | [cyberio](https://freedns.afraid.org/tools/contact.php?user_id=1429624&subject=meadcrown.com) | 2321 days ago (10/04/2019) | 0 |
 | medipath.com (185 hosts in use) website | public | [deepatel](https://freedns.afraid.org/tools/contact.php?user_id=1389067&subject=medipath.com) | 4631 days ago (06/10/2013) | 0 |
 | meergus.co.il (19 hosts in use) website | private | [gmeergus](https://freedns.afraid.org/tools/contact.php?user_id=3540812&subject=meergus.co.il) | 1440 days ago (02/03/2022) | 0 |
-| mega-link.cl (181 hosts in use) website | public | [felopla](https://freedns.afraid.org/tools/contact.php?user_id=800792&subject=mega-link.cl) | 6688 days ago (10/23/2007) | 0 |
+| mega-link.cl (182 hosts in use) website | public | [felopla](https://freedns.afraid.org/tools/contact.php?user_id=800792&subject=mega-link.cl) | 6691 days ago (10/23/2007) | 0 |
 | megafilter.ru (29 hosts in use) website | private | [lolegaz](https://freedns.afraid.org/tools/contact.php?user_id=631456&subject=megafilter.ru) | 3883 days ago (05/31/2015) | 0 |
 | megalac.com.ar (3 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=megalac.com.ar) | 2618 days ago (11/28/2018) | 0 |
 | megaphat.info (29 hosts in use) website | private | [senseinyc](https://freedns.afraid.org/tools/contact.php?user_id=1760687&subject=megaphat.info) | 4240 days ago (07/05/2014) | 0 |
@@ -12251,18 +12212,15 @@ Total domains: 25241
 | metaformer.cl (51 hosts in use) website | public | [dantejayjay](https://freedns.afraid.org/tools/contact.php?user_id=3334778&subject=metaformer.cl) | 2234 days ago (12/04/2019) | 0 |
 | meteotodi.it (219 hosts in use) website | public | [tordo](https://freedns.afraid.org/tools/contact.php?user_id=1366746&subject=meteotodi.it) | 4648 days ago (05/18/2013) | 0 |
 | metrix.net.ru (27 hosts in use) website | private | [metrixmsk](https://freedns.afraid.org/tools/contact.php?user_id=3269523&subject=metrix.net.ru) | 2411 days ago (07/09/2019) | 0 |
-| metroduta.com (26 hosts in use) website | private | [tebas](https://freedns.afraid.org/tools/contact.php?user_id=304648&subject=metroduta.com) | 2631 days ago (11/30/2018) | 0 |
 | mgpartners.cl (20 hosts in use) website | public | [jdvaizer](https://freedns.afraid.org/tools/contact.php?user_id=324285&subject=mgpartners.cl) | 661 days ago (04/25/2024) | 0 |
 | mhmactech.com (27 hosts in use) website | private | [dkenefick](https://freedns.afraid.org/tools/contact.php?user_id=1489078&subject=mhmactech.com) | 4515 days ago (09/16/2013) | 0 |
 | microacces.ro (80 hosts in use) website | public | [silviumoraru](https://freedns.afraid.org/tools/contact.php?user_id=1283459&subject=microacces.ro) | 4739 days ago (02/08/2013) | 0 |
 | miguelarmas.ar (2 hosts in use) website | private | [egherardi](https://freedns.afraid.org/tools/contact.php?user_id=1811608&subject=miguelarmas.ar) | 2071 days ago (05/13/2020) | 0 |
 | miketurro.com (27 hosts in use) website | private | [mturro](https://freedns.afraid.org/tools/contact.php?user_id=165414&subject=miketurro.com) | 6744 days ago (08/28/2007) | 0 |
 | mikironen.com (32 hosts in use) website | private | [ggubkin](https://freedns.afraid.org/tools/contact.php?user_id=274481&subject=mikironen.com) | 6435 days ago (07/02/2008) | 0 |
-| milady.com.ar (26 hosts in use) website | private | [diegojk](https://freedns.afraid.org/tools/contact.php?user_id=395616&subject=milady.com.ar) | 6275 days ago (12/09/2008) | 0 |
 | milf-pron.org (18 hosts in use) website | private | [gier](https://freedns.afraid.org/tools/contact.php?user_id=924960&subject=milf-pron.org) | 5099 days ago (02/26/2012) | 0 |
 | minecrafty.ca (15 hosts in use) website | private | [lucomca](https://freedns.afraid.org/tools/contact.php?user_id=805681&subject=minecrafty.ca) | 2618 days ago (12/08/2018) | 0 |
 | mineforge.net (15 hosts in use) website | public | [cone259](https://freedns.afraid.org/tools/contact.php?user_id=3442167&subject=mineforge.net) | 134 days ago (10/04/2025) | 0 |
-| minigt.com.ar (26 hosts in use) website | private | [minigt](https://freedns.afraid.org/tools/contact.php?user_id=3081074&subject=minigt.com.ar) | 2754 days ago (07/30/2018) | 0 |
 | minnsroad.com (65 hosts in use) website | public | [riot71](https://freedns.afraid.org/tools/contact.php?user_id=605764&subject=minnsroad.com) | 1034 days ago (04/08/2023) | 0 |
 | mintcloud.club (7 hosts in use) website | private | [reoneclipse](https://freedns.afraid.org/tools/contact.php?user_id=3667778&subject=mintcloud.club) | 1427 days ago (03/20/2022) | 0 |
 | miplatform.co (19 hosts in use) website | private | [singbic](https://freedns.afraid.org/tools/contact.php?user_id=1957193&subject=miplatform.co) | 4119 days ago (10/06/2014) | 0 |
@@ -12301,7 +12259,7 @@ Total domains: 25241
 | moutonfrise.eu (9 hosts in use) website | private | [michelcarriere](https://freedns.afraid.org/tools/contact.php?user_id=4475338&subject=moutonfrise.eu) | 212 days ago (06/15/2025) | 0 |
 | mp3atomic.net (15 hosts in use) website | private | [blackonstuff](https://freedns.afraid.org/tools/contact.php?user_id=1635290&subject=mp3atomic.net) | 4417 days ago (01/10/2014) | 0 |
 | mquest.com.mx (23 hosts in use) website | private | [cgalvezp](https://freedns.afraid.org/tools/contact.php?user_id=1124689&subject=mquest.com.mx) | 3415 days ago (09/30/2016) | 0 |
-| mrak-iptv.com (36 hosts in use) website | private | [smrtnik](https://freedns.afraid.org/tools/contact.php?user_id=1708596&subject=mrak-iptv.com) | 4320 days ago (04/14/2014) | 0 |
+| mrak-iptv.com (36 hosts in use) website | private | [smrtnik](https://freedns.afraid.org/tools/contact.php?user_id=1708596&subject=mrak-iptv.com) | 4326 days ago (04/14/2014) | 0 |
 | mrblack.pp.ru (53 hosts in use) website | private | [10vda](https://freedns.afraid.org/tools/contact.php?user_id=95063&subject=mrblack.pp.ru) | 7666 days ago (02/17/2005) | 0 |
 | mrmarket.info (29 hosts in use) website | private | [mbroger](https://freedns.afraid.org/tools/contact.php?user_id=461923&subject=mrmarket.info) | 6208 days ago (02/14/2009) | 0 |
 | ms-itsllc.com (44 hosts in use) website | private | [besancon](https://freedns.afraid.org/tools/contact.php?user_id=504087&subject=ms-itsllc.com) | 1116 days ago (01/14/2023) | 0 |
@@ -12332,7 +12290,7 @@ Total domains: 25241
 | mzoppi.com.ar (18 hosts in use) website | private | [calva](https://freedns.afraid.org/tools/contact.php?user_id=1788881&subject=mzoppi.com.ar) | 4210 days ago (08/07/2014) | 0 |
 | naberinc.net (155 hosts in use) website | public | [niteryder](https://freedns.afraid.org/tools/contact.php?user_id=1314831&subject=naberinc.net) | 4705 days ago (03/22/2013) | 0 |
 | nachtsheim.tk (21 hosts in use) website | private | [snachtsheim](https://freedns.afraid.org/tools/contact.php?user_id=2552340&subject=nachtsheim.tk) | 3635 days ago (01/31/2016) | 0 |
-| nadiyasul.com (36 hosts in use) website | private | [sul](https://freedns.afraid.org/tools/contact.php?user_id=406270&subject=nadiyasul.com) | 6423 days ago (07/14/2008) | 0 |
+| nadiyasul.com (36 hosts in use) website | private | [sul](https://freedns.afraid.org/tools/contact.php?user_id=406270&subject=nadiyasul.com) | 6426 days ago (07/14/2008) | 0 |
 | naffspace.com (31 hosts in use) website | private | [loki1986](https://freedns.afraid.org/tools/contact.php?user_id=686288&subject=naffspace.com) | 5497 days ago (01/24/2011) | 0 |
 | nanomonkey.ca (29 hosts in use) website | private | [kencinder](https://freedns.afraid.org/tools/contact.php?user_id=1565434&subject=nanomonkey.ca) | 3885 days ago (06/18/2015) | 0 |
 | narisafari.com (7 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=narisafari.com) | 4078 days ago (11/14/2014) | 0 |
@@ -12369,7 +12327,6 @@ Total domains: 25241
 | netwerxit.com (22 hosts in use) website | private | [dlinton](https://freedns.afraid.org/tools/contact.php?user_id=2638911&subject=netwerxit.com) | 3555 days ago (05/16/2016) | 0 |
 | neur0sis.com (180 hosts in use) website | public | [neur0sis](https://freedns.afraid.org/tools/contact.php?user_id=1364097&subject=neur0sis.com) | 4656 days ago (05/16/2013) | 0 |
 | newafm.com.np (27 hosts in use) website | private | [rajshrestha2002](https://freedns.afraid.org/tools/contact.php?user_id=2927866&subject=newafm.com.np) | 2699 days ago (08/24/2018) | 0 |
-| newfinity.com (26 hosts in use) website | private | [fhmwsw](https://freedns.afraid.org/tools/contact.php?user_id=1068287&subject=newfinity.com) | 3878 days ago (07/03/2015) | 0 |
 | newsources.eu (24 hosts in use) website | private | [gmcristi](https://freedns.afraid.org/tools/contact.php?user_id=871954&subject=newsources.eu) | 5174 days ago (12/12/2011) | 0 |
 | nex-it.com.ar (13 hosts in use) website | private | [michaseba](https://freedns.afraid.org/tools/contact.php?user_id=744941&subject=nex-it.com.ar) | 5346 days ago (06/22/2011) | 0 |
 | ngyule666.com (10 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=ngyule666.com) | 201 days ago (07/24/2025) | 0 |
@@ -12471,10 +12428,10 @@ Total domains: 25241
 | palaspadel.ar (11 hosts in use) website | private | [c4m4l30n](https://freedns.afraid.org/tools/contact.php?user_id=4470529&subject=palaspadel.ar) | 222 days ago (06/05/2025) | 0 |
 | pallav.com.np (51 hosts in use) website | public | [bring2pallav](https://freedns.afraid.org/tools/contact.php?user_id=2463319&subject=pallav.com.np) | 3736 days ago (11/13/2015) | 0 |
 | palmerica.com (27 hosts in use) website | private | [jdpalmer](https://freedns.afraid.org/tools/contact.php?user_id=1082584&subject=palmerica.com) | 3996 days ago (02/17/2015) | 0 |
-| palmerini.net (29 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=palmerini.net) | 5420 days ago (04/13/2011) | 0 |
-| palmius.me.uk (30 hosts in use) website | private | [npalmius](https://freedns.afraid.org/tools/contact.php?user_id=1027737&subject=palmius.me.uk) | 5048 days ago (04/19/2012) | 0 |
+| palmerini.net (28 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=palmerini.net) | 5423 days ago (04/13/2011) | 0 |
+| palmius.me.uk (30 hosts in use) website | private | [npalmius](https://freedns.afraid.org/tools/contact.php?user_id=1027737&subject=palmius.me.uk) | 5051 days ago (04/19/2012) | 0 |
 | palomanuda.de (33 hosts in use) website | private | [palomanuda](https://freedns.afraid.org/tools/contact.php?user_id=3449433&subject=palomanuda.de) | 1985 days ago (09/06/2020) | 0 |
-| palvelin.net (241 hosts in use) website | public | [peltsi](https://freedns.afraid.org/tools/contact.php?user_id=188851&subject=palvelin.net) | 6245 days ago (01/08/2009) | 0 |
+| palvelin.net (242 hosts in use) website | public | [peltsi](https://freedns.afraid.org/tools/contact.php?user_id=188851&subject=palvelin.net) | 6248 days ago (01/08/2009) | 0 |
 | panchromat.org (9 hosts in use) website | private | [bsieker](https://freedns.afraid.org/tools/contact.php?user_id=873347&subject=panchromat.org) | 2822 days ago (05/23/2018) | 0 |
 | panesi.com.br (29 hosts in use) website | private | [rodrigopanesi](https://freedns.afraid.org/tools/contact.php?user_id=662090&subject=panesi.com.br) | 5568 days ago (11/09/2010) | 0 |
 | panoleader.com (6 hosts in use) website | private | [isreal](https://freedns.afraid.org/tools/contact.php?user_id=762128&subject=panoleader.com) | 681 days ago (04/02/2024) | 0 |
@@ -12499,7 +12456,6 @@ Total domains: 25241
 | pensionati.ro (92 hosts in use) website | public | [dragosmircescu](https://freedns.afraid.org/tools/contact.php?user_id=833828&subject=pensionati.ro) | 5227 days ago (10/24/2011) | 0 |
 | pensionlaw.hk (28 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=pensionlaw.hk) | 6191 days ago (03/03/2009) | 0 |
 | peoplebond.id (26 hosts in use) website | private | [yohandoyo](https://freedns.afraid.org/tools/contact.php?user_id=647843&subject=peoplebond.id) | 2225 days ago (12/11/2019) | 0 |
-| peperepara.com (7 hosts in use) website | private | [orxatakiller](https://freedns.afraid.org/tools/contact.php?user_id=3417400&subject=peperepara.com) | 879 days ago (09/11/2023) | 0 |
 | pepikutan.net (52 hosts in use) website | public | [pepikutan](https://freedns.afraid.org/tools/contact.php?user_id=4384670&subject=pepikutan.net) | 339 days ago (03/10/2025) | 0 |
 | pepperell.net (28 hosts in use) website | private | [pepperell](https://freedns.afraid.org/tools/contact.php?user_id=722490&subject=pepperell.net) | 4929 days ago (08/16/2012) | 0 |
 | peremolto.net (34 hosts in use) website | private | [pmolto](https://freedns.afraid.org/tools/contact.php?user_id=324065&subject=peremolto.net) | 3312 days ago (01/18/2017) | 0 |
@@ -12530,6 +12486,7 @@ Total domains: 25241
 | pingflood.net (31 hosts in use) website | private | [jhartm2](https://freedns.afraid.org/tools/contact.php?user_id=353198&subject=pingflood.net) | 4442 days ago (12/18/2013) | 0 |
 | pinnel.com.ar (30 hosts in use) website | private | [jpinnel](https://freedns.afraid.org/tools/contact.php?user_id=743820&subject=pinnel.com.ar) | 5336 days ago (06/07/2011) | 0 |
 | pintravel.ro (218 hosts in use) website | public | [pintravel](https://freedns.afraid.org/tools/contact.php?user_id=651579&subject=pintravel.ro) | 5605 days ago (10/06/2010) | 0 |
+| piratewan.com (10 hosts in use) website | private | [mdelise](https://freedns.afraid.org/tools/contact.php?user_id=1673758&subject=piratewan.com) | 649 days ago (05/08/2024) | 0 |
 | pirazymatma.pl (5 hosts in use) website | public | [tomreg](https://freedns.afraid.org/tools/contact.php?user_id=5094329&subject=pirazymatma.pl) | 105 days ago (11/02/2025) | 0 |
 | planeseek.com (38 hosts in use) website | private | [patcou](https://freedns.afraid.org/tools/contact.php?user_id=489867&subject=planeseek.com) | 6049 days ago (07/23/2009) | 0 |
 | planhaccp.com (26 hosts in use) website | private | [datahex](https://freedns.afraid.org/tools/contact.php?user_id=520696&subject=planhaccp.com) | 5911 days ago (11/09/2009) | 0 |
@@ -12619,7 +12576,7 @@ Total domains: 25241
 | raydiance.org (29 hosts in use) website | private | [tail](https://freedns.afraid.org/tools/contact.php?user_id=16990&subject=raydiance.org) | 6836 days ago (05/28/2007) | 0 |
 | razorlan.info (36 hosts in use) website | private | [marcks](https://freedns.afraid.org/tools/contact.php?user_id=663559&subject=razorlan.info) | 5569 days ago (11/14/2010) | 0 |
 | rbarkersw.com (81 hosts in use) website | public | [rogbar45](https://freedns.afraid.org/tools/contact.php?user_id=4189583&subject=rbarkersw.com) | 601 days ago (06/18/2024) | 0 |
-| rdcluster.org (30 hosts in use) website | private | [guslp](https://freedns.afraid.org/tools/contact.php?user_id=432878&subject=rdcluster.org) | 2257 days ago (12/10/2019) | 0 |
+| rdcluster.org (31 hosts in use) website | private | [guslp](https://freedns.afraid.org/tools/contact.php?user_id=432878&subject=rdcluster.org) | 2260 days ago (12/10/2019) | 0 |
 | realefood.com (37 hosts in use) website | private | [genekowalski](https://freedns.afraid.org/tools/contact.php?user_id=1606489&subject=realefood.com) | 3770 days ago (10/20/2015) | 0 |
 | realestate.is (40 hosts in use) website | private | [iceski](https://freedns.afraid.org/tools/contact.php?user_id=165586&subject=realestate.is) | 7269 days ago (03/21/2006) | 0 |
 | reconectar.cl (41 hosts in use) website | public | [diegourrabc](https://freedns.afraid.org/tools/contact.php?user_id=3851866&subject=reconectar.cl) | 285 days ago (05/03/2025) | 0 |
@@ -12712,15 +12669,16 @@ Total domains: 25241
 | samtolton.com (41 hosts in use) website | private | [symmetry](https://freedns.afraid.org/tools/contact.php?user_id=851744&subject=samtolton.com) | 5201 days ago (11/17/2011) | 0 |
 | san-ss.com.ar (35 hosts in use) website | private | [sanss](https://freedns.afraid.org/tools/contact.php?user_id=621660&subject=san-ss.com.ar) | 5697 days ago (07/12/2010) | 0 |
 | sanamgolf.com (27 hosts in use) website | public | [charoensang](https://freedns.afraid.org/tools/contact.php?user_id=473573&subject=sanamgolf.com) | 76 days ago (11/30/2025) | 0 |
-| sanaturale.ch (25 hosts in use) website | private | [chmaster](https://freedns.afraid.org/tools/contact.php?user_id=2615448&subject=sanaturale.ch) | 1139 days ago (01/03/2023) | 0 |
+| sanaturale.ch (13 hosts in use) website | private | [chmaster](https://freedns.afraid.org/tools/contact.php?user_id=2615448&subject=sanaturale.ch) | 1140 days ago (01/03/2023) | 0 |
 | sand-haufen.tk (5 hosts in use) website | private | [mistersandman](https://freedns.afraid.org/tools/contact.php?user_id=2055254&subject=sand-haufen.tk) | 2103 days ago (04/13/2020) | 0 |
+| sandi.web.id (103 hosts in use) website | private | [sandihartono](https://freedns.afraid.org/tools/contact.php?user_id=5041230&subject=sandi.web.id) | 128 days ago (10/10/2025) | 0 |
 | sanditours.si (24 hosts in use) website | private | [sputnik](https://freedns.afraid.org/tools/contact.php?user_id=14249&subject=sanditours.si) | 6126 days ago (05/08/2009) | 0 |
 | sangymangy.xyz (6 hosts in use) website | private | [srackesh](https://freedns.afraid.org/tools/contact.php?user_id=4470041&subject=sangymangy.xyz) | 223 days ago (06/04/2025) | 0 |
 | sanjan.com.np (24 hosts in use) website | private | [sanbik](https://freedns.afraid.org/tools/contact.php?user_id=1834619&subject=sanjan.com.np) | 4239 days ago (06/22/2014) | 0 |
 | sanjan.org.np (26 hosts in use) website | private | [sanjantraders](https://freedns.afraid.org/tools/contact.php?user_id=2956508&subject=sanjan.org.np) | 2461 days ago (04/21/2019) | 0 |
 | sanjuango.com (15 hosts in use) website | private | [jsanjuanii](https://freedns.afraid.org/tools/contact.php?user_id=475325&subject=sanjuango.com) | 249 days ago (06/08/2025) | 0 |
 | sanmingvox.com (3 hosts in use) website | private | [ukliling](https://freedns.afraid.org/tools/contact.php?user_id=852042&subject=sanmingvox.com) | 34 days ago (12/23/2025) | 0 |
-| santaizih.com (27 hosts in use) website | private | [peterlin0816](https://freedns.afraid.org/tools/contact.php?user_id=754408&subject=santaizih.com) | 4723 days ago (03/10/2013) | 0 |
+| santaizih.com (27 hosts in use) website | private | [peterlin0816](https://freedns.afraid.org/tools/contact.php?user_id=754408&subject=santaizih.com) | 4726 days ago (03/10/2013) | 0 |
 | santinisms.tw (10 hosts in use) website | private | [santinisms](https://freedns.afraid.org/tools/contact.php?user_id=3158929&subject=santinisms.tw) | 2522 days ago (03/19/2019) | 0 |
 | santip.com.ar (26 hosts in use) website | private | [binarius](https://freedns.afraid.org/tools/contact.php?user_id=541141&subject=santip.com.ar) | 5908 days ago (12/11/2009) | 0 |
 | santomauro.cl (70 hosts in use) website | public | [adminsantomauro](https://freedns.afraid.org/tools/contact.php?user_id=2887074&subject=santomauro.cl) | 3146 days ago (06/03/2017) | 0 |
@@ -12779,7 +12737,7 @@ Total domains: 25241
 | sidorcloud.de (20 hosts in use) website | private | [swype88](https://freedns.afraid.org/tools/contact.php?user_id=3175809&subject=sidorcloud.de) | 1901 days ago (11/05/2020) | 0 |
 | sidorcloud.eu (20 hosts in use) website | public | [swype88](https://freedns.afraid.org/tools/contact.php?user_id=3175809&subject=sidorcloud.eu) | 2472 days ago (05/08/2019) | 0 |
 | siegert-rbg.de (4 hosts in use) website | private | [siegert1235](https://freedns.afraid.org/tools/contact.php?user_id=2520695&subject=siegert-rbg.de) | 2350 days ago (08/24/2019) | 0 |
-| silksky.com (1068 hosts in use) website | private | [xieliwei](https://freedns.afraid.org/tools/contact.php?user_id=572848&subject=silksky.com) | 6663 days ago (11/19/2007) | 0 |
+| silksky.com (1069 hosts in use) website | private | [xieliwei](https://freedns.afraid.org/tools/contact.php?user_id=572848&subject=silksky.com) | 6664 days ago (11/19/2007) | 0 |
 | simbya.com.ar (40 hosts in use) website | private | [simbya](https://freedns.afraid.org/tools/contact.php?user_id=377704&subject=simbya.com.ar) | 6531 days ago (03/27/2008) | 0 |
 | simonsharp.ch (51 hosts in use) website | private | [area78](https://freedns.afraid.org/tools/contact.php?user_id=105071&subject=simonsharp.ch) | 7716 days ago (12/29/2004) | 0 |
 | simplework.cl (16 hosts in use) website | private | [nestorruz](https://freedns.afraid.org/tools/contact.php?user_id=3034909&subject=simplework.cl) | 1026 days ago (03/24/2023) | 0 |
@@ -12835,7 +12793,7 @@ Total domains: 25241
 | soneeksez.com (32 hosts in use) website | private | [joegibbsmulti](https://freedns.afraid.org/tools/contact.php?user_id=1275625&subject=soneeksez.com) | 3228 days ago (04/03/2017) | 0 |
 | sonic-lux.net (27 hosts in use) website | private | [soniclux](https://freedns.afraid.org/tools/contact.php?user_id=400455&subject=sonic-lux.net) | 2202 days ago (02/03/2020) | 0 |
 | soulspark.org (24 hosts in use) website | private | [raydude](https://freedns.afraid.org/tools/contact.php?user_id=626586&subject=soulspark.org) | 5340 days ago (06/30/2011) | 0 |
-| soulvaria.com (35 hosts in use) website | private | [gregory954](https://freedns.afraid.org/tools/contact.php?user_id=2932809&subject=soulvaria.com) | 3078 days ago (09/11/2017) | 0 |
+| soulvaria.com (36 hosts in use) website | private | [gregory954](https://freedns.afraid.org/tools/contact.php?user_id=2932809&subject=soulvaria.com) | 3080 days ago (09/11/2017) | 0 |
 | sourcescs.com (37 hosts in use) website | private | [airedalegroup](https://freedns.afraid.org/tools/contact.php?user_id=1439199&subject=sourcescs.com) | 4205 days ago (07/29/2014) | 0 |
 | sourcevia.com (41 hosts in use) website | private | [bkuriakose](https://freedns.afraid.org/tools/contact.php?user_id=1389257&subject=sourcevia.com) | 3372 days ago (10/20/2016) | 0 |
 | sourio.com.br (25 hosts in use) website | private | [charlesphj](https://freedns.afraid.org/tools/contact.php?user_id=463315&subject=sourio.com.br) | 6191 days ago (03/03/2009) | 0 |
@@ -12848,7 +12806,7 @@ Total domains: 25241
 | sperez.com.ar (23 hosts in use) website | private | [binarius](https://freedns.afraid.org/tools/contact.php?user_id=541141&subject=sperez.com.ar) | 5905 days ago (12/14/2009) | 0 |
 | spf50krem.com (82 hosts in use) website | public | [halukatlay](https://freedns.afraid.org/tools/contact.php?user_id=2138815&subject=spf50krem.com) | 4006 days ago (02/19/2015) | 0 |
 | spiralplot.com (9 hosts in use) website | private | [shent](https://freedns.afraid.org/tools/contact.php?user_id=264387&subject=spiralplot.com) | 6890 days ago (04/02/2007) | 0 |
-| splunxter.com (34 hosts in use) website | private | [greggwoodcock](https://freedns.afraid.org/tools/contact.php?user_id=2009607&subject=splunxter.com) | 4110 days ago (11/15/2014) | 0 |
+| splunxter.com (35 hosts in use) website | private | [greggwoodcock](https://freedns.afraid.org/tools/contact.php?user_id=2009607&subject=splunxter.com) | 4111 days ago (11/15/2014) | 0 |
 | spotterrf.net (31 hosts in use) website | private | [lcharris](https://freedns.afraid.org/tools/contact.php?user_id=704897&subject=spotterrf.net) | 5240 days ago (10/12/2011) | 0 |
 | spotterrf.org (39 hosts in use) website | private | [lcharris](https://freedns.afraid.org/tools/contact.php?user_id=704897&subject=spotterrf.org) | 5231 days ago (10/12/2011) | 0 |
 | spreadcels.de (15 hosts in use) website | private | [teubs](https://freedns.afraid.org/tools/contact.php?user_id=2520733&subject=spreadcels.de) | 213 days ago (07/02/2025) | 0 |
@@ -12880,7 +12838,7 @@ Total domains: 25241
 | strataclad.ca (29 hosts in use) website | private | [viaticam](https://freedns.afraid.org/tools/contact.php?user_id=548006&subject=strataclad.ca) | 5738 days ago (05/28/2010) | 0 |
 | strathire.net (27 hosts in use) website | private | [rossheritage](https://freedns.afraid.org/tools/contact.php?user_id=3468066&subject=strathire.net) | 1165 days ago (12/06/2022) | 0 |
 | strelchenok.ru (6 hosts in use) website | private | [strelchenok](https://freedns.afraid.org/tools/contact.php?user_id=2631964&subject=strelchenok.ru) | 989 days ago (04/30/2023) | 0 |
-| stressmap.ru (105 hosts in use) website | private | [eugenevc](https://freedns.afraid.org/tools/contact.php?user_id=458854&subject=stressmap.ru) | 176 days ago (08/23/2025) | 0 |
+| stressmap.ru (135 hosts in use) website | private | [eugenevc](https://freedns.afraid.org/tools/contact.php?user_id=458854&subject=stressmap.ru) | 176 days ago (08/23/2025) | 0 |
 | stromm.com.ar (13 hosts in use) website | private | [leonbart](https://freedns.afraid.org/tools/contact.php?user_id=168916&subject=stromm.com.ar) | 6892 days ago (03/02/2007) | 0 |
 | stuartr.id.au (28 hosts in use) website | private | [brainwad](https://freedns.afraid.org/tools/contact.php?user_id=478971&subject=stuartr.id.au) | 5715 days ago (05/22/2010) | 0 |
 | studiovk.com (279 hosts in use) website | private | [vkaras](https://freedns.afraid.org/tools/contact.php?user_id=698227&subject=studiovk.com) | 5326 days ago (07/18/2011) | 0 |
@@ -12929,10 +12887,10 @@ Total domains: 25241
 | taxisroig.com (25 hosts in use) website | private | [mjrgestion](https://freedns.afraid.org/tools/contact.php?user_id=1024700&subject=taxisroig.com) | 5047 days ago (04/16/2012) | 0 |
 | tbi-share.com (25 hosts in use) website | private | [dasblock](https://freedns.afraid.org/tools/contact.php?user_id=4061935&subject=tbi-share.com) | 746 days ago (01/25/2024) | 0 |
 | tcloud.com.my (12 hosts in use) website | private | [norzil](https://freedns.afraid.org/tools/contact.php?user_id=212675&subject=tcloud.com.my) | 2812 days ago (06/02/2018) | 0 |
-| teamgaming.pw (35 hosts in use) website | public | [gizmo8500](https://freedns.afraid.org/tools/contact.php?user_id=4478500&subject=teamgaming.pw) | 239 days ago (06/20/2025) | 0 |
+| teamgaming.pw (35 hosts in use) website | public | [gizmo8500](https://freedns.afraid.org/tools/contact.php?user_id=4478500&subject=teamgaming.pw) | 240 days ago (06/20/2025) | 0 |
 | teamgheen.com (29 hosts in use) website | private | [oddysee](https://freedns.afraid.org/tools/contact.php?user_id=337092&subject=teamgheen.com) | 3144 days ago (07/07/2017) | 0 |
 | teampunch.net (11 hosts in use) website | private | [eltoddo](https://freedns.afraid.org/tools/contact.php?user_id=822902&subject=teampunch.net) | 5239 days ago (10/09/2011) | 0 |
-| techasker.com (36 hosts in use) website | private | [sdavidow](https://freedns.afraid.org/tools/contact.php?user_id=2550577&subject=techasker.com) | 3669 days ago (01/29/2016) | 0 |
+| techasker.com (36 hosts in use) website | private | [sdavidow](https://freedns.afraid.org/tools/contact.php?user_id=2550577&subject=techasker.com) | 3671 days ago (01/29/2016) | 0 |
 | techfreaks.co (29 hosts in use) website | private | [sadhero](https://freedns.afraid.org/tools/contact.php?user_id=149156&subject=techfreaks.co) | 1936 days ago (10/24/2020) | 0 |
 | techpack.com (101 hosts in use) website | private | [techpack](https://freedns.afraid.org/tools/contact.php?user_id=3520765&subject=techpack.com) | 4072 days ago (12/19/2014) | 0 |
 | tecnocent.com (52 hosts in use) website | private | [tecnocent](https://freedns.afraid.org/tools/contact.php?user_id=664606&subject=tecnocent.com) | 6695 days ago (10/16/2007) | 0 |
@@ -12950,7 +12908,7 @@ Total domains: 25241
 | termofluid.hr (18 hosts in use) website | private | [interrobang](https://freedns.afraid.org/tools/contact.php?user_id=1934118&subject=termofluid.hr) | 1553 days ago (11/13/2021) | 0 |
 | testweasel.com (6 hosts in use) website | private | [chein](https://freedns.afraid.org/tools/contact.php?user_id=413602&subject=testweasel.com) | 2288 days ago (10/09/2019) | 0 |
 | texasmath.net (49 hosts in use) website | private | [texasmath](https://freedns.afraid.org/tools/contact.php?user_id=134014&subject=texasmath.net) | 6701 days ago (10/10/2007) | 0 |
-| texasmath.org (97 hosts in use) website | private | [texasmath](https://freedns.afraid.org/tools/contact.php?user_id=134014&subject=texasmath.org) | 7250 days ago (04/09/2006) | 0 |
+| texasmath.org (97 hosts in use) website | private | [texasmath](https://freedns.afraid.org/tools/contact.php?user_id=134014&subject=texasmath.org) | 7253 days ago (04/09/2006) | 0 |
 | texinno.co.uk (19 hosts in use) website | private | [jwholdsworth](https://freedns.afraid.org/tools/contact.php?user_id=761502&subject=texinno.co.uk) | 4009 days ago (01/24/2015) | 0 |
 | tf-kostroma.ru (3 hosts in use) website | private | [darkwolf03](https://freedns.afraid.org/tools/contact.php?user_id=3172516&subject=tf-kostroma.ru) | 1852 days ago (01/10/2021) | 0 |
 | theartdate.com (2 hosts in use) website | private | [ciegoodwverto198](https://freedns.afraid.org/tools/contact.php?user_id=2017539&subject=theartdate.com) | 4069 days ago (11/23/2014) | 0 |
@@ -12995,14 +12953,14 @@ Total domains: 25241
 | tirri.com.ar (223 hosts in use) website | public | [mtirri](https://freedns.afraid.org/tools/contact.php?user_id=2556191&subject=tirri.com.ar) | 3657 days ago (02/04/2016) | 0 |
 | tkldesign.com (30 hosts in use) website | private | [jonnytech](https://freedns.afraid.org/tools/contact.php?user_id=1002980&subject=tkldesign.com) | 4133 days ago (09/22/2014) | 0 |
 | tnsmexico.com (25 hosts in use) website | private | [jcrios](https://freedns.afraid.org/tools/contact.php?user_id=477610&subject=tnsmexico.com) | 3540 days ago (05/05/2016) | 0 |
-| toadville.org (33 hosts in use) website | private | [tperciva](https://freedns.afraid.org/tools/contact.php?user_id=471092&subject=toadville.org) | 6174 days ago (03/18/2009) | 0 |
+| toadville.org (33 hosts in use) website | private | [tperciva](https://freedns.afraid.org/tools/contact.php?user_id=471092&subject=toadville.org) | 6179 days ago (03/18/2009) | 0 |
 | tobing.web.id (26 hosts in use) website | private | [martintobing](https://freedns.afraid.org/tools/contact.php?user_id=219335&subject=tobing.web.id) | 7110 days ago (08/24/2006) | 0 |
 | toconline.ch (287 hosts in use) website | public | [mbaksa](https://freedns.afraid.org/tools/contact.php?user_id=510288&subject=toconline.ch) | 6030 days ago (08/11/2009) | 0 |
 | toddmanor.com (34 hosts in use) website | private | [svenh](https://freedns.afraid.org/tools/contact.php?user_id=1478191&subject=toddmanor.com) | 4525 days ago (09/11/2013) | 0 |
 | tollfree.ninja (8 hosts in use) website | public | [briceperdue](https://freedns.afraid.org/tools/contact.php?user_id=992748&subject=tollfree.ninja) | 996 days ago (05/23/2023) | 0 |
 | tolosabahia.ar (8 hosts in use) website | private | [esbsas](https://freedns.afraid.org/tools/contact.php?user_id=556607&subject=tolosabahia.ar) | 444 days ago (11/28/2024) | 0 |
 | tomberek.info (22 hosts in use) website | private | [tomberek](https://freedns.afraid.org/tools/contact.php?user_id=961645&subject=tomberek.info) | 4419 days ago (12/08/2013) | 0 |
-| tomzorz.co.uk (30 hosts in use) website | private | [tomzorz](https://freedns.afraid.org/tools/contact.php?user_id=1231226&subject=tomzorz.co.uk) | 4823 days ago (11/29/2012) | 0 |
+| tomzorz.co.uk (31 hosts in use) website | private | [tomzorz](https://freedns.afraid.org/tools/contact.php?user_id=1231226&subject=tomzorz.co.uk) | 4827 days ago (11/29/2012) | 0 |
 | toogoofy.com (179 hosts in use) website | private | [jenniep](https://freedns.afraid.org/tools/contact.php?user_id=4362&subject=toogoofy.com) | 8683 days ago (05/09/2002) | 0 |
 | topazgrid.xyz (28 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=topazgrid.xyz) | 330 days ago (02/19/2025) | 0 |
 | tophatfox.net (16 hosts in use) website | private | [nizagam](https://freedns.afraid.org/tools/contact.php?user_id=1139799&subject=tophatfox.net) | 3676 days ago (01/19/2016) | 0 |
@@ -13098,7 +13056,7 @@ Total domains: 25241
 | ventapel.com (227 hosts in use) website | public | [ventapel](https://freedns.afraid.org/tools/contact.php?user_id=1853936&subject=ventapel.com) | 4239 days ago (07/04/2014) | 0 |
 | veranda.co.id (23 hosts in use) website | private | [xulaeman](https://freedns.afraid.org/tools/contact.php?user_id=423401&subject=veranda.co.id) | 2731 days ago (08/02/2018) | 0 |
 | verbavatz.org (40 hosts in use) website | private | [verbavatz](https://freedns.afraid.org/tools/contact.php?user_id=639477&subject=verbavatz.org) | 3781 days ago (10/04/2015) | 0 |
-| verymad.net (4695 hosts in use) website | public | [limit](https://freedns.afraid.org/tools/contact.php?user_id=31914&subject=verymad.net) | 7962 days ago (04/29/2004) | 0 |
+| verymad.net (4697 hosts in use) website | public | [limit](https://freedns.afraid.org/tools/contact.php?user_id=31914&subject=verymad.net) | 7963 days ago (04/29/2004) | 0 |
 | vevaioseis.gr (19 hosts in use) website | private | [nasseridris](https://freedns.afraid.org/tools/contact.php?user_id=2660921&subject=vevaioseis.gr) | 1926 days ago (10/05/2020) | 0 |
 | vicky2001.com (45 hosts in use) website | private | [companymagic](https://freedns.afraid.org/tools/contact.php?user_id=1258688&subject=vicky2001.com) | 4753 days ago (01/10/2013) | 0 |
 | vidalinux.com (92 hosts in use) website | private | [vidalinux](https://freedns.afraid.org/tools/contact.php?user_id=624755&subject=vidalinux.com) | 4823 days ago (11/17/2012) | 0 |
@@ -13201,7 +13159,7 @@ Total domains: 25241
 | xuchenart.com (40 hosts in use) website | private | [annielam](https://freedns.afraid.org/tools/contact.php?user_id=1595483&subject=xuchenart.com) | 4421 days ago (12/06/2013) | 0 |
 | xwaretech.net (23 hosts in use) website | private | [joecool1029](https://freedns.afraid.org/tools/contact.php?user_id=543129&subject=xwaretech.net) | 5204 days ago (11/13/2011) | 0 |
 | xxxtream.net (116 hosts in use) website | public | [pl0y2000](https://freedns.afraid.org/tools/contact.php?user_id=2804770&subject=xxxtream.net) | 3327 days ago (01/02/2017) | 0 |
-| yaculture.org (43 hosts in use) website | public | [ycc2632](https://freedns.afraid.org/tools/contact.php?user_id=2964267&subject=yaculture.org) | 1418 days ago (03/29/2022) | 0 |
+| yaculture.org (46 hosts in use) website | public | [ycc2632](https://freedns.afraid.org/tools/contact.php?user_id=2964267&subject=yaculture.org) | 1419 days ago (03/29/2022) | 0 |
 | yagami.com.br (24 hosts in use) website | private | [jadherbr](https://freedns.afraid.org/tools/contact.php?user_id=1815176&subject=yagami.com.br) | 4273 days ago (06/03/2014) | 0 |
 | yaguar.com.ar (55 hosts in use) website | private | [yaguar](https://freedns.afraid.org/tools/contact.php?user_id=611056&subject=yaguar.com.ar) | 4651 days ago (05/21/2013) | 0 |
 | yakspravy.com (10 hosts in use) website | private | [tchicago](https://freedns.afraid.org/tools/contact.php?user_id=1403359&subject=yakspravy.com) | 4066 days ago (12/20/2014) | 0 |
@@ -13227,7 +13185,7 @@ Total domains: 25241
 | zguardian.com (36 hosts in use) website | private | [kendallb](https://freedns.afraid.org/tools/contact.php?user_id=448027&subject=zguardian.com) | 4214 days ago (08/03/2014) | 0 |
 | zhangmuru.com (48 hosts in use) website | public | [feilajimi](https://freedns.afraid.org/tools/contact.php?user_id=5076823&subject=zhangmuru.com) | 89 days ago (10/27/2025) | 0 |
 | zhuhailong.de (33 hosts in use) website | private | [zhlvictor](https://freedns.afraid.org/tools/contact.php?user_id=2606892&subject=zhuhailong.de) | 3600 days ago (04/05/2016) | 0 |
-| zhuzhun3000.ru (4 hosts in use) website | private | [zhuzhun3000](https://freedns.afraid.org/tools/contact.php?user_id=4288193&subject=zhuzhun3000.ru) | 3 days ago (02/09/2026) | 0 |
+| zhuzhun3000.ru (2 hosts in use) website | private | [zhuzhun3000](https://freedns.afraid.org/tools/contact.php?user_id=4288193&subject=zhuzhun3000.ru) | 7 days ago (02/09/2026) | 0 |
 | zippyfarms.com (9 hosts in use) website | private | [unplugged](https://freedns.afraid.org/tools/contact.php?user_id=117312&subject=zippyfarms.com) | 30 days ago (01/12/2026) | 0 |
 | zmengames.com (24 hosts in use) website | private | [krasanen](https://freedns.afraid.org/tools/contact.php?user_id=1394595&subject=zmengames.com) | 417 days ago (12/25/2024) | 0 |
 | zombiemud.org (61 hosts in use) website | private | [peksi73](https://freedns.afraid.org/tools/contact.php?user_id=1269598&subject=zombiemud.org) | 4765 days ago (01/18/2013) | 0 |
@@ -13254,7 +13212,7 @@ Total domains: 25241
 | achaval.com.ar (19 hosts in use) website | private | [rachaval](https://freedns.afraid.org/tools/contact.php?user_id=3149273&subject=achaval.com.ar) | 2543 days ago (02/14/2019) | 0 |
 | acisba.org.ar (108 hosts in use) website | public | [menora](https://freedns.afraid.org/tools/contact.php?user_id=1345649&subject=acisba.org.ar) | 4635 days ago (06/05/2013) | 0 |
 | acmerocket.org (47 hosts in use) website | private | [mmandel](https://freedns.afraid.org/tools/contact.php?user_id=110070&subject=acmerocket.org) | 7708 days ago (01/06/2005) | 0 |
-| acshickman.com (36 hosts in use) website | private | [tbangert](https://freedns.afraid.org/tools/contact.php?user_id=2545038&subject=acshickman.com) | 2654 days ago (11/08/2018) | 0 |
+| acshickman.com (37 hosts in use) website | private | [tbangert](https://freedns.afraid.org/tools/contact.php?user_id=2545038&subject=acshickman.com) | 2656 days ago (11/08/2018) | 0 |
 | acslincoln.com (48 hosts in use) website | private | [tbangert](https://freedns.afraid.org/tools/contact.php?user_id=2545038&subject=acslincoln.com) | 3644 days ago (01/24/2016) | 0 |
 | adaptahome.info (6 hosts in use) website | private | [marmaraba](https://freedns.afraid.org/tools/contact.php?user_id=1407828&subject=adaptahome.info) | 1360 days ago (04/24/2022) | 0 |
 | ader-romania.ro (7 hosts in use) website | private | [aaverian](https://freedns.afraid.org/tools/contact.php?user_id=324578&subject=ader-romania.ro) | 82 days ago (11/25/2025) | 0 |
@@ -13270,14 +13228,14 @@ Total domains: 25241
 | afterhrspc.com (40 hosts in use) website | private | [canuck454](https://freedns.afraid.org/tools/contact.php?user_id=182289&subject=afterhrspc.com) | 7330 days ago (01/18/2006) | 0 |
 | afterwater.com (41 hosts in use) website | private | [tyce](https://freedns.afraid.org/tools/contact.php?user_id=1043741&subject=afterwater.com) | 5020 days ago (05/11/2012) | 0 |
 | agevolajob.com (37 hosts in use) website | private | [steom](https://freedns.afraid.org/tools/contact.php?user_id=432164&subject=agevolajob.com) | 5713 days ago (06/11/2010) | 0 |
-| agevolajob.net (41 hosts in use) website | private | [steom](https://freedns.afraid.org/tools/contact.php?user_id=432164&subject=agevolajob.net) | 5728 days ago (06/11/2010) | 0 |
+| agevolajob.net (42 hosts in use) website | private | [steom](https://freedns.afraid.org/tools/contact.php?user_id=432164&subject=agevolajob.net) | 5729 days ago (06/11/2010) | 0 |
 | agevolajob.org (36 hosts in use) website | private | [steom](https://freedns.afraid.org/tools/contact.php?user_id=432164&subject=agevolajob.org) | 5714 days ago (06/11/2010) | 0 |
 | agroecology.cl (14 hosts in use) website | private | [benjaminmanquez](https://freedns.afraid.org/tools/contact.php?user_id=3108765&subject=agroecology.cl) | 1689 days ago (05/30/2021) | 0 |
 | aguijon.com.mx (50 hosts in use) website | private | [enoriega](https://freedns.afraid.org/tools/contact.php?user_id=710604&subject=aguijon.com.mx) | 5427 days ago (03/15/2011) | 0 |
 | agus-87.com.ar (93 hosts in use) website | public | [afranceschi](https://freedns.afraid.org/tools/contact.php?user_id=594375&subject=agus-87.com.ar) | 5746 days ago (04/30/2010) | 0 |
 | ai-nation.co.uk (8 hosts in use) website | private | [aear](https://freedns.afraid.org/tools/contact.php?user_id=4204268&subject=ai-nation.co.uk) | 69 days ago (12/05/2025) | 0 |
 | ai4device.co.kr (8 hosts in use) website | private | [boeunnam](https://freedns.afraid.org/tools/contact.php?user_id=3960115&subject=ai4device.co.kr) | 577 days ago (06/17/2024) | 0 |
-| aisasgroup.org (32 hosts in use) website | private | [brentdcarter1](https://freedns.afraid.org/tools/contact.php?user_id=503213&subject=aisasgroup.org) | 5020 days ago (05/15/2012) | 0 |
+| aisasgroup.org (31 hosts in use) website | private | [brentdcarter1](https://freedns.afraid.org/tools/contact.php?user_id=503213&subject=aisasgroup.org) | 5025 days ago (05/15/2012) | 0 |
 | ajlanderos.com (32 hosts in use) website | private | [aj2005sfa](https://freedns.afraid.org/tools/contact.php?user_id=1111189&subject=ajlanderos.com) | 4964 days ago (07/11/2012) | 0 |
 | aksiainvest.se (27 hosts in use) website | private | [lingodawg](https://freedns.afraid.org/tools/contact.php?user_id=641202&subject=aksiainvest.se) | 3472 days ago (08/04/2016) | 0 |
 | alaingoumy.com (19 hosts in use) website | private | [alaingoumy](https://freedns.afraid.org/tools/contact.php?user_id=1820136&subject=alaingoumy.com) | 4267 days ago (06/07/2014) | 0 |
@@ -13341,7 +13299,7 @@ Total domains: 25241
 | archdimitrov.eu (7 hosts in use) website | public | [zachdimitrov](https://freedns.afraid.org/tools/contact.php?user_id=2938716&subject=archdimitrov.eu) | 2116 days ago (04/28/2020) | 0 |
 | archhughes.org (23 hosts in use) website | private | [harchh](https://freedns.afraid.org/tools/contact.php?user_id=726399&subject=archhughes.org) | 5385 days ago (04/19/2011) | 0 |
 | archstanton.net (8 hosts in use) website | private | [ralovell](https://freedns.afraid.org/tools/contact.php?user_id=82237&subject=archstanton.net) | 3200 days ago (05/10/2017) | 0 |
-| arcophotos.com (36 hosts in use) website | private | [zhoward07](https://freedns.afraid.org/tools/contact.php?user_id=278811&subject=arcophotos.com) | 5533 days ago (12/18/2010) | 0 |
+| arcophotos.com (35 hosts in use) website | private | [zhoward07](https://freedns.afraid.org/tools/contact.php?user_id=278811&subject=arcophotos.com) | 5538 days ago (12/18/2010) | 0 |
 | arcticfire.net (32 hosts in use) website | private | [rickatech](https://freedns.afraid.org/tools/contact.php?user_id=754186&subject=arcticfire.net) | 4036 days ago (01/25/2015) | 0 |
 | area69-mtb.org (25 hosts in use) website | private | [elserpiente](https://freedns.afraid.org/tools/contact.php?user_id=1337953&subject=area69-mtb.org) | 4655 days ago (04/18/2013) | 0 |
 | arealed.com.ar (71 hosts in use) website | public | [diegomas](https://freedns.afraid.org/tools/contact.php?user_id=2244708&subject=arealed.com.ar) | 3210 days ago (04/07/2017) | 0 |
@@ -13382,7 +13340,7 @@ Total domains: 25241
 | ayalontech.org (18 hosts in use) website | private | [harkentoh](https://freedns.afraid.org/tools/contact.php?user_id=657777&subject=ayalontech.org) | 5588 days ago (10/25/2010) | 0 |
 | ayasophia.com (216 hosts in use) website | public | [joeind](https://freedns.afraid.org/tools/contact.php?user_id=696919&subject=ayasophia.com) | 5471 days ago (02/16/2011) | 0 |
 | aydinergil.com (30 hosts in use) website | private | [jumboxxl](https://freedns.afraid.org/tools/contact.php?user_id=458165&subject=aydinergil.com) | 5746 days ago (05/23/2010) | 0 |
-| aydinsener.com (36 hosts in use) website | private | [aydinsener](https://freedns.afraid.org/tools/contact.php?user_id=3365721&subject=aydinsener.com) | 4066 days ago (12/25/2014) | 0 |
+| aydinsener.com (36 hosts in use) website | private | [aydinsener](https://freedns.afraid.org/tools/contact.php?user_id=3365721&subject=aydinsener.com) | 4070 days ago (12/25/2014) | 0 |
 | aylince.com.tr (19 hosts in use) website | private | [ayling](https://freedns.afraid.org/tools/contact.php?user_id=855911&subject=aylince.com.tr) | 5171 days ago (11/19/2011) | 0 |
 | ayremail.co.uk (11 hosts in use) website | private | [philayre](https://freedns.afraid.org/tools/contact.php?user_id=1954277&subject=ayremail.co.uk) | 3750 days ago (11/02/2015) | 0 |
 | ayrnatales.net (61 hosts in use) website | public | [samnixxon](https://freedns.afraid.org/tools/contact.php?user_id=3500692&subject=ayrnatales.net) | 696 days ago (03/21/2024) | 0 |
@@ -13406,7 +13364,7 @@ Total domains: 25241
 | baruque.com.ar (12 hosts in use) website | private | [norbe](https://freedns.afraid.org/tools/contact.php?user_id=1234951&subject=baruque.com.ar) | 4738 days ago (01/23/2013) | 0 |
 | batguano.co.uk (27 hosts in use) website | private | [gsmyth](https://freedns.afraid.org/tools/contact.php?user_id=765191&subject=batguano.co.uk) | 5320 days ago (07/18/2011) | 0 |
 | battlecore.ru (134 hosts in use) website | private | [f1recat](https://freedns.afraid.org/tools/contact.php?user_id=604041&subject=battlecore.ru) | 5720 days ago (05/17/2010) | 0 |
-| bauersachs.com (90 hosts in use) website | private | [bauersachs](https://freedns.afraid.org/tools/contact.php?user_id=115103&subject=bauersachs.com) | 7681 days ago (02/01/2005) | 0 |
+| bauersachs.com (90 hosts in use) website | private | [bauersachs](https://freedns.afraid.org/tools/contact.php?user_id=115103&subject=bauersachs.com) | 7685 days ago (02/01/2005) | 0 |
 | bauersachs.name (9 hosts in use) website | private | [bauersachs](https://freedns.afraid.org/tools/contact.php?user_id=115103&subject=bauersachs.name) | 7169 days ago (05/29/2006) | 0 |
 | bauersachs.net (10 hosts in use) website | private | [bauersachs](https://freedns.afraid.org/tools/contact.php?user_id=115103&subject=bauersachs.net) | 7199 days ago (05/29/2006) | 0 |
 | bauersachs.org (11 hosts in use) website | private | [bauersachs](https://freedns.afraid.org/tools/contact.php?user_id=115103&subject=bauersachs.org) | 7169 days ago (05/29/2006) | 0 |
@@ -13437,7 +13395,7 @@ Total domains: 25241
 | bismarck-tb.de (32 hosts in use) website | private | [bismarcktb](https://freedns.afraid.org/tools/contact.php?user_id=2590102&subject=bismarck-tb.de) | 3598 days ago (03/16/2016) | 0 |
 | bisonvodka.com (59 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=bisonvodka.com) | 6196 days ago (02/26/2009) | 0 |
 | bistromath.net (17 hosts in use) website | private | [demitri42](https://freedns.afraid.org/tools/contact.php?user_id=935436&subject=bistromath.net) | 3259 days ago (03/11/2017) | 0 |
-| bitermomng.com (36 hosts in use) website | private | [bitermo](https://freedns.afraid.org/tools/contact.php?user_id=742921&subject=bitermomng.com) | 4371 days ago (02/23/2014) | 0 |
+| bitermomng.com (36 hosts in use) website | private | [bitermo](https://freedns.afraid.org/tools/contact.php?user_id=742921&subject=bitermomng.com) | 4375 days ago (02/23/2014) | 0 |
 | bitgeek.com.au (26 hosts in use) website | private | [cyanpixie](https://freedns.afraid.org/tools/contact.php?user_id=1377193&subject=bitgeek.com.au) | 3256 days ago (03/16/2017) | 0 |
 | bitmagazin.com (10 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=bitmagazin.com) | 2306 days ago (10/20/2019) | 0 |
 | bittermail.com (24 hosts in use) website | private | [tomaseac](https://freedns.afraid.org/tools/contact.php?user_id=924125&subject=bittermail.com) | 3547 days ago (05/29/2016) | 0 |
@@ -13451,7 +13409,7 @@ Total domains: 25241
 | blazesphoto.ca (24 hosts in use) website | private | [mcb9999](https://freedns.afraid.org/tools/contact.php?user_id=2824582&subject=blazesphoto.ca) | 3282 days ago (02/10/2017) | 0 |
 | blecktornet.se (36 hosts in use) website | private | [abottema](https://freedns.afraid.org/tools/contact.php?user_id=309685&subject=blecktornet.se) | 6804 days ago (06/21/2007) | 0 |
 | bleeker.nom.za (15 hosts in use) website | private | [rbleeker](https://freedns.afraid.org/tools/contact.php?user_id=276364&subject=bleeker.nom.za) | 6950 days ago (02/01/2007) | 0 |
-| blinklab.com (1622 hosts in use) website | public | [blinklab](https://freedns.afraid.org/tools/contact.php?user_id=679002&subject=blinklab.com) | 5526 days ago (12/30/2010) | 0 |
+| blinklab.com (1621 hosts in use) website | public | [blinklab](https://freedns.afraid.org/tools/contact.php?user_id=679002&subject=blinklab.com) | 5527 days ago (12/30/2010) | 0 |
 | blinuxshell.ir (23 hosts in use) website | private | [farooghkz](https://freedns.afraid.org/tools/contact.php?user_id=2854659&subject=blinuxshell.ir) | 2655 days ago (11/08/2018) | 0 |
 | blogulugogu.ro (92 hosts in use) website | public | [blogulugogu](https://freedns.afraid.org/tools/contact.php?user_id=1452239&subject=blogulugogu.ro) | 4572 days ago (08/10/2013) | 0 |
 | blu-design.com (26 hosts in use) website | private | [divoyu](https://freedns.afraid.org/tools/contact.php?user_id=776790&subject=blu-design.com) | 5311 days ago (07/31/2011) | 0 |
@@ -13471,7 +13429,7 @@ Total domains: 25241
 | boratex.com.ar (79 hosts in use) website | public | [jpaulini](https://freedns.afraid.org/tools/contact.php?user_id=1425684&subject=boratex.com.ar) | 3951 days ago (04/07/2015) | 0 |
 | bordensite.com (15 hosts in use) website | private | [bivman](https://freedns.afraid.org/tools/contact.php?user_id=248940&subject=bordensite.com) | 4844 days ago (11/07/2012) | 0 |
 | bornsteins.com (55 hosts in use) website | private | [daveborn](https://freedns.afraid.org/tools/contact.php?user_id=156264&subject=bornsteins.com) | 7439 days ago (10/02/2005) | 0 |
-| borsaveneta.it (38 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=borsaveneta.it) | 2494 days ago (04/11/2019) | 0 |
+| borsaveneta.it (37 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=borsaveneta.it) | 2503 days ago (04/11/2019) | 0 |
 | bozhori.com.ar (92 hosts in use) website | public | [jorgebozhori](https://freedns.afraid.org/tools/contact.php?user_id=1915980&subject=bozhori.com.ar) | 4164 days ago (08/27/2014) | 0 |
 | bpandey.com.np (28 hosts in use) website | private | [sachitp](https://freedns.afraid.org/tools/contact.php?user_id=1675917&subject=bpandey.com.np) | 4363 days ago (02/26/2014) | 0 |
 | brainpimps.com (31 hosts in use) website | private | [shendan](https://freedns.afraid.org/tools/contact.php?user_id=320944&subject=brainpimps.com) | 4524 days ago (08/27/2013) | 0 |
@@ -13535,14 +13493,14 @@ Total domains: 25241
 | catapult.com.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=catapult.com.ar) | 2603 days ago (11/28/2018) | 0 |
 | catdevnull.org (13 hosts in use) website | private | [mrvasquez](https://freedns.afraid.org/tools/contact.php?user_id=762971&subject=catdevnull.org) | 1607 days ago (09/19/2021) | 0 |
 | catlift.com.ar (19 hosts in use) website | private | [dnsrental5](https://freedns.afraid.org/tools/contact.php?user_id=2971504&subject=catlift.com.ar) | 3073 days ago (09/14/2017) | 0 |
-| cavturbo.co.uk (43 hosts in use) website | private | [cavturbo](https://freedns.afraid.org/tools/contact.php?user_id=1253485&subject=cavturbo.co.uk) | 3327 days ago (01/05/2017) | 0 |
+| cavturbo.co.uk (43 hosts in use) website | private | [cavturbo](https://freedns.afraid.org/tools/contact.php?user_id=1253485&subject=cavturbo.co.uk) | 3329 days ago (01/05/2017) | 0 |
 | ccs-hawaii.com (39 hosts in use) website | private | [dmangiarelli](https://freedns.afraid.org/tools/contact.php?user_id=991592&subject=ccs-hawaii.com) | 5078 days ago (03/09/2012) | 0 |
 | cederfeldt.se (124 hosts in use) website | public | [mthoren](https://freedns.afraid.org/tools/contact.php?user_id=820024&subject=cederfeldt.se) | 4743 days ago (02/10/2013) | 0 |
 | celldata.co.uk (19 hosts in use) website | private | [dadd10](https://freedns.afraid.org/tools/contact.php?user_id=1676628&subject=celldata.co.uk) | 4338 days ago (02/27/2014) | 0 |
 | celsolobo.com (116 hosts in use) website | public | [46graus](https://freedns.afraid.org/tools/contact.php?user_id=2147657&subject=celsolobo.com) | 3459 days ago (08/25/2016) | 0 |
 | celtametal.cl (101 hosts in use) website | public | [pcamposb](https://freedns.afraid.org/tools/contact.php?user_id=1221278&subject=celtametal.cl) | 4811 days ago (11/13/2012) | 0 |
 | centriment.com (30 hosts in use) website | private | [anirothan](https://freedns.afraid.org/tools/contact.php?user_id=1113099&subject=centriment.com) | 4443 days ago (12/15/2013) | 0 |
-| centrocasio.cl (24 hosts in use) website | private | [costasur](https://freedns.afraid.org/tools/contact.php?user_id=790554&subject=centrocasio.cl) | 5254 days ago (08/26/2011) | 0 |
+| centrocasio.cl (24 hosts in use) website | private | [costasur](https://freedns.afraid.org/tools/contact.php?user_id=790554&subject=centrocasio.cl) | 5288 days ago (08/26/2011) | 0 |
 | cert-grvsc.org (32 hosts in use) website | private | [bbrown300](https://freedns.afraid.org/tools/contact.php?user_id=440480&subject=cert-grvsc.org) | 6287 days ago (11/25/2008) | 0 |
 | certificare.md (23 hosts in use) website | private | [radeonservice](https://freedns.afraid.org/tools/contact.php?user_id=480692&subject=certificare.md) | 3719 days ago (11/10/2015) | 0 |
 | cesarpedro.com (45 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=cesarpedro.com) | 3999 days ago (02/03/2015) | 0 |
@@ -13645,11 +13603,10 @@ Total domains: 25241
 | cstudiohd.com (170 hosts in use) website | public | [cstudio](https://freedns.afraid.org/tools/contact.php?user_id=2647089&subject=cstudiohd.com) | 3544 days ago (06/01/2016) | 0 |
 | ctasociados.cl (47 hosts in use) website | public | [nosena](https://freedns.afraid.org/tools/contact.php?user_id=1920249&subject=ctasociados.cl) | 2272 days ago (11/24/2019) | 0 |
 | cuba-renta.com (20 hosts in use) website | private | [yorkymsx](https://freedns.afraid.org/tools/contact.php?user_id=2956673&subject=cuba-renta.com) | 803 days ago (12/04/2023) | 0 |
-| culbertlab.com (35 hosts in use) website | private | [culbert](https://freedns.afraid.org/tools/contact.php?user_id=3329421&subject=culbertlab.com) | 2146 days ago (03/31/2020) | 0 |
+| culbertlab.com (36 hosts in use) website | private | [culbert](https://freedns.afraid.org/tools/contact.php?user_id=3329421&subject=culbertlab.com) | 2148 days ago (03/31/2020) | 0 |
 | cuppycake26.me (57 hosts in use) website | public | [n8qvq](https://freedns.afraid.org/tools/contact.php?user_id=3005326&subject=cuppycake26.me) | 2262 days ago (12/05/2019) | 0 |
 | currykarim.com (12 hosts in use) website | public | [webenergy](https://freedns.afraid.org/tools/contact.php?user_id=877732&subject=currykarim.com) | 563 days ago (07/30/2024) | 0 |
 | cyberbot.space (30 hosts in use) website | private | [klundry](https://freedns.afraid.org/tools/contact.php?user_id=1699905&subject=cyberbot.space) | 2816 days ago (05/01/2018) | 0 |
-| cybermadmen.com (9 hosts in use) website | private | [senjanin](https://freedns.afraid.org/tools/contact.php?user_id=901743&subject=cybermadmen.com) | 4820 days ago (12/05/2012) | 0 |
 | cybershido.net (31 hosts in use) website | private | [urlandw](https://freedns.afraid.org/tools/contact.php?user_id=570592&subject=cybershido.net) | 5804 days ago (03/24/2010) | 0 |
 | cynematics.com (53 hosts in use) website | private | [nawlinstino](https://freedns.afraid.org/tools/contact.php?user_id=417800&subject=cynematics.com) | 6378 days ago (08/28/2008) | 0 |
 | daddigital.com (73 hosts in use) website | private | [damiensawyer](https://freedns.afraid.org/tools/contact.php?user_id=620870&subject=daddigital.com) | 5053 days ago (03/15/2012) | 0 |
@@ -13795,7 +13752,7 @@ Total domains: 25241
 | emacsbliss.com (53 hosts in use) website | private | [showgood21](https://freedns.afraid.org/tools/contact.php?user_id=2948872&subject=emacsbliss.com) | 2899 days ago (03/04/2018) | 0 |
 | embeddedge.com (26 hosts in use) website | private | [rlimbanda](https://freedns.afraid.org/tools/contact.php?user_id=3122264&subject=embeddedge.com) | 2074 days ago (06/02/2020) | 0 |
 | emilylewis.name (4 hosts in use) website | private | [daveclewis](https://freedns.afraid.org/tools/contact.php?user_id=362019&subject=emilylewis.name) | 6211 days ago (01/11/2009) | 0 |
-| eminescusm.ro (372 hosts in use) website | public | [rotaruliviudan](https://freedns.afraid.org/tools/contact.php?user_id=2391219&subject=eminescusm.ro) | 3825 days ago (08/26/2015) | 0 |
+| eminescusm.ro (373 hosts in use) website | public | [rotaruliviudan](https://freedns.afraid.org/tools/contact.php?user_id=2391219&subject=eminescusm.ro) | 3827 days ago (08/26/2015) | 0 |
 | emplast.com.br (24 hosts in use) website | private | [mauromatos](https://freedns.afraid.org/tools/contact.php?user_id=1102921&subject=emplast.com.br) | 4518 days ago (09/14/2013) | 0 |
 | emptech.com.au (51 hosts in use) website | private | [tonemack](https://freedns.afraid.org/tools/contact.php?user_id=777514&subject=emptech.com.au) | 5294 days ago (08/01/2011) | 0 |
 | emtbiceland.is (49 hosts in use) website | public | [oseice](https://freedns.afraid.org/tools/contact.php?user_id=4361091&subject=emtbiceland.is) | 347 days ago (02/06/2025) | 0 |
@@ -13865,7 +13822,7 @@ Total domains: 25241
 | feruduntok.com (31 hosts in use) website | private | [cangocan](https://freedns.afraid.org/tools/contact.php?user_id=847014&subject=feruduntok.com) | 2756 days ago (07/13/2018) | 0 |
 | ffa-trading.nl (18 hosts in use) website | private | [ictmatrix](https://freedns.afraid.org/tools/contact.php?user_id=759450&subject=ffa-trading.nl) | 1624 days ago (08/22/2021) | 0 |
 | fianbakken.com (43 hosts in use) website | private | [haraldf](https://freedns.afraid.org/tools/contact.php?user_id=1644441&subject=fianbakken.com) | 4378 days ago (01/20/2014) | 0 |
-| fin-tech.com (1214 hosts in use) website | public | [lucafer](https://freedns.afraid.org/tools/contact.php?user_id=126213&subject=fin-tech.com) | 7452 days ago (09/21/2005) | 0 |
+| fin-tech.com (1215 hosts in use) website | public | [lucafer](https://freedns.afraid.org/tools/contact.php?user_id=126213&subject=fin-tech.com) | 7453 days ago (09/21/2005) | 0 |
 | finanzorakel.ch (9 hosts in use) website | public | [schritt](https://freedns.afraid.org/tools/contact.php?user_id=4012456&subject=finanzorakel.ch) | 699 days ago (03/07/2024) | 0 |
 | fintrading.com (39 hosts in use) website | private | [goldmanns](https://freedns.afraid.org/tools/contact.php?user_id=1007674&subject=fintrading.com) | 4196 days ago (08/08/2014) | 0 |
 | firmwareco.com (37 hosts in use) website | private | [firmwareco](https://freedns.afraid.org/tools/contact.php?user_id=3312129&subject=firmwareco.com) | 2400 days ago (06/21/2019) | 0 |
@@ -13895,11 +13852,11 @@ Total domains: 25241
 | franjamorada.ar (6 hosts in use) website | private | [thewebhosting](https://freedns.afraid.org/tools/contact.php?user_id=464935&subject=franjamorada.ar) | 1923 days ago (10/08/2020) | 0 |
 | fredrikkivi.se (60 hosts in use) website | public | [frekiv](https://freedns.afraid.org/tools/contact.php?user_id=639353&subject=fredrikkivi.se) | 1844 days ago (01/18/2021) | 0 |
 | freebsd-br.org (30 hosts in use) website | private | [egypcio](https://freedns.afraid.org/tools/contact.php?user_id=2060558&subject=freebsd-br.org) | 3058 days ago (09/20/2017) | 0 |
-| freedns.net.br (55 hosts in use) website | private | [rtrombetta](https://freedns.afraid.org/tools/contact.php?user_id=1244544&subject=freedns.net.br) | 4811 days ago (12/11/2012) | 0 |
+| freedns.net.br (55 hosts in use) website | private | [rtrombetta](https://freedns.afraid.org/tools/contact.php?user_id=1244544&subject=freedns.net.br) | 4815 days ago (12/11/2012) | 0 |
 | freedom-tw.com (45 hosts in use) website | private | [ahwachen](https://freedns.afraid.org/tools/contact.php?user_id=418716&subject=freedom-tw.com) | 2536 days ago (02/18/2019) | 0 |
 | freefunctor.com (6 hosts in use) website | private | [gcsfred](https://freedns.afraid.org/tools/contact.php?user_id=3356436&subject=freefunctor.com) | 2169 days ago (02/05/2020) | 0 |
 | freengers.com (221 hosts in use) website | public | [fer2204](https://freedns.afraid.org/tools/contact.php?user_id=103853&subject=freengers.com) | 5116 days ago (02/13/2012) | 0 |
-| frenchynet.net (21 hosts in use) website | private | [olivierdery](https://freedns.afraid.org/tools/contact.php?user_id=3112243&subject=frenchynet.net) | 2665 days ago (10/30/2018) | 0 |
+| frenchynet.net (22 hosts in use) website | private | [olivierdery](https://freedns.afraid.org/tools/contact.php?user_id=3112243&subject=frenchynet.net) | 2666 days ago (10/30/2018) | 0 |
 | freshminty.net (25 hosts in use) website | private | [mint0](https://freedns.afraid.org/tools/contact.php?user_id=2080417&subject=freshminty.net) | 2462 days ago (05/17/2019) | 0 |
 | fresqua.com.br (63 hosts in use) website | public | [meridiano](https://freedns.afraid.org/tools/contact.php?user_id=3460366&subject=fresqua.com.br) | 1936 days ago (10/05/2020) | 0 |
 | frontdesign.org (8 hosts in use) website | private | [xlarge](https://freedns.afraid.org/tools/contact.php?user_id=119935&subject=frontdesign.org) | 4597 days ago (06/26/2013) | 0 |
@@ -13926,7 +13883,7 @@ Total domains: 25241
 | gasthaus.com.br (5 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=gasthaus.com.br) | 1016 days ago (04/16/2023) | 0 |
 | gatesweb.info (320 hosts in use) website | public | [gates1026](https://freedns.afraid.org/tools/contact.php?user_id=108589&subject=gatesweb.info) | 7718 days ago (12/29/2004) | 0 |
 | gavetachan.org (40 hosts in use) website | private | [dorgonal](https://freedns.afraid.org/tools/contact.php?user_id=3617946&subject=gavetachan.org) | 1524 days ago (12/08/2021) | 0 |
-| ge-force.co.uk (46 hosts in use) website | private | [mcbcool](https://freedns.afraid.org/tools/contact.php?user_id=328633&subject=ge-force.co.uk) | 2984 days ago (12/14/2017) | 0 |
+| ge-force.co.uk (46 hosts in use) website | private | [mcbcool](https://freedns.afraid.org/tools/contact.php?user_id=328633&subject=ge-force.co.uk) | 2986 days ago (12/14/2017) | 0 |
 | gedcosa.com.ar (30 hosts in use) website | private | [gedco](https://freedns.afraid.org/tools/contact.php?user_id=1788346&subject=gedcosa.com.ar) | 4291 days ago (05/15/2014) | 0 |
 | geekinhard.com (24 hosts in use) website | private | [bradmorrison](https://freedns.afraid.org/tools/contact.php?user_id=256131&subject=geekinhard.com) | 5507 days ago (12/24/2010) | 0 |
 | geexolotls.com (47 hosts in use) website | private | [betoortega](https://freedns.afraid.org/tools/contact.php?user_id=580629&subject=geexolotls.com) | 1538 days ago (11/13/2021) | 0 |
@@ -13937,7 +13894,7 @@ Total domains: 25241
 | geotekne.com.ar (8 hosts in use) website | private | [jemacchi](https://freedns.afraid.org/tools/contact.php?user_id=360273&subject=geotekne.com.ar) | 6111 days ago (04/30/2009) | 0 |
 | gepsalab.com.ar (3 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=gepsalab.com.ar) | 2618 days ago (11/28/2018) | 0 |
 | gepsanet.com.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=gepsanet.com.ar) | 3334 days ago (12/12/2016) | 0 |
-| gfernandez.net (32 hosts in use) website | private | [gfernandez](https://freedns.afraid.org/tools/contact.php?user_id=1065218&subject=gfernandez.net) | 5000 days ago (06/05/2012) | 0 |
+| gfernandez.net (31 hosts in use) website | private | [gfernandez](https://freedns.afraid.org/tools/contact.php?user_id=1065218&subject=gfernandez.net) | 5003 days ago (06/05/2012) | 0 |
 | gfmichelle.com (36 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=gfmichelle.com) | 3520 days ago (06/22/2016) | 0 |
 | gfurlan.com.br (29 hosts in use) website | private | [guifurlan](https://freedns.afraid.org/tools/contact.php?user_id=2127023&subject=gfurlan.com.br) | 3463 days ago (08/03/2016) | 0 |
 | ghasemkiani.ir (37 hosts in use) website | private | [ghasemkiani](https://freedns.afraid.org/tools/contact.php?user_id=830302&subject=ghasemkiani.ir) | 5202 days ago (10/19/2011) | 0 |
@@ -13960,7 +13917,7 @@ Total domains: 25241
 | gom-jabbar.com (28 hosts in use) website | private | [gomjabbar](https://freedns.afraid.org/tools/contact.php?user_id=928567&subject=gom-jabbar.com) | 3175 days ago (06/05/2017) | 0 |
 | gomera.com.br (108 hosts in use) website | public | [rafaelgomess](https://freedns.afraid.org/tools/contact.php?user_id=723582&subject=gomera.com.br) | 5298 days ago (08/07/2011) | 0 |
 | goodfox.com.br (23 hosts in use) website | public | [fabremer](https://freedns.afraid.org/tools/contact.php?user_id=4286589&subject=goodfox.com.br) | 36 days ago (01/10/2026) | 0 |
-| goodguysav.com (27 hosts in use) website | public | [estadmin](https://freedns.afraid.org/tools/contact.php?user_id=4257158&subject=goodguysav.com) | 517 days ago (09/16/2024) | 0 |
+| goodguysav.com (28 hosts in use) website | public | [estadmin](https://freedns.afraid.org/tools/contact.php?user_id=4257158&subject=goodguysav.com) | 517 days ago (09/16/2024) | 0 |
 | goodmans.co.za (36 hosts in use) website | private | [yossig](https://freedns.afraid.org/tools/contact.php?user_id=559904&subject=goodmans.co.za) | 5840 days ago (02/17/2010) | 0 |
 | goramas.com.ar (18 hosts in use) website | private | [estint](https://freedns.afraid.org/tools/contact.php?user_id=2287066&subject=goramas.com.ar) | 3145 days ago (06/28/2017) | 0 |
 | gotoenail.com (377 hosts in use) website | public | [felton5](https://freedns.afraid.org/tools/contact.php?user_id=2525662&subject=gotoenail.com) | 3688 days ago (01/11/2016) | 0 |
@@ -14110,7 +14067,7 @@ Total domains: 25241
 | isoluxltda.cl (121 hosts in use) website | public | [paulinazanartu](https://freedns.afraid.org/tools/contact.php?user_id=2122656&subject=isoluxltda.cl) | 2518 days ago (03/06/2019) | 0 |
 | isvresearch.eu (23 hosts in use) website | private | [vulgaran](https://freedns.afraid.org/tools/contact.php?user_id=3410921&subject=isvresearch.eu) | 2080 days ago (06/02/2020) | 0 |
 | iswellhung.com (92 hosts in use) website | public | [canyonnetworks](https://freedns.afraid.org/tools/contact.php?user_id=1455530&subject=iswellhung.com) | 2922 days ago (02/07/2018) | 0 |
-| itconex.com.ar (75 hosts in use) website | public | [itconex](https://freedns.afraid.org/tools/contact.php?user_id=1127612&subject=itconex.com.ar) | 4934 days ago (08/03/2012) | 0 |
+| itconex.com.ar (76 hosts in use) website | public | [itconex](https://freedns.afraid.org/tools/contact.php?user_id=1127612&subject=itconex.com.ar) | 4945 days ago (08/03/2012) | 0 |
 | itconstruct.ro (15 hosts in use) website | private | [dnsdse](https://freedns.afraid.org/tools/contact.php?user_id=1269988&subject=itconstruct.ro) | 1940 days ago (09/21/2020) | 0 |
 | itecono.com.ar (37 hosts in use) website | private | [itecono](https://freedns.afraid.org/tools/contact.php?user_id=1248480&subject=itecono.com.ar) | 5545 days ago (11/08/2010) | 0 |
 | iteflow.com.np (26 hosts in use) website | private | [jitanepal](https://freedns.afraid.org/tools/contact.php?user_id=3306122&subject=iteflow.com.np) | 2347 days ago (09/10/2019) | 0 |
@@ -14258,9 +14215,7 @@ Total domains: 25241
 | ldsresource.com (8 hosts in use) website | private | [saintgroup](https://freedns.afraid.org/tools/contact.php?user_id=270570&subject=ldsresource.com) | 2647 days ago (11/14/2018) | 0 |
 | leadlab.com.my (27 hosts in use) website | private | [wiseman22](https://freedns.afraid.org/tools/contact.php?user_id=2954790&subject=leadlab.com.my) | 2872 days ago (03/12/2018) | 0 |
 | leameister.com (13 hosts in use) website | private | [dynie](https://freedns.afraid.org/tools/contact.php?user_id=3079854&subject=leameister.com) | 1485 days ago (12/26/2021) | 0 |
-| leeguscott.com (26 hosts in use) website | private | [maikee](https://freedns.afraid.org/tools/contact.php?user_id=1064490&subject=leeguscott.com) | 4884 days ago (09/30/2012) | 0 |
 | legalcredit.ro (39 hosts in use) website | private | [aanghelnet](https://freedns.afraid.org/tools/contact.php?user_id=1578448&subject=legalcredit.ro) | 4461 days ago (11/18/2013) | 0 |
-| legatum-si.net (26 hosts in use) website | private | [rsandrade](https://freedns.afraid.org/tools/contact.php?user_id=1253423&subject=legatum-si.net) | 3716 days ago (12/11/2015) | 0 |
 | legume-bune.ro (21 hosts in use) website | private | [ionvoicu](https://freedns.afraid.org/tools/contact.php?user_id=497620&subject=legume-bune.ro) | 5669 days ago (08/06/2010) | 0 |
 | lehtikangas.fi (21 hosts in use) website | private | [mauole](https://freedns.afraid.org/tools/contact.php?user_id=3076689&subject=lehtikangas.fi) | 2737 days ago (07/17/2018) | 0 |
 | lennard.net.au (15 hosts in use) website | private | [lensfort](https://freedns.afraid.org/tools/contact.php?user_id=2357109&subject=lennard.net.au) | 3867 days ago (07/14/2015) | 0 |
@@ -14297,11 +14252,11 @@ Total domains: 25241
 | loretolucar.cl (16 hosts in use) website | private | [claudiabarriga](https://freedns.afraid.org/tools/contact.php?user_id=680186&subject=loretolucar.cl) | 3553 days ago (05/16/2016) | 0 |
 | loscopihues.cl (23 hosts in use) website | private | [nickelsen](https://freedns.afraid.org/tools/contact.php?user_id=302855&subject=loscopihues.cl) | 6777 days ago (07/26/2007) | 0 |
 | losmolinas.com (32 hosts in use) website | private | [hifelix](https://freedns.afraid.org/tools/contact.php?user_id=4069243&subject=losmolinas.com) | 744 days ago (02/01/2024) | 0 |
-| losparakas.com (30 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=losparakas.com) | 991 days ago (05/31/2023) | 0 |
+| losparakas.com (40 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=losparakas.com) | 992 days ago (05/31/2023) | 0 |
 | loupatrick.net (25 hosts in use) website | private | [loupatrick](https://freedns.afraid.org/tools/contact.php?user_id=1341288&subject=loupatrick.net) | 4648 days ago (04/23/2013) | 0 |
 | lsentinella.me (30 hosts in use) website | private | [louissentinella](https://freedns.afraid.org/tools/contact.php?user_id=3874731&subject=lsentinella.me) | 1006 days ago (05/14/2023) | 0 |
 | lsmhistory.com (53 hosts in use) website | private | [kmm88](https://freedns.afraid.org/tools/contact.php?user_id=367445&subject=lsmhistory.com) | 3926 days ago (04/17/2015) | 0 |
-| lucianas.co.uk (17 hosts in use) website | private | [abellodi](https://freedns.afraid.org/tools/contact.php?user_id=686252&subject=lucianas.co.uk) | 3027 days ago (11/01/2017) | 0 |
+| lucianas.co.uk (17 hosts in use) website | private | [abellodi](https://freedns.afraid.org/tools/contact.php?user_id=686252&subject=lucianas.co.uk) | 3029 days ago (11/01/2017) | 0 |
 | luciolucas.com (30 hosts in use) website | private | [carlosmacielsant](https://freedns.afraid.org/tools/contact.php?user_id=3104276&subject=luciolucas.com) | 2680 days ago (10/11/2018) | 0 |
 | luhtaanmaki.fi (30 hosts in use) website | private | [5363054](https://freedns.afraid.org/tools/contact.php?user_id=1008545&subject=luhtaanmaki.fi) | 5043 days ago (03/26/2012) | 0 |
 | lujaintech.com (64 hosts in use) website | public | [aljbri](https://freedns.afraid.org/tools/contact.php?user_id=1154565&subject=lujaintech.com) | 2143 days ago (03/27/2020) | 0 |
@@ -14326,7 +14281,6 @@ Total domains: 25241
 | maleficarum.mx (51 hosts in use) website | private | [maleficarum](https://freedns.afraid.org/tools/contact.php?user_id=756876&subject=maleficarum.mx) | 4945 days ago (07/31/2012) | 0 |
 | malskoy-med.ru (17 hosts in use) website | private | [zubkov](https://freedns.afraid.org/tools/contact.php?user_id=2045252&subject=malskoy-med.ru) | 441 days ago (11/18/2024) | 0 |
 | mandhplum.net (199 hosts in use) website | public | [rmontgomery](https://freedns.afraid.org/tools/contact.php?user_id=554193&subject=mandhplum.net) | 5859 days ago (01/29/2010) | 0 |
-| manicresin.com (26 hosts in use) website | private | [manicresin](https://freedns.afraid.org/tools/contact.php?user_id=1721032&subject=manicresin.com) | 4323 days ago (04/14/2014) | 0 |
 | manodemonja.cl (17 hosts in use) website | private | [rsilvaa](https://freedns.afraid.org/tools/contact.php?user_id=1255211&subject=manodemonja.cl) | 3393 days ago (09/29/2016) | 0 |
 | manolovici.ro (105 hosts in use) website | public | [sebs13](https://freedns.afraid.org/tools/contact.php?user_id=1757387&subject=manolovici.ro) | 4311 days ago (04/28/2014) | 0 |
 | manuelbeier.de (10 hosts in use) website | private | [manuelbeier](https://freedns.afraid.org/tools/contact.php?user_id=4297983&subject=manuelbeier.de) | 461 days ago (11/08/2024) | 0 |
@@ -14336,7 +14290,6 @@ Total domains: 25241
 | marcheologo.tk (12 hosts in use) website | private | [ramaserver](https://freedns.afraid.org/tools/contact.php?user_id=532042&subject=marcheologo.tk) | 5754 days ago (04/13/2010) | 0 |
 | marcio.com.ar (106 hosts in use) website | public | [marciodegio](https://freedns.afraid.org/tools/contact.php?user_id=1809308&subject=marcio.com.ar) | 4271 days ago (05/30/2014) | 0 |
 | marckbikes.com (20 hosts in use) website | private | [hsrai](https://freedns.afraid.org/tools/contact.php?user_id=648022&subject=marckbikes.com) | 612 days ago (06/11/2024) | 0 |
-| marekzagol.com (26 hosts in use) website | private | [mpz](https://freedns.afraid.org/tools/contact.php?user_id=816175&subject=marekzagol.com) | 5255 days ago (09/24/2011) | 0 |
 | marginaltax.com (7 hosts in use) website | private | [michaelmalak](https://freedns.afraid.org/tools/contact.php?user_id=1096754&subject=marginaltax.com) | 715 days ago (02/25/2024) | 0 |
 | marianduma.com (36 hosts in use) website | private | [davidcarr](https://freedns.afraid.org/tools/contact.php?user_id=546588&subject=marianduma.com) | 5869 days ago (01/19/2010) | 0 |
 | marinagore.com (36 hosts in use) website | private | [lingodawg](https://freedns.afraid.org/tools/contact.php?user_id=641202&subject=marinagore.com) | 3442 days ago (08/23/2016) | 0 |
@@ -14347,12 +14300,10 @@ Total domains: 25241
 | markholden.net (25 hosts in use) website | private | [markholden](https://freedns.afraid.org/tools/contact.php?user_id=117463&subject=markholden.net) | 4777 days ago (01/14/2013) | 0 |
 | markschmark.com (8 hosts in use) website | private | [markschmark](https://freedns.afraid.org/tools/contact.php?user_id=4332240&subject=markschmark.com) | 416 days ago (12/24/2024) | 0 |
 | markscully.com (22 hosts in use) website | public | [mscully7321](https://freedns.afraid.org/tools/contact.php?user_id=3642478&subject=markscully.com) | 1486 days ago (01/20/2022) | 0 |
-| markturney.com (34 hosts in use) website | private | [markturney](https://freedns.afraid.org/tools/contact.php?user_id=2915665&subject=markturney.com) | 3108 days ago (08/03/2017) | 0 |
-| marluan.com.br (26 hosts in use) website | private | [marluan](https://freedns.afraid.org/tools/contact.php?user_id=723988&subject=marluan.com.br) | 5365 days ago (05/20/2011) | 0 |
+| markturney.com (34 hosts in use) website | private | [markturney](https://freedns.afraid.org/tools/contact.php?user_id=2915665&subject=markturney.com) | 3119 days ago (08/03/2017) | 0 |
 | maroon9.com.au (13 hosts in use) website | private | [juanmurphy](https://freedns.afraid.org/tools/contact.php?user_id=1027888&subject=maroon9.com.au) | 1658 days ago (07/15/2021) | 0 |
 | marriancho.com (81 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=marriancho.com) | 5249 days ago (08/31/2011) | 0 |
 | marriottve.com (83 hosts in use) website | public | [dominiosjw](https://freedns.afraid.org/tools/contact.php?user_id=3741559&subject=marriottve.com) | 1233 days ago (09/23/2022) | 0 |
-| marry-me.co.il (26 hosts in use) website | private | [infoneto](https://freedns.afraid.org/tools/contact.php?user_id=799436&subject=marry-me.co.il) | 5252 days ago (08/30/2011) | 0 |
 | marsbar.org.uk (39 hosts in use) website | private | [henryarcher](https://freedns.afraid.org/tools/contact.php?user_id=249057&subject=marsbar.org.uk) | 6529 days ago (03/30/2008) | 0 |
 | marstallers.de (37 hosts in use) website | private | [hamars](https://freedns.afraid.org/tools/contact.php?user_id=1951343&subject=marstallers.de) | 4152 days ago (10/01/2014) | 0 |
 | martinwguy.net (85 hosts in use) website | public | [martinwguy](https://freedns.afraid.org/tools/contact.php?user_id=803805&subject=martinwguy.net) | 425 days ago (12/15/2024) | 0 |
@@ -14392,12 +14343,12 @@ Total domains: 25241
 | meexpress.net (113 hosts in use) website | public | [javierlogic](https://freedns.afraid.org/tools/contact.php?user_id=2585988&subject=meexpress.net) | 3219 days ago (04/20/2017) | 0 |
 | megamor.com.br (45 hosts in use) website | private | [alessandromor](https://freedns.afraid.org/tools/contact.php?user_id=614334&subject=megamor.com.br) | 5699 days ago (06/17/2010) | 0 |
 | megaokazii.ro (174 hosts in use) website | public | [zarnescu](https://freedns.afraid.org/tools/contact.php?user_id=493030&subject=megaokazii.ro) | 5370 days ago (05/11/2011) | 0 |
-| melakaboy.com (450 hosts in use) website | public | [chittyboy](https://freedns.afraid.org/tools/contact.php?user_id=326628&subject=melakaboy.com) | 5963 days ago (10/19/2009) | 0 |
+| melakaboy.com (451 hosts in use) website | public | [chittyboy](https://freedns.afraid.org/tools/contact.php?user_id=326628&subject=melakaboy.com) | 5964 days ago (10/19/2009) | 0 |
 | memoryshow.org (16 hosts in use) website | private | [calebx](https://freedns.afraid.org/tools/contact.php?user_id=2580294&subject=memoryshow.org) | 3244 days ago (02/28/2017) | 0 |
 | mendozaski.com (24 hosts in use) website | private | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=mendozaski.com) | 2096 days ago (05/18/2020) | 0 |
 | mentealveare.it (9 hosts in use) website | private | [lucacastellini](https://freedns.afraid.org/tools/contact.php?user_id=4532429&subject=mentealveare.it) | 162 days ago (08/29/2025) | 0 |
 | meritia.com.ar (33 hosts in use) website | private | [meritia](https://freedns.afraid.org/tools/contact.php?user_id=2244707&subject=meritia.com.ar) | 3948 days ago (03/26/2015) | 0 |
-| merrison.co.uk (46 hosts in use) website | private | [merrison](https://freedns.afraid.org/tools/contact.php?user_id=1368970&subject=merrison.co.uk) | 4561 days ago (08/20/2013) | 0 |
+| merrison.co.uk (46 hosts in use) website | private | [merrison](https://freedns.afraid.org/tools/contact.php?user_id=1368970&subject=merrison.co.uk) | 4563 days ago (08/20/2013) | 0 |
 | meteomanolo.es (57 hosts in use) website | public | [manolodos](https://freedns.afraid.org/tools/contact.php?user_id=1643740&subject=meteomanolo.es) | 4405 days ago (01/19/2014) | 0 |
 | meteotodi.com (177 hosts in use) website | public | [tordo](https://freedns.afraid.org/tools/contact.php?user_id=1366746&subject=meteotodi.com) | 4646 days ago (05/18/2013) | 0 |
 | metissa.com.br (92 hosts in use) website | public | [robertbattat](https://freedns.afraid.org/tools/contact.php?user_id=1578297&subject=metissa.com.br) | 4466 days ago (11/19/2013) | 0 |
@@ -14413,12 +14364,12 @@ Total domains: 25241
 | mihaicaulea.ro (29 hosts in use) website | private | [mihaicaulea](https://freedns.afraid.org/tools/contact.php?user_id=2433356&subject=mihaicaulea.ro) | 3750 days ago (10/10/2015) | 0 |
 | mikeamoore.net (16 hosts in use) website | private | [mmstanns](https://freedns.afraid.org/tools/contact.php?user_id=421120&subject=mikeamoore.net) | 4774 days ago (01/16/2013) | 0 |
 | mikebert.co.uk (20 hosts in use) website | private | [mikebert4](https://freedns.afraid.org/tools/contact.php?user_id=1378051&subject=mikebert.co.uk) | 4614 days ago (05/29/2013) | 0 |
-| mikecramer.com (24 hosts in use) website | private | [mikecramer43026](https://freedns.afraid.org/tools/contact.php?user_id=1021545&subject=mikecramer.com) | 5055 days ago (04/11/2012) | 0 |
+| mikecramer.com (25 hosts in use) website | private | [mikecramer43026](https://freedns.afraid.org/tools/contact.php?user_id=1021545&subject=mikecramer.com) | 5059 days ago (04/11/2012) | 0 |
 | mikeeckman.net (11 hosts in use) website | public | [eckmanmj](https://freedns.afraid.org/tools/contact.php?user_id=927881&subject=mikeeckman.net) | 2503 days ago (04/10/2019) | 0 |
 | mikhaylov.info (33 hosts in use) website | private | [mikhks](https://freedns.afraid.org/tools/contact.php?user_id=807893&subject=mikhaylov.info) | 5266 days ago (09/12/2011) | 0 |
 | milliways.rocks (6 hosts in use) website | private | [lvturner](https://freedns.afraid.org/tools/contact.php?user_id=1451700&subject=milliways.rocks) | 1004 days ago (04/15/2023) | 0 |
 | mindboggle.us (261 hosts in use) website | public | [bunout](https://freedns.afraid.org/tools/contact.php?user_id=307198&subject=mindboggle.us) | 5940 days ago (10/26/2009) | 0 |
-| minecraft.pe (3640 hosts in use) website | public | [avaixus](https://freedns.afraid.org/tools/contact.php?user_id=2960268&subject=minecraft.pe) | 1690 days ago (07/01/2021) | 0 |
+| minecraft.pe (3642 hosts in use) website | public | [avaixus](https://freedns.afraid.org/tools/contact.php?user_id=2960268&subject=minecraft.pe) | 1691 days ago (07/01/2021) | 0 |
 | minetest.land (608 hosts in use) website | public | [minetest](https://freedns.afraid.org/tools/contact.php?user_id=3095930&subject=minetest.land) | 2871 days ago (04/06/2018) | 0 |
 | mini-itx-pc.ro (95 hosts in use) website | public | [trimixt](https://freedns.afraid.org/tools/contact.php?user_id=525824&subject=mini-itx-pc.ro) | 4514 days ago (10/04/2013) | 0 |
 | miningsteel.cl (64 hosts in use) website | public | [ignaciomella](https://freedns.afraid.org/tools/contact.php?user_id=85948&subject=miningsteel.cl) | 2409 days ago (06/10/2019) | 0 |
@@ -14537,8 +14488,8 @@ Total domains: 25241
 | notawesome.org (61 hosts in use) website | private | [cschrader](https://freedns.afraid.org/tools/contact.php?user_id=893417&subject=notawesome.org) | 5132 days ago (01/02/2012) | 0 |
 | notcrawcraw.net (8 hosts in use) website | private | [notcrawcraw](https://freedns.afraid.org/tools/contact.php?user_id=3432458&subject=notcrawcraw.net) | 2033 days ago (07/21/2020) | 0 |
 | noticierog.com (40 hosts in use) website | private | [rsantosa](https://freedns.afraid.org/tools/contact.php?user_id=467084&subject=noticierog.com) | 3982 days ago (03/10/2015) | 0 |
-| notsojane.com (183 hosts in use) website | public | [kevinerdmann](https://freedns.afraid.org/tools/contact.php?user_id=1649307&subject=notsojane.com) | 4014 days ago (02/19/2015) | 0 |
-| novgaz-rzn.ru (471 hosts in use) website | private | [fourfingers](https://freedns.afraid.org/tools/contact.php?user_id=847915&subject=novgaz-rzn.ru) | 4581 days ago (07/29/2013) | 0 |
+| notsojane.com (184 hosts in use) website | public | [kevinerdmann](https://freedns.afraid.org/tools/contact.php?user_id=1649307&subject=notsojane.com) | 4015 days ago (02/19/2015) | 0 |
+| novgaz-rzn.ru (472 hosts in use) website | private | [fourfingers](https://freedns.afraid.org/tools/contact.php?user_id=847915&subject=novgaz-rzn.ru) | 4585 days ago (07/29/2013) | 0 |
 | noviolencia.ar (43 hosts in use) website | public | [hdaulte](https://freedns.afraid.org/tools/contact.php?user_id=1808659&subject=noviolencia.ar) | 1881 days ago (12/19/2020) | 0 |
 | novpromtech.ru (28 hosts in use) website | private | [gatecrusher](https://freedns.afraid.org/tools/contact.php?user_id=658551&subject=novpromtech.ru) | 5446 days ago (02/15/2011) | 0 |
 | npflifang.com (206 hosts in use) website | public | [npflifang](https://freedns.afraid.org/tools/contact.php?user_id=1778217&subject=npflifang.com) | 4299 days ago (05/09/2014) | 0 |
@@ -14591,7 +14542,7 @@ Total domains: 25241
 | pamelaortiz.cl (74 hosts in use) website | public | [nachoortiz](https://freedns.afraid.org/tools/contact.php?user_id=2885213&subject=pamelaortiz.cl) | 3177 days ago (05/30/2017) | 0 |
 | panaguiton.net (42 hosts in use) website | private | [eapanaguiton](https://freedns.afraid.org/tools/contact.php?user_id=143148&subject=panaguiton.net) | 7298 days ago (02/22/2006) | 0 |
 | pancdarien.com (23 hosts in use) website | private | [pancdarien](https://freedns.afraid.org/tools/contact.php?user_id=3539528&subject=pancdarien.com) | 1767 days ago (04/10/2021) | 0 |
-| pandandrum.com (36 hosts in use) website | private | [pandandrum](https://freedns.afraid.org/tools/contact.php?user_id=1890377&subject=pandandrum.com) | 4210 days ago (08/04/2014) | 0 |
+| pandandrum.com (36 hosts in use) website | private | [pandandrum](https://freedns.afraid.org/tools/contact.php?user_id=1890377&subject=pandandrum.com) | 4214 days ago (08/04/2014) | 0 |
 | pandatune.com (198 hosts in use) website | public | [splidje](https://freedns.afraid.org/tools/contact.php?user_id=880849&subject=pandatune.com) | 4770 days ago (01/23/2013) | 0 |
 | pangoni.com.br (26 hosts in use) website | private | [mpangoni](https://freedns.afraid.org/tools/contact.php?user_id=254791&subject=pangoni.com.br) | 7042 days ago (11/03/2006) | 0 |
 | panicforge.com (27 hosts in use) website | private | [thecli3nt](https://freedns.afraid.org/tools/contact.php?user_id=2793682&subject=panicforge.com) | 2037 days ago (07/09/2020) | 0 |
@@ -14623,6 +14574,7 @@ Total domains: 25241
 | pdxdancers.com (33 hosts in use) website | private | [scootertime](https://freedns.afraid.org/tools/contact.php?user_id=2816769&subject=pdxdancers.com) | 3292 days ago (01/26/2017) | 0 |
 | peanutmelon.com (3 hosts in use) website | private | [scorris](https://freedns.afraid.org/tools/contact.php?user_id=2780327&subject=peanutmelon.com) | 3364 days ago (11/21/2016) | 0 |
 | pekservices.com (3 hosts in use) website | private | [lilhomesrae1987](https://freedns.afraid.org/tools/contact.php?user_id=2013431&subject=pekservices.com) | 4073 days ago (11/19/2014) | 0 |
+| peperepara.com (11 hosts in use) website | private | [orxatakiller](https://freedns.afraid.org/tools/contact.php?user_id=3417400&subject=peperepara.com) | 889 days ago (09/11/2023) | 0 |
 | perfectping.io (28 hosts in use) website | private | [perfectping](https://freedns.afraid.org/tools/contact.php?user_id=806029&subject=perfectping.io) | 2041 days ago (07/04/2020) | 0 |
 | permutas.com.mx (7 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=permutas.com.mx) | 697 days ago (03/12/2024) | 0 |
 | perrti02.co.uk (32 hosts in use) website | private | [perrti02](https://freedns.afraid.org/tools/contact.php?user_id=2524617&subject=perrti02.co.uk) | 3676 days ago (01/10/2016) | 0 |
@@ -14678,7 +14630,6 @@ Total domains: 25241
 | projectdata.ch (42 hosts in use) website | private | [coolwinti](https://freedns.afraid.org/tools/contact.php?user_id=909470&subject=projectdata.ch) | 4548 days ago (08/13/2013) | 0 |
 | projectdev.net (80 hosts in use) website | private | [hisgrace](https://freedns.afraid.org/tools/contact.php?user_id=461956&subject=projectdev.net) | 4675 days ago (04/25/2013) | 0 |
 | projectiota.com (7 hosts in use) website | public | [whyeyeng](https://freedns.afraid.org/tools/contact.php?user_id=4423041&subject=projectiota.com) | 279 days ago (04/19/2025) | 0 |
-| proprietarul.eu (8 hosts in use) website | private | [aaverian](https://freedns.afraid.org/tools/contact.php?user_id=324578&subject=proprietarul.eu) | 354 days ago (02/06/2025) | 0 |
 | prosmar.com.ar (40 hosts in use) website | private | [rosmarsa](https://freedns.afraid.org/tools/contact.php?user_id=153820&subject=prosmar.com.ar) | 7002 days ago (12/14/2006) | 0 |
 | prosoftgrup.ro (30 hosts in use) website | private | [prosoftbrasov](https://freedns.afraid.org/tools/contact.php?user_id=687871&subject=prosoftgrup.ro) | 5369 days ago (05/03/2011) | 0 |
 | prostitutki.uk (18 hosts in use) website | private | [peterli230](https://freedns.afraid.org/tools/contact.php?user_id=3411750&subject=prostitutki.uk) | 584 days ago (07/04/2024) | 0 |
@@ -14690,7 +14641,7 @@ Total domains: 25241
 | pueblos.org.ve (32 hosts in use) website | public | [94002717](https://freedns.afraid.org/tools/contact.php?user_id=3532979&subject=pueblos.org.ve) | 292 days ago (04/27/2025) | 0 |
 | puellamagi.com (16 hosts in use) website | public | [princessgentoo](https://freedns.afraid.org/tools/contact.php?user_id=5212735&subject=puellamagi.com) | 64 days ago (12/13/2025) | 0 |
 | purestereo.com (15 hosts in use) website | private | [augied](https://freedns.afraid.org/tools/contact.php?user_id=144347&subject=purestereo.com) | 3299 days ago (01/24/2017) | 0 |
-| pusilkom.com (1380 hosts in use) website | private | [pusilkom](https://freedns.afraid.org/tools/contact.php?user_id=996302&subject=pusilkom.com) | 5083 days ago (03/13/2012) | 0 |
+| pusilkom.com (1379 hosts in use) website | private | [pusilkom](https://freedns.afraid.org/tools/contact.php?user_id=996302&subject=pusilkom.com) | 5088 days ago (03/13/2012) | 0 |
 | pvagconsult.ca (14 hosts in use) website | private | [mlapchuk](https://freedns.afraid.org/tools/contact.php?user_id=2505268&subject=pvagconsult.ca) | 787 days ago (12/11/2023) | 0 |
 | pytanie.one.pl (21 hosts in use) website | private | [junkersb](https://freedns.afraid.org/tools/contact.php?user_id=174014&subject=pytanie.one.pl) | 3699 days ago (12/27/2015) | 0 |
 | pyvmariela.com (29 hosts in use) website | private | [pyvmariela](https://freedns.afraid.org/tools/contact.php?user_id=3861640&subject=pyvmariela.com) | 982 days ago (05/09/2023) | 0 |
@@ -14705,7 +14656,7 @@ Total domains: 25241
 | rabbithill.org (29 hosts in use) website | private | [rabbithill](https://freedns.afraid.org/tools/contact.php?user_id=1025650&subject=rabbithill.org) | 5019 days ago (04/17/2012) | 0 |
 | racingmedia.ro (32 hosts in use) website | private | [mike259](https://freedns.afraid.org/tools/contact.php?user_id=1439280&subject=racingmedia.ro) | 4551 days ago (07/29/2013) | 0 |
 | radiodelsur.cl (63 hosts in use) website | public | [djdiaz](https://freedns.afraid.org/tools/contact.php?user_id=1925969&subject=radiodelsur.cl) | 2447 days ago (05/05/2019) | 0 |
-| radix-site.com (36 hosts in use) website | private | [kkehler](https://freedns.afraid.org/tools/contact.php?user_id=422174&subject=radix-site.com) | 6316 days ago (10/29/2008) | 0 |
+| radix-site.com (37 hosts in use) website | private | [kkehler](https://freedns.afraid.org/tools/contact.php?user_id=422174&subject=radix-site.com) | 6319 days ago (10/29/2008) | 0 |
 | raharjo.web.id (26 hosts in use) website | private | [puguhr](https://freedns.afraid.org/tools/contact.php?user_id=532704&subject=raharjo.web.id) | 5939 days ago (11/10/2009) | 0 |
 | railsadmin.com (53 hosts in use) website | private | [sferik](https://freedns.afraid.org/tools/contact.php?user_id=695870&subject=railsadmin.com) | 5471 days ago (02/13/2011) | 0 |
 | railsadmin.org (40 hosts in use) website | private | [sferik](https://freedns.afraid.org/tools/contact.php?user_id=695870&subject=railsadmin.org) | 5477 days ago (02/13/2011) | 0 |
@@ -14760,7 +14711,7 @@ Total domains: 25241
 | retrospectic.us (2 hosts in use) website | private | [anarion](https://freedns.afraid.org/tools/contact.php?user_id=244715&subject=retrospectic.us) | 197 days ago (07/16/2025) | 0 |
 | returno.com.ar (15 hosts in use) website | private | [pejota](https://freedns.afraid.org/tools/contact.php?user_id=629859&subject=returno.com.ar) | 3402 days ago (09/20/2016) | 0 |
 | revitcity.com (127 hosts in use) website | private | [piercedmedia](https://freedns.afraid.org/tools/contact.php?user_id=261147&subject=revitcity.com) | 7015 days ago (12/01/2006) | 0 |
-| rexxyplus.com (102 hosts in use) website | private | [rexxy2481](https://freedns.afraid.org/tools/contact.php?user_id=5075139&subject=rexxyplus.com) | 112 days ago (10/26/2025) | 0 |
+| rexxyplus.com (127 hosts in use) website | private | [rexxy2481](https://freedns.afraid.org/tools/contact.php?user_id=5075139&subject=rexxyplus.com) | 112 days ago (10/26/2025) | 0 |
 | rfcsoft.com.ar (19 hosts in use) website | private | [nandycol](https://freedns.afraid.org/tools/contact.php?user_id=1816557&subject=rfcsoft.com.ar) | 4256 days ago (06/09/2014) | 0 |
 | rfidimport.com (34 hosts in use) website | private | [njdiaz](https://freedns.afraid.org/tools/contact.php?user_id=1470101&subject=rfidimport.com) | 2986 days ago (12/10/2017) | 0 |
 | rguello.com.ar (26 hosts in use) website | private | [garguello](https://freedns.afraid.org/tools/contact.php?user_id=600783&subject=rguello.com.ar) | 5760 days ago (05/06/2010) | 0 |
@@ -14820,7 +14771,7 @@ Total domains: 25241
 | sana-techs.com (14 hosts in use) website | private | [srailey](https://freedns.afraid.org/tools/contact.php?user_id=1837519&subject=sana-techs.com) | 1987 days ago (09/03/2020) | 0 |
 | sandmann-oc.de (30 hosts in use) website | private | [sandmann79](https://freedns.afraid.org/tools/contact.php?user_id=2558926&subject=sandmann-oc.de) | 3656 days ago (02/07/2016) | 0 |
 | sanfoneiro.com (92 hosts in use) website | private | [guido13](https://freedns.afraid.org/tools/contact.php?user_id=785139&subject=sanfoneiro.com) | 5289 days ago (08/12/2011) | 0 |
-| sanfran.com.ar (75 hosts in use) website | public | [rodmdq](https://freedns.afraid.org/tools/contact.php?user_id=285529&subject=sanfran.com.ar) | 3583 days ago (04/22/2016) | 0 |
+| sanfran.com.ar (75 hosts in use) website | public | [rodmdq](https://freedns.afraid.org/tools/contact.php?user_id=285529&subject=sanfran.com.ar) | 3587 days ago (04/22/2016) | 0 |
 | sanguine.space (21 hosts in use) website | public | [aadivip](https://freedns.afraid.org/tools/contact.php?user_id=3571990&subject=sanguine.space) | 2494 days ago (04/19/2019) | 0 |
 | sansoft.com.ar (30 hosts in use) website | private | [etutam](https://freedns.afraid.org/tools/contact.php?user_id=778686&subject=sansoft.com.ar) | 5278 days ago (08/04/2011) | 0 |
 | santafeone.com (10 hosts in use) website | private | [netmansam](https://freedns.afraid.org/tools/contact.php?user_id=799514&subject=santafeone.com) | 2620 days ago (12/10/2018) | 0 |
@@ -14920,7 +14871,7 @@ Total domains: 25241
 | sky-walkers.cl (21 hosts in use) website | private | [dguzman](https://freedns.afraid.org/tools/contact.php?user_id=76542&subject=sky-walkers.cl) | 3204 days ago (04/06/2017) | 0 |
 | skyrise.com.my (20 hosts in use) website | private | [dousan](https://freedns.afraid.org/tools/contact.php?user_id=543846&subject=skyrise.com.my) | 5625 days ago (08/20/2010) | 0 |
 | slabovidni.com (22 hosts in use) website | private | [js674](https://freedns.afraid.org/tools/contact.php?user_id=378115&subject=slabovidni.com) | 6528 days ago (04/01/2008) | 0 |
-| slowfactory.es (57 hosts in use) website | private | [slowbarcelona](https://freedns.afraid.org/tools/contact.php?user_id=4106568&subject=slowfactory.es) | 711 days ago (03/06/2024) | 0 |
+| slowfactory.es (67 hosts in use) website | private | [slowbarcelona](https://freedns.afraid.org/tools/contact.php?user_id=4106568&subject=slowfactory.es) | 712 days ago (03/06/2024) | 0 |
 | sm-alcobaca.pt (30 hosts in use) website | private | [viriat0](https://freedns.afraid.org/tools/contact.php?user_id=1194373&subject=sm-alcobaca.pt) | 4845 days ago (10/08/2012) | 0 |
 | smart-logic.ro (25 hosts in use) website | private | [emanuil](https://freedns.afraid.org/tools/contact.php?user_id=821923&subject=smart-logic.ro) | 4934 days ago (07/13/2012) | 0 |
 | smartbloom.org (19 hosts in use) website | private | [sgey](https://freedns.afraid.org/tools/contact.php?user_id=42883&subject=smartbloom.org) | 4608 days ago (06/26/2013) | 0 |
@@ -14952,7 +14903,7 @@ Total domains: 25241
 | sowosamma.info (28 hosts in use) website | private | [wertemenge](https://freedns.afraid.org/tools/contact.php?user_id=1631207&subject=sowosamma.info) | 3266 days ago (03/04/2017) | 0 |
 | spacejamhd.com (77 hosts in use) website | public | [prestonherrmann](https://freedns.afraid.org/tools/contact.php?user_id=402551&subject=spacejamhd.com) | 703 days ago (03/11/2024) | 0 |
 | spacenaught.us (41 hosts in use) website | public | [origamimaker2000](https://freedns.afraid.org/tools/contact.php?user_id=1431110&subject=spacenaught.us) | 379 days ago (01/22/2025) | 0 |
-| spb-lazurit.ru (35 hosts in use) website | private | [shourick](https://freedns.afraid.org/tools/contact.php?user_id=2716995&subject=spb-lazurit.ru) | 2297 days ago (10/29/2019) | 0 |
+| spb-lazurit.ru (36 hosts in use) website | private | [shourick](https://freedns.afraid.org/tools/contact.php?user_id=2716995&subject=spb-lazurit.ru) | 2302 days ago (10/29/2019) | 0 |
 | spbaral.com.np (19 hosts in use) website | private | [spbaral](https://freedns.afraid.org/tools/contact.php?user_id=1415989&subject=spbaral.com.np) | 4604 days ago (07/09/2013) | 0 |
 | speedinsure.hk (89 hosts in use) website | public | [nekosanlin](https://freedns.afraid.org/tools/contact.php?user_id=705983&subject=speedinsure.hk) | 4898 days ago (09/18/2012) | 0 |
 | speedstats.org (81 hosts in use) website | private | [speedenator](https://freedns.afraid.org/tools/contact.php?user_id=866671&subject=speedstats.org) | 5189 days ago (12/01/2011) | 0 |
@@ -14973,7 +14924,7 @@ Total domains: 25241
 | starcatcher.ca (30 hosts in use) website | private | [jabolio](https://freedns.afraid.org/tools/contact.php?user_id=2487898&subject=starcatcher.ca) | 3687 days ago (12/10/2015) | 0 |
 | starkmanor.com (11 hosts in use) website | public | [mezryn](https://freedns.afraid.org/tools/contact.php?user_id=2793083&subject=starkmanor.com) | 3346 days ago (12/10/2016) | 0 |
 | starmaxtek.com (30 hosts in use) website | private | [alchen888](https://freedns.afraid.org/tools/contact.php?user_id=511492&subject=starmaxtek.com) | 4466 days ago (11/23/2013) | 0 |
-| starscene.com (286 hosts in use) website | public | [oharasha](https://freedns.afraid.org/tools/contact.php?user_id=640389&subject=starscene.com) | 5565 days ago (11/19/2010) | 0 |
+| starscene.com (286 hosts in use) website | public | [oharasha](https://freedns.afraid.org/tools/contact.php?user_id=640389&subject=starscene.com) | 5568 days ago (11/19/2010) | 0 |
 | start-2000.ru (178 hosts in use) website | public | [shellon](https://freedns.afraid.org/tools/contact.php?user_id=733682&subject=start-2000.ru) | 5393 days ago (05/11/2011) | 0 |
 | stcmeurope.com (37 hosts in use) website | private | [silwanyx2](https://freedns.afraid.org/tools/contact.php?user_id=535541&subject=stcmeurope.com) | 6023 days ago (08/18/2009) | 0 |
 | steeldetail.ro (25 hosts in use) website | private | [ferenczmarton](https://freedns.afraid.org/tools/contact.php?user_id=503012&subject=steeldetail.ro) | 5808 days ago (02/18/2010) | 0 |
@@ -15075,7 +15026,7 @@ Total domains: 25241
 | thegoatbot.com (22 hosts in use) website | private | [degrinch](https://freedns.afraid.org/tools/contact.php?user_id=2442371&subject=thegoatbot.com) | 517 days ago (09/04/2024) | 0 |
 | theholdens.us (110 hosts in use) website | public | [tholden11](https://freedns.afraid.org/tools/contact.php?user_id=380036&subject=theholdens.us) | 5054 days ago (04/04/2012) | 0 |
 | themetabay.org (39 hosts in use) website | private | [cron410](https://freedns.afraid.org/tools/contact.php?user_id=1293206&subject=themetabay.org) | 4076 days ago (12/13/2014) | 0 |
-| themound.co.uk (30 hosts in use) website | private | [freddylocks](https://freedns.afraid.org/tools/contact.php?user_id=648731&subject=themound.co.uk) | 5613 days ago (09/27/2010) | 0 |
+| themound.co.uk (30 hosts in use) website | private | [freddylocks](https://freedns.afraid.org/tools/contact.php?user_id=648731&subject=themound.co.uk) | 5621 days ago (09/27/2010) | 0 |
 | thepciguru.com (36 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=thepciguru.com) | 3803 days ago (09/17/2015) | 0 |
 | thequitter.info (8 hosts in use) website | private | [thespork](https://freedns.afraid.org/tools/contact.php?user_id=251293&subject=thequitter.info) | 6072 days ago (06/28/2009) | 0 |
 | thinkdelus.com (19 hosts in use) website | private | [slusiola4](https://freedns.afraid.org/tools/contact.php?user_id=771718&subject=thinkdelus.com) | 387 days ago (01/17/2025) | 0 |
@@ -15152,7 +15103,7 @@ Total domains: 25241
 | ugx-studio.com (38 hosts in use) website | private | [treminaor](https://freedns.afraid.org/tools/contact.php?user_id=603460&subject=ugx-studio.com) | 4414 days ago (01/15/2014) | 0 |
 | ulster-oil.com (10 hosts in use) website | private | [shukilevis](https://freedns.afraid.org/tools/contact.php?user_id=2963822&subject=ulster-oil.com) | 5971 days ago (09/20/2009) | 0 |
 | ultimalabor.se (22 hosts in use) website | private | [ingithor](https://freedns.afraid.org/tools/contact.php?user_id=633397&subject=ultimalabor.se) | 5664 days ago (08/14/2010) | 0 |
-| ultrapanel.us (191 hosts in use) website | public | [aryo0404](https://freedns.afraid.org/tools/contact.php?user_id=701443&subject=ultrapanel.us) | 5168 days ago (12/15/2011) | 0 |
+| ultrapanel.us (191 hosts in use) website | public | [aryo0404](https://freedns.afraid.org/tools/contact.php?user_id=701443&subject=ultrapanel.us) | 5176 days ago (12/15/2011) | 0 |
 | umardia.com.mx (23 hosts in use) website | private | [rupert0](https://freedns.afraid.org/tools/contact.php?user_id=1170579&subject=umardia.com.mx) | 4902 days ago (09/04/2012) | 0 |
 | unblockchat.com (7 hosts in use) website | private | [unblockchat](https://freedns.afraid.org/tools/contact.php?user_id=4255461&subject=unblockchat.com) | 516 days ago (09/13/2024) | 0 |
 | uncensordns.eu (21 hosts in use) website | private | [rydekull](https://freedns.afraid.org/tools/contact.php?user_id=61756&subject=uncensordns.eu) | 5072 days ago (03/23/2012) | 0 |
@@ -15199,7 +15150,7 @@ Total domains: 25241
 | vergeis.com.br (21 hosts in use) website | private | [danielchagasrs](https://freedns.afraid.org/tools/contact.php?user_id=719784&subject=vergeis.com.br) | 2374 days ago (08/16/2019) | 0 |
 | versioning.org (98 hosts in use) website | public | [angstrom](https://freedns.afraid.org/tools/contact.php?user_id=2821292&subject=versioning.org) | 1054 days ago (03/27/2023) | 0 |
 | vertigo.com.au (29 hosts in use) website | private | [stigrichards](https://freedns.afraid.org/tools/contact.php?user_id=726907&subject=vertigo.com.au) | 5397 days ago (04/20/2011) | 0 |
-| vicaaoi.com.ar (32 hosts in use) website | public | [aechercoles](https://freedns.afraid.org/tools/contact.php?user_id=3263221&subject=vicaaoi.com.ar) | 2409 days ago (07/09/2019) | 0 |
+| vicaaoi.com.ar (33 hosts in use) website | public | [aechercoles](https://freedns.afraid.org/tools/contact.php?user_id=3263221&subject=vicaaoi.com.ar) | 2414 days ago (07/09/2019) | 0 |
 | victormurgar.tk (2 hosts in use) website | private | [victormurgar](https://freedns.afraid.org/tools/contact.php?user_id=3390539&subject=victormurgar.tk) | 2089 days ago (05/17/2020) | 0 |
 | video-sport.pl (21 hosts in use) website | private | [jacekas2](https://freedns.afraid.org/tools/contact.php?user_id=405982&subject=video-sport.pl) | 5573 days ago (10/11/2010) | 0 |
 | videocourse.ch (28 hosts in use) website | private | [eribeiro](https://freedns.afraid.org/tools/contact.php?user_id=561035&subject=videocourse.ch) | 5579 days ago (10/05/2010) | 0 |
@@ -15310,7 +15261,7 @@ Total domains: 25241
 | yuanfanghu.net (25 hosts in use) website | private | [huaxia](https://freedns.afraid.org/tools/contact.php?user_id=128886&subject=yuanfanghu.net) | 5249 days ago (08/31/2011) | 0 |
 | yurigoron.com (287 hosts in use) website | private | [ygoron](https://freedns.afraid.org/tools/contact.php?user_id=159262&subject=yurigoron.com) | 7425 days ago (10/16/2005) | 0 |
 | z-imaging.com (178 hosts in use) website | private | [zyloiliuff](https://freedns.afraid.org/tools/contact.php?user_id=824197&subject=z-imaging.com) | 5227 days ago (10/12/2011) | 0 |
-| zacherlkids.com (5 hosts in use) website | private | [njbrown](https://freedns.afraid.org/tools/contact.php?user_id=94650&subject=zacherlkids.com) | 1482 days ago (01/17/2022) | 0 |
+| zacherlkids.com (8 hosts in use) website | private | [njbrown](https://freedns.afraid.org/tools/contact.php?user_id=94650&subject=zacherlkids.com) | 1491 days ago (01/17/2022) | 0 |
 | zacmckenna.com (20 hosts in use) website | private | [havoc0865](https://freedns.afraid.org/tools/contact.php?user_id=4233405&subject=zacmckenna.com) | 536 days ago (08/17/2024) | 0 |
 | zambeezee.com (170 hosts in use) website | public | [rwarren](https://freedns.afraid.org/tools/contact.php?user_id=570275&subject=zambeezee.com) | 5806 days ago (03/23/2010) | 0 |
 | zeleznock.net (289 hosts in use) website | public | [mzeleznock](https://freedns.afraid.org/tools/contact.php?user_id=240241&subject=zeleznock.net) | 7106 days ago (09/01/2006) | 0 |
@@ -15346,7 +15297,7 @@ Total domains: 25241
 | adampoirier.com (50 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=adampoirier.com) | 7664 days ago (02/19/2005) | 0 |
 | adblickagro.com (40 hosts in use) website | private | [herap87](https://freedns.afraid.org/tools/contact.php?user_id=3301525&subject=adblickagro.com) | 834 days ago (10/27/2023) | 0 |
 | adcsapem.com.ar (87 hosts in use) website | public | [ppinetta](https://freedns.afraid.org/tools/contact.php?user_id=2296191&subject=adcsapem.com.ar) | 3922 days ago (05/07/2015) | 0 |
-| adderallogy.com (36 hosts in use) website | private | [diuknykens](https://freedns.afraid.org/tools/contact.php?user_id=2086041&subject=adderallogy.com) | 6244 days ago (01/09/2009) | 0 |
+| adderallogy.com (37 hosts in use) website | private | [diuknykens](https://freedns.afraid.org/tools/contact.php?user_id=2086041&subject=adderallogy.com) | 6246 days ago (01/09/2009) | 0 |
 | adgsoftware.com (79 hosts in use) website | private | [agalasso](https://freedns.afraid.org/tools/contact.php?user_id=1141157&subject=adgsoftware.com) | 4923 days ago (08/10/2012) | 0 |
 | adomainrift.com (31 hosts in use) website | private | [adomainrift](https://freedns.afraid.org/tools/contact.php?user_id=1184387&subject=adomainrift.com) | 1432 days ago (03/11/2022) | 0 |
 | adria-bonus.com (57 hosts in use) website | private | [mankis](https://freedns.afraid.org/tools/contact.php?user_id=1681457&subject=adria-bonus.com) | 4362 days ago (03/05/2014) | 0 |
@@ -15405,8 +15356,8 @@ Total domains: 25241
 | anich-anich.com (82 hosts in use) website | public | [chr911](https://freedns.afraid.org/tools/contact.php?user_id=502297&subject=anich-anich.com) | 5831 days ago (02/16/2010) | 0 |
 | anilkjha.com.np (82 hosts in use) website | public | [98511234](https://freedns.afraid.org/tools/contact.php?user_id=2261833&subject=anilkjha.com.np) | 3773 days ago (10/07/2015) | 0 |
 | animalesenfu.ga (21 hosts in use) website | private | [4w4](https://freedns.afraid.org/tools/contact.php?user_id=3638204&subject=animalesenfu.ga) | 1162 days ago (11/19/2022) | 0 |
-| annabelleku.com (36 hosts in use) website | private | [bannyku](https://freedns.afraid.org/tools/contact.php?user_id=1328750&subject=annabelleku.com) | 4621 days ago (06/09/2013) | 0 |
-| annasalcove.com (36 hosts in use) website | private | [crossan007](https://freedns.afraid.org/tools/contact.php?user_id=2225953&subject=annasalcove.com) | 3806 days ago (09/10/2015) | 0 |
+| annabelleku.com (36 hosts in use) website | private | [bannyku](https://freedns.afraid.org/tools/contact.php?user_id=1328750&subject=annabelleku.com) | 4634 days ago (06/09/2013) | 0 |
+| annasalcove.com (36 hosts in use) website | private | [crossan007](https://freedns.afraid.org/tools/contact.php?user_id=2225953&subject=annasalcove.com) | 3812 days ago (09/10/2015) | 0 |
 | annieandmike.us (27 hosts in use) website | private | [mwiktowy](https://freedns.afraid.org/tools/contact.php?user_id=65826&subject=annieandmike.us) | 5913 days ago (12/03/2009) | 0 |
 | anshumgupta.net (46 hosts in use) website | private | [anshumg](https://freedns.afraid.org/tools/contact.php?user_id=568915&subject=anshumgupta.net) | 5810 days ago (03/19/2010) | 0 |
 | antakshari.com (186 hosts in use) website | public | [deepatel](https://freedns.afraid.org/tools/contact.php?user_id=1389067&subject=antakshari.com) | 4622 days ago (06/18/2013) | 0 |
@@ -15423,12 +15374,12 @@ Total domains: 25241
 | apscreativas.mx (59 hosts in use) website | private | [megaxoid](https://freedns.afraid.org/tools/contact.php?user_id=2031993&subject=apscreativas.mx) | 3466 days ago (07/20/2016) | 0 |
 | apumies-jok.fi (116 hosts in use) website | public | [nimipalvelujok](https://freedns.afraid.org/tools/contact.php?user_id=1691211&subject=apumies-jok.fi) | 4357 days ago (03/13/2014) | 0 |
 | arcticblend.com (28 hosts in use) website | private | [usakoi](https://freedns.afraid.org/tools/contact.php?user_id=2937336&subject=arcticblend.com) | 3066 days ago (09/24/2017) | 0 |
-| arealreason.com (36 hosts in use) website | private | [kresser](https://freedns.afraid.org/tools/contact.php?user_id=520622&subject=arealreason.com) | 5989 days ago (09/21/2009) | 0 |
+| arealreason.com (37 hosts in use) website | private | [kresser](https://freedns.afraid.org/tools/contact.php?user_id=520622&subject=arealreason.com) | 5991 days ago (09/21/2009) | 0 |
 | arianrhod.co.uk (12 hosts in use) website | private | [sidley](https://freedns.afraid.org/tools/contact.php?user_id=2078220&subject=arianrhod.co.uk) | 2060 days ago (06/05/2020) | 0 |
 | ariefcyber.com (170 hosts in use) website | public | [ariefavps](https://freedns.afraid.org/tools/contact.php?user_id=1927966&subject=ariefcyber.com) | 4158 days ago (09/26/2014) | 0 |
 | arifcorp.com.my (28 hosts in use) website | private | [ferdaus](https://freedns.afraid.org/tools/contact.php?user_id=527537&subject=arifcorp.com.my) | 5962 days ago (10/20/2009) | 0 |
 | arismadesign.ch (25 hosts in use) website | private | [arismadesign](https://freedns.afraid.org/tools/contact.php?user_id=1412901&subject=arismadesign.ch) | 4604 days ago (07/06/2013) | 0 |
-| aristajoyas.com (36 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=aristajoyas.com) | 3494 days ago (06/22/2016) | 0 |
+| aristajoyas.com (36 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=aristajoyas.com) | 3525 days ago (06/22/2016) | 0 |
 | arn-consult.com (19 hosts in use) website | private | [yanidzhu](https://freedns.afraid.org/tools/contact.php?user_id=429532&subject=arn-consult.com) | 5509 days ago (01/12/2011) | 0 |
 | arteladecasa.com (6 hosts in use) website | private | [oldrumors](https://freedns.afraid.org/tools/contact.php?user_id=3315572&subject=arteladecasa.com) | 228 days ago (05/30/2025) | 0 |
 | artelnet.com.ar (22 hosts in use) website | private | [dievz72](https://freedns.afraid.org/tools/contact.php?user_id=471635&subject=artelnet.com.ar) | 5228 days ago (10/12/2011) | 0 |
@@ -15444,7 +15395,7 @@ Total domains: 25241
 | astcloudtwo.com (13 hosts in use) website | private | [szttdncn](https://freedns.afraid.org/tools/contact.php?user_id=4190779&subject=astcloudtwo.com) | 576 days ago (07/16/2024) | 0 |
 | asterisk.com.np (21 hosts in use) website | private | [aazaydhakal](https://freedns.afraid.org/tools/contact.php?user_id=3022348&subject=asterisk.com.np) | 2881 days ago (02/23/2018) | 0 |
 | asthaibangla.com (7 hosts in use) website | private | [juari](https://freedns.afraid.org/tools/contact.php?user_id=26333&subject=asthaibangla.com) | 210 days ago (07/17/2025) | 0 |
-| astraltech.org (182 hosts in use) website | public | [mattspulse](https://freedns.afraid.org/tools/contact.php?user_id=2413772&subject=astraltech.org) | 6177 days ago (03/17/2009) | 0 |
+| astraltech.org (183 hosts in use) website | public | [mattspulse](https://freedns.afraid.org/tools/contact.php?user_id=2413772&subject=astraltech.org) | 6180 days ago (03/17/2009) | 0 |
 | asturleonesa.es (36 hosts in use) website | private | [autoprin](https://freedns.afraid.org/tools/contact.php?user_id=1200418&subject=asturleonesa.es) | 4816 days ago (12/04/2012) | 0 |
 | atclandscape.ca (23 hosts in use) website | private | [atclandscape](https://freedns.afraid.org/tools/contact.php?user_id=707681&subject=atclandscape.ca) | 5361 days ago (06/03/2011) | 0 |
 | atelier-krois.de (6 hosts in use) website | private | [snayle](https://freedns.afraid.org/tools/contact.php?user_id=721859&subject=atelier-krois.de) | 234 days ago (06/23/2025) | 0 |
@@ -15467,7 +15418,7 @@ Total domains: 25241
 | awpcomputers.uk (24 hosts in use) website | private | [ashwarp](https://freedns.afraid.org/tools/contact.php?user_id=69880&subject=awpcomputers.uk) | 3851 days ago (06/29/2015) | 0 |
 | axsetubal.pt (24140 hosts in use) website | private | [kosmys](https://freedns.afraid.org/tools/contact.php?user_id=312024&subject=axsetubal.pt) | 6562 days ago (02/27/2008) | 0 |
 | azeroth-wow.com (29 hosts in use) website | private | [ndanzio](https://freedns.afraid.org/tools/contact.php?user_id=549046&subject=azeroth-wow.com) | 4802 days ago (11/28/2012) | 0 |
-| azulnatural.com (36 hosts in use) website | private | [7fk2s0hk](https://freedns.afraid.org/tools/contact.php?user_id=2819963&subject=azulnatural.com) | 3423 days ago (09/13/2016) | 0 |
+| azulnatural.com (36 hosts in use) website | private | [7fk2s0hk](https://freedns.afraid.org/tools/contact.php?user_id=2819963&subject=azulnatural.com) | 3442 days ago (09/13/2016) | 0 |
 | babes-bolyai.eu (22 hosts in use) website | private | [chispaul](https://freedns.afraid.org/tools/contact.php?user_id=459763&subject=babes-bolyai.eu) | 4796 days ago (11/26/2012) | 0 |
 | bad-domain.info (71 hosts in use) website | public | [ossymoon](https://freedns.afraid.org/tools/contact.php?user_id=2957407&subject=bad-domain.info) | 3013 days ago (11/12/2017) | 0 |
 | baechipower.com (22 hosts in use) website | private | [dbaechi](https://freedns.afraid.org/tools/contact.php?user_id=2504184&subject=baechipower.com) | 3283 days ago (02/13/2017) | 0 |
@@ -15475,18 +15426,18 @@ Total domains: 25241
 | baldsparrow.com (27 hosts in use) website | private | [baldsparrow](https://freedns.afraid.org/tools/contact.php?user_id=2623515&subject=baldsparrow.com) | 573 days ago (07/20/2024) | 0 |
 | baldwingroup.biz (2 hosts in use) website | private | [filogrire1983](https://freedns.afraid.org/tools/contact.php?user_id=2024619&subject=baldwingroup.biz) | 4062 days ago (11/30/2014) | 0 |
 | bamatheatre.com (39 hosts in use) website | private | [provdev](https://freedns.afraid.org/tools/contact.php?user_id=431609&subject=bamatheatre.com) | 5293 days ago (08/17/2011) | 0 |
-| bandunglife.net (26 hosts in use) website | private | [robersona](https://freedns.afraid.org/tools/contact.php?user_id=4062464&subject=bandunglife.net) | 721 days ago (01/25/2024) | 0 |
+| bandunglife.net (27 hosts in use) website | private | [robersona](https://freedns.afraid.org/tools/contact.php?user_id=4062464&subject=bandunglife.net) | 752 days ago (01/25/2024) | 0 |
 | banquete.com.mx (75 hosts in use) website | public | [gcarrillog](https://freedns.afraid.org/tools/contact.php?user_id=2538316&subject=banquete.com.mx) | 3272 days ago (03/02/2017) | 0 |
 | barabesta.is (21731 hosts in use) website | public | [oseice](https://freedns.afraid.org/tools/contact.php?user_id=4361091&subject=barabesta.is) | 292 days ago (04/29/2025) | 0 |
 | barellagirl.com (31 hosts in use) website | private | [wwiii](https://freedns.afraid.org/tools/contact.php?user_id=450809&subject=barellagirl.com) | 4253 days ago (06/02/2014) | 0 |
 | barenghi.com.ar (37 hosts in use) website | private | [elgroso](https://freedns.afraid.org/tools/contact.php?user_id=299775&subject=barenghi.com.ar) | 6857 days ago (05/09/2007) | 0 |
 | barterbroker.ru (17 hosts in use) website | private | [chugun](https://freedns.afraid.org/tools/contact.php?user_id=2578199&subject=barterbroker.ru) | 1030 days ago (03/22/2023) | 0 |
 | bartlondon.com (154 hosts in use) website | public | [bplondon](https://freedns.afraid.org/tools/contact.php?user_id=2252997&subject=bartlondon.com) | 3971 days ago (04/01/2015) | 0 |
-| baselinux.net (1441 hosts in use) website | public | [franmiro](https://freedns.afraid.org/tools/contact.php?user_id=156707&subject=baselinux.net) | 7438 days ago (10/05/2005) | 0 |
+| baselinux.net (1444 hosts in use) website | public | [franmiro](https://freedns.afraid.org/tools/contact.php?user_id=156707&subject=baselinux.net) | 7439 days ago (10/05/2005) | 0 |
 | basteiro.com.ar (26 hosts in use) website | private | [ferny1987](https://freedns.afraid.org/tools/contact.php?user_id=1649288&subject=basteiro.com.ar) | 4397 days ago (01/25/2014) | 0 |
 | baublebabes.com (11 hosts in use) website | private | [bivman](https://freedns.afraid.org/tools/contact.php?user_id=248940&subject=baublebabes.com) | 4526 days ago (08/23/2013) | 0 |
 | baumgardner.us (215 hosts in use) website | public | [baumgaft](https://freedns.afraid.org/tools/contact.php?user_id=4185187&subject=baumgardner.us) | 609 days ago (06/11/2024) | 0 |
-| baxterspace.com (36 hosts in use) website | private | [baxterspace](https://freedns.afraid.org/tools/contact.php?user_id=1217732&subject=baxterspace.com) | 4813 days ago (11/10/2012) | 0 |
+| baxterspace.com (37 hosts in use) website | private | [baxterspace](https://freedns.afraid.org/tools/contact.php?user_id=1217732&subject=baxterspace.com) | 4845 days ago (11/10/2012) | 0 |
 | bazzawill.info (104 hosts in use) website | public | [bazzawill](https://freedns.afraid.org/tools/contact.php?user_id=1435449&subject=bazzawill.info) | 4587 days ago (07/26/2013) | 0 |
 | bbbholdings.com (28 hosts in use) website | private | [vanbladi](https://freedns.afraid.org/tools/contact.php?user_id=625102&subject=bbbholdings.com) | 3410 days ago (10/15/2016) | 0 |
 | bbksdajatim.org (42 hosts in use) website | private | [tjiremai](https://freedns.afraid.org/tools/contact.php?user_id=198296&subject=bbksdajatim.org) | 5650 days ago (08/23/2010) | 0 |
@@ -15494,7 +15445,7 @@ Total domains: 25241
 | beachlifeusa.com (8 hosts in use) website | private | [rstunlimited](https://freedns.afraid.org/tools/contact.php?user_id=3158164&subject=beachlifeusa.com) | 2479 days ago (05/01/2019) | 0 |
 | beaconjuice.com (21 hosts in use) website | private | [kblibr](https://freedns.afraid.org/tools/contact.php?user_id=413514&subject=beaconjuice.com) | 3901 days ago (06/03/2015) | 0 |
 | beefmaker.com.ar (2 hosts in use) website | private | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=beefmaker.com.ar) | 2603 days ago (11/28/2018) | 0 |
-| beekerworld.com (36 hosts in use) website | private | [beekerc](https://freedns.afraid.org/tools/contact.php?user_id=31466&subject=beekerworld.com) | 8275 days ago (06/18/2003) | 0 |
+| beekerworld.com (36 hosts in use) website | private | [beekerc](https://freedns.afraid.org/tools/contact.php?user_id=31466&subject=beekerworld.com) | 8278 days ago (06/18/2003) | 0 |
 | beekerworld.net (10 hosts in use) website | private | [beekerc](https://freedns.afraid.org/tools/contact.php?user_id=31466&subject=beekerworld.net) | 3156 days ago (06/22/2017) | 0 |
 | beekerworld.org (14 hosts in use) website | private | [beekerc](https://freedns.afraid.org/tools/contact.php?user_id=31466&subject=beekerworld.org) | 3159 days ago (06/22/2017) | 0 |
 | bellamar.com.ar (36 hosts in use) website | private | [jcanusso](https://freedns.afraid.org/tools/contact.php?user_id=489162&subject=bellamar.com.ar) | 6095 days ago (06/09/2009) | 0 |
@@ -15523,7 +15474,7 @@ Total domains: 25241
 | biokomputiko.de (46 hosts in use) website | private | [trollbrot](https://freedns.afraid.org/tools/contact.php?user_id=2100838&subject=biokomputiko.de) | 4014 days ago (01/23/2015) | 0 |
 | birchmeier.org (110 hosts in use) website | public | [coderb](https://freedns.afraid.org/tools/contact.php?user_id=1553573&subject=birchmeier.org) | 3518 days ago (06/25/2016) | 0 |
 | bizzbooks.co.za (21 hosts in use) website | private | [sarelboshoff](https://freedns.afraid.org/tools/contact.php?user_id=655325&subject=bizzbooks.co.za) | 611 days ago (06/11/2024) | 0 |
-| blacksmitch.com (36 hosts in use) website | private | [ericfalkenberg](https://freedns.afraid.org/tools/contact.php?user_id=1316230&subject=blacksmitch.com) | 4706 days ago (03/24/2013) | 0 |
+| blacksmitch.com (35 hosts in use) website | private | [ericfalkenberg](https://freedns.afraid.org/tools/contact.php?user_id=1316230&subject=blacksmitch.com) | 4711 days ago (03/24/2013) | 0 |
 | blameitonben.com (8 hosts in use) website | private | [blameitonben](https://freedns.afraid.org/tools/contact.php?user_id=3773447&subject=blameitonben.com) | 728 days ago (01/16/2024) | 0 |
 | blauerbecher.de (43 hosts in use) website | private | [roterbecher](https://freedns.afraid.org/tools/contact.php?user_id=1744054&subject=blauerbecher.de) | 4308 days ago (04/20/2014) | 0 |
 | bleuvanille.com (57 hosts in use) website | private | [bbernard](https://freedns.afraid.org/tools/contact.php?user_id=450676&subject=bleuvanille.com) | 6242 days ago (01/11/2009) | 0 |
@@ -15545,8 +15496,8 @@ Total domains: 25241
 | bosqueurbano.ar (23 hosts in use) website | public | [juanhueso](https://freedns.afraid.org/tools/contact.php?user_id=3696400&subject=bosqueurbano.ar) | 116 days ago (09/19/2025) | 0 |
 | bossertcloud.de (53 hosts in use) website | private | [andybossert](https://freedns.afraid.org/tools/contact.php?user_id=1450900&subject=bossertcloud.de) | 225 days ago (07/05/2025) | 0 |
 | bossertcloud.eu (18 hosts in use) website | private | [andybossert](https://freedns.afraid.org/tools/contact.php?user_id=1450900&subject=bossertcloud.eu) | 1967 days ago (09/24/2020) | 0 |
-| boxathome.net (1171 hosts in use) website | public | [malamothe](https://freedns.afraid.org/tools/contact.php?user_id=1388141&subject=boxathome.net) | 4634 days ago (06/09/2013) | 0 |
-| braceiro.com.br (36 hosts in use) website | private | [sidneyhaddad](https://freedns.afraid.org/tools/contact.php?user_id=307384&subject=braceiro.com.br) | 6477 days ago (05/11/2008) | 0 |
+| boxathome.net (1170 hosts in use) website | public | [malamothe](https://freedns.afraid.org/tools/contact.php?user_id=1388141&subject=boxathome.net) | 4635 days ago (06/09/2013) | 0 |
+| braceiro.com.br (37 hosts in use) website | private | [sidneyhaddad](https://freedns.afraid.org/tools/contact.php?user_id=307384&subject=braceiro.com.br) | 6489 days ago (05/11/2008) | 0 |
 | bradmorrison.ca (18 hosts in use) website | private | [bradmorrison](https://freedns.afraid.org/tools/contact.php?user_id=256131&subject=bradmorrison.ca) | 4659 days ago (05/05/2013) | 0 |
 | braginskiy.net (161 hosts in use) website | public | [igorbraginskiy](https://freedns.afraid.org/tools/contact.php?user_id=1473499&subject=braginskiy.net) | 4518 days ago (08/31/2013) | 0 |
 | brainsop.com.ar (24 hosts in use) website | private | [brainsop](https://freedns.afraid.org/tools/contact.php?user_id=189661&subject=brainsop.com.ar) | 5249 days ago (09/02/2011) | 0 |
@@ -15573,7 +15524,7 @@ Total domains: 25241
 | busy-mail.co.uk (36 hosts in use) website | private | [amerwe4](https://freedns.afraid.org/tools/contact.php?user_id=238429&subject=busy-mail.co.uk) | 5665 days ago (08/03/2010) | 0 |
 | butlerfamily.ca (31 hosts in use) website | private | [davebdns](https://freedns.afraid.org/tools/contact.php?user_id=548530&subject=butlerfamily.ca) | 5594 days ago (10/13/2010) | 0 |
 | butterstream.net (3 hosts in use) website | private | [teamtao](https://freedns.afraid.org/tools/contact.php?user_id=472272&subject=butterstream.net) | 579 days ago (07/13/2024) | 0 |
-| byte4byte.com (1514 hosts in use) website | private | [pherlihy](https://freedns.afraid.org/tools/contact.php?user_id=98453&subject=byte4byte.com) | 7780 days ago (10/27/2004) | 0 |
+| byte4byte.com (1514 hosts in use) website | private | [pherlihy](https://freedns.afraid.org/tools/contact.php?user_id=98453&subject=byte4byte.com) | 7782 days ago (10/27/2004) | 0 |
 | bytesnbikes.com (40 hosts in use) website | private | [aisling](https://freedns.afraid.org/tools/contact.php?user_id=322511&subject=bytesnbikes.com) | 5541 days ago (11/18/2010) | 0 |
 | caillava.com.ar (33 hosts in use) website | private | [bransh](https://freedns.afraid.org/tools/contact.php?user_id=117176&subject=caillava.com.ar) | 5558 days ago (11/28/2010) | 0 |
 | cameronbaby.com (33 hosts in use) website | private | [ccoyne](https://freedns.afraid.org/tools/contact.php?user_id=243504&subject=cameronbaby.com) | 5444 days ago (03/19/2011) | 0 |
@@ -15630,7 +15581,7 @@ Total domains: 25241
 | chrispark.co.uk (23 hosts in use) website | private | [chrisrpark](https://freedns.afraid.org/tools/contact.php?user_id=559466&subject=chrispark.co.uk) | 5842 days ago (02/15/2010) | 0 |
 | christracy.rocks (6 hosts in use) website | private | [chirchor](https://freedns.afraid.org/tools/contact.php?user_id=730409&subject=christracy.rocks) | 263 days ago (05/24/2025) | 0 |
 | churchstreet.xyz (2 hosts in use) website | private | [ali47](https://freedns.afraid.org/tools/contact.php?user_id=477952&subject=churchstreet.xyz) | 1942 days ago (10/20/2020) | 0 |
-| cinechat.com.ar (28 hosts in use) website | private | [axelbrz](https://freedns.afraid.org/tools/contact.php?user_id=1180233&subject=cinechat.com.ar) | 4895 days ago (09/18/2012) | 0 |
+| cinechat.com.ar (29 hosts in use) website | private | [axelbrz](https://freedns.afraid.org/tools/contact.php?user_id=1180233&subject=cinechat.com.ar) | 4899 days ago (09/18/2012) | 0 |
 | circodaparro.be (40 hosts in use) website | private | [tollebol](https://freedns.afraid.org/tools/contact.php?user_id=544782&subject=circodaparro.be) | 5891 days ago (12/28/2009) | 0 |
 | cirrusapart.com (47 hosts in use) website | private | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=cirrusapart.com) | 4708 days ago (03/25/2013) | 0 |
 | citizensdns.com (35 hosts in use) website | private | [citizen25](https://freedns.afraid.org/tools/contact.php?user_id=1259138&subject=citizensdns.com) | 4788 days ago (01/01/2013) | 0 |
@@ -15666,7 +15617,7 @@ Total domains: 25241
 | comlinks.com.au (18 hosts in use) website | private | [comlinkit](https://freedns.afraid.org/tools/contact.php?user_id=1898638&subject=comlinks.com.au) | 3997 days ago (03/08/2015) | 0 |
 | commonhuman.net (30 hosts in use) website | private | [conradbf](https://freedns.afraid.org/tools/contact.php?user_id=872528&subject=commonhuman.net) | 4652 days ago (05/22/2013) | 0 |
 | componetech.com (26 hosts in use) website | private | [roylam](https://freedns.afraid.org/tools/contact.php?user_id=549329&subject=componetech.com) | 5876 days ago (01/12/2010) | 0 |
-| compuinter.com (546 hosts in use) website | public | [marbelaez26](https://freedns.afraid.org/tools/contact.php?user_id=228759&subject=compuinter.com) | 7154 days ago (07/16/2006) | 0 |
+| compuinter.com (547 hosts in use) website | public | [marbelaez26](https://freedns.afraid.org/tools/contact.php?user_id=228759&subject=compuinter.com) | 7155 days ago (07/16/2006) | 0 |
 | comunidadesa.cl (36 hosts in use) website | public | [comiteesa](https://freedns.afraid.org/tools/contact.php?user_id=3816069&subject=comunidadesa.cl) | 1096 days ago (02/15/2023) | 0 |
 | concordiasae.ca (49 hosts in use) website | private | [vpit](https://freedns.afraid.org/tools/contact.php?user_id=3447300&subject=concordiasae.ca) | 1995 days ago (08/30/2020) | 0 |
 | confabulary.com (31 hosts in use) website | private | [badiane](https://freedns.afraid.org/tools/contact.php?user_id=1130355&subject=confabulary.com) | 4912 days ago (08/02/2012) | 0 |
@@ -15696,13 +15647,14 @@ Total domains: 25241
 | crushsoccer.net (40 hosts in use) website | private | [aeast](https://freedns.afraid.org/tools/contact.php?user_id=200187&subject=crushsoccer.net) | 5723 days ago (06/16/2010) | 0 |
 | crystalfontz.hk (28 hosts in use) website | private | [crystalfontz](https://freedns.afraid.org/tools/contact.php?user_id=491388&subject=crystalfontz.hk) | 6099 days ago (06/03/2009) | 0 |
 | csaba-zvekan.ch (11 hosts in use) website | public | [csabi911](https://freedns.afraid.org/tools/contact.php?user_id=429253&subject=csaba-zvekan.ch) | 2459 days ago (05/24/2019) | 0 |
-| csproject.org (3163 hosts in use) website | public | [yngling](https://freedns.afraid.org/tools/contact.php?user_id=115801&subject=csproject.org) | 7328 days ago (01/23/2006) | 0 |
+| csproject.org (3163 hosts in use) website | public | [yngling](https://freedns.afraid.org/tools/contact.php?user_id=115801&subject=csproject.org) | 7329 days ago (01/23/2006) | 0 |
 | ctrlalt-code.com (5 hosts in use) website | private | [robin30](https://freedns.afraid.org/tools/contact.php?user_id=924443&subject=ctrlalt-code.com) | 134 days ago (09/11/2025) | 0 |
 | cuantico.com.ar (27 hosts in use) website | private | [dgrinovero](https://freedns.afraid.org/tools/contact.php?user_id=1614351&subject=cuantico.com.ar) | 3186 days ago (05/20/2017) | 0 |
 | cuntari.com.ar (127 hosts in use) website | public | [alienduce](https://freedns.afraid.org/tools/contact.php?user_id=607565&subject=cuntari.com.ar) | 5831 days ago (02/26/2010) | 0 |
 | customiseta.com (15 hosts in use) website | private | [pnaves](https://freedns.afraid.org/tools/contact.php?user_id=626715&subject=customiseta.com) | 461 days ago (11/09/2024) | 0 |
 | custompolis.com (43 hosts in use) website | private | [intellixfact](https://freedns.afraid.org/tools/contact.php?user_id=806206&subject=custompolis.com) | 5241 days ago (09/10/2011) | 0 |
 | cvenetto.com.ar (15 hosts in use) website | private | [akassimatis](https://freedns.afraid.org/tools/contact.php?user_id=119508&subject=cvenetto.com.ar) | 4258 days ago (06/17/2014) | 0 |
+| cybermadmen.com (10 hosts in use) website | private | [senjanin](https://freedns.afraid.org/tools/contact.php?user_id=901743&subject=cybermadmen.com) | 4821 days ago (12/05/2012) | 0 |
 | cygbornetwork.cl (3 hosts in use) website | private | [darthseba](https://freedns.afraid.org/tools/contact.php?user_id=3615243&subject=cygbornetwork.cl) | 88 days ago (10/17/2025) | 0 |
 | cyrusfusion.org (10 hosts in use) website | private | [gnubox](https://freedns.afraid.org/tools/contact.php?user_id=3317788&subject=cyrusfusion.org) | 401 days ago (01/04/2025) | 0 |
 | dadasoft.com.mx (23 hosts in use) website | private | [blithermx](https://freedns.afraid.org/tools/contact.php?user_id=754137&subject=dadasoft.com.mx) | 5337 days ago (06/27/2011) | 0 |
@@ -15727,7 +15679,7 @@ Total domains: 25241
 | datquehuong.com (11 hosts in use) website | private | [damiensawyer](https://freedns.afraid.org/tools/contact.php?user_id=620870&subject=datquehuong.com) | 369 days ago (01/29/2025) | 0 |
 | davehensley.net (37 hosts in use) website | private | [dhensley](https://freedns.afraid.org/tools/contact.php?user_id=5367&subject=davehensley.net) | 8043 days ago (02/08/2004) | 0 |
 | davespicer.co.uk (6 hosts in use) website | private | [blueday2day](https://freedns.afraid.org/tools/contact.php?user_id=2359001&subject=davespicer.co.uk) | 2440 days ago (05/10/2019) | 0 |
-| davidkerr.co.uk (43 hosts in use) website | private | [dkerr](https://freedns.afraid.org/tools/contact.php?user_id=446346&subject=davidkerr.co.uk) | 2463 days ago (05/19/2019) | 0 |
+| davidkerr.co.uk (42 hosts in use) website | private | [dkerr](https://freedns.afraid.org/tools/contact.php?user_id=446346&subject=davidkerr.co.uk) | 2465 days ago (05/19/2019) | 0 |
 | davidmcorn.com (348 hosts in use) website | public | [slimsoldier](https://freedns.afraid.org/tools/contact.php?user_id=508380&subject=davidmcorn.com) | 6039 days ago (08/03/2009) | 0 |
 | davidrobins.com (26 hosts in use) website | private | [dbrobins](https://freedns.afraid.org/tools/contact.php?user_id=855124&subject=davidrobins.com) | 5100 days ago (02/26/2012) | 0 |
 | davidrobins.net (27 hosts in use) website | private | [dbrobins](https://freedns.afraid.org/tools/contact.php?user_id=855124&subject=davidrobins.net) | 5101 days ago (02/26/2012) | 0 |
@@ -15808,7 +15760,7 @@ Total domains: 25241
 | echinese.com.au (32 hosts in use) website | private | [rwangx](https://freedns.afraid.org/tools/contact.php?user_id=1238864&subject=echinese.com.au) | 4805 days ago (12/02/2012) | 0 |
 | ecseng-drc.com (129 hosts in use) website | public | [bpolombwe](https://freedns.afraid.org/tools/contact.php?user_id=1033108&subject=ecseng-drc.com) | 2450 days ago (05/29/2019) | 0 |
 | eddieknight.com (26 hosts in use) website | private | [eddieknight](https://freedns.afraid.org/tools/contact.php?user_id=3135191&subject=eddieknight.com) | 2597 days ago (01/03/2019) | 0 |
-| edebolegacy.com (35 hosts in use) website | private | [filatei](https://freedns.afraid.org/tools/contact.php?user_id=1221681&subject=edebolegacy.com) | 1055 days ago (03/23/2023) | 0 |
+| edebolegacy.com (35 hosts in use) website | private | [filatei](https://freedns.afraid.org/tools/contact.php?user_id=1221681&subject=edebolegacy.com) | 1061 days ago (03/23/2023) | 0 |
 | eeveefriends.jp (16 hosts in use) website | private | [shaymin492sky](https://freedns.afraid.org/tools/contact.php?user_id=3092309&subject=eeveefriends.jp) | 2720 days ago (09/03/2018) | 0 |
 | egocentrique.ro (11 hosts in use) website | private | [rareshornet](https://freedns.afraid.org/tools/contact.php?user_id=1298740&subject=egocentrique.ro) | 4698 days ago (03/04/2013) | 0 |
 | eici-france.com (10 hosts in use) website | private | [ainax](https://freedns.afraid.org/tools/contact.php?user_id=2523948&subject=eici-france.com) | 2761 days ago (06/23/2018) | 0 |
@@ -15853,7 +15805,7 @@ Total domains: 25241
 | etlhelpdesk.com (58 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=etlhelpdesk.com) | 7783 days ago (10/24/2004) | 0 |
 | eurolink.com.np (26 hosts in use) website | private | [herezhem](https://freedns.afraid.org/tools/contact.php?user_id=1676126&subject=eurolink.com.np) | 3460 days ago (08/15/2016) | 0 |
 | europeserv.org (135 hosts in use) website | public | [kicsim85](https://freedns.afraid.org/tools/contact.php?user_id=1258747&subject=europeserv.org) | 4321 days ago (04/16/2014) | 0 |
-| ewanbrown.co.uk (29 hosts in use) website | private | [highlightswitch](https://freedns.afraid.org/tools/contact.php?user_id=3326853&subject=ewanbrown.co.uk) | 2283 days ago (11/10/2019) | 0 |
+| ewanbrown.co.uk (29 hosts in use) website | private | [highlightswitch](https://freedns.afraid.org/tools/contact.php?user_id=3326853&subject=ewanbrown.co.uk) | 2290 days ago (11/10/2019) | 0 |
 | excavaciones.ar (23 hosts in use) website | private | [oevidns2](https://freedns.afraid.org/tools/contact.php?user_id=1234518&subject=excavaciones.ar) | 1008 days ago (04/25/2023) | 0 |
 | exceptalyze.com (37 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=exceptalyze.com) | 1188 days ago (11/07/2022) | 0 |
 | exotrade.com.ar (64 hosts in use) website | private | [robledomarcos](https://freedns.afraid.org/tools/contact.php?user_id=1236318&subject=exotrade.com.ar) | 3576 days ago (03/31/2016) | 0 |
@@ -15904,7 +15856,7 @@ Total domains: 25241
 | fondantymas.com (30 hosts in use) website | private | [hasdpk](https://freedns.afraid.org/tools/contact.php?user_id=747545&subject=fondantymas.com) | 4917 days ago (08/19/2012) | 0 |
 | fontdrvhost.com (16 hosts in use) website | private | [steavenjob](https://freedns.afraid.org/tools/contact.php?user_id=4096937&subject=fontdrvhost.com) | 715 days ago (02/26/2024) | 0 |
 | forensiclab.net (36 hosts in use) website | private | [mpepe](https://freedns.afraid.org/tools/contact.php?user_id=863894&subject=forensiclab.net) | 5183 days ago (11/27/2011) | 0 |
-| forenza.com.br (110 hosts in use) website | public | [fforenza](https://freedns.afraid.org/tools/contact.php?user_id=463953&subject=forenza.com.br) | 6204 days ago (02/20/2009) | 0 |
+| forenza.com.br (110 hosts in use) website | public | [fforenza](https://freedns.afraid.org/tools/contact.php?user_id=463953&subject=forenza.com.br) | 6205 days ago (02/20/2009) | 0 |
 | forever-20.com (190 hosts in use) website | public | [kytsui](https://freedns.afraid.org/tools/contact.php?user_id=285118&subject=forever-20.com) | 4286 days ago (05/21/2014) | 0 |
 | foreverdance.ch (10 hosts in use) website | private | [elzecool](https://freedns.afraid.org/tools/contact.php?user_id=485268&subject=foreverdance.ch) | 3806 days ago (08/13/2015) | 0 |
 | fortianencs.cat (23 hosts in use) website | private | [beatus](https://freedns.afraid.org/tools/contact.php?user_id=307753&subject=fortianencs.cat) | 1071 days ago (03/09/2023) | 0 |
@@ -15950,8 +15902,8 @@ Total domains: 25241
 | gcpservicios.cl (14 hosts in use) website | public | [raguero](https://freedns.afraid.org/tools/contact.php?user_id=1469744&subject=gcpservicios.cl) | 2635 days ago (11/21/2018) | 0 |
 | gcranjit.com.np (21 hosts in use) website | private | [ranjitgc](https://freedns.afraid.org/tools/contact.php?user_id=1711809&subject=gcranjit.com.np) | 4337 days ago (03/30/2014) | 0 |
 | gearenergy.com (111 hosts in use) website | private | [gearenergy](https://freedns.afraid.org/tools/contact.php?user_id=1168295&subject=gearenergy.com) | 4907 days ago (09/01/2012) | 0 |
-| geavinos.com.ar (79 hosts in use) website | public | [malbec](https://freedns.afraid.org/tools/contact.php?user_id=694188&subject=geavinos.com.ar) | 3573 days ago (04/22/2016) | 0 |
-| geobattery.com (390 hosts in use) website | public | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=geobattery.com) | 6487 days ago (05/11/2008) | 0 |
+| geavinos.com.ar (79 hosts in use) website | public | [malbec](https://freedns.afraid.org/tools/contact.php?user_id=694188&subject=geavinos.com.ar) | 3587 days ago (04/22/2016) | 0 |
+| geobattery.com (391 hosts in use) website | public | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=geobattery.com) | 6490 days ago (05/11/2008) | 0 |
 | gepsapets.com.ar (5 hosts in use) website | public | [gepsa](https://freedns.afraid.org/tools/contact.php?user_id=3096820&subject=gepsapets.com.ar) | 2627 days ago (11/28/2018) | 0 |
 | gestocultura.cl (67 hosts in use) website | public | [gestocultura](https://freedns.afraid.org/tools/contact.php?user_id=2913590&subject=gestocultura.cl) | 3090 days ago (07/29/2017) | 0 |
 | get18percent.com (4 hosts in use) website | private | [sdspivey](https://freedns.afraid.org/tools/contact.php?user_id=786767&subject=get18percent.com) | 1270 days ago (08/21/2022) | 0 |
@@ -16011,7 +15963,7 @@ Total domains: 25241
 | gurusofcode.com (22 hosts in use) website | private | [merrick3](https://freedns.afraid.org/tools/contact.php?user_id=642561&subject=gurusofcode.com) | 1733 days ago (05/12/2021) | 0 |
 | gustavok.com.ar (26 hosts in use) website | private | [viyu42](https://freedns.afraid.org/tools/contact.php?user_id=92873&subject=gustavok.com.ar) | 7044 days ago (11/01/2006) | 0 |
 | gviegas.com.br (105 hosts in use) website | public | [gviegas](https://freedns.afraid.org/tools/contact.php?user_id=673917&subject=gviegas.com.br) | 5533 days ago (12/15/2010) | 0 |
-| habertahkik.com (35 hosts in use) website | private | [mcenkhan](https://freedns.afraid.org/tools/contact.php?user_id=790125&subject=habertahkik.com) | 5292 days ago (08/18/2011) | 0 |
+| habertahkik.com (35 hosts in use) website | private | [mcenkhan](https://freedns.afraid.org/tools/contact.php?user_id=790125&subject=habertahkik.com) | 5296 days ago (08/18/2011) | 0 |
 | habibahcake.com (37 hosts in use) website | private | [hbcake](https://freedns.afraid.org/tools/contact.php?user_id=2797572&subject=habibahcake.com) | 3330 days ago (12/19/2016) | 0 |
 | hackerzinc.com (143 hosts in use) website | private | [hackerzinc](https://freedns.afraid.org/tools/contact.php?user_id=422134&subject=hackerzinc.com) | 6355 days ago (09/14/2008) | 0 |
 | hackquest.com (1868 hosts in use) website | public | [skyflash](https://freedns.afraid.org/tools/contact.php?user_id=71881&subject=hackquest.com) | 7854 days ago (08/14/2004) | 0 |
@@ -16034,7 +15986,7 @@ Total domains: 25241
 | heartandcog.com (26 hosts in use) website | private | [rickatech](https://freedns.afraid.org/tools/contact.php?user_id=754186&subject=heartandcog.com) | 3944 days ago (04/30/2015) | 0 |
 | hearthis.org.uk (23 hosts in use) website | private | [morphsta](https://freedns.afraid.org/tools/contact.php?user_id=12488&subject=hearthis.org.uk) | 6386 days ago (08/19/2008) | 0 |
 | heartsleeve.net (32 hosts in use) website | private | [johnericdavis](https://freedns.afraid.org/tools/contact.php?user_id=495528&subject=heartsleeve.net) | 5271 days ago (09/08/2011) | 0 |
-| heatmypool.com (319 hosts in use) website | public | [jazzie](https://freedns.afraid.org/tools/contact.php?user_id=828480&subject=heatmypool.com) | 4668 days ago (05/03/2013) | 0 |
+| heatmypool.com (321 hosts in use) website | public | [jazzie](https://freedns.afraid.org/tools/contact.php?user_id=828480&subject=heatmypool.com) | 4672 days ago (05/03/2013) | 0 |
 | heliumcola.com (158 hosts in use) website | public | [bfinney](https://freedns.afraid.org/tools/contact.php?user_id=567772&subject=heliumcola.com) | 5814 days ago (03/15/2010) | 0 |
 | hemis-ferios.com (6 hosts in use) website | private | [namerdomain](https://freedns.afraid.org/tools/contact.php?user_id=3113003&subject=hemis-ferios.com) | 2564 days ago (01/06/2019) | 0 |
 | henstock.nom.za (24 hosts in use) website | private | [webtricity](https://freedns.afraid.org/tools/contact.php?user_id=1166193&subject=henstock.nom.za) | 2426 days ago (06/23/2019) | 0 |
@@ -16059,7 +16011,7 @@ Total domains: 25241
 | hometodaddy.net (17 hosts in use) website | private | [dbrobins](https://freedns.afraid.org/tools/contact.php?user_id=855124&subject=hometodaddy.net) | 1837 days ago (02/02/2021) | 0 |
 | hometodaddy.org (15 hosts in use) website | private | [dbrobins](https://freedns.afraid.org/tools/contact.php?user_id=855124&subject=hometodaddy.org) | 1833 days ago (02/02/2021) | 0 |
 | honeyflower.net (34 hosts in use) website | private | [eugeneh](https://freedns.afraid.org/tools/contact.php?user_id=468873&subject=honeyflower.net) | 6174 days ago (03/18/2009) | 0 |
-| hornburst.com (1341 hosts in use) website | private | [lmat](https://freedns.afraid.org/tools/contact.php?user_id=1871464&subject=hornburst.com) | 330 days ago (03/21/2025) | 0 |
+| hornburst.com (1341 hosts in use) website | private | [lmat](https://freedns.afraid.org/tools/contact.php?user_id=1871464&subject=hornburst.com) | 332 days ago (03/21/2025) | 0 |
 | hospitalmay.com (82 hosts in use) website | private | [ralpuchev](https://freedns.afraid.org/tools/contact.php?user_id=1150500&subject=hospitalmay.com) | 4631 days ago (06/09/2013) | 0 |
 | hotbabychevy.com (6 hosts in use) website | private | [agentsparrow](https://freedns.afraid.org/tools/contact.php?user_id=630455&subject=hotbabychevy.com) | 5563 days ago (10/21/2010) | 0 |
 | hotboobjobs.com (33 hosts in use) website | private | [webmgizmo](https://freedns.afraid.org/tools/contact.php?user_id=2835418&subject=hotboobjobs.com) | 3181 days ago (05/29/2017) | 0 |
@@ -16083,7 +16035,7 @@ Total domains: 25241
 | iceage.com.my (2807 hosts in use) website | private | [iceagecommy](https://freedns.afraid.org/tools/contact.php?user_id=1969287&subject=iceage.com.my) | 4134 days ago (10/16/2014) | 0 |
 | icp-seigyo.com (139 hosts in use) website | public | [fredws888](https://freedns.afraid.org/tools/contact.php?user_id=1505988&subject=icp-seigyo.com) | 4519 days ago (10/01/2013) | 0 |
 | icpgroup.com.my (18 hosts in use) website | private | [justineccf](https://freedns.afraid.org/tools/contact.php?user_id=2274350&subject=icpgroup.com.my) | 3804 days ago (09/10/2015) | 0 |
-| idea-awards.com (34 hosts in use) website | private | [hyynes](https://freedns.afraid.org/tools/contact.php?user_id=168214&subject=idea-awards.com) | 6785 days ago (07/18/2007) | 0 |
+| idea-awards.com (35 hosts in use) website | private | [hyynes](https://freedns.afraid.org/tools/contact.php?user_id=168214&subject=idea-awards.com) | 6788 days ago (07/18/2007) | 0 |
 | idealchrist.org (26 hosts in use) website | private | [andichrist](https://freedns.afraid.org/tools/contact.php?user_id=1126311&subject=idealchrist.org) | 4402 days ago (01/13/2014) | 0 |
 | ideasconflow.cl (63 hosts in use) website | public | [maiflo](https://freedns.afraid.org/tools/contact.php?user_id=3021003&subject=ideasconflow.cl) | 2911 days ago (02/18/2018) | 0 |
 | ideosphera.com (124 hosts in use) website | private | [oscarvw](https://freedns.afraid.org/tools/contact.php?user_id=791148&subject=ideosphera.com) | 5282 days ago (08/20/2011) | 0 |
@@ -16141,7 +16093,6 @@ Total domains: 25241
 | itsourceccs.com (30 hosts in use) website | public | [apadron](https://freedns.afraid.org/tools/contact.php?user_id=3026869&subject=itsourceccs.com) | 30 days ago (01/16/2026) | 0 |
 | iumc-dmitrov.ru (32 hosts in use) website | private | [iumc](https://freedns.afraid.org/tools/contact.php?user_id=456639&subject=iumc-dmitrov.ru) | 6207 days ago (01/31/2009) | 0 |
 | ivanmartin.info (46 hosts in use) website | private | [indysoft](https://freedns.afraid.org/tools/contact.php?user_id=2485799&subject=ivanmartin.info) | 3718 days ago (12/08/2015) | 0 |
-| ivannazarov.com (74 hosts in use) website | private | [saosivert](https://freedns.afraid.org/tools/contact.php?user_id=459712&subject=ivannazarov.com) | 160 days ago (09/08/2025) | 0 |
 | jacekmusiol.net (12 hosts in use) website | private | [jmusiol](https://freedns.afraid.org/tools/contact.php?user_id=1581751&subject=jacekmusiol.net) | 2976 days ago (12/21/2017) | 0 |
 | jackiehuynh.com (32 hosts in use) website | private | [jhuynh64](https://freedns.afraid.org/tools/contact.php?user_id=1196782&subject=jackiehuynh.com) | 4860 days ago (10/11/2012) | 0 |
 | jamesangel.com (190 hosts in use) website | public | [jamesangellaw](https://freedns.afraid.org/tools/contact.php?user_id=420799&subject=jamesangel.com) | 6318 days ago (10/27/2008) | 0 |
@@ -16170,7 +16121,7 @@ Total domains: 25241
 | johnrappold.com (85 hosts in use) website | private | [zewtastic](https://freedns.afraid.org/tools/contact.php?user_id=229568&subject=johnrappold.com) | 6574 days ago (02/14/2008) | 0 |
 | jonahshaver.com (29 hosts in use) website | private | [syhckkj](https://freedns.afraid.org/tools/contact.php?user_id=2580344&subject=jonahshaver.com) | 3615 days ago (03/03/2016) | 0 |
 | jonesinglass.ca (36 hosts in use) website | private | [reefl](https://freedns.afraid.org/tools/contact.php?user_id=621270&subject=jonesinglass.ca) | 4720 days ago (03/15/2013) | 0 |
-| jongreenlee.org (32 hosts in use) website | private | [wargpath](https://freedns.afraid.org/tools/contact.php?user_id=955524&subject=jongreenlee.org) | 5095 days ago (03/01/2012) | 0 |
+| jongreenlee.org (32 hosts in use) website | private | [wargpath](https://freedns.afraid.org/tools/contact.php?user_id=955524&subject=jongreenlee.org) | 5100 days ago (03/01/2012) | 0 |
 | joostvanesch.nl (26 hosts in use) website | private | [jeevee11](https://freedns.afraid.org/tools/contact.php?user_id=3630469&subject=joostvanesch.nl) | 1484 days ago (12/21/2021) | 0 |
 | josipmaslac.com (15 hosts in use) website | private | [nabavanet](https://freedns.afraid.org/tools/contact.php?user_id=745600&subject=josipmaslac.com) | 3646 days ago (02/19/2016) | 0 |
 | jpeg-cba.com.ar (23 hosts in use) website | private | [sebabustos](https://freedns.afraid.org/tools/contact.php?user_id=1220977&subject=jpeg-cba.com.ar) | 4823 days ago (11/13/2012) | 0 |
@@ -16233,7 +16184,7 @@ Total domains: 25241
 | lagoshurtado.cl (24 hosts in use) website | private | [lagoshurtado](https://freedns.afraid.org/tools/contact.php?user_id=755698&subject=lagoshurtado.cl) | 5312 days ago (07/01/2011) | 0 |
 | lahrtowers.com (124 hosts in use) website | public | [jlahr](https://freedns.afraid.org/tools/contact.php?user_id=2736519&subject=lahrtowers.com) | 3429 days ago (09/26/2016) | 0 |
 | lakelegends.com (47 hosts in use) website | private | [pherlihy](https://freedns.afraid.org/tools/contact.php?user_id=98453&subject=lakelegends.com) | 4681 days ago (04/21/2013) | 0 |
-| lalitakc.com.np (50 hosts in use) website | public | [lalitakc9](https://freedns.afraid.org/tools/contact.php?user_id=3164968&subject=lalitakc.com.np) | 2508 days ago (04/05/2019) | 0 |
+| lalitakc.com.np (51 hosts in use) website | public | [lalitakc9](https://freedns.afraid.org/tools/contact.php?user_id=3164968&subject=lalitakc.com.np) | 2509 days ago (04/05/2019) | 0 |
 | laluneta.com.ar (13 hosts in use) website | private | [matutano6](https://freedns.afraid.org/tools/contact.php?user_id=202243&subject=laluneta.com.ar) | 5528 days ago (11/25/2010) | 0 |
 | lamandragore.ch (26 hosts in use) website | private | [ltv](https://freedns.afraid.org/tools/contact.php?user_id=517301&subject=lamandragore.ch) | 5881 days ago (01/07/2010) | 0 |
 | lamanima.com.np (19 hosts in use) website | private | [rabinima73](https://freedns.afraid.org/tools/contact.php?user_id=2973958&subject=lamanima.com.np) | 2971 days ago (12/25/2017) | 0 |
@@ -16261,7 +16212,7 @@ Total domains: 25241
 | lewiscenter.net (28 hosts in use) website | private | [rbonafied](https://freedns.afraid.org/tools/contact.php?user_id=85125&subject=lewiscenter.net) | 7855 days ago (08/14/2004) | 0 |
 | lexgardner.com (336 hosts in use) website | public | [skikid419](https://freedns.afraid.org/tools/contact.php?user_id=487738&subject=lexgardner.com) | 6100 days ago (06/02/2009) | 0 |
 | librefoster.com (13 hosts in use) website | private | [seafurther](https://freedns.afraid.org/tools/contact.php?user_id=4414948&subject=librefoster.com) | 272 days ago (04/27/2025) | 0 |
-| liceotajamar.cl (31 hosts in use) website | private | [cyres001](https://freedns.afraid.org/tools/contact.php?user_id=1028182&subject=liceotajamar.cl) | 696 days ago (03/21/2024) | 0 |
+| liceotajamar.cl (21 hosts in use) website | private | [cyres001](https://freedns.afraid.org/tools/contact.php?user_id=1028182&subject=liceotajamar.cl) | 697 days ago (03/21/2024) | 0 |
 | lidernet.com.ar (18 hosts in use) website | public | [gargamusa](https://freedns.afraid.org/tools/contact.php?user_id=804078&subject=lidernet.com.ar) | 5275 days ago (09/06/2011) | 0 |
 | liebes-ecke.com (11 hosts in use) website | private | [westbang](https://freedns.afraid.org/tools/contact.php?user_id=1937480&subject=liebes-ecke.com) | 727 days ago (01/17/2024) | 0 |
 | lienenbert.com (185 hosts in use) website | public | [lienenbert](https://freedns.afraid.org/tools/contact.php?user_id=1290443&subject=lienenbert.com) | 4731 days ago (02/19/2013) | 0 |
@@ -16283,7 +16234,7 @@ Total domains: 25241
 | lostacos.com.ar (75 hosts in use) website | public | [panchowhite](https://freedns.afraid.org/tools/contact.php?user_id=740353&subject=lostacos.com.ar) | 2430 days ago (06/05/2019) | 0 |
 | louspicer.co.uk (10 hosts in use) website | private | [blueday2day](https://freedns.afraid.org/tools/contact.php?user_id=2359001&subject=louspicer.co.uk) | 1095 days ago (02/13/2023) | 0 |
 | luccamonti.com (167 hosts in use) website | public | [grmdot](https://freedns.afraid.org/tools/contact.php?user_id=65111&subject=luccamonti.com) | 5042 days ago (04/25/2012) | 0 |
-| lucianmandru.ro (92 hosts in use) website | public | [toulouse](https://freedns.afraid.org/tools/contact.php?user_id=773969&subject=lucianmandru.ro) | 5040 days ago (04/13/2012) | 0 |
+| lucianmandru.ro (98 hosts in use) website | public | [toulouse](https://freedns.afraid.org/tools/contact.php?user_id=773969&subject=lucianmandru.ro) | 5057 days ago (04/13/2012) | 0 |
 | lucianmldvn.com (22 hosts in use) website | private | [lucianmldvn](https://freedns.afraid.org/tools/contact.php?user_id=2692655&subject=lucianmldvn.com) | 3459 days ago (07/27/2016) | 0 |
 | lueurlauren.com (10 hosts in use) website | private | [davemlopez](https://freedns.afraid.org/tools/contact.php?user_id=776486&subject=lueurlauren.com) | 2305 days ago (10/01/2019) | 0 |
 | luigigandi.info (24 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=luigigandi.info) | 3921 days ago (05/19/2015) | 0 |
@@ -16300,12 +16251,10 @@ Total domains: 25241
 | magmaproject.net (4 hosts in use) website | private | [choijiho1](https://freedns.afraid.org/tools/contact.php?user_id=3440416&subject=magmaproject.net) | 248 days ago (06/09/2025) | 0 |
 | mahendra.web.id (20 hosts in use) website | private | [macrae](https://freedns.afraid.org/tools/contact.php?user_id=291277&subject=mahendra.web.id) | 6889 days ago (04/04/2007) | 0 |
 | maipografia.cl (125 hosts in use) website | public | [maipografia](https://freedns.afraid.org/tools/contact.php?user_id=2260766&subject=maipografia.cl) | 3962 days ago (04/08/2015) | 0 |
-| makesthi.web.id (26 hosts in use) website | private | [pailul](https://freedns.afraid.org/tools/contact.php?user_id=300119&subject=makesthi.web.id) | 6853 days ago (05/11/2007) | 0 |
 | malapersona.cl (103 hosts in use) website | public | [malapersona](https://freedns.afraid.org/tools/contact.php?user_id=1261032&subject=malapersona.cl) | 4757 days ago (01/04/2013) | 0 |
 | manasit.com.ar (114 hosts in use) website | public | [manasit](https://freedns.afraid.org/tools/contact.php?user_id=1629462&subject=manasit.com.ar) | 4418 days ago (01/03/2014) | 0 |
 | manchmal-nie.de (23 hosts in use) website | private | [meistensimmer](https://freedns.afraid.org/tools/contact.php?user_id=3024872&subject=manchmal-nie.de) | 2884 days ago (02/27/2018) | 0 |
 | mandalortian.com (7 hosts in use) website | private | [senjanin](https://freedns.afraid.org/tools/contact.php?user_id=901743&subject=mandalortian.com) | 626 days ago (05/24/2024) | 0 |
-| mandelbaerli.de (26 hosts in use) website | private | [glatzmb](https://freedns.afraid.org/tools/contact.php?user_id=2242161&subject=mandelbaerli.de) | 3692 days ago (01/02/2016) | 0 |
 | manishadhar.com (58 hosts in use) website | private | [anshumg](https://freedns.afraid.org/tools/contact.php?user_id=568915&subject=manishadhar.com) | 5809 days ago (03/20/2010) | 0 |
 | manishma.com.ar (31 hosts in use) website | private | [diegosokolski](https://freedns.afraid.org/tools/contact.php?user_id=757396&subject=manishma.com.ar) | 5805 days ago (02/23/2010) | 0 |
 | manishmj.com.np (27 hosts in use) website | private | [mjsanish](https://freedns.afraid.org/tools/contact.php?user_id=692350&subject=manishmj.com.np) | 5464 days ago (02/05/2011) | 0 |
@@ -16316,7 +16265,6 @@ Total domains: 25241
 | marcosruben.com (71 hosts in use) website | public | [94002717](https://freedns.afraid.org/tools/contact.php?user_id=3532979&subject=marcosruben.com) | 845 days ago (10/22/2023) | 0 |
 | marcschnyder.ch (23 hosts in use) website | private | [schnydi](https://freedns.afraid.org/tools/contact.php?user_id=1983845&subject=marcschnyder.ch) | 4097 days ago (10/26/2014) | 0 |
 | mardeluz.com.ar (15 hosts in use) website | private | [criquito01](https://freedns.afraid.org/tools/contact.php?user_id=194328&subject=mardeluz.com.ar) | 2416 days ago (06/06/2019) | 0 |
-| mardware.com.br (26 hosts in use) website | private | [henriquemard](https://freedns.afraid.org/tools/contact.php?user_id=567868&subject=mardware.com.br) | 1404 days ago (03/24/2022) | 0 |
 | mariavandijk.nl (29 hosts in use) website | private | [mariavandijk](https://freedns.afraid.org/tools/contact.php?user_id=1982395&subject=mariavandijk.nl) | 4100 days ago (10/25/2014) | 0 |
 | mariemartini.com (4 hosts in use) website | private | [mosakra](https://freedns.afraid.org/tools/contact.php?user_id=3057097&subject=mariemartini.com) | 2670 days ago (10/19/2018) | 0 |
 | marijasradio.lv (27 hosts in use) website | private | [gmhgmh](https://freedns.afraid.org/tools/contact.php?user_id=1612906&subject=marijasradio.lv) | 3689 days ago (12/10/2015) | 0 |
@@ -16324,7 +16272,7 @@ Total domains: 25241
 | mario-uecker.de (14 hosts in use) website | private | [bibabumsebaer](https://freedns.afraid.org/tools/contact.php?user_id=550047&subject=mario-uecker.de) | 5873 days ago (01/15/2010) | 0 |
 | mariocollin.com (37 hosts in use) website | private | [staroad](https://freedns.afraid.org/tools/contact.php?user_id=546449&subject=mariocollin.com) | 5866 days ago (01/03/2010) | 0 |
 | mariozahra.com (130 hosts in use) website | public | [mzahra](https://freedns.afraid.org/tools/contact.php?user_id=1007865&subject=mariozahra.com) | 5073 days ago (03/25/2012) | 0 |
-| markparsons.com (59 hosts in use) website | private | [grazzt](https://freedns.afraid.org/tools/contact.php?user_id=487154&subject=markparsons.com) | 4992 days ago (05/29/2012) | 0 |
+| markparsons.com (60 hosts in use) website | private | [grazzt](https://freedns.afraid.org/tools/contact.php?user_id=487154&subject=markparsons.com) | 5010 days ago (05/29/2012) | 0 |
 | marsella.com.ar (21 hosts in use) website | private | [marsellashoes](https://freedns.afraid.org/tools/contact.php?user_id=1565521&subject=marsella.com.ar) | 3938 days ago (05/05/2015) | 0 |
 | martinalia.com (143 hosts in use) website | public | [m4rt1nm0r](https://freedns.afraid.org/tools/contact.php?user_id=2471050&subject=martinalia.com) | 3040 days ago (10/19/2017) | 0 |
 | martindb.com.ar (22 hosts in use) website | private | [horacioofman](https://freedns.afraid.org/tools/contact.php?user_id=455888&subject=martindb.com.ar) | 4496 days ago (09/25/2013) | 0 |
@@ -16352,7 +16300,6 @@ Total domains: 25241
 | mcneillderm.com (88 hosts in use) website | private | [rukiddin44](https://freedns.afraid.org/tools/contact.php?user_id=822236&subject=mcneillderm.com) | 5241 days ago (10/07/2011) | 0 |
 | mdsnapshots.com (40 hosts in use) website | private | [mondhie](https://freedns.afraid.org/tools/contact.php?user_id=639619&subject=mdsnapshots.com) | 4564 days ago (07/18/2013) | 0 |
 | medaconsult.ro (140 hosts in use) website | public | [cosmoq](https://freedns.afraid.org/tools/contact.php?user_id=569733&subject=medaconsult.ro) | 5668 days ago (08/04/2010) | 0 |
-| meden-market.eu (26 hosts in use) website | private | [hdtdi](https://freedns.afraid.org/tools/contact.php?user_id=294353&subject=meden-market.eu) | 4507 days ago (10/09/2013) | 0 |
 | media-phile.com (45 hosts in use) website | private | [squallgmn](https://freedns.afraid.org/tools/contact.php?user_id=650065&subject=media-phile.com) | 5613 days ago (10/01/2010) | 0 |
 | medinamanor.com (63 hosts in use) website | private | [kingramon0](https://freedns.afraid.org/tools/contact.php?user_id=696885&subject=medinamanor.com) | 5401 days ago (04/27/2011) | 0 |
 | medworthy.co.uk (33 hosts in use) website | private | [medworthy](https://freedns.afraid.org/tools/contact.php?user_id=1925897&subject=medworthy.co.uk) | 3966 days ago (04/07/2015) | 0 |
@@ -16390,8 +16337,7 @@ Total domains: 25241
 | milleracines.ch (11 hosts in use) website | private | [cmoullet](https://freedns.afraid.org/tools/contact.php?user_id=702027&subject=milleracines.ch) | 1352 days ago (06/01/2022) | 0 |
 | millercave.com (142 hosts in use) website | public | [brianmiller98](https://freedns.afraid.org/tools/contact.php?user_id=2633231&subject=millercave.com) | 3570 days ago (05/08/2016) | 0 |
 | mills-family.us (53 hosts in use) website | public | [spydox](https://freedns.afraid.org/tools/contact.php?user_id=925162&subject=mills-family.us) | 927 days ago (07/31/2023) | 0 |
-| minecraftr.us (6851 hosts in use) website | public | [hockeymikey](https://freedns.afraid.org/tools/contact.php?user_id=741969&subject=minecraftr.us) | 4901 days ago (09/15/2012) | 0 |
-| minilanparty.dk (26 hosts in use) website | private | [enklogmand](https://freedns.afraid.org/tools/contact.php?user_id=2595568&subject=minilanparty.dk) | 3555 days ago (04/22/2016) | 0 |
+| minecraftr.us (6854 hosts in use) website | public | [hockeymikey](https://freedns.afraid.org/tools/contact.php?user_id=741969&subject=minecraftr.us) | 4901 days ago (09/15/2012) | 0 |
 | miperrofiel.com (19 hosts in use) website | private | [ccabanas](https://freedns.afraid.org/tools/contact.php?user_id=2403718&subject=miperrofiel.com) | 499 days ago (10/01/2024) | 0 |
 | mirimsystem.com (35 hosts in use) website | private | [kz3d8w](https://freedns.afraid.org/tools/contact.php?user_id=2688388&subject=mirimsystem.com) | 3493 days ago (07/22/2016) | 0 |
 | miscstorage.com (36 hosts in use) website | private | [whassup](https://freedns.afraid.org/tools/contact.php?user_id=763357&subject=miscstorage.com) | 3646 days ago (02/04/2016) | 0 |
@@ -16401,7 +16347,7 @@ Total domains: 25241
 | mmconsulting.at (20 hosts in use) website | private | [jprejac](https://freedns.afraid.org/tools/contact.php?user_id=745531&subject=mmconsulting.at) | 5260 days ago (08/22/2011) | 0 |
 | mmpropertyhk.com (9 hosts in use) website | private | [sunsus](https://freedns.afraid.org/tools/contact.php?user_id=1491450&subject=mmpropertyhk.com) | 903 days ago (08/23/2023) | 0 |
 | mnbbowls.com.au (18 hosts in use) website | private | [ainsch2](https://freedns.afraid.org/tools/contact.php?user_id=1271684&subject=mnbbowls.com.au) | 2079 days ago (05/28/2020) | 0 |
-| mnemonic.net.ru (37 hosts in use) website | private | [lex31337](https://freedns.afraid.org/tools/contact.php?user_id=602948&subject=mnemonic.net.ru) | 5666 days ago (08/12/2010) | 0 |
+| mnemonic.net.ru (37 hosts in use) website | private | [lex31337](https://freedns.afraid.org/tools/contact.php?user_id=602948&subject=mnemonic.net.ru) | 5667 days ago (08/12/2010) | 0 |
 | modelacademy.be (16 hosts in use) website | private | [mdoigny](https://freedns.afraid.org/tools/contact.php?user_id=91745&subject=modelacademy.be) | 5552 days ago (11/29/2010) | 0 |
 | mojadelavnica.si (5 hosts in use) website | private | [klemenbajda](https://freedns.afraid.org/tools/contact.php?user_id=388053&subject=mojadelavnica.si) | 206 days ago (07/20/2025) | 0 |
 | molthmex.com.mx (51 hosts in use) website | private | [softdevs18](https://freedns.afraid.org/tools/contact.php?user_id=3034512&subject=molthmex.com.mx) | 2680 days ago (10/11/2018) | 0 |
@@ -16430,7 +16376,6 @@ Total domains: 25241
 | mycapital.co.id (23 hosts in use) website | private | [hektahendraprian](https://freedns.afraid.org/tools/contact.php?user_id=2302323&subject=mycapital.co.id) | 3144 days ago (06/05/2017) | 0 |
 | mycciestudy.com (38 hosts in use) website | private | [duffnuts](https://freedns.afraid.org/tools/contact.php?user_id=843211&subject=mycciestudy.com) | 5146 days ago (01/04/2012) | 0 |
 | myers-mail.com (185 hosts in use) website | public | [davezmyers](https://freedns.afraid.org/tools/contact.php?user_id=2317097&subject=myers-mail.com) | 3916 days ago (05/27/2015) | 0 |
-| mygamebuild.com (26 hosts in use) website | private | [pherlihy](https://freedns.afraid.org/tools/contact.php?user_id=98453&subject=mygamebuild.com) | 540 days ago (08/24/2024) | 0 |
 | myhaccpplan.net (31 hosts in use) website | private | [datahex](https://freedns.afraid.org/tools/contact.php?user_id=520696&subject=myhaccpplan.net) | 5984 days ago (09/22/2009) | 0 |
 | myhousedyn.com (107 hosts in use) website | public | [ajmix2](https://freedns.afraid.org/tools/contact.php?user_id=1155404&subject=myhousedyn.com) | 3528 days ago (06/11/2016) | 0 |
 | myhyperbook.com (55 hosts in use) website | private | [jettsai](https://freedns.afraid.org/tools/contact.php?user_id=460940&subject=myhyperbook.com) | 6212 days ago (02/10/2009) | 0 |
@@ -16447,7 +16392,6 @@ Total domains: 25241
 | nataliepape.com (37 hosts in use) website | private | [srpape](https://freedns.afraid.org/tools/contact.php?user_id=562334&subject=nataliepape.com) | 3013 days ago (11/05/2017) | 0 |
 | nathanplato.com (35 hosts in use) website | private | [yngling](https://freedns.afraid.org/tools/contact.php?user_id=115801&subject=nathanplato.com) | 7325 days ago (01/23/2006) | 0 |
 | navigogroup.cl (236 hosts in use) website | public | [t4b](https://freedns.afraid.org/tools/contact.php?user_id=333578&subject=navigogroup.cl) | 6682 days ago (10/29/2007) | 0 |
-| nazisaregay.com (26 hosts in use) website | private | [acsprayberry](https://freedns.afraid.org/tools/contact.php?user_id=457708&subject=nazisaregay.com) | 1600 days ago (09/26/2021) | 0 |
 | ndnucleo.com.br (32 hosts in use) website | private | [vigario](https://freedns.afraid.org/tools/contact.php?user_id=152852&subject=ndnucleo.com.br) | 6553 days ago (03/06/2008) | 0 |
 | nealtacular.com (22 hosts in use) website | private | [nrwaters](https://freedns.afraid.org/tools/contact.php?user_id=610096&subject=nealtacular.com) | 5589 days ago (10/21/2010) | 0 |
 | neoneptune.com (248 hosts in use) website | public | [crown111](https://freedns.afraid.org/tools/contact.php?user_id=809523&subject=neoneptune.com) | 5267 days ago (09/13/2011) | 0 |
@@ -16581,7 +16525,7 @@ Total domains: 25241
 | pochivni-dni.eu (10 hosts in use) website | private | [zaharin](https://freedns.afraid.org/tools/contact.php?user_id=1203496&subject=pochivni-dni.eu) | 10 days ago (01/03/2026) | 0 |
 | pogramkran.net (214 hosts in use) website | private | [temperski](https://freedns.afraid.org/tools/contact.php?user_id=229422&subject=pogramkran.net) | 7150 days ago (07/18/2006) | 0 |
 | polaris-tech.hu (16 hosts in use) website | private | [constructivus](https://freedns.afraid.org/tools/contact.php?user_id=2010609&subject=polaris-tech.hu) | 623 days ago (05/30/2024) | 0 |
-| polden21vek.com (22 hosts in use) website | private | [shurao](https://freedns.afraid.org/tools/contact.php?user_id=394555&subject=polden21vek.com) | 2229 days ago (01/09/2020) | 0 |
+| polden21vek.com (23 hosts in use) website | private | [shurao](https://freedns.afraid.org/tools/contact.php?user_id=394555&subject=polden21vek.com) | 2229 days ago (01/09/2020) | 0 |
 | polimont.com.br (69 hosts in use) website | public | [politorno](https://freedns.afraid.org/tools/contact.php?user_id=2214649&subject=polimont.com.br) | 3986 days ago (03/13/2015) | 0 |
 | poloniacruz.com (53 hosts in use) website | private | [binarius](https://freedns.afraid.org/tools/contact.php?user_id=541141&subject=poloniacruz.com) | 3251 days ago (03/20/2017) | 0 |
 | polymorphed.com (12 hosts in use) website | private | [oddysee](https://freedns.afraid.org/tools/contact.php?user_id=337092&subject=polymorphed.com) | 6668 days ago (10/18/2007) | 0 |
@@ -16598,7 +16542,7 @@ Total domains: 25241
 | pratikpatel.in (103 hosts in use) website | public | [thepratik](https://freedns.afraid.org/tools/contact.php?user_id=1088183&subject=pratikpatel.in) | 4986 days ago (06/22/2012) | 0 |
 | prchongkong.com (37 hosts in use) website | private | [mchk2009](https://freedns.afraid.org/tools/contact.php?user_id=533299&subject=prchongkong.com) | 4808 days ago (12/13/2012) | 0 |
 | precorparts.com (33 hosts in use) website | private | [fitnessplus](https://freedns.afraid.org/tools/contact.php?user_id=2683007&subject=precorparts.com) | 3900 days ago (05/11/2015) | 0 |
-| premiumsexy.com (67 hosts in use) website | private | [marcio5115](https://freedns.afraid.org/tools/contact.php?user_id=620606&subject=premiumsexy.com) | 4386 days ago (01/31/2014) | 0 |
+| premiumsexy.com (68 hosts in use) website | private | [marcio5115](https://freedns.afraid.org/tools/contact.php?user_id=620606&subject=premiumsexy.com) | 4398 days ago (01/31/2014) | 0 |
 | pressurezone.es (60 hosts in use) website | private | [newstartdesigns](https://freedns.afraid.org/tools/contact.php?user_id=1462344&subject=pressurezone.es) | 3338 days ago (11/25/2016) | 0 |
 | prexchanger.com (33 hosts in use) website | private | [tigor](https://freedns.afraid.org/tools/contact.php?user_id=521087&subject=prexchanger.com) | 2838 days ago (04/25/2018) | 0 |
 | priamaakcia.sk (356 hosts in use) website | public | [priamaakcia](https://freedns.afraid.org/tools/contact.php?user_id=366024&subject=priamaakcia.sk) | 6573 days ago (02/15/2008) | 0 |
@@ -16610,6 +16554,7 @@ Total domains: 25241
 | programbits.com (19 hosts in use) website | private | [keeldrahcir](https://freedns.afraid.org/tools/contact.php?user_id=260313&subject=programbits.com) | 4717 days ago (03/06/2013) | 0 |
 | project-2501.com (9 hosts in use) website | private | [blueflame78504](https://freedns.afraid.org/tools/contact.php?user_id=515036&subject=project-2501.com) | 5993 days ago (08/30/2009) | 0 |
 | pronetsyscr.com (30 hosts in use) website | private | [pronetsyscr](https://freedns.afraid.org/tools/contact.php?user_id=556457&subject=pronetsyscr.com) | 2942 days ago (01/06/2018) | 0 |
+| proprietarul.eu (16 hosts in use) website | private | [aaverian](https://freedns.afraid.org/tools/contact.php?user_id=324578&subject=proprietarul.eu) | 374 days ago (02/06/2025) | 0 |
 | prosopopeya.com (58 hosts in use) website | private | [prosopop](https://freedns.afraid.org/tools/contact.php?user_id=817412&subject=prosopopeya.com) | 5583 days ago (10/30/2010) | 0 |
 | protelecon.com (195 hosts in use) website | public | [protelecon](https://freedns.afraid.org/tools/contact.php?user_id=2330643&subject=protelecon.com) | 3899 days ago (06/12/2015) | 0 |
 | protopopescu.net (2 hosts in use) website | private | [prafael](https://freedns.afraid.org/tools/contact.php?user_id=732937&subject=protopopescu.net) | 103 days ago (10/03/2025) | 0 |
@@ -16673,12 +16618,12 @@ Total domains: 25241
 | remont-tovar.ru (63 hosts in use) website | public | [cat11](https://freedns.afraid.org/tools/contact.php?user_id=3074744&subject=remont-tovar.ru) | 2776 days ago (07/11/2018) | 0 |
 | remoteportal.ca (20 hosts in use) website | private | [onsiteit](https://freedns.afraid.org/tools/contact.php?user_id=3457700&subject=remoteportal.ca) | 1582 days ago (10/07/2021) | 0 |
 | repairmandu.com (41 hosts in use) website | private | [masterstill](https://freedns.afraid.org/tools/contact.php?user_id=2685437&subject=repairmandu.com) | 3383 days ago (11/07/2016) | 0 |
-| repubblica.info (26 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=repubblica.info) | 4207 days ago (08/06/2014) | 0 |
+| repubblica.info (26 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=repubblica.info) | 4212 days ago (08/06/2014) | 0 |
 | researchteam.cl (11 hosts in use) website | private | [belze](https://freedns.afraid.org/tools/contact.php?user_id=1061780&subject=researchteam.cl) | 855 days ago (09/11/2023) | 0 |
 | resistor.com.ar (30 hosts in use) website | private | [inspt](https://freedns.afraid.org/tools/contact.php?user_id=386895&subject=resistor.com.ar) | 6498 days ago (04/30/2008) | 0 |
 | retrolution.com (37 hosts in use) website | private | [stevebor1](https://freedns.afraid.org/tools/contact.php?user_id=620088&subject=retrolution.com) | 3544 days ago (05/21/2016) | 0 |
 | retropolitan.ro (10 hosts in use) website | private | [pintearares](https://freedns.afraid.org/tools/contact.php?user_id=298989&subject=retropolitan.ro) | 2239 days ago (11/27/2019) | 0 |
-| rhyno-audio.net (20 hosts in use) website | public | [obguitars](https://freedns.afraid.org/tools/contact.php?user_id=3842058&subject=rhyno-audio.net) | 645 days ago (05/11/2024) | 0 |
+| rhyno-audio.net (21 hosts in use) website | public | [obguitars](https://freedns.afraid.org/tools/contact.php?user_id=3842058&subject=rhyno-audio.net) | 645 days ago (05/11/2024) | 0 |
 | ricksolinas.com (54 hosts in use) website | public | [solariv](https://freedns.afraid.org/tools/contact.php?user_id=903116&subject=ricksolinas.com) | 384 days ago (01/24/2025) | 0 |
 | rickvanberlo.nl (25 hosts in use) website | private | [rickvanberlo](https://freedns.afraid.org/tools/contact.php?user_id=4049753&subject=rickvanberlo.nl) | 740 days ago (01/09/2024) | 0 |
 | ride-n-wine.com (47 hosts in use) website | private | [mg32257](https://freedns.afraid.org/tools/contact.php?user_id=765375&subject=ride-n-wine.com) | 3276 days ago (02/24/2017) | 0 |
@@ -16708,7 +16653,7 @@ Total domains: 25241
 | rrsolucoes.info (28 hosts in use) website | private | [vr6racer](https://freedns.afraid.org/tools/contact.php?user_id=989615&subject=rrsolucoes.info) | 4300 days ago (05/05/2014) | 0 |
 | rstringer.co.uk (31 hosts in use) website | private | [stringerr](https://freedns.afraid.org/tools/contact.php?user_id=464967&subject=rstringer.co.uk) | 6189 days ago (02/24/2009) | 0 |
 | rudycrespin.com (41 hosts in use) website | private | [rcrespin](https://freedns.afraid.org/tools/contact.php?user_id=34831&subject=rudycrespin.com) | 7224 days ago (05/05/2006) | 0 |
-| ruedisuehli.com (27 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=ruedisuehli.com) | 4865 days ago (10/19/2012) | 0 |
+| ruedisuehli.com (27 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=ruedisuehli.com) | 4868 days ago (10/19/2012) | 0 |
 | ruimiranda.com (176 hosts in use) website | public | [ruimiranda](https://freedns.afraid.org/tools/contact.php?user_id=1828792&subject=ruimiranda.com) | 4260 days ago (06/16/2014) | 0 |
 | ruiz-tagle.com (133 hosts in use) website | public | [totibross](https://freedns.afraid.org/tools/contact.php?user_id=1415497&subject=ruiz-tagle.com) | 4308 days ago (04/30/2014) | 0 |
 | ryanandjen.org (196 hosts in use) website | public | [systemone](https://freedns.afraid.org/tools/contact.php?user_id=681559&subject=ryanandjen.org) | 5515 days ago (01/07/2011) | 0 |
@@ -16728,7 +16673,7 @@ Total domains: 25241
 | sangeetc.com.np (53 hosts in use) website | public | [tularam](https://freedns.afraid.org/tools/contact.php?user_id=3183731&subject=sangeetc.com.np) | 1456 days ago (02/10/2022) | 0 |
 | sanjitdutta.com (49 hosts in use) website | private | [sdlynx](https://freedns.afraid.org/tools/contact.php?user_id=683614&subject=sanjitdutta.com) | 3535 days ago (05/30/2016) | 0 |
 | santimedici.com (53 hosts in use) website | private | [ataru33](https://freedns.afraid.org/tools/contact.php?user_id=15991&subject=santimedici.com) | 8208 days ago (08/25/2003) | 0 |
-| sarahgiotto.com (35 hosts in use) website | private | [fgiotto](https://freedns.afraid.org/tools/contact.php?user_id=822938&subject=sarahgiotto.com) | 4458 days ago (11/29/2013) | 0 |
+| sarahgiotto.com (35 hosts in use) website | private | [fgiotto](https://freedns.afraid.org/tools/contact.php?user_id=822938&subject=sarahgiotto.com) | 4462 days ago (11/29/2013) | 0 |
 | sasmitha.web.id (40 hosts in use) website | private | [lsyamsiar](https://freedns.afraid.org/tools/contact.php?user_id=1205781&subject=sasmitha.web.id) | 4858 days ago (10/24/2012) | 0 |
 | sassywizard.com (26 hosts in use) website | private | [mwskz8](https://freedns.afraid.org/tools/contact.php?user_id=1888453&subject=sassywizard.com) | 4215 days ago (08/02/2014) | 0 |
 | saswater.com.au (40 hosts in use) website | private | [saswater](https://freedns.afraid.org/tools/contact.php?user_id=1376078&subject=saswater.com.au) | 4629 days ago (05/27/2013) | 0 |
@@ -16755,7 +16700,7 @@ Total domains: 25241
 | seaandhill.com (170 hosts in use) website | public | [jaturapornchai](https://freedns.afraid.org/tools/contact.php?user_id=472630&subject=seaandhill.com) | 4985 days ago (06/21/2012) | 0 |
 | seaclubgroup.com (3 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=seaclubgroup.com) | 2695 days ago (08/28/2018) | 0 |
 | sealswim.com.au (38 hosts in use) website | private | [garrettp](https://freedns.afraid.org/tools/contact.php?user_id=356738&subject=sealswim.com.au) | 6610 days ago (01/09/2008) | 0 |
-| seatecno.com.br (26 hosts in use) website | public | [danielrossi](https://freedns.afraid.org/tools/contact.php?user_id=1323381&subject=seatecno.com.br) | 495 days ago (09/27/2024) | 0 |
+| seatecno.com.br (26 hosts in use) website | public | [danielrossi](https://freedns.afraid.org/tools/contact.php?user_id=1323381&subject=seatecno.com.br) | 507 days ago (09/27/2024) | 0 |
 | seguridadgsm.cl (28 hosts in use) website | private | [neoriginal](https://freedns.afraid.org/tools/contact.php?user_id=850705&subject=seguridadgsm.cl) | 5204 days ago (11/16/2011) | 0 |
 | seguromedis.com (39 hosts in use) website | private | [amsainfor](https://freedns.afraid.org/tools/contact.php?user_id=1057063&subject=seguromedis.com) | 4901 days ago (08/21/2012) | 0 |
 | segurosanjose.cl (6 hosts in use) website | public | [jbarriga](https://freedns.afraid.org/tools/contact.php?user_id=793878&subject=segurosanjose.cl) | 1648 days ago (08/12/2021) | 0 |
@@ -16771,7 +16716,7 @@ Total domains: 25241
 | serhanceki.com (159 hosts in use) website | public | [serhanceki](https://freedns.afraid.org/tools/contact.php?user_id=2654075&subject=serhanceki.com) | 3541 days ago (06/04/2016) | 0 |
 | serranoliva.com (24 hosts in use) website | private | [raulsantam](https://freedns.afraid.org/tools/contact.php?user_id=961912&subject=serranoliva.com) | 5071 days ago (02/25/2012) | 0 |
 | serveris.id.lv (222 hosts in use) website | public | [exection](https://freedns.afraid.org/tools/contact.php?user_id=161402&subject=serveris.id.lv) | 6759 days ago (08/13/2007) | 0 |
-| servernux.com (1102 hosts in use) website | public | [servernux](https://freedns.afraid.org/tools/contact.php?user_id=448255&subject=servernux.com) | 5303 days ago (08/10/2011) | 0 |
+| servernux.com (1103 hosts in use) website | public | [servernux](https://freedns.afraid.org/tools/contact.php?user_id=448255&subject=servernux.com) | 5303 days ago (08/10/2011) | 0 |
 | serverpit.com (4975 hosts in use) website | public | [grog](https://freedns.afraid.org/tools/contact.php?user_id=125935&subject=serverpit.com) | 6680 days ago (11/02/2007) | 0 |
 | settiermauro.ar (44 hosts in use) website | public | [maurosettier](https://freedns.afraid.org/tools/contact.php?user_id=3967947&subject=settiermauro.ar) | 863 days ago (10/05/2023) | 0 |
 | sevencomets.com (44 hosts in use) website | public | [obliven](https://freedns.afraid.org/tools/contact.php?user_id=5108219&subject=sevencomets.com) | 100 days ago (11/07/2025) | 0 |
@@ -16923,7 +16868,7 @@ Total domains: 25241
 | tanveerahmed.us (22 hosts in use) website | private | [tahmed](https://freedns.afraid.org/tools/contact.php?user_id=303896&subject=tanveerahmed.us) | 4837 days ago (10/16/2012) | 0 |
 | tarjetafiel.com (57 hosts in use) website | private | [tarjetafiel](https://freedns.afraid.org/tools/contact.php?user_id=3069723&subject=tarjetafiel.com) | 2789 days ago (06/26/2018) | 0 |
 | tas-network.com (53 hosts in use) website | private | [lizerd](https://freedns.afraid.org/tools/contact.php?user_id=21843&subject=tas-network.com) | 8404 days ago (02/09/2003) | 0 |
-| tascsoftware.uk (26 hosts in use) website | private | [stuartjames](https://freedns.afraid.org/tools/contact.php?user_id=2245600&subject=tascsoftware.uk) | 3093 days ago (08/25/2017) | 0 |
+| tascsoftware.uk (27 hosts in use) website | private | [stuartjames](https://freedns.afraid.org/tools/contact.php?user_id=2245600&subject=tascsoftware.uk) | 3097 days ago (08/25/2017) | 0 |
 | task-toaster.com (7 hosts in use) website | private | [jrivett](https://freedns.afraid.org/tools/contact.php?user_id=741357&subject=task-toaster.com) | 4224 days ago (07/05/2014) | 0 |
 | tatikalamar.com (31 hosts in use) website | private | [b4contact](https://freedns.afraid.org/tools/contact.php?user_id=2295886&subject=tatikalamar.com) | 3934 days ago (05/07/2015) | 0 |
 | taxparagon.com (209 hosts in use) website | public | [taxparagon](https://freedns.afraid.org/tools/contact.php?user_id=1705077&subject=taxparagon.com) | 3822 days ago (08/29/2015) | 0 |
@@ -17050,7 +16995,7 @@ Total domains: 25241
 | tybalmar.com.ar (25 hosts in use) website | private | [tybalmar](https://freedns.afraid.org/tools/contact.php?user_id=2924705&subject=tybalmar.com.ar) | 3065 days ago (08/23/2017) | 0 |
 | tzafrir.org.il (548 hosts in use) website | private | [tzafrir](https://freedns.afraid.org/tools/contact.php?user_id=164168&subject=tzafrir.org.il) | 7406 days ago (11/04/2005) | 0 |
 | u-lock-it.info (112 hosts in use) website | public | [htmlbase](https://freedns.afraid.org/tools/contact.php?user_id=709902&subject=u-lock-it.info) | 5432 days ago (04/01/2011) | 0 |
-| ubernerden.com (221 hosts in use) website | public | [madoue](https://freedns.afraid.org/tools/contact.php?user_id=1277773&subject=ubernerden.com) | 4758 days ago (01/31/2013) | 0 |
+| ubernerden.com (221 hosts in use) website | public | [madoue](https://freedns.afraid.org/tools/contact.php?user_id=1277773&subject=ubernerden.com) | 4763 days ago (01/31/2013) | 0 |
 | ukmandal.com.np (61 hosts in use) website | public | [ukmandal](https://freedns.afraid.org/tools/contact.php?user_id=2813256&subject=ukmandal.com.np) | 3314 days ago (01/19/2017) | 0 |
 | ulster-fuel.com (34 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=ulster-fuel.com) | 5990 days ago (09/21/2009) | 0 |
 | ultimamilla.cl (169 hosts in use) website | public | [ultimamilla](https://freedns.afraid.org/tools/contact.php?user_id=537075&subject=ultimamilla.cl) | 5923 days ago (11/26/2009) | 0 |
@@ -17109,7 +17054,7 @@ Total domains: 25241
 | wandercoach.ch (240 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=wandercoach.ch) | 3647 days ago (02/19/2016) | 0 |
 | wardenclyffe.us (13 hosts in use) website | private | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=wardenclyffe.us) | 1729 days ago (04/20/2021) | 0 |
 | warezromania.net (7 hosts in use) website | private | [snkwr](https://freedns.afraid.org/tools/contact.php?user_id=420446&subject=warezromania.net) | 6367 days ago (09/08/2008) | 0 |
-| waterloobae.com (33 hosts in use) website | private | [joonimdotorg](https://freedns.afraid.org/tools/contact.php?user_id=3800256&subject=waterloobae.com) | 564 days ago (07/31/2024) | 0 |
+| waterloobae.com (48 hosts in use) website | private | [joonimdotorg](https://freedns.afraid.org/tools/contact.php?user_id=3800256&subject=waterloobae.com) | 565 days ago (07/31/2024) | 0 |
 | watersphoto.com (31 hosts in use) website | private | [nrwaters](https://freedns.afraid.org/tools/contact.php?user_id=610096&subject=watersphoto.com) | 5423 days ago (04/08/2011) | 0 |
 | weberkai.com.br (91 hosts in use) website | public | [weberkai](https://freedns.afraid.org/tools/contact.php?user_id=1333757&subject=weberkai.com.br) | 3400 days ago (10/20/2016) | 0 |
 | webpersonal.cl (150 hosts in use) website | public | [webpersonal](https://freedns.afraid.org/tools/contact.php?user_id=772274&subject=webpersonal.cl) | 5317 days ago (07/26/2011) | 0 |
@@ -17130,7 +17075,7 @@ Total domains: 25241
 | wikithrough.com (89 hosts in use) website | public | [xenther](https://freedns.afraid.org/tools/contact.php?user_id=1354586&subject=wikithrough.com) | 4658 days ago (05/08/2013) | 0 |
 | willmertens.com (34 hosts in use) website | private | [willmertens](https://freedns.afraid.org/tools/contact.php?user_id=3853132&subject=willmertens.com) | 1009 days ago (04/12/2023) | 0 |
 | withfrosted.com (24 hosts in use) website | private | [issact](https://freedns.afraid.org/tools/contact.php?user_id=595841&subject=withfrosted.com) | 5756 days ago (05/01/2010) | 0 |
-| wolf-killer.com (41 hosts in use) website | private | [darkparty](https://freedns.afraid.org/tools/contact.php?user_id=1962796&subject=wolf-killer.com) | 4140 days ago (10/12/2014) | 0 |
+| wolf-killer.com (42 hosts in use) website | private | [darkparty](https://freedns.afraid.org/tools/contact.php?user_id=1962796&subject=wolf-killer.com) | 4144 days ago (10/12/2014) | 0 |
 | wonder-cloud.de (32 hosts in use) website | private | [pilarvwe](https://freedns.afraid.org/tools/contact.php?user_id=3168633&subject=wonder-cloud.de) | 1166 days ago (11/12/2022) | 0 |
 | woodselllab.org (17 hosts in use) website | private | [gigs2go](https://freedns.afraid.org/tools/contact.php?user_id=3818138&subject=woodselllab.org) | 955 days ago (06/30/2023) | 0 |
 | woodwardinc.net (69 hosts in use) website | private | [woodwa](https://freedns.afraid.org/tools/contact.php?user_id=71958&subject=woodwardinc.net) | 7937 days ago (05/22/2004) | 0 |
@@ -17142,7 +17087,7 @@ Total domains: 25241
 | wrongway.com.br (13 hosts in use) website | private | [eduardobferrari](https://freedns.afraid.org/tools/contact.php?user_id=211414&subject=wrongway.com.br) | 1972 days ago (09/02/2020) | 0 |
 | wspaperbag.com (332 hosts in use) website | public | [yvens](https://freedns.afraid.org/tools/contact.php?user_id=2378693&subject=wspaperbag.com) | 3625 days ago (03/14/2016) | 0 |
 | wtfsales.com.ar (25 hosts in use) website | private | [magnotonus](https://freedns.afraid.org/tools/contact.php?user_id=365705&subject=wtfsales.com.ar) | 4977 days ago (06/13/2012) | 0 |
-| wurstbrot.co.uk (30 hosts in use) website | private | [markje](https://freedns.afraid.org/tools/contact.php?user_id=688486&subject=wurstbrot.co.uk) | 4824 days ago (11/24/2012) | 0 |
+| wurstbrot.co.uk (30 hosts in use) website | private | [markje](https://freedns.afraid.org/tools/contact.php?user_id=688486&subject=wurstbrot.co.uk) | 4832 days ago (11/24/2012) | 0 |
 | wx8bkstreams.com (6 hosts in use) website | private | [willard311](https://freedns.afraid.org/tools/contact.php?user_id=647797&subject=wx8bkstreams.com) | 210 days ago (06/17/2025) | 0 |
 | wyrzykowski.biz (19 hosts in use) website | private | [wwyr](https://freedns.afraid.org/tools/contact.php?user_id=1098112&subject=wyrzykowski.biz) | 4950 days ago (06/27/2012) | 0 |
 | xcportugal.org (242 hosts in use) website | public | [pauloadriano](https://freedns.afraid.org/tools/contact.php?user_id=707930&subject=xcportugal.org) | 5059 days ago (04/08/2012) | 0 |
@@ -17166,7 +17111,7 @@ Total domains: 25241
 | youwould.com.au (27 hosts in use) website | private | [oogabooga](https://freedns.afraid.org/tools/contact.php?user_id=555461&subject=youwould.com.au) | 5855 days ago (02/02/2010) | 0 |
 | ypcnepal.org.np (73 hosts in use) website | public | [uraj](https://freedns.afraid.org/tools/contact.php?user_id=2677023&subject=ypcnepal.org.np) | 2921 days ago (02/14/2018) | 0 |
 | yunjiaoshi.com (197 hosts in use) website | public | [harryjwang](https://freedns.afraid.org/tools/contact.php?user_id=815689&subject=yunjiaoshi.com) | 5016 days ago (05/21/2012) | 0 |
-| yurivasiliev.ru (25 hosts in use) website | private | [danja](https://freedns.afraid.org/tools/contact.php?user_id=750930&subject=yurivasiliev.ru) | 4525 days ago (08/26/2013) | 0 |
+| yurivasiliev.ru (26 hosts in use) website | private | [danja](https://freedns.afraid.org/tools/contact.php?user_id=750930&subject=yurivasiliev.ru) | 4557 days ago (08/26/2013) | 0 |
 | zawadzki.waw.pl (31 hosts in use) website | private | [plpioza](https://freedns.afraid.org/tools/contact.php?user_id=589380&subject=zawadzki.waw.pl) | 5742 days ago (04/27/2010) | 0 |
 | zemlja-trans.com (9 hosts in use) website | private | [ame1982](https://freedns.afraid.org/tools/contact.php?user_id=2433395&subject=zemlja-trans.com) | 972 days ago (06/15/2023) | 0 |
 | zhanwenhan.com (220 hosts in use) website | public | [zhanwenhan](https://freedns.afraid.org/tools/contact.php?user_id=323540&subject=zhanwenhan.com) | 6749 days ago (08/23/2007) | 0 |
@@ -17189,7 +17134,7 @@ Total domains: 25241
 | abcoprinting.net (30 hosts in use) website | private | [kingkabuz](https://freedns.afraid.org/tools/contact.php?user_id=354382&subject=abcoprinting.net) | 2712 days ago (09/13/2018) | 0 |
 | abhimanyu.com.np (63 hosts in use) website | public | [abhimanyu835](https://freedns.afraid.org/tools/contact.php?user_id=2745928&subject=abhimanyu.com.np) | 3388 days ago (10/06/2016) | 0 |
 | abschussparty.de (20 hosts in use) website | private | [niklasm1983](https://freedns.afraid.org/tools/contact.php?user_id=1496073&subject=abschussparty.de) | 3056 days ago (09/08/2017) | 0 |
-| abstractadam.com (36 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=abstractadam.com) | 4907 days ago (09/07/2012) | 0 |
+| abstractadam.com (37 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=abstractadam.com) | 4909 days ago (09/07/2012) | 0 |
 | abusedwitness.com (7 hosts in use) website | public | [ritakonrad53](https://freedns.afraid.org/tools/contact.php?user_id=4493084&subject=abusedwitness.com) | 203 days ago (07/14/2025) | 0 |
 | academiafutura.ar (8 hosts in use) website | private | [thewebhosting](https://freedns.afraid.org/tools/contact.php?user_id=464935&subject=academiafutura.ar) | 741 days ago (02/02/2024) | 0 |
 | access-design.de (29 hosts in use) website | private | [vtyl0e2c](https://freedns.afraid.org/tools/contact.php?user_id=1399640&subject=access-design.de) | 4598 days ago (06/21/2013) | 0 |
@@ -17248,7 +17193,7 @@ Total domains: 25241
 | androvial.com.ar (11 hosts in use) website | private | [iandrono](https://freedns.afraid.org/tools/contact.php?user_id=2323405&subject=androvial.com.ar) | 3046 days ago (09/11/2017) | 0 |
 | angelicasite.com (39 hosts in use) website | private | [patole](https://freedns.afraid.org/tools/contact.php?user_id=798400&subject=angelicasite.com) | 5265 days ago (08/29/2011) | 0 |
 | angellore.com.mx (62 hosts in use) website | private | [maleficarum](https://freedns.afraid.org/tools/contact.php?user_id=756876&subject=angellore.com.mx) | 5338 days ago (07/04/2011) | 0 |
-| angrygiraffe.com (36 hosts in use) website | private | [retheisen](https://freedns.afraid.org/tools/contact.php?user_id=372532&subject=angrygiraffe.com) | 6043 days ago (07/29/2009) | 0 |
+| angrygiraffe.com (38 hosts in use) website | private | [retheisen](https://freedns.afraid.org/tools/contact.php?user_id=372532&subject=angrygiraffe.com) | 6046 days ago (07/29/2009) | 0 |
 | anildhakal.com.np (9 hosts in use) website | private | [anilsag2006](https://freedns.afraid.org/tools/contact.php?user_id=3445243&subject=anildhakal.com.np) | 1987 days ago (08/24/2020) | 0 |
 | animalscience.ir (36 hosts in use) website | private | [mbehgar](https://freedns.afraid.org/tools/contact.php?user_id=1751878&subject=animalscience.ir) | 4283 days ago (04/25/2014) | 0 |
 | anjanateatro.com (33 hosts in use) website | private | [romanfdez](https://freedns.afraid.org/tools/contact.php?user_id=3538426&subject=anjanateatro.com) | 1766 days ago (04/15/2021) | 0 |
@@ -17269,15 +17214,15 @@ Total domains: 25241
 | arifianto.web.id (23 hosts in use) website | private | [agusarifianto](https://freedns.afraid.org/tools/contact.php?user_id=933812&subject=arifianto.web.id) | 5088 days ago (02/08/2012) | 0 |
 | arionskyclub.com (65 hosts in use) website | public | [miladmnp](https://freedns.afraid.org/tools/contact.php?user_id=4238027&subject=arionskyclub.com) | 193 days ago (08/03/2025) | 0 |
 | arrowservice.biz (24 hosts in use) website | private | [trf2701](https://freedns.afraid.org/tools/contact.php?user_id=828590&subject=arrowservice.biz) | 5206 days ago (10/13/2011) | 0 |
-| artdovepeace.org (32 hosts in use) website | private | [eduardoeltortuga](https://freedns.afraid.org/tools/contact.php?user_id=1322437&subject=artdovepeace.org) | 4494 days ago (10/23/2013) | 0 |
+| artdovepeace.org (32 hosts in use) website | private | [eduardoeltortuga](https://freedns.afraid.org/tools/contact.php?user_id=1322437&subject=artdovepeace.org) | 4499 days ago (10/23/2013) | 0 |
 | artsydomains.com (10 hosts in use) website | private | [artsydomains](https://freedns.afraid.org/tools/contact.php?user_id=187214&subject=artsydomains.com) | 4780 days ago (01/10/2013) | 0 |
 | artworkstudio.ro (22 hosts in use) website | private | [scenic2](https://freedns.afraid.org/tools/contact.php?user_id=346233&subject=artworkstudio.ro) | 4719 days ago (02/11/2013) | 0 |
-| arulantologi.com (36 hosts in use) website | private | [saktia666](https://freedns.afraid.org/tools/contact.php?user_id=3499384&subject=arulantologi.com) | 1773 days ago (04/04/2021) | 0 |
+| arulantologi.com (35 hosts in use) website | private | [saktia666](https://freedns.afraid.org/tools/contact.php?user_id=3499384&subject=arulantologi.com) | 1778 days ago (04/04/2021) | 0 |
 | asc-kcsoftica.be (10 hosts in use) website | public | [asckcsoftica](https://freedns.afraid.org/tools/contact.php?user_id=5068930&subject=asc-kcsoftica.be) | 114 days ago (10/24/2025) | 0 |
 | asepcontadores.cl (3 hosts in use) website | private | [asepcontadorescl](https://freedns.afraid.org/tools/contact.php?user_id=3839856&subject=asepcontadores.cl) | 1027 days ago (03/23/2023) | 0 |
 | ashevillainy.com (31 hosts in use) website | private | [jonatello](https://freedns.afraid.org/tools/contact.php?user_id=2560852&subject=ashevillainy.com) | 3655 days ago (02/10/2016) | 0 |
 | ashishraj.com.np (10 hosts in use) website | private | [ashishraj](https://freedns.afraid.org/tools/contact.php?user_id=3133735&subject=ashishraj.com.np) | 2572 days ago (12/29/2018) | 0 |
-| ashleeswines.com (36 hosts in use) website | private | [willard311](https://freedns.afraid.org/tools/contact.php?user_id=647797&subject=ashleeswines.com) | 2864 days ago (03/12/2018) | 0 |
+| ashleeswines.com (17 hosts in use) website | private | [willard311](https://freedns.afraid.org/tools/contact.php?user_id=647797&subject=ashleeswines.com) | 2897 days ago (03/12/2018) | 0 |
 | ashwoodgrove.net (32 hosts in use) website | private | [bencan1a](https://freedns.afraid.org/tools/contact.php?user_id=4240215&subject=ashwoodgrove.net) | 535 days ago (08/26/2024) | 0 |
 | asiakomputer.com (57 hosts in use) website | private | [swanto](https://freedns.afraid.org/tools/contact.php?user_id=405668&subject=asiakomputer.com) | 5299 days ago (08/11/2011) | 0 |
 | asistirsa.com.ar (11 hosts in use) website | private | [alfersoft](https://freedns.afraid.org/tools/contact.php?user_id=185572&subject=asistirsa.com.ar) | 2568 days ago (01/02/2019) | 0 |
@@ -17326,7 +17271,7 @@ Total domains: 25241
 | beerandrocks.net (14 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=beerandrocks.net) | 5171 days ago (12/18/2011) | 0 |
 | befejezomunkak.hu (7 hosts in use) website | public | [woodstockboy](https://freedns.afraid.org/tools/contact.php?user_id=813623&subject=befejezomunkak.hu) | 1196 days ago (10/19/2022) | 0 |
 | belchampch.co.uk (57 hosts in use) website | private | [henryplumb](https://freedns.afraid.org/tools/contact.php?user_id=1681076&subject=belchampch.co.uk) | 3831 days ago (08/17/2015) | 0 |
-| bellyfatcat.com (205 hosts in use) website | public | [brucensun](https://freedns.afraid.org/tools/contact.php?user_id=1356323&subject=bellyfatcat.com) | 3604 days ago (04/04/2016) | 0 |
+| bellyfatcat.com (207 hosts in use) website | public | [brucensun](https://freedns.afraid.org/tools/contact.php?user_id=1356323&subject=bellyfatcat.com) | 3605 days ago (04/04/2016) | 0 |
 | bennett-clan.com (24 hosts in use) website | private | [benatio99](https://freedns.afraid.org/tools/contact.php?user_id=1362220&subject=bennett-clan.com) | 2279 days ago (11/15/2019) | 0 |
 | berkomansion.com (33 hosts in use) website | private | [garetjaxor](https://freedns.afraid.org/tools/contact.php?user_id=3286907&subject=berkomansion.com) | 2374 days ago (07/17/2019) | 0 |
 | bernhard-rau.de (309 hosts in use) website | public | [bernharddrau](https://freedns.afraid.org/tools/contact.php?user_id=2551740&subject=bernhard-rau.de) | 3665 days ago (01/30/2016) | 0 |
@@ -17360,7 +17305,7 @@ Total domains: 25241
 | blog-guru.web.id (84 hosts in use) website | private | [ngemeng](https://freedns.afraid.org/tools/contact.php?user_id=684891&subject=blog-guru.web.id) | 5486 days ago (01/20/2011) | 0 |
 | blogdelpueblo.org (7 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=blogdelpueblo.org) | 695 days ago (03/16/2024) | 0 |
 | boatequipment.nz (13 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatequipment.nz) | 3906 days ago (05/05/2015) | 0 |
-| bookworm.com.np (101 hosts in use) website | public | [binisha](https://freedns.afraid.org/tools/contact.php?user_id=2779205&subject=bookworm.com.np) | 3216 days ago (04/27/2017) | 0 |
+| bookworm.com.np (108 hosts in use) website | public | [binisha](https://freedns.afraid.org/tools/contact.php?user_id=2779205&subject=bookworm.com.np) | 3217 days ago (04/27/2017) | 0 |
 | bourseafrica.net (11 hosts in use) website | private | [diamandist](https://freedns.afraid.org/tools/contact.php?user_id=103977&subject=bourseafrica.net) | 6356 days ago (09/19/2008) | 0 |
 | bowmansarrow.us (167 hosts in use) website | public | [wolfjb](https://freedns.afraid.org/tools/contact.php?user_id=348987&subject=bowmansarrow.us) | 6645 days ago (12/07/2007) | 0 |
 | bradycentral.com (40 hosts in use) website | private | [cbrady3](https://freedns.afraid.org/tools/contact.php?user_id=3491495&subject=bradycentral.com) | 1877 days ago (12/23/2020) | 0 |
@@ -17486,7 +17431,7 @@ Total domains: 25241
 | costelantohi.com (36 hosts in use) website | private | [coxxxtel](https://freedns.afraid.org/tools/contact.php?user_id=456253&subject=costelantohi.com) | 6227 days ago (01/24/2009) | 0 |
 | costruzionicer.eu (9 hosts in use) website | private | [frafrafra112233](https://freedns.afraid.org/tools/contact.php?user_id=4469916&subject=costruzionicer.eu) | 223 days ago (06/04/2025) | 0 |
 | covalency.com.au (24 hosts in use) website | private | [gbea1](https://freedns.afraid.org/tools/contact.php?user_id=575773&subject=covalency.com.au) | 3947 days ago (04/23/2015) | 0 |
-| crabdance.com (99779 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=crabdance.com) | 7390 days ago (11/22/2005) | 0 |
+| crabdance.com (99797 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=crabdance.com) | 7391 days ago (11/22/2005) | 0 |
 | crazycamaro.com (112 hosts in use) website | public | [jfish75](https://freedns.afraid.org/tools/contact.php?user_id=848569&subject=crazycamaro.com) | 2833 days ago (05/11/2018) | 0 |
 | creaesthetic.com (29 hosts in use) website | private | [ideascape](https://freedns.afraid.org/tools/contact.php?user_id=1106963&subject=creaesthetic.com) | 4963 days ago (07/06/2012) | 0 |
 | creditgorilla.biz (6 hosts in use) website | private | [mariolarra](https://freedns.afraid.org/tools/contact.php?user_id=1485389&subject=creditgorilla.biz) | 390 days ago (12/19/2024) | 0 |
@@ -17577,13 +17522,13 @@ Total domains: 25241
 | dmitrov-sch01.ru (34 hosts in use) website | private | [dmsch01](https://freedns.afraid.org/tools/contact.php?user_id=2905357&subject=dmitrov-sch01.ru) | 3110 days ago (07/11/2017) | 0 |
 | donaldlhaase.com (18 hosts in use) website | private | [quzar](https://freedns.afraid.org/tools/contact.php?user_id=1504540&subject=donaldlhaase.com) | 2175 days ago (03/03/2020) | 0 |
 | donateyourboat.us (5 hosts in use) website | private | [rstunlimited](https://freedns.afraid.org/tools/contact.php?user_id=3158164&subject=donateyourboat.us) | 2482 days ago (04/28/2019) | 0 |
-| donlafferty.net (255 hosts in use) website | public | [donaldl43](https://freedns.afraid.org/tools/contact.php?user_id=209387&subject=donlafferty.net) | 7210 days ago (05/19/2006) | 0 |
+| donlafferty.net (254 hosts in use) website | public | [donaldl43](https://freedns.afraid.org/tools/contact.php?user_id=209387&subject=donlafferty.net) | 7212 days ago (05/19/2006) | 0 |
 | donmanuel.com.ar (31 hosts in use) website | private | [doloresparra](https://freedns.afraid.org/tools/contact.php?user_id=2723250&subject=donmanuel.com.ar) | 3418 days ago (09/06/2016) | 0 |
 | donnabaltera.com (18 hosts in use) website | private | [mbaltera](https://freedns.afraid.org/tools/contact.php?user_id=397308&subject=donnabaltera.com) | 6410 days ago (07/29/2008) | 0 |
 | doorsnknobs.net (297 hosts in use) website | public | [ktittensor](https://freedns.afraid.org/tools/contact.php?user_id=731427&subject=doorsnknobs.net) | 5401 days ago (05/04/2011) | 0 |
 | doris-safety.com (67 hosts in use) website | private | [dus](https://freedns.afraid.org/tools/contact.php?user_id=817277&subject=doris-safety.com) | 5293 days ago (07/31/2011) | 0 |
 | dorna-consult.ro (28 hosts in use) website | public | [pompiliu](https://freedns.afraid.org/tools/contact.php?user_id=5129018&subject=dorna-consult.ro) | 87 days ago (11/19/2025) | 0 |
-| douchisushi.com (331 hosts in use) website | public | [tfarides](https://freedns.afraid.org/tools/contact.php?user_id=2595208&subject=douchisushi.com) | 3617 days ago (03/22/2016) | 0 |
+| douchisushi.com (332 hosts in use) website | public | [tfarides](https://freedns.afraid.org/tools/contact.php?user_id=2595208&subject=douchisushi.com) | 3618 days ago (03/22/2016) | 0 |
 | douglamaster.com (36 hosts in use) website | private | [taltoris](https://freedns.afraid.org/tools/contact.php?user_id=2930917&subject=douglamaster.com) | 3081 days ago (09/07/2017) | 0 |
 | douglascunha.net (20 hosts in use) website | private | [dougmcunha](https://freedns.afraid.org/tools/contact.php?user_id=3763627&subject=douglascunha.net) | 1195 days ago (11/08/2022) | 0 |
 | dougventures.net (20 hosts in use) website | private | [weifinder](https://freedns.afraid.org/tools/contact.php?user_id=4026596&subject=dougventures.net) | 795 days ago (12/13/2023) | 0 |
@@ -17596,7 +17541,7 @@ Total domains: 25241
 | drosenbloom.com (163 hosts in use) website | public | [etherag](https://freedns.afraid.org/tools/contact.php?user_id=96307&subject=drosenbloom.com) | 5854 days ago (02/03/2010) | 0 |
 | drosenbloom.info (37 hosts in use) website | private | [etherag](https://freedns.afraid.org/tools/contact.php?user_id=96307&subject=drosenbloom.info) | 7792 days ago (10/12/2004) | 0 |
 | drsanjay.com.au (149 hosts in use) website | private | [web105](https://freedns.afraid.org/tools/contact.php?user_id=781785&subject=drsanjay.com.au) | 4012 days ago (02/18/2015) | 0 |
-| druidconsult.com (31 hosts in use) website | private | [steco](https://freedns.afraid.org/tools/contact.php?user_id=154620&subject=druidconsult.com) | 7077 days ago (09/30/2006) | 0 |
+| druidconsult.com (31 hosts in use) website | private | [steco](https://freedns.afraid.org/tools/contact.php?user_id=154620&subject=druidconsult.com) | 7079 days ago (09/30/2006) | 0 |
 | dtomasiewicz.com (30 hosts in use) website | private | [dtomasiewicz](https://freedns.afraid.org/tools/contact.php?user_id=1486421&subject=dtomasiewicz.com) | 4531 days ago (09/14/2013) | 0 |
 | dwikarsatama.com (37 hosts in use) website | private | [binapotensia](https://freedns.afraid.org/tools/contact.php?user_id=1397084&subject=dwikarsatama.com) | 4155 days ago (09/09/2014) | 0 |
 | dyinggiraffe.com (32 hosts in use) website | private | [roomloo](https://freedns.afraid.org/tools/contact.php?user_id=352623&subject=dyinggiraffe.com) | 5440 days ago (02/23/2011) | 0 |
@@ -17636,7 +17581,7 @@ Total domains: 25241
 | epicsolutions.cl (26 hosts in use) website | private | [grpiccoli](https://freedns.afraid.org/tools/contact.php?user_id=3084153&subject=epicsolutions.cl) | 2628 days ago (11/05/2018) | 0 |
 | equiparhotel.com (45 hosts in use) website | private | [dblawes](https://freedns.afraid.org/tools/contact.php?user_id=757123&subject=equiparhotel.com) | 5126 days ago (02/03/2012) | 0 |
 | ercanerol.com.tr (20 hosts in use) website | private | [ercanerol](https://freedns.afraid.org/tools/contact.php?user_id=2130999&subject=ercanerol.com.tr) | 3988 days ago (02/14/2015) | 0 |
-| erezerwacja24.pl (69 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=erezerwacja24.pl) | 3577 days ago (05/01/2016) | 0 |
+| erezerwacja24.pl (71 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=erezerwacja24.pl) | 3578 days ago (05/01/2016) | 0 |
 | erezerwacje24.pl (80 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=erezerwacje24.pl) | 3551 days ago (05/01/2016) | 0 |
 | erlebniscoach.ch (64 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=erlebniscoach.ch) | 2993 days ago (12/01/2017) | 0 |
 | esmiranda.com.ar (19 hosts in use) website | private | [moebius666](https://freedns.afraid.org/tools/contact.php?user_id=734882&subject=esmiranda.com.ar) | 5025 days ago (05/02/2012) | 0 |
@@ -17645,7 +17590,7 @@ Total domains: 25241
 | estudiocz.com.ar (33 hosts in use) website | private | [gabrielcz](https://freedns.afraid.org/tools/contact.php?user_id=417760&subject=estudiocz.com.ar) | 6380 days ago (08/28/2008) | 0 |
 | estudioyo.com.ar (71 hosts in use) website | public | [afranceschi](https://freedns.afraid.org/tools/contact.php?user_id=594375&subject=estudioyo.com.ar) | 3279 days ago (02/23/2017) | 0 |
 | esviernes.com.ar (85 hosts in use) website | public | [wegarg](https://freedns.afraid.org/tools/contact.php?user_id=2176496&subject=esviernes.com.ar) | 3981 days ago (03/05/2015) | 0 |
-| ethanbernard.com (35 hosts in use) website | private | [bbernard](https://freedns.afraid.org/tools/contact.php?user_id=450676&subject=ethanbernard.com) | 6245 days ago (01/10/2009) | 0 |
+| ethanbernard.com (36 hosts in use) website | private | [bbernard](https://freedns.afraid.org/tools/contact.php?user_id=450676&subject=ethanbernard.com) | 6246 days ago (01/10/2009) | 0 |
 | evaandering.com (188 hosts in use) website | public | [ericvaandering](https://freedns.afraid.org/tools/contact.php?user_id=1724107&subject=evaandering.com) | 4329 days ago (04/08/2014) | 0 |
 | evanstonfllw.com (30 hosts in use) website | private | [corbanj](https://freedns.afraid.org/tools/contact.php?user_id=142393&subject=evanstonfllw.com) | 4706 days ago (03/17/2013) | 0 |
 | evautotraders.com (3 hosts in use) website | private | [tossuppphike1974](https://freedns.afraid.org/tools/contact.php?user_id=2017426&subject=evautotraders.com) | 4069 days ago (11/23/2014) | 0 |
@@ -17678,7 +17623,7 @@ Total domains: 25241
 | filterdepot24.de (10 hosts in use) website | private | [matrix96](https://freedns.afraid.org/tools/contact.php?user_id=3464889&subject=filterdepot24.de) | 292 days ago (04/03/2025) | 0 |
 | finanzlexikon.net (8 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=finanzlexikon.net) | 3327 days ago (01/04/2017) | 0 |
 | fingwangspace.xyz (8 hosts in use) website | private | [jekabrious](https://freedns.afraid.org/tools/contact.php?user_id=4060191&subject=fingwangspace.xyz) | 311 days ago (03/08/2025) | 0 |
-| fintech-llc.com (335 hosts in use) website | public | [lucafer](https://freedns.afraid.org/tools/contact.php?user_id=126213&subject=fintech-llc.com) | 7624 days ago (03/28/2005) | 0 |
+| fintech-llc.com (334 hosts in use) website | public | [lucafer](https://freedns.afraid.org/tools/contact.php?user_id=126213&subject=fintech-llc.com) | 7630 days ago (03/28/2005) | 0 |
 | firstnewzion.com (31 hosts in use) website | private | [jimbo2024](https://freedns.afraid.org/tools/contact.php?user_id=4052289&subject=firstnewzion.com) | 733 days ago (01/14/2024) | 0 |
 | fishmedicine.com (27 hosts in use) website | private | [usakoi](https://freedns.afraid.org/tools/contact.php?user_id=2937336&subject=fishmedicine.com) | 3062 days ago (09/27/2017) | 0 |
 | fisikateknik.org (35 hosts in use) website | private | [akmalhamdani](https://freedns.afraid.org/tools/contact.php?user_id=256199&subject=fisikateknik.org) | 5605 days ago (10/07/2010) | 0 |
@@ -17719,7 +17664,7 @@ Total domains: 25241
 | garde-studios.de (14 hosts in use) website | private | [dergrumpf](https://freedns.afraid.org/tools/contact.php?user_id=3692191&subject=garde-studios.de) | 1230 days ago (09/08/2022) | 0 |
 | garethmusic.com (190 hosts in use) website | public | [soliver500](https://freedns.afraid.org/tools/contact.php?user_id=1858304&subject=garethmusic.com) | 4187 days ago (08/28/2014) | 0 |
 | garfordgroup.com (63 hosts in use) website | private | [capellasys](https://freedns.afraid.org/tools/contact.php?user_id=1164754&subject=garfordgroup.com) | 4918 days ago (08/27/2012) | 0 |
-| gaudencio.net.br (50 hosts in use) website | private | [emersongaudencio](https://freedns.afraid.org/tools/contact.php?user_id=733806&subject=gaudencio.net.br) | 5258 days ago (09/21/2011) | 0 |
+| gaudencio.net.br (50 hosts in use) website | private | [emersongaudencio](https://freedns.afraid.org/tools/contact.php?user_id=733806&subject=gaudencio.net.br) | 5262 days ago (09/21/2011) | 0 |
 | gblandscape.com (159 hosts in use) website | public | [kgod](https://freedns.afraid.org/tools/contact.php?user_id=1950784&subject=gblandscape.com) | 4078 days ago (12/17/2014) | 0 |
 | gchospital.com.np (8 hosts in use) website | public | [gchospital09](https://freedns.afraid.org/tools/contact.php?user_id=3170844&subject=gchospital.com.np) | 2489 days ago (04/23/2019) | 0 |
 | gdtconsultoria.cl (9 hosts in use) website | private | [marcelorojas1972](https://freedns.afraid.org/tools/contact.php?user_id=1162961&subject=gdtconsultoria.cl) | 2493 days ago (03/18/2019) | 0 |
@@ -17749,7 +17694,7 @@ Total domains: 25241
 | goldenhandsinc.ca (7 hosts in use) website | public | [fsherman](https://freedns.afraid.org/tools/contact.php?user_id=2955462&subject=goldenhandsinc.ca) | 333 days ago (03/09/2025) | 0 |
 | goldsmid.com.ar (119 hosts in use) website | public | [mgoldsmid](https://freedns.afraid.org/tools/contact.php?user_id=799744&subject=goldsmid.com.ar) | 5279 days ago (08/30/2011) | 0 |
 | goncharmaster.ru (65 hosts in use) website | public | [mmaxor](https://freedns.afraid.org/tools/contact.php?user_id=2827044&subject=goncharmaster.ru) | 3045 days ago (09/14/2017) | 0 |
-| goobzkustomz.com (16 hosts in use) website | private | [goobz](https://freedns.afraid.org/tools/contact.php?user_id=193423&subject=goobzkustomz.com) | 7277 days ago (03/14/2006) | 0 |
+| goobzkustomz.com (15 hosts in use) website | private | [goobz](https://freedns.afraid.org/tools/contact.php?user_id=193423&subject=goobzkustomz.com) | 7278 days ago (03/14/2006) | 0 |
 | goodlikethat.net (31 hosts in use) website | private | [tashjian](https://freedns.afraid.org/tools/contact.php?user_id=1365632&subject=goodlikethat.net) | 4651 days ago (05/17/2013) | 0 |
 | goodspeedfilm.com (7 hosts in use) website | private | [jxrwwyw5](https://freedns.afraid.org/tools/contact.php?user_id=4313525&subject=goodspeedfilm.com) | 374 days ago (01/04/2025) | 0 |
 | goodworth.com.au (81 hosts in use) website | public | [vakrian](https://freedns.afraid.org/tools/contact.php?user_id=431660&subject=goodworth.com.au) | 1926 days ago (11/04/2020) | 0 |
@@ -17768,7 +17713,7 @@ Total domains: 25241
 | gravity-source.me (6 hosts in use) website | private | [gravitysource](https://freedns.afraid.org/tools/contact.php?user_id=3857017&subject=gravity-source.me) | 1001 days ago (04/18/2023) | 0 |
 | greenergames.org (28 hosts in use) website | private | [greenergames](https://freedns.afraid.org/tools/contact.php?user_id=2925597&subject=greenergames.org) | 3076 days ago (08/25/2017) | 0 |
 | greenfieldhk.org (85 hosts in use) website | public | [powing45](https://freedns.afraid.org/tools/contact.php?user_id=990996&subject=greenfieldhk.org) | 4380 days ago (02/16/2014) | 0 |
-| greenmilesev.com (27 hosts in use) website | private | [obichijioke](https://freedns.afraid.org/tools/contact.php?user_id=613155&subject=greenmilesev.com) | 340 days ago (03/11/2025) | 0 |
+| greenmilesev.com (32 hosts in use) website | private | [obichijioke](https://freedns.afraid.org/tools/contact.php?user_id=613155&subject=greenmilesev.com) | 341 days ago (03/11/2025) | 0 |
 | greensoftware.ro (28 hosts in use) website | private | [peltechi](https://freedns.afraid.org/tools/contact.php?user_id=2103412&subject=greensoftware.ro) | 4005 days ago (01/26/2015) | 0 |
 | greenwich-hk.com (28 hosts in use) website | private | [greenwich](https://freedns.afraid.org/tools/contact.php?user_id=2588576&subject=greenwich-hk.com) | 3595 days ago (03/13/2016) | 0 |
 | gregstiffler.net (30 hosts in use) website | private | [gstifflerd](https://freedns.afraid.org/tools/contact.php?user_id=291192&subject=gregstiffler.net) | 5501 days ago (01/24/2011) | 0 |
@@ -17810,7 +17755,7 @@ Total domains: 25241
 | hblbrasil.com.br (43 hosts in use) website | private | [rabrahamsson](https://freedns.afraid.org/tools/contact.php?user_id=693600&subject=hblbrasil.com.br) | 5442 days ago (03/01/2011) | 0 |
 | hdf-solutions.de (33 hosts in use) website | private | [feuerwehr54](https://freedns.afraid.org/tools/contact.php?user_id=2388987&subject=hdf-solutions.de) | 3807 days ago (08/23/2015) | 0 |
 | heladostinas.com (25 hosts in use) website | private | [seguelec](https://freedns.afraid.org/tools/contact.php?user_id=3752362&subject=heladostinas.com) | 476 days ago (10/27/2024) | 0 |
-| helicoaching.ch (126 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=helicoaching.ch) | 3592 days ago (03/19/2016) | 0 |
+| helicoaching.ch (126 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=helicoaching.ch) | 3621 days ago (03/19/2016) | 0 |
 | hellasinside.com (77 hosts in use) website | private | [ditzav](https://freedns.afraid.org/tools/contact.php?user_id=656970&subject=hellasinside.com) | 5564 days ago (10/22/2010) | 0 |
 | helpforukraine.at (9 hosts in use) website | private | [motzned](https://freedns.afraid.org/tools/contact.php?user_id=529911&subject=helpforukraine.at) | 279 days ago (05/06/2025) | 0 |
 | henryaveiga.com (150 hosts in use) website | public | [haveigag](https://freedns.afraid.org/tools/contact.php?user_id=1800187&subject=henryaveiga.com) | 4282 days ago (05/25/2014) | 0 |
@@ -17832,7 +17777,7 @@ Total domains: 25241
 | hotelalexccs.com (39 hosts in use) website | private | [hotelalexve](https://freedns.afraid.org/tools/contact.php?user_id=2931217&subject=hotelalexccs.com) | 3080 days ago (09/08/2017) | 0 |
 | hotelhineni.com (107 hosts in use) website | public | [hotelhineni](https://freedns.afraid.org/tools/contact.php?user_id=611237&subject=hotelhineni.com) | 5723 days ago (06/08/2010) | 0 |
 | hotelupgrade.com (64 hosts in use) website | private | [sbate](https://freedns.afraid.org/tools/contact.php?user_id=608337&subject=hotelupgrade.com) | 4632 days ago (06/08/2013) | 0 |
-| houses4let.co.uk (30 hosts in use) website | private | [wiltscomputers](https://freedns.afraid.org/tools/contact.php?user_id=2472694&subject=houses4let.co.uk) | 3704 days ago (11/23/2015) | 0 |
+| houses4let.co.uk (31 hosts in use) website | private | [wiltscomputers](https://freedns.afraid.org/tools/contact.php?user_id=2472694&subject=houses4let.co.uk) | 3738 days ago (11/23/2015) | 0 |
 | houstonnexus.com (40 hosts in use) website | private | [ogerby2](https://freedns.afraid.org/tools/contact.php?user_id=511906&subject=houstonnexus.com) | 4533 days ago (08/24/2013) | 0 |
 | howarddanson.com (40 hosts in use) website | private | [hdanson](https://freedns.afraid.org/tools/contact.php?user_id=3091933&subject=howarddanson.com) | 2720 days ago (09/02/2018) | 0 |
 | htcengineers.com (41 hosts in use) website | private | [waleeda](https://freedns.afraid.org/tools/contact.php?user_id=508392&subject=htcengineers.com) | 6038 days ago (08/03/2009) | 0 |
@@ -17842,7 +17787,7 @@ Total domains: 25241
 | hyperlithium.net (43 hosts in use) website | private | [dkauffman27](https://freedns.afraid.org/tools/contact.php?user_id=1594827&subject=hyperlithium.net) | 4455 days ago (12/05/2013) | 0 |
 | hypernormal.org (103 hosts in use) website | public | [spchapman](https://freedns.afraid.org/tools/contact.php?user_id=3750898&subject=hypernormal.org) | 1089 days ago (01/30/2023) | 0 |
 | i-nameserver.com (34 hosts in use) website | private | [nameservers](https://freedns.afraid.org/tools/contact.php?user_id=284816&subject=i-nameserver.com) | 6915 days ago (03/10/2007) | 0 |
-| i-nameserver.net (29 hosts in use) website | private | [nameservers](https://freedns.afraid.org/tools/contact.php?user_id=284816&subject=i-nameserver.net) | 6832 days ago (06/03/2007) | 0 |
+| i-nameserver.net (30 hosts in use) website | private | [nameservers](https://freedns.afraid.org/tools/contact.php?user_id=284816&subject=i-nameserver.net) | 6833 days ago (06/03/2007) | 0 |
 | i2electronic.xyz (12 hosts in use) website | public | [demket](https://freedns.afraid.org/tools/contact.php?user_id=4466383&subject=i2electronic.xyz) | 259 days ago (05/29/2025) | 0 |
 | iamjustatech.com (15 hosts in use) website | private | [joseluislucio](https://freedns.afraid.org/tools/contact.php?user_id=928455&subject=iamjustatech.com) | 2820 days ago (05/24/2018) | 0 |
 | iamlocal1487.net (33 hosts in use) website | private | [zeroaccess](https://freedns.afraid.org/tools/contact.php?user_id=95244&subject=iamlocal1487.net) | 5939 days ago (11/10/2009) | 0 |
@@ -17851,7 +17796,7 @@ Total domains: 25241
 | ideal-concept.ro (10 hosts in use) website | private | [soriniluti](https://freedns.afraid.org/tools/contact.php?user_id=3582858&subject=ideal-concept.ro) | 1039 days ago (03/11/2023) | 0 |
 | igorburei.com.br (10 hosts in use) website | public | [jadherbr](https://freedns.afraid.org/tools/contact.php?user_id=1815176&subject=igorburei.com.br) | 527 days ago (09/06/2024) | 0 |
 | ilovecocktails.es (6 hosts in use) website | private | [slowbarcelona](https://freedns.afraid.org/tools/contact.php?user_id=4106568&subject=ilovecocktails.es) | 678 days ago (03/06/2024) | 0 |
-| imkerei-zach.at (137 hosts in use) website | public | [mexzach](https://freedns.afraid.org/tools/contact.php?user_id=690212&subject=imkerei-zach.at) | 5491 days ago (02/02/2011) | 0 |
+| imkerei-zach.at (138 hosts in use) website | public | [mexzach](https://freedns.afraid.org/tools/contact.php?user_id=690212&subject=imkerei-zach.at) | 5493 days ago (02/02/2011) | 0 |
 | immensegames.com (28 hosts in use) website | private | [scottfromderby](https://freedns.afraid.org/tools/contact.php?user_id=2520813&subject=immensegames.com) | 3662 days ago (01/06/2016) | 0 |
 | imobzilla.com.br (18 hosts in use) website | private | [badcereal](https://freedns.afraid.org/tools/contact.php?user_id=1051132&subject=imobzilla.com.br) | 2393 days ago (07/29/2019) | 0 |
 | imolesworth.info (20 hosts in use) website | private | [nimbusgb](https://freedns.afraid.org/tools/contact.php?user_id=755536&subject=imolesworth.info) | 5250 days ago (08/30/2011) | 0 |
@@ -17863,7 +17808,7 @@ Total domains: 25241
 | indiancoins.com (151 hosts in use) website | public | [coinsultan](https://freedns.afraid.org/tools/contact.php?user_id=2962039&subject=indiancoins.com) | 2926 days ago (02/05/2018) | 0 |
 | indiepoplist.com (16 hosts in use) website | private | [demitri42](https://freedns.afraid.org/tools/contact.php?user_id=935436&subject=indiepoplist.com) | 3295 days ago (01/13/2017) | 0 |
 | infinight.net.au (14 hosts in use) website | private | [zxarth](https://freedns.afraid.org/tools/contact.php?user_id=1611367&subject=infinight.net.au) | 1825 days ago (02/16/2021) | 0 |
-| infoaraucania.cl (33 hosts in use) website | public | [elmuecinaustral](https://freedns.afraid.org/tools/contact.php?user_id=2695868&subject=infoaraucania.cl) | 470 days ago (11/01/2024) | 0 |
+| infoaraucania.cl (34 hosts in use) website | public | [elmuecinaustral](https://freedns.afraid.org/tools/contact.php?user_id=2695868&subject=infoaraucania.cl) | 471 days ago (11/01/2024) | 0 |
 | infoinmotion.net (12 hosts in use) website | private | [infoinmotion](https://freedns.afraid.org/tools/contact.php?user_id=2406906&subject=infoinmotion.net) | 3806 days ago (09/13/2015) | 0 |
 | infomasc.com.ar (193 hosts in use) website | public | [cris2006](https://freedns.afraid.org/tools/contact.php?user_id=204741&subject=infomasc.com.ar) | 5336 days ago (07/06/2011) | 0 |
 | inggesseg.com.ar (24 hosts in use) website | private | [elgroso](https://freedns.afraid.org/tools/contact.php?user_id=299775&subject=inggesseg.com.ar) | 2472 days ago (05/04/2019) | 0 |
@@ -17889,6 +17834,7 @@ Total domains: 25241
 | it-gurus-llc.com (22 hosts in use) website | private | [g2suthar](https://freedns.afraid.org/tools/contact.php?user_id=3762850&subject=it-gurus-llc.com) | 1190 days ago (11/06/2022) | 0 |
 | itgeekdomain.com (49 hosts in use) website | private | [itgeekwindsor](https://freedns.afraid.org/tools/contact.php?user_id=2720638&subject=itgeekdomain.com) | 3445 days ago (09/02/2016) | 0 |
 | itintelligent.cl (25 hosts in use) website | private | [rodrigobarrios](https://freedns.afraid.org/tools/contact.php?user_id=3142261&subject=itintelligent.cl) | 2574 days ago (01/24/2019) | 0 |
+| ivannazarov.com (103 hosts in use) website | private | [saosivert](https://freedns.afraid.org/tools/contact.php?user_id=459712&subject=ivannazarov.com) | 160 days ago (09/08/2025) | 0 |
 | j2sistemas.com.br (9 hosts in use) website | private | [joaoduarte](https://freedns.afraid.org/tools/contact.php?user_id=3083743&subject=j2sistemas.com.br) | 2723 days ago (08/13/2018) | 0 |
 | jaarreaza.org.ve (71 hosts in use) website | public | [94002717](https://freedns.afraid.org/tools/contact.php?user_id=3532979&subject=jaarreaza.org.ve) | 1530 days ago (12/08/2021) | 0 |
 | jade-hamburg.de (286 hosts in use) website | public | [muelli](https://freedns.afraid.org/tools/contact.php?user_id=49877&subject=jade-hamburg.de) | 5844 days ago (02/13/2010) | 0 |
@@ -17978,14 +17924,12 @@ Total domains: 25241
 | lamagdeleine.com (75 hosts in use) website | private | [nukleo](https://freedns.afraid.org/tools/contact.php?user_id=453640&subject=lamagdeleine.com) | 6238 days ago (01/15/2009) | 0 |
 | lamasuzan.com.np (45 hosts in use) website | public | [ashishakya](https://freedns.afraid.org/tools/contact.php?user_id=3170698&subject=lamasuzan.com.np) | 1795 days ago (02/17/2021) | 0 |
 | lapphuong.com.vn (33 hosts in use) website | private | [tanpham](https://freedns.afraid.org/tools/contact.php?user_id=804834&subject=lapphuong.com.vn) | 5259 days ago (09/08/2011) | 0 |
-| larry-herman.com (26 hosts in use) website | private | [hlearrmrayn](https://freedns.afraid.org/tools/contact.php?user_id=885736&subject=larry-herman.com) | 5160 days ago (12/30/2011) | 0 |
 | latinliturgy.com (99 hosts in use) website | private | [wguelker](https://freedns.afraid.org/tools/contact.php?user_id=947652&subject=latinliturgy.com) | 4080 days ago (12/12/2014) | 0 |
 | lawjames0062.com (56 hosts in use) website | private | [lawjames0062](https://freedns.afraid.org/tools/contact.php?user_id=613287&subject=lawjames0062.com) | 5724 days ago (06/13/2010) | 0 |
 | leadseminars.com (53 hosts in use) website | private | [sgleadotcom](https://freedns.afraid.org/tools/contact.php?user_id=660368&subject=leadseminars.com) | 5560 days ago (10/24/2010) | 0 |
 | leagueninjas.com (48 hosts in use) website | private | [deftoneyo](https://freedns.afraid.org/tools/contact.php?user_id=738684&subject=leagueninjas.com) | 1891 days ago (12/12/2020) | 0 |
 | lecorbeaufou.net (27 hosts in use) website | private | [lyndw](https://freedns.afraid.org/tools/contact.php?user_id=2084375&subject=lecorbeaufou.net) | 3249 days ago (03/23/2017) | 0 |
 | ledsolarbarak.cl (55 hosts in use) website | public | [jrcortes](https://freedns.afraid.org/tools/contact.php?user_id=2804962&subject=ledsolarbarak.cl) | 3329 days ago (01/03/2017) | 0 |
-| leesgroup.com.au (26 hosts in use) website | private | [maxlees](https://freedns.afraid.org/tools/contact.php?user_id=1843725&subject=leesgroup.com.au) | 4215 days ago (07/15/2014) | 0 |
 | leesmarthouse.com (6 hosts in use) website | private | [alyssalee](https://freedns.afraid.org/tools/contact.php?user_id=3887914&subject=leesmarthouse.com) | 955 days ago (06/03/2023) | 0 |
 | lekhnathfb.com.np (4 hosts in use) website | public | [sunil7725](https://freedns.afraid.org/tools/contact.php?user_id=3527976&subject=lekhnathfb.com.np) | 1794 days ago (03/13/2021) | 0 |
 | lektoriranje.com (19 hosts in use) website | private | [fefox](https://freedns.afraid.org/tools/contact.php?user_id=513527&subject=lektoriranje.com) | 2223 days ago (01/12/2020) | 0 |
@@ -17995,7 +17939,6 @@ Total domains: 25241
 | letsgosailing.com (6 hosts in use) website | private | [izafar](https://freedns.afraid.org/tools/contact.php?user_id=2030742&subject=letsgosailing.com) | 7573 days ago (04/20/2005) | 0 |
 | liberatelecom.es (20 hosts in use) website | private | [entrepeneur](https://freedns.afraid.org/tools/contact.php?user_id=1824297&subject=liberatelecom.es) | 1767 days ago (04/10/2021) | 0 |
 | lifepixeled.com (215 hosts in use) website | public | [l8knight](https://freedns.afraid.org/tools/contact.php?user_id=2382521&subject=lifepixeled.com) | 3837 days ago (08/15/2015) | 0 |
-| lightcyphers.biz (26 hosts in use) website | private | [unghenilabs](https://freedns.afraid.org/tools/contact.php?user_id=310702&subject=lightcyphers.biz) | 2557 days ago (01/16/2019) | 0 |
 | lignotech.com.br (68 hosts in use) website | public | [lignotech](https://freedns.afraid.org/tools/contact.php?user_id=2263512&subject=lignotech.com.br) | 3948 days ago (04/10/2015) | 0 |
 | lilvioletlove.com (7 hosts in use) website | private | [lilvioletlove](https://freedns.afraid.org/tools/contact.php?user_id=3723098&subject=lilvioletlove.com) | 1267 days ago (07/26/2022) | 0 |
 | lindadevries.com (29 hosts in use) website | private | [747driver](https://freedns.afraid.org/tools/contact.php?user_id=1507974&subject=lindadevries.com) | 4340 days ago (02/27/2014) | 0 |
@@ -18022,7 +17965,6 @@ Total domains: 25241
 | machanics.com.my (19 hosts in use) website | private | [ysgroup](https://freedns.afraid.org/tools/contact.php?user_id=1949912&subject=machanics.com.my) | 5389 days ago (04/15/2011) | 0 |
 | mackayphotos.org (17 hosts in use) website | private | [stevemackay](https://freedns.afraid.org/tools/contact.php?user_id=445517&subject=mackayphotos.org) | 3981 days ago (03/15/2015) | 0 |
 | macrosoftware.cl (39 hosts in use) website | private | [mhiker](https://freedns.afraid.org/tools/contact.php?user_id=3039145&subject=macrosoftware.cl) | 2847 days ago (03/31/2018) | 0 |
-| maderaestudio.cl (26 hosts in use) website | private | [bgpchile](https://freedns.afraid.org/tools/contact.php?user_id=2941988&subject=maderaestudio.cl) | 2605 days ago (11/26/2018) | 0 |
 | madewithmeat.org (46 hosts in use) website | private | [tmulroy](https://freedns.afraid.org/tools/contact.php?user_id=771683&subject=madewithmeat.org) | 5300 days ago (07/25/2011) | 0 |
 | mafiashare.co.il (14 hosts in use) website | private | [nirnave](https://freedns.afraid.org/tools/contact.php?user_id=742661&subject=mafiashare.co.il) | 5335 days ago (06/06/2011) | 0 |
 | magazinezeta.com (22 hosts in use) website | private | [francod](https://freedns.afraid.org/tools/contact.php?user_id=1386720&subject=magazinezeta.com) | 539 days ago (08/21/2024) | 0 |
@@ -18031,23 +17973,19 @@ Total domains: 25241
 | maiswebsites.com (34 hosts in use) website | private | [oneijr](https://freedns.afraid.org/tools/contact.php?user_id=4355027&subject=maiswebsites.com) | 378 days ago (01/29/2025) | 0 |
 | makeupbuzz.co.uk (22 hosts in use) website | private | [johntsang](https://freedns.afraid.org/tools/contact.php?user_id=412479&subject=makeupbuzz.co.uk) | 4546 days ago (08/03/2013) | 0 |
 | maksimgradnja.rs (14 hosts in use) website | private | [simex](https://freedns.afraid.org/tools/contact.php?user_id=375976&subject=maksimgradnja.rs) | 4739 days ago (02/07/2013) | 0 |
-| manganaro.com.ar (26 hosts in use) website | private | [elpianista](https://freedns.afraid.org/tools/contact.php?user_id=1000319&subject=manganaro.com.ar) | 4093 days ago (11/29/2014) | 0 |
 | manufactorum.org (14 hosts in use) website | private | [t3sting](https://freedns.afraid.org/tools/contact.php?user_id=342176&subject=manufactorum.org) | 3614 days ago (03/19/2016) | 0 |
 | marbilder.com.ar (21 hosts in use) website | private | [norbe](https://freedns.afraid.org/tools/contact.php?user_id=1234951&subject=marbilder.com.ar) | 4627 days ago (06/09/2013) | 0 |
 | marca-rojo.com.ar (6 hosts in use) website | private | [dabdala](https://freedns.afraid.org/tools/contact.php?user_id=557910&subject=marca-rojo.com.ar) | 5140 days ago (12/18/2011) | 0 |
 | marceloavalos.cl (10 hosts in use) website | private | [marceloavalos](https://freedns.afraid.org/tools/contact.php?user_id=2611547&subject=marceloavalos.cl) | 3565 days ago (04/10/2016) | 0 |
 | marcodominguez.ar (3 hosts in use) website | private | [marcodominguez](https://freedns.afraid.org/tools/contact.php?user_id=720233&subject=marcodominguez.ar) | 1275 days ago (07/18/2022) | 0 |
-| mareintex.com.ar (26 hosts in use) website | private | [asidi](https://freedns.afraid.org/tools/contact.php?user_id=1878960&subject=mareintex.com.ar) | 4222 days ago (07/23/2014) | 0 |
 | mariajael.com.ar (24 hosts in use) website | private | [billydos](https://freedns.afraid.org/tools/contact.php?user_id=596295&subject=mariajael.com.ar) | 5755 days ago (05/04/2010) | 0 |
 | marieblazek.com (411 hosts in use) website | public | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=marieblazek.com) | 6989 days ago (12/26/2006) | 0 |
 | marilynhotes.com (47 hosts in use) website | private | [sahotes](https://freedns.afraid.org/tools/contact.php?user_id=83668&subject=marilynhotes.com) | 7865 days ago (08/02/2004) | 0 |
 | mariomartinez.cl (25 hosts in use) website | private | [mxdos](https://freedns.afraid.org/tools/contact.php?user_id=1406922&subject=mariomartinez.cl) | 3883 days ago (05/30/2015) | 0 |
 | marisdatabase.ro (32 hosts in use) website | private | [eucaos](https://freedns.afraid.org/tools/contact.php?user_id=491602&subject=marisdatabase.ro) | 4245 days ago (06/02/2014) | 0 |
-| marisiamuseum.ro (26 hosts in use) website | private | [eucaos](https://freedns.afraid.org/tools/contact.php?user_id=491602&subject=marisiamuseum.ro) | 4418 days ago (12/11/2013) | 0 |
 | mark-hansen.com (149 hosts in use) website | public | [mark9700](https://freedns.afraid.org/tools/contact.php?user_id=1162139&subject=mark-hansen.com) | 4922 days ago (08/23/2012) | 0 |
-| markus-gerber.ch (26 hosts in use) website | private | [nadarec](https://freedns.afraid.org/tools/contact.php?user_id=88279&subject=markus-gerber.ch) | 7123 days ago (08/14/2006) | 0 |
 | markyijohnson.com (9 hosts in use) website | private | [markermarked](https://freedns.afraid.org/tools/contact.php?user_id=3404558&subject=markyijohnson.com) | 51 days ago (12/24/2025) | 0 |
-| marqenhotels.com (34 hosts in use) website | private | [xulaeman](https://freedns.afraid.org/tools/contact.php?user_id=423401&subject=marqenhotels.com) | 77 days ago (11/13/2025) | 0 |
+| marqenhotels.com (34 hosts in use) website | private | [xulaeman](https://freedns.afraid.org/tools/contact.php?user_id=423401&subject=marqenhotels.com) | 95 days ago (11/13/2025) | 0 |
 | marshkaleido.com (20 hosts in use) website | private | [marshkaleido](https://freedns.afraid.org/tools/contact.php?user_id=3044552&subject=marshkaleido.com) | 2863 days ago (04/14/2018) | 0 |
 | martindiz.com.ar (84 hosts in use) website | public | [mestor](https://freedns.afraid.org/tools/contact.php?user_id=2150515&subject=martindiz.com.ar) | 3988 days ago (02/26/2015) | 0 |
 | martinibh.com.br (18 hosts in use) website | private | [martinibh](https://freedns.afraid.org/tools/contact.php?user_id=756958&subject=martinibh.com.br) | 5337 days ago (07/04/2011) | 0 |
@@ -18058,7 +17996,6 @@ Total domains: 25241
 | maryejackson.com (42 hosts in use) website | private | [justynlb](https://freedns.afraid.org/tools/contact.php?user_id=2567315&subject=maryejackson.com) | 3168 days ago (06/14/2017) | 0 |
 | masiukiewicz.pl (137 hosts in use) website | public | [masger](https://freedns.afraid.org/tools/contact.php?user_id=369540&subject=masiukiewicz.pl) | 6562 days ago (02/27/2008) | 0 |
 | masoneria.org.ar (24 hosts in use) website | private | [plazaro](https://freedns.afraid.org/tools/contact.php?user_id=1028217&subject=masoneria.org.ar) | 4865 days ago (10/02/2012) | 0 |
-| masonichalls.org (26 hosts in use) website | private | [stucard](https://freedns.afraid.org/tools/contact.php?user_id=3341442&subject=masonichalls.org) | 2220 days ago (12/23/2019) | 0 |
 | matthewkurth.com (50 hosts in use) website | private | [mkurth](https://freedns.afraid.org/tools/contact.php?user_id=608277&subject=matthewkurth.com) | 3682 days ago (01/14/2016) | 0 |
 | mattstewart.name (13 hosts in use) website | private | [cas79](https://freedns.afraid.org/tools/contact.php?user_id=642338&subject=mattstewart.name) | 3150 days ago (05/30/2017) | 0 |
 | mattstreet.ninja (24 hosts in use) website | private | [mattstreet](https://freedns.afraid.org/tools/contact.php?user_id=3039928&subject=mattstreet.ninja) | 2845 days ago (04/02/2018) | 0 |
@@ -18076,7 +18013,6 @@ Total domains: 25241
 | meetmarket.co.za (11 hosts in use) website | private | [frankebailey](https://freedns.afraid.org/tools/contact.php?user_id=847936&subject=meetmarket.co.za) | 5103 days ago (02/07/2012) | 0 |
 | megacorpwars.com (35 hosts in use) website | private | [acoltye](https://freedns.afraid.org/tools/contact.php?user_id=182316&subject=megacorpwars.com) | 4510 days ago (09/24/2013) | 0 |
 | megajournal.com (229 hosts in use) website | public | [jason75](https://freedns.afraid.org/tools/contact.php?user_id=1389430&subject=megajournal.com) | 4631 days ago (06/10/2013) | 0 |
-| melbrotech.co.za (26 hosts in use) website | private | [melbrotech](https://freedns.afraid.org/tools/contact.php?user_id=2572274&subject=melbrotech.co.za) | 3653 days ago (02/09/2016) | 0 |
 | melodytowers.com (36 hosts in use) website | private | [jerram](https://freedns.afraid.org/tools/contact.php?user_id=160859&subject=melodytowers.com) | 5587 days ago (10/25/2010) | 0 |
 | mercado3d.net.ar (25 hosts in use) website | private | [galdolescano](https://freedns.afraid.org/tools/contact.php?user_id=754033&subject=mercado3d.net.ar) | 2933 days ago (01/04/2018) | 0 |
 | messerfreunde.de (16 hosts in use) website | private | [marhue](https://freedns.afraid.org/tools/contact.php?user_id=1361231&subject=messerfreunde.de) | 235 days ago (06/17/2025) | 0 |
@@ -18122,11 +18058,10 @@ Total domains: 25241
 | monkeywerks.net (190 hosts in use) website | public | [mmoore71](https://freedns.afraid.org/tools/contact.php?user_id=441887&subject=monkeywerks.net) | 6285 days ago (11/29/2008) | 0 |
 | monkeywills.com (197 hosts in use) website | public | [jackwgraham](https://freedns.afraid.org/tools/contact.php?user_id=855336&subject=monkeywills.com) | 5202 days ago (11/18/2011) | 0 |
 | moodlemaster.net (10 hosts in use) website | private | [vozohori](https://freedns.afraid.org/tools/contact.php?user_id=1087520&subject=moodlemaster.net) | 2164 days ago (03/10/2020) | 0 |
-| moodletaiwan.com (26 hosts in use) website | private | [ukliling](https://freedns.afraid.org/tools/contact.php?user_id=852042&subject=moodletaiwan.com) | 1542 days ago (11/09/2021) | 0 |
 | moralia-mundi.xyz (9 hosts in use) website | private | [upliner](https://freedns.afraid.org/tools/contact.php?user_id=663063&subject=moralia-mundi.xyz) | 2765 days ago (06/19/2018) | 0 |
 | morsfodterapi.dk (12 hosts in use) website | public | [larskann](https://freedns.afraid.org/tools/contact.php?user_id=5567589&subject=morsfodterapi.dk) | 35 days ago (01/11/2026) | 0 |
 | moshatobetetek.hu (3 hosts in use) website | private | [bsvdoom](https://freedns.afraid.org/tools/contact.php?user_id=2141736&subject=moshatobetetek.hu) | 2460 days ago (04/20/2019) | 0 |
-| mosquitosnyc.com (36 hosts in use) website | private | [joncraker](https://freedns.afraid.org/tools/contact.php?user_id=799335&subject=mosquitosnyc.com) | 5190 days ago (11/30/2011) | 0 |
+| mosquitosnyc.com (36 hosts in use) website | private | [joncraker](https://freedns.afraid.org/tools/contact.php?user_id=799335&subject=mosquitosnyc.com) | 5192 days ago (11/30/2011) | 0 |
 | motorklassiek.nl (34 hosts in use) website | private | [maarten999](https://freedns.afraid.org/tools/contact.php?user_id=1071586&subject=motorklassiek.nl) | 4610 days ago (06/29/2013) | 0 |
 | mousemusic.co.uk (22 hosts in use) website | private | [mousematt](https://freedns.afraid.org/tools/contact.php?user_id=1786621&subject=mousemusic.co.uk) | 3725 days ago (12/01/2015) | 0 |
 | mrlbucuresti.ro (105 hosts in use) website | public | [lordofgore](https://freedns.afraid.org/tools/contact.php?user_id=877114&subject=mrlbucuresti.ro) | 4597 days ago (06/13/2013) | 0 |
@@ -18146,7 +18081,6 @@ Total domains: 25241
 | myhomerouter.com (61 hosts in use) website | private | [sharkey55](https://freedns.afraid.org/tools/contact.php?user_id=3355416&subject=myhomerouter.com) | 2203 days ago (02/02/2020) | 0 |
 | mymiddlebury.com (31 hosts in use) website | private | [rrlange](https://freedns.afraid.org/tools/contact.php?user_id=376281&subject=mymiddlebury.com) | 6536 days ago (03/23/2008) | 0 |
 | myrightmydata.org (9 hosts in use) website | private | [kleach](https://freedns.afraid.org/tools/contact.php?user_id=3304800&subject=myrightmydata.org) | 2351 days ago (09/06/2019) | 0 |
-| mysanctuary.mobi (26 hosts in use) website | private | [brentdcarter1](https://freedns.afraid.org/tools/contact.php?user_id=503213&subject=mysanctuary.mobi) | 5017 days ago (05/15/2012) | 0 |
 | mysanctuary.org (105 hosts in use) website | private | [brentdcarter1](https://freedns.afraid.org/tools/contact.php?user_id=503213&subject=mysanctuary.org) | 5021 days ago (05/15/2012) | 0 |
 | mystoryblock.com (37 hosts in use) website | private | [smbw19](https://freedns.afraid.org/tools/contact.php?user_id=3144924&subject=mystoryblock.com) | 2552 days ago (01/30/2019) | 0 |
 | myswedenhost.xyz (13 hosts in use) website | private | [hussainshariff](https://freedns.afraid.org/tools/contact.php?user_id=4889667&subject=myswedenhost.xyz) | 143 days ago (09/22/2025) | 0 |
@@ -18173,13 +18107,12 @@ Total domains: 25241
 | nextechbrands.com (3 hosts in use) website | private | [tituteva1975](https://freedns.afraid.org/tools/contact.php?user_id=2013563&subject=nextechbrands.com) | 4073 days ago (11/19/2014) | 0 |
 | nexustech.com.au (38 hosts in use) website | private | [dbryar](https://freedns.afraid.org/tools/contact.php?user_id=83901&subject=nexustech.com.au) | 6816 days ago (06/15/2007) | 0 |
 | nhactruoc75.com (174 hosts in use) website | public | [phoipha](https://freedns.afraid.org/tools/contact.php?user_id=756444&subject=nhactruoc75.com) | 4007 days ago (02/23/2015) | 0 |
-| niamhhill.co.uk (121 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=niamhhill.co.uk) | 5643 days ago (09/01/2010) | 0 |
+| niamhhill.co.uk (122 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=niamhhill.co.uk) | 5647 days ago (09/01/2010) | 0 |
 | nickbertrand.com (38 hosts in use) website | private | [nickbertrand](https://freedns.afraid.org/tools/contact.php?user_id=249758&subject=nickbertrand.com) | 7055 days ago (10/13/2006) | 0 |
 | nickhudspeth.com (29 hosts in use) website | private | [nickhudspeth](https://freedns.afraid.org/tools/contact.php?user_id=1669673&subject=nickhudspeth.com) | 4155 days ago (09/26/2014) | 0 |
 | nickmacinnis.com (39 hosts in use) website | private | [nmiaccki](https://freedns.afraid.org/tools/contact.php?user_id=381426&subject=nickmacinnis.com) | 6512 days ago (04/08/2008) | 0 |
 | nicodim-conta.ro (12 hosts in use) website | public | [pompiliu](https://freedns.afraid.org/tools/contact.php?user_id=5129018&subject=nicodim-conta.ro) | 89 days ago (11/13/2025) | 0 |
 | nikitakretov.com (53 hosts in use) website | private | [nikitas](https://freedns.afraid.org/tools/contact.php?user_id=559902&subject=nikitakretov.com) | 5708 days ago (06/04/2010) | 0 |
-| nissisystems.com (26 hosts in use) website | private | [lanavas](https://freedns.afraid.org/tools/contact.php?user_id=718048&subject=nissisystems.com) | 4902 days ago (08/28/2012) | 0 |
 | noetzelfamily.us (12 hosts in use) website | public | [jcnoetzel](https://freedns.afraid.org/tools/contact.php?user_id=1962166&subject=noetzelfamily.us) | 4131 days ago (10/17/2014) | 0 |
 | nofussmedia.com (180 hosts in use) website | public | [morlockaerospace](https://freedns.afraid.org/tools/contact.php?user_id=1965822&subject=nofussmedia.com) | 4140 days ago (10/14/2014) | 0 |
 | nofussmedia.info (56 hosts in use) website | public | [morlockaerospace](https://freedns.afraid.org/tools/contact.php?user_id=1965822&subject=nofussmedia.info) | 4138 days ago (10/14/2014) | 0 |
@@ -18207,7 +18140,7 @@ Total domains: 25241
 | origamimommy.com (42 hosts in use) website | private | [midas7g](https://freedns.afraid.org/tools/contact.php?user_id=183466&subject=origamimommy.com) | 6414 days ago (07/23/2008) | 0 |
 | orion-stella.com (62 hosts in use) website | private | [cyberio](https://freedns.afraid.org/tools/contact.php?user_id=1429624&subject=orion-stella.com) | 232 days ago (06/26/2025) | 0 |
 | ortizluna.com.ar (24 hosts in use) website | private | [germangmz](https://freedns.afraid.org/tools/contact.php?user_id=279769&subject=ortizluna.com.ar) | 6910 days ago (02/14/2007) | 0 |
-| ortonavarro.com (174 hosts in use) website | public | [mnavarro](https://freedns.afraid.org/tools/contact.php?user_id=2608053&subject=ortonavarro.com) | 3601 days ago (04/07/2016) | 0 |
+| ortonavarro.com (176 hosts in use) website | public | [mnavarro](https://freedns.afraid.org/tools/contact.php?user_id=2608053&subject=ortonavarro.com) | 3602 days ago (04/07/2016) | 0 |
 | osapsalud.com.ar (28 hosts in use) website | private | [osap](https://freedns.afraid.org/tools/contact.php?user_id=551553&subject=osapsalud.com.ar) | 5863 days ago (01/20/2010) | 0 |
 | oscometas.com.br (34 hosts in use) website | private | [lipesantos](https://freedns.afraid.org/tools/contact.php?user_id=252657&subject=oscometas.com.br) | 5961 days ago (10/19/2009) | 0 |
 | outsidehurtig.se (19 hosts in use) website | public | [robhuoutsidehurt](https://freedns.afraid.org/tools/contact.php?user_id=5473829&subject=outsidehurtig.se) | 42 days ago (01/04/2026) | 0 |
@@ -18264,7 +18197,7 @@ Total domains: 25241
 | plumaroja.com.ar (92 hosts in use) website | public | [mpalavecino](https://freedns.afraid.org/tools/contact.php?user_id=1447398&subject=plumaroja.com.ar) | 3078 days ago (08/17/2017) | 0 |
 | pndevkota.com.np (22 hosts in use) website | private | [pkaarkee](https://freedns.afraid.org/tools/contact.php?user_id=3139449&subject=pndevkota.com.np) | 2567 days ago (01/29/2019) | 0 |
 | podnikavesrdce.sk (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=podnikavesrdce.sk) | 2695 days ago (08/28/2018) | 0 |
-| pogodragon.co.uk (90 hosts in use) website | private | [stormwarrior](https://freedns.afraid.org/tools/contact.php?user_id=2879179&subject=pogodragon.co.uk) | 3196 days ago (05/16/2017) | 0 |
+| pogodragon.co.uk (90 hosts in use) website | private | [stormwarrior](https://freedns.afraid.org/tools/contact.php?user_id=2879179&subject=pogodragon.co.uk) | 3198 days ago (05/16/2017) | 0 |
 | poikainpanema.fi (23 hosts in use) website | private | [naitsu](https://freedns.afraid.org/tools/contact.php?user_id=3088831&subject=poikainpanema.fi) | 2717 days ago (08/28/2018) | 0 |
 | poormanscow.com (215 hosts in use) website | public | [c015431](https://freedns.afraid.org/tools/contact.php?user_id=50705&subject=poormanscow.com) | 6507 days ago (04/22/2008) | 0 |
 | popsamustdie.net (46 hosts in use) website | private | [saosivert](https://freedns.afraid.org/tools/contact.php?user_id=459712&subject=popsamustdie.net) | 6215 days ago (02/06/2009) | 0 |
@@ -18293,7 +18226,7 @@ Total domains: 25241
 | propiedadeslm.cl (20 hosts in use) website | private | [nraynier](https://freedns.afraid.org/tools/contact.php?user_id=1579670&subject=propiedadeslm.cl) | 1743 days ago (05/06/2021) | 0 |
 | prostitutkimsk.eu (7 hosts in use) website | private | [peterli230](https://freedns.afraid.org/tools/contact.php?user_id=3411750&subject=prostitutkimsk.eu) | 111 days ago (09/24/2025) | 0 |
 | protechsi.com.ar (27 hosts in use) website | private | [protechsiv](https://freedns.afraid.org/tools/contact.php?user_id=527443&subject=protechsi.com.ar) | 5961 days ago (10/19/2009) | 0 |
-| proteinhubbd.com (15 hosts in use) website | private | [juari](https://freedns.afraid.org/tools/contact.php?user_id=26333&subject=proteinhubbd.com) | 215 days ago (07/13/2025) | 0 |
+| proteinhubbd.com (43 hosts in use) website | private | [juari](https://freedns.afraid.org/tools/contact.php?user_id=26333&subject=proteinhubbd.com) | 217 days ago (07/13/2025) | 0 |
 | protocultura.net (32 hosts in use) website | private | [alecura](https://freedns.afraid.org/tools/contact.php?user_id=666887&subject=protocultura.net) | 5285 days ago (08/25/2011) | 0 |
 | pulsostudios.com (26 hosts in use) website | private | [bluemagicv2](https://freedns.afraid.org/tools/contact.php?user_id=4270107&subject=pulsostudios.com) | 499 days ago (10/02/2024) | 0 |
 | puremarexpert.ro (28 hosts in use) website | private | [aniotek](https://freedns.afraid.org/tools/contact.php?user_id=2545668&subject=puremarexpert.ro) | 1260 days ago (08/04/2022) | 0 |
@@ -18326,7 +18259,7 @@ Total domains: 25241
 | rc-reviews.co.uk (25 hosts in use) website | private | [rbarfield](https://freedns.afraid.org/tools/contact.php?user_id=559408&subject=rc-reviews.co.uk) | 5798 days ago (03/02/2010) | 0 |
 | readymindit.com (218 hosts in use) website | public | [readymind](https://freedns.afraid.org/tools/contact.php?user_id=1556524&subject=readymindit.com) | 3879 days ago (07/02/2015) | 0 |
 | realopensource.ai (5 hosts in use) website | private | [braver](https://freedns.afraid.org/tools/contact.php?user_id=601990&subject=realopensource.ai) | 870 days ago (08/27/2023) | 0 |
-| rebeccaarcher.me (11 hosts in use) website | private | [yilarrefol](https://freedns.afraid.org/tools/contact.php?user_id=740917&subject=rebeccaarcher.me) | 3082 days ago (08/06/2017) | 0 |
+| rebeccaarcher.me (12 hosts in use) website | private | [yilarrefol](https://freedns.afraid.org/tools/contact.php?user_id=740917&subject=rebeccaarcher.me) | 3116 days ago (08/06/2017) | 0 |
 | recursiva.com.ar (81 hosts in use) website | private | [letincho5](https://freedns.afraid.org/tools/contact.php?user_id=798459&subject=recursiva.com.ar) | 5278 days ago (08/29/2011) | 0 |
 | reditservices.ch (26 hosts in use) website | private | [ymo](https://freedns.afraid.org/tools/contact.php?user_id=90464&subject=reditservices.ch) | 5050 days ago (03/19/2012) | 0 |
 | redthreaddiy.com (37 hosts in use) website | private | [spooons](https://freedns.afraid.org/tools/contact.php?user_id=262048&subject=redthreaddiy.com) | 6765 days ago (08/07/2007) | 0 |
@@ -18367,7 +18300,7 @@ Total domains: 25241
 | rojitmote.com.np (16 hosts in use) website | private | [rojitmote](https://freedns.afraid.org/tools/contact.php?user_id=3430011&subject=rojitmote.com.np) | 2038 days ago (07/14/2020) | 0 |
 | romanbruderer.ch (30 hosts in use) website | private | [simplysim](https://freedns.afraid.org/tools/contact.php?user_id=465817&subject=romanbruderer.ch) | 2771 days ago (07/13/2018) | 0 |
 | romanhaefeli.net (35 hosts in use) website | private | [reduzent](https://freedns.afraid.org/tools/contact.php?user_id=682508&subject=romanhaefeli.net) | 2095 days ago (05/18/2020) | 0 |
-| rootsbobcat.com (222 hosts in use) website | public | [rootbeer](https://freedns.afraid.org/tools/contact.php?user_id=687564&subject=rootsbobcat.com) | 4740 days ago (02/21/2013) | 0 |
+| rootsbobcat.com (222 hosts in use) website | public | [rootbeer](https://freedns.afraid.org/tools/contact.php?user_id=687564&subject=rootsbobcat.com) | 4743 days ago (02/21/2013) | 0 |
 | rorywilson.co.uk (34 hosts in use) website | private | [rorywilson](https://freedns.afraid.org/tools/contact.php?user_id=2559882&subject=rorywilson.co.uk) | 3657 days ago (02/08/2016) | 0 |
 | rosalilas.com.br (27 hosts in use) website | private | [joaofalcao](https://freedns.afraid.org/tools/contact.php?user_id=294964&subject=rosalilas.com.br) | 6316 days ago (10/29/2008) | 0 |
 | roshanraj.com.np (53 hosts in use) website | public | [roshandamna](https://freedns.afraid.org/tools/contact.php?user_id=2652837&subject=roshanraj.com.np) | 3519 days ago (06/03/2016) | 0 |
@@ -18385,7 +18318,7 @@ Total domains: 25241
 | ryanamyko.nom.za (34 hosts in use) website | private | [amyzyx](https://freedns.afraid.org/tools/contact.php?user_id=1265937&subject=ryanamyko.nom.za) | 4676 days ago (04/20/2013) | 0 |
 | ryanfamily.me.uk (31 hosts in use) website | private | [miker1967mda](https://freedns.afraid.org/tools/contact.php?user_id=1429715&subject=ryanfamily.me.uk) | 4590 days ago (07/21/2013) | 0 |
 | ryanstephens.net (27 hosts in use) website | private | [rstephens](https://freedns.afraid.org/tools/contact.php?user_id=1225260&subject=ryanstephens.net) | 4835 days ago (11/18/2012) | 0 |
-| sabongbisaya.net (10 hosts in use) website | public | [fahad4140](https://freedns.afraid.org/tools/contact.php?user_id=3050183&subject=sabongbisaya.net) | 3372 days ago (11/18/2016) | 0 |
+| sabongbisaya.net (10 hosts in use) website | public | [fahad4140](https://freedns.afraid.org/tools/contact.php?user_id=3050183&subject=sabongbisaya.net) | 3376 days ago (11/18/2016) | 0 |
 | saer-emploi.com (136 hosts in use) website | public | [koffi](https://freedns.afraid.org/tools/contact.php?user_id=1435530&subject=saer-emploi.com) | 4545 days ago (09/04/2013) | 0 |
 | saintgroup.co.za (12 hosts in use) website | private | [saintgroup](https://freedns.afraid.org/tools/contact.php?user_id=270570&subject=saintgroup.co.za) | 6969 days ago (01/10/2007) | 0 |
 | salasproduce.com (39 hosts in use) website | private | [kike3d](https://freedns.afraid.org/tools/contact.php?user_id=850150&subject=salasproduce.com) | 2698 days ago (08/27/2018) | 0 |
@@ -18445,6 +18378,7 @@ Total domains: 25241
 | shahsushma.com.np (6 hosts in use) website | public | [shahsushma48](https://freedns.afraid.org/tools/contact.php?user_id=3609076&subject=shahsushma.com.np) | 1570 days ago (10/25/2021) | 0 |
 | shakinit4fun.com (56 hosts in use) website | private | [erice1031](https://freedns.afraid.org/tools/contact.php?user_id=1914909&subject=shakinit4fun.com) | 4189 days ago (08/26/2014) | 0 |
 | shangrui-inc.com (43 hosts in use) website | private | [cznbzn](https://freedns.afraid.org/tools/contact.php?user_id=2927932&subject=shangrui-inc.com) | 3006 days ago (10/21/2017) | 0 |
+| shayu-family.net (10 hosts in use) website | private | [wqyeo](https://freedns.afraid.org/tools/contact.php?user_id=4198785&subject=shayu-family.net) | 0 days ago (02/16/2026) | 0 |
 | shekobandits.com (32 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=shekobandits.com) | 6192 days ago (03/02/2009) | 0 |
 | shenzhou-yule.com (8 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=shenzhou-yule.com) | 168 days ago (07/29/2025) | 0 |
 | shieldsgroup.com (24 hosts in use) website | private | [shieldsit](https://freedns.afraid.org/tools/contact.php?user_id=263569&subject=shieldsgroup.com) | 2598 days ago (12/03/2018) | 0 |
@@ -18454,7 +18388,7 @@ Total domains: 25241
 | shogivaldivia.cl (51 hosts in use) website | public | [kleffa](https://freedns.afraid.org/tools/contact.php?user_id=997591&subject=shogivaldivia.cl) | 2122 days ago (04/16/2020) | 0 |
 | showmyhomes.com (481 hosts in use) website | public | [wgaskin](https://freedns.afraid.org/tools/contact.php?user_id=156436&subject=showmyhomes.com) | 7370 days ago (12/10/2005) | 0 |
 | shredstreet.com (182 hosts in use) website | public | [netsecsys](https://freedns.afraid.org/tools/contact.php?user_id=866127&subject=shredstreet.com) | 5183 days ago (11/30/2011) | 0 |
-| shreyansh.com.np (63 hosts in use) website | public | [shreyansh](https://freedns.afraid.org/tools/contact.php?user_id=2614153&subject=shreyansh.com.np) | 3595 days ago (04/13/2016) | 0 |
+| shreyansh.com.np (65 hosts in use) website | public | [shreyansh](https://freedns.afraid.org/tools/contact.php?user_id=2614153&subject=shreyansh.com.np) | 3596 days ago (04/13/2016) | 0 |
 | siasolution.com (209 hosts in use) website | public | [sarkeruk](https://freedns.afraid.org/tools/contact.php?user_id=291980&subject=siasolution.com) | 6524 days ago (04/05/2008) | 0 |
 | siebrecht.com.au (33 hosts in use) website | private | [cd084](https://freedns.afraid.org/tools/contact.php?user_id=3342514&subject=siebrecht.com.au) | 2233 days ago (12/27/2019) | 0 |
 | sigmaworks.co.uk (16 hosts in use) website | private | [rpb01r](https://freedns.afraid.org/tools/contact.php?user_id=201000&subject=sigmaworks.co.uk) | 2589 days ago (01/08/2019) | 0 |
@@ -18486,7 +18420,7 @@ Total domains: 25241
 | smileshop.com.au (25 hosts in use) website | private | [comlinkit](https://freedns.afraid.org/tools/contact.php?user_id=1898638&subject=smileshop.com.au) | 3717 days ago (11/26/2015) | 0 |
 | snallygaster.net (42 hosts in use) website | private | [sreubanks](https://freedns.afraid.org/tools/contact.php?user_id=1250057&subject=snallygaster.net) | 4807 days ago (12/18/2012) | 0 |
 | socalprepper.com (38 hosts in use) website | private | [ssheeks](https://freedns.afraid.org/tools/contact.php?user_id=1706047&subject=socalprepper.com) | 4315 days ago (03/24/2014) | 0 |
-| socialnomad.com (222 hosts in use) website | public | [socialnomad](https://freedns.afraid.org/tools/contact.php?user_id=2627901&subject=socialnomad.com) | 3575 days ago (05/01/2016) | 0 |
+| socialnomad.com (224 hosts in use) website | public | [socialnomad](https://freedns.afraid.org/tools/contact.php?user_id=2627901&subject=socialnomad.com) | 3578 days ago (05/01/2016) | 0 |
 | soft-builder.net (31 hosts in use) website | private | [gbellocchio](https://freedns.afraid.org/tools/contact.php?user_id=3837942&subject=soft-builder.net) | 1061 days ago (03/21/2023) | 0 |
 | softoneit.com.ar (25 hosts in use) website | private | [estebansuti](https://freedns.afraid.org/tools/contact.php?user_id=1198721&subject=softoneit.com.ar) | 2691 days ago (09/03/2018) | 0 |
 | soillrecords.com (36 hosts in use) website | private | [mhileman](https://freedns.afraid.org/tools/contact.php?user_id=244935&subject=soillrecords.com) | 6729 days ago (09/12/2007) | 0 |
@@ -18494,7 +18428,7 @@ Total domains: 25241
 | solo-yoga.com.ar (95 hosts in use) website | public | [sdominguez](https://freedns.afraid.org/tools/contact.php?user_id=478804&subject=solo-yoga.com.ar) | 2993 days ago (12/05/2017) | 0 |
 | somgurung.com.np (27 hosts in use) website | private | [uraj](https://freedns.afraid.org/tools/contact.php?user_id=2677023&subject=somgurung.com.np) | 3477 days ago (07/07/2016) | 0 |
 | sontexgroup.com (102 hosts in use) website | private | [amlai](https://freedns.afraid.org/tools/contact.php?user_id=174439&subject=sontexgroup.com) | 7181 days ago (06/11/2006) | 0 |
-| sony-nucleus.com (18 hosts in use) website | private | [markiper](https://freedns.afraid.org/tools/contact.php?user_id=2943998&subject=sony-nucleus.com) | 1268 days ago (08/27/2022) | 0 |
+| sony-nucleus.com (19 hosts in use) website | private | [markiper](https://freedns.afraid.org/tools/contact.php?user_id=2943998&subject=sony-nucleus.com) | 1269 days ago (08/27/2022) | 0 |
 | sorteosweb.com.mx (8 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=sorteosweb.com.mx) | 696 days ago (03/12/2024) | 0 |
 | southtrestle.com (28 hosts in use) website | private | [mtrey](https://freedns.afraid.org/tools/contact.php?user_id=56857&subject=southtrestle.com) | 7562 days ago (06/01/2005) | 0 |
 | spacialdrift.com (19 hosts in use) website | private | [echristman](https://freedns.afraid.org/tools/contact.php?user_id=265375&subject=spacialdrift.com) | 5129 days ago (01/14/2012) | 0 |
@@ -18535,7 +18469,7 @@ Total domains: 25241
 | stoke-park.co.uk (15 hosts in use) website | private | [icezebra](https://freedns.afraid.org/tools/contact.php?user_id=3670178&subject=stoke-park.co.uk) | 1418 days ago (03/25/2022) | 0 |
 | stonebridges.com (25 hosts in use) website | private | [kenbaylor](https://freedns.afraid.org/tools/contact.php?user_id=3134933&subject=stonebridges.com) | 2590 days ago (01/02/2019) | 0 |
 | storevisuals.com (54 hosts in use) website | private | [mmabraham](https://freedns.afraid.org/tools/contact.php?user_id=290354&subject=storevisuals.com) | 5316 days ago (06/30/2011) | 0 |
-| storm-ware.co.uk (97 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=storm-ware.co.uk) | 5615 days ago (10/01/2010) | 0 |
+| storm-ware.co.uk (97 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=storm-ware.co.uk) | 5617 days ago (10/01/2010) | 0 |
 | strangersduo.com (64 hosts in use) website | public | [kindler](https://freedns.afraid.org/tools/contact.php?user_id=482281&subject=strangersduo.com) | 430 days ago (12/06/2024) | 0 |
 | stuartandlaud.com (2 hosts in use) website | private | [hlima](https://freedns.afraid.org/tools/contact.php?user_id=1048537&subject=stuartandlaud.com) | 2273 days ago (10/24/2019) | 0 |
 | studio3sound.com (26 hosts in use) website | private | [dozzer](https://freedns.afraid.org/tools/contact.php?user_id=538085&subject=studio3sound.com) | 4882 days ago (09/17/2012) | 0 |
@@ -18586,7 +18520,7 @@ Total domains: 25241
 | technohermit.com (46 hosts in use) website | private | [anelson](https://freedns.afraid.org/tools/contact.php?user_id=143296&subject=technohermit.com) | 7477 days ago (08/25/2005) | 0 |
 | technosyspak.com (12 hosts in use) website | private | [jtrefil](https://freedns.afraid.org/tools/contact.php?user_id=2427060&subject=technosyspak.com) | 3981 days ago (02/19/2015) | 0 |
 | techworxsite.com (38 hosts in use) website | private | [fletcherthunder](https://freedns.afraid.org/tools/contact.php?user_id=193898&subject=techworxsite.com) | 5077 days ago (03/23/2012) | 0 |
-| tedfullwood.com (368 hosts in use) website | public | [woodbot](https://freedns.afraid.org/tools/contact.php?user_id=172304&subject=tedfullwood.com) | 7219 days ago (05/11/2006) | 0 |
+| tedfullwood.com (369 hosts in use) website | public | [woodbot](https://freedns.afraid.org/tools/contact.php?user_id=172304&subject=tedfullwood.com) | 7221 days ago (05/11/2006) | 0 |
 | teknodeno.com.tr (44 hosts in use) website | public | [teknodeno](https://freedns.afraid.org/tools/contact.php?user_id=4371258&subject=teknodeno.com.tr) | 356 days ago (02/21/2025) | 0 |
 | telocreesahora.eu (8 hosts in use) website | public | [viyuela](https://freedns.afraid.org/tools/contact.php?user_id=3643317&subject=telocreesahora.eu) | 1482 days ago (01/22/2022) | 0 |
 | tenerifevoley.es (30 hosts in use) website | private | [robertolm](https://freedns.afraid.org/tools/contact.php?user_id=2848953&subject=tenerifevoley.es) | 2937 days ago (12/29/2017) | 0 |
@@ -18696,14 +18630,13 @@ Total domains: 25241
 | unitgraphics.com (41 hosts in use) website | private | [sheboke](https://freedns.afraid.org/tools/contact.php?user_id=696122&subject=unitgraphics.com) | 2934 days ago (01/24/2018) | 0 |
 | unity-cleaning.fr (7 hosts in use) website | private | [checklister](https://freedns.afraid.org/tools/contact.php?user_id=158938&subject=unity-cleaning.fr) | 874 days ago (09/16/2023) | 0 |
 | unity-proprete.fr (7 hosts in use) website | private | [checklister](https://freedns.afraid.org/tools/contact.php?user_id=158938&subject=unity-proprete.fr) | 857 days ago (09/16/2023) | 0 |
-| unix-admins.com (141 hosts in use) website | public | [ladd](https://freedns.afraid.org/tools/contact.php?user_id=2973197&subject=unix-admins.com) | 2970 days ago (12/22/2017) | 0 |
 | unleashedvr.com (192 hosts in use) website | public | [nightshaderc](https://freedns.afraid.org/tools/contact.php?user_id=1486727&subject=unleashedvr.com) | 3551 days ago (05/19/2016) | 0 |
 | unmannedforum.eu (24 hosts in use) website | private | [guslp](https://freedns.afraid.org/tools/contact.php?user_id=432878&subject=unmannedforum.eu) | 4401 days ago (01/23/2014) | 0 |
 | unsalcanta.com.tr (4 hosts in use) website | public | [imutluay](https://freedns.afraid.org/tools/contact.php?user_id=687267&subject=unsalcanta.com.tr) | 1133 days ago (01/01/2023) | 0 |
 | unterfrintrop.de (34 hosts in use) website | private | [zorrospapa](https://freedns.afraid.org/tools/contact.php?user_id=1397694&subject=unterfrintrop.de) | 4598 days ago (06/20/2013) | 0 |
 | urdirectory.org (100 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=urdirectory.org) | 4904 days ago (08/12/2012) | 0 |
 | usableforall.com (34 hosts in use) website | private | [johnmn](https://freedns.afraid.org/tools/contact.php?user_id=132606&subject=usableforall.com) | 5070 days ago (03/04/2012) | 0 |
-| usableforall.org (33 hosts in use) website | private | [johnmn](https://freedns.afraid.org/tools/contact.php?user_id=132606&subject=usableforall.org) | 5092 days ago (03/04/2012) | 0 |
+| usableforall.org (33 hosts in use) website | private | [johnmn](https://freedns.afraid.org/tools/contact.php?user_id=132606&subject=usableforall.org) | 5097 days ago (03/04/2012) | 0 |
 | usadachicken.net (12 hosts in use) website | private | [cdrgvf](https://freedns.afraid.org/tools/contact.php?user_id=4113703&subject=usadachicken.net) | 337 days ago (03/13/2025) | 0 |
 | userclub-bbs.com (84 hosts in use) website | private | [erempala](https://freedns.afraid.org/tools/contact.php?user_id=601408&subject=userclub-bbs.com) | 3126 days ago (07/23/2017) | 0 |
 | utechnetwork.com (24 hosts in use) website | private | [tutech](https://freedns.afraid.org/tools/contact.php?user_id=747933&subject=utechnetwork.com) | 1109 days ago (01/20/2023) | 0 |
@@ -18801,7 +18734,7 @@ Total domains: 25241
 | yameiyule666.com (11 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=yameiyule666.com) | 195 days ago (07/22/2025) | 0 |
 | yaojiyule666.com (11 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=yaojiyule666.com) | 185 days ago (08/01/2025) | 0 |
 | yatirimpazari.com (2 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=yatirimpazari.com) | 2977 days ago (11/19/2017) | 0 |
-| yayasanyaphi.org (79 hosts in use) website | public | [punyayaphi](https://freedns.afraid.org/tools/contact.php?user_id=3741450&subject=yayasanyaphi.org) | 1298 days ago (07/04/2022) | 0 |
+| yayasanyaphi.org (78 hosts in use) website | public | [punyayaphi](https://freedns.afraid.org/tools/contact.php?user_id=3741450&subject=yayasanyaphi.org) | 1322 days ago (07/04/2022) | 0 |
 | yihaoyule666.com (11 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=yihaoyule666.com) | 188 days ago (07/29/2025) | 0 |
 | yoescribo.com.ar (29 hosts in use) website | private | [yoescribo](https://freedns.afraid.org/tools/contact.php?user_id=797589&subject=yoescribo.com.ar) | 5285 days ago (08/28/2011) | 0 |
 | yourfamilynet.com (7 hosts in use) website | private | [ladymagikdarknes](https://freedns.afraid.org/tools/contact.php?user_id=194773&subject=yourfamilynet.com) | 4423 days ago (12/04/2013) | 0 |
@@ -18812,7 +18745,7 @@ Total domains: 25241
 | zacandroslyn.com (22 hosts in use) website | private | [havoc0865](https://freedns.afraid.org/tools/contact.php?user_id=4233405&subject=zacandroslyn.com) | 546 days ago (08/17/2024) | 0 |
 | zaffarano.com.ar (19 hosts in use) website | private | [szaffarano](https://freedns.afraid.org/tools/contact.php?user_id=669882&subject=zaffarano.com.ar) | 5342 days ago (07/02/2011) | 0 |
 | zanottowines.com (25 hosts in use) website | private | [willard311](https://freedns.afraid.org/tools/contact.php?user_id=647797&subject=zanottowines.com) | 3808 days ago (08/11/2015) | 0 |
-| zarko-opacic.com (37 hosts in use) website | private | [zzarko](https://freedns.afraid.org/tools/contact.php?user_id=904686&subject=zarko-opacic.com) | 5114 days ago (01/15/2012) | 0 |
+| zarko-opacic.com (38 hosts in use) website | private | [zzarko](https://freedns.afraid.org/tools/contact.php?user_id=904686&subject=zarko-opacic.com) | 5145 days ago (01/15/2012) | 0 |
 | zencampaigns.com (60 hosts in use) website | private | [cosmo83](https://freedns.afraid.org/tools/contact.php?user_id=800784&subject=zencampaigns.com) | 5266 days ago (09/01/2011) | 0 |
 | zenhoaerial.com (128 hosts in use) website | public | [zenhoho](https://freedns.afraid.org/tools/contact.php?user_id=2894976&subject=zenhoaerial.com) | 3154 days ago (06/20/2017) | 0 |
 | zerothreeone.com (75 hosts in use) website | public | [cocacolaforever](https://freedns.afraid.org/tools/contact.php?user_id=1959412&subject=zerothreeone.com) | 4145 days ago (10/08/2014) | 0 |
@@ -18825,7 +18758,6 @@ Total domains: 25241
 | 50friends.com.mx (167 hosts in use) website | public | [lopezsrafael](https://freedns.afraid.org/tools/contact.php?user_id=680996&subject=50friends.com.mx) | 5266 days ago (09/11/2011) | 0 |
 | abcsecurity.co.za (41 hosts in use) website | private | [abcsec](https://freedns.afraid.org/tools/contact.php?user_id=433242&subject=abcsecurity.co.za) | 6316 days ago (10/29/2008) | 0 |
 | abhimanyuk.com.np (88 hosts in use) website | public | [abhimanyu835](https://freedns.afraid.org/tools/contact.php?user_id=2745928&subject=abhimanyuk.com.np) | 3373 days ago (10/21/2016) | 0 |
-| about-anthony.com (86 hosts in use) website | private | [anthonyi7](https://freedns.afraid.org/tools/contact.php?user_id=4336860&subject=about-anthony.com) | 410 days ago (01/01/2025) | 0 |
 | abovepasadena.com (33 hosts in use) website | private | [srhoades69](https://freedns.afraid.org/tools/contact.php?user_id=3144053&subject=abovepasadena.com) | 1836 days ago (02/01/2021) | 0 |
 | abrasantia.com.ar (27 hosts in use) website | public | [abrasantia](https://freedns.afraid.org/tools/contact.php?user_id=1045107&subject=abrasantia.com.ar) | 5020 days ago (05/13/2012) | 0 |
 | absk-singh.com.np (27 hosts in use) website | private | [absk](https://freedns.afraid.org/tools/contact.php?user_id=2107725&subject=absk-singh.com.np) | 4027 days ago (01/30/2015) | 0 |
@@ -18836,8 +18768,8 @@ Total domains: 25241
 | activeconcept.org (30 hosts in use) website | private | [activeconceptdns](https://freedns.afraid.org/tools/contact.php?user_id=861083&subject=activeconcept.org) | 5577 days ago (11/05/2010) | 0 |
 | adamandandrea.org (28 hosts in use) website | private | [aeshirey](https://freedns.afraid.org/tools/contact.php?user_id=71738&subject=adamandandrea.org) | 7903 days ago (06/18/2004) | 0 |
 | adamandsabrina.ca (36 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=adamandsabrina.ca) | 4817 days ago (11/28/2012) | 0 |
-| adblickgranos.com (33 hosts in use) website | private | [herap87](https://freedns.afraid.org/tools/contact.php?user_id=3301525&subject=adblickgranos.com) | 841 days ago (10/27/2023) | 0 |
-| adcsurkhet.org.np (19 hosts in use) website | private | [anilsag2006](https://freedns.afraid.org/tools/contact.php?user_id=3445243&subject=adcsurkhet.org.np) | 1301 days ago (07/25/2022) | 0 |
+| adblickgranos.com (34 hosts in use) website | private | [herap87](https://freedns.afraid.org/tools/contact.php?user_id=3301525&subject=adblickgranos.com) | 843 days ago (10/27/2023) | 0 |
+| adcsurkhet.org.np (24 hosts in use) website | private | [anilsag2006](https://freedns.afraid.org/tools/contact.php?user_id=3445243&subject=adcsurkhet.org.np) | 1302 days ago (07/25/2022) | 0 |
 | adityabhushan.com (53 hosts in use) website | private | [adityamcadu](https://freedns.afraid.org/tools/contact.php?user_id=199652&subject=adityabhushan.com) | 7246 days ago (04/13/2006) | 0 |
 | adlernestontour.de (7 hosts in use) website | public | [tombg](https://freedns.afraid.org/tools/contact.php?user_id=4203837&subject=adlernestontour.de) | 563 days ago (07/06/2024) | 0 |
 | adm-propspace.info (6 hosts in use) website | private | [thedarkonebg](https://freedns.afraid.org/tools/contact.php?user_id=3141987&subject=adm-propspace.info) | 358 days ago (01/20/2025) | 0 |
@@ -18848,10 +18780,10 @@ Total domains: 25241
 | afs-reisebuero.at (26 hosts in use) website | private | [herbertskala](https://freedns.afraid.org/tools/contact.php?user_id=715526&subject=afs-reisebuero.at) | 5410 days ago (03/25/2011) | 0 |
 | agilenization.com (23 hosts in use) website | private | [eyesound](https://freedns.afraid.org/tools/contact.php?user_id=198977&subject=agilenization.com) | 3072 days ago (09/07/2017) | 0 |
 | agropartes.com.ar (30 hosts in use) website | private | [flotron](https://freedns.afraid.org/tools/contact.php?user_id=1103223&subject=agropartes.com.ar) | 4951 days ago (07/03/2012) | 0 |
-| agyatregmi.com.np (72 hosts in use) website | public | [rakxas](https://freedns.afraid.org/tools/contact.php?user_id=2593791&subject=agyatregmi.com.np) | 3602 days ago (04/06/2016) | 0 |
+| agyatregmi.com.np (74 hosts in use) website | public | [rakxas](https://freedns.afraid.org/tools/contact.php?user_id=2593791&subject=agyatregmi.com.np) | 3603 days ago (04/06/2016) | 0 |
 | ahmedabdellah.com (37 hosts in use) website | private | [a3dman](https://freedns.afraid.org/tools/contact.php?user_id=464898&subject=ahmedabdellah.com) | 3071 days ago (09/11/2017) | 0 |
 | air-compressor.tw (21 hosts in use) website | private | [tonyhuan](https://freedns.afraid.org/tools/contact.php?user_id=490747&subject=air-compressor.tw) | 3846 days ago (07/06/2015) | 0 |
-| aircraftdesign.ca (33 hosts in use) website | private | [aircraftdesign](https://freedns.afraid.org/tools/contact.php?user_id=804789&subject=aircraftdesign.ca) | 5271 days ago (09/07/2011) | 0 |
+| aircraftdesign.ca (34 hosts in use) website | private | [aircraftdesign](https://freedns.afraid.org/tools/contact.php?user_id=804789&subject=aircraftdesign.ca) | 5276 days ago (09/07/2011) | 0 |
 | airlinemeals.net (823 hosts in use) website | private | [airlinemealsnet](https://freedns.afraid.org/tools/contact.php?user_id=568798&subject=airlinemeals.net) | 5812 days ago (03/19/2010) | 0 |
 | ajbgestion.org.ar (27 hosts in use) website | private | [ajbonaerense](https://freedns.afraid.org/tools/contact.php?user_id=2722537&subject=ajbgestion.org.ar) | 3418 days ago (09/06/2016) | 0 |
 | akinotomasyon.com (34 hosts in use) website | private | [eperseus2](https://freedns.afraid.org/tools/contact.php?user_id=473445&subject=akinotomasyon.com) | 5840 days ago (02/17/2010) | 0 |
@@ -18874,7 +18806,7 @@ Total domains: 25241
 | amaralguerrero.ar (19 hosts in use) website | private | [maxiamaral](https://freedns.afraid.org/tools/contact.php?user_id=3287395&subject=amaralguerrero.ar) | 1271 days ago (07/24/2022) | 0 |
 | amirkhadka.com.np (13 hosts in use) website | private | [aamirsblog](https://freedns.afraid.org/tools/contact.php?user_id=1815125&subject=amirkhadka.com.np) | 1141 days ago (12/01/2022) | 0 |
 | amritkarki.com.np (22 hosts in use) website | private | [zxera](https://freedns.afraid.org/tools/contact.php?user_id=2524183&subject=amritkarki.com.np) | 3638 days ago (01/30/2016) | 0 |
-| amrityadav.com.np (73 hosts in use) website | public | [amrityadav](https://freedns.afraid.org/tools/contact.php?user_id=2638743&subject=amrityadav.com.np) | 3529 days ago (05/16/2016) | 0 |
+| amrityadav.com.np (79 hosts in use) website | public | [amrityadav](https://freedns.afraid.org/tools/contact.php?user_id=2638743&subject=amrityadav.com.np) | 3563 days ago (05/16/2016) | 0 |
 | amsandiego.com.ve (26 hosts in use) website | private | [sandiegocorp](https://freedns.afraid.org/tools/contact.php?user_id=497713&subject=amsandiego.com.ve) | 6093 days ago (06/07/2009) | 0 |
 | amt-consult.co.uk (29 hosts in use) website | private | [skyegroup](https://freedns.afraid.org/tools/contact.php?user_id=1100518&subject=amt-consult.co.uk) | 4955 days ago (06/29/2012) | 0 |
 | anandamarga.co.uk (89 hosts in use) website | private | [kalyana](https://freedns.afraid.org/tools/contact.php?user_id=600424&subject=anandamarga.co.uk) | 5762 days ago (05/05/2010) | 0 |
@@ -18909,7 +18841,7 @@ Total domains: 25241
 | arquiobras.com.ar (24 hosts in use) website | private | [rusconi](https://freedns.afraid.org/tools/contact.php?user_id=779292&subject=arquiobras.com.ar) | 5278 days ago (08/22/2011) | 0 |
 | artezzanato.com.br (8 hosts in use) website | private | [joaoduarte](https://freedns.afraid.org/tools/contact.php?user_id=3083743&subject=artezzanato.com.br) | 60 days ago (11/27/2025) | 0 |
 | arttecnica.com.ar (28 hosts in use) website | private | [clauroman](https://freedns.afraid.org/tools/contact.php?user_id=828611&subject=arttecnica.com.ar) | 5235 days ago (10/17/2011) | 0 |
-| arunmahara.com.np (33 hosts in use) website | private | [arunkmahara](https://freedns.afraid.org/tools/contact.php?user_id=3037671&subject=arunmahara.com.np) | 2850 days ago (03/28/2018) | 0 |
+| arunmahara.com.np (34 hosts in use) website | private | [arunkmahara](https://freedns.afraid.org/tools/contact.php?user_id=3037671&subject=arunmahara.com.np) | 2882 days ago (03/28/2018) | 0 |
 | arunpandey.com.np (90 hosts in use) website | public | [arunpandey](https://freedns.afraid.org/tools/contact.php?user_id=1988915&subject=arunpandey.com.np) | 4122 days ago (10/30/2014) | 0 |
 | aryanpoudel.com.np (9 hosts in use) website | private | [anonyfox](https://freedns.afraid.org/tools/contact.php?user_id=2500024&subject=aryanpoudel.com.np) | 3693 days ago (12/28/2015) | 0 |
 | as-photography.ch (18 hosts in use) website | private | [faenschi](https://freedns.afraid.org/tools/contact.php?user_id=476643&subject=as-photography.ch) | 4858 days ago (09/25/2012) | 0 |
@@ -18940,7 +18872,7 @@ Total domains: 25241
 | azizkovich.nom.za (78 hosts in use) website | private | [mitagray](https://freedns.afraid.org/tools/contact.php?user_id=3314057&subject=azizkovich.nom.za) | 2046 days ago (06/20/2020) | 0 |
 | ba-investments.net (5 hosts in use) website | private | [sinergial](https://freedns.afraid.org/tools/contact.php?user_id=1318330&subject=ba-investments.net) | 422 days ago (12/17/2024) | 0 |
 | badassblades.com (124 hosts in use) website | public | [rkfd](https://freedns.afraid.org/tools/contact.php?user_id=2938087&subject=badassblades.com) | 3064 days ago (09/25/2017) | 0 |
-| bag-technical.com (36 hosts in use) website | private | [alexelhamdi](https://freedns.afraid.org/tools/contact.php?user_id=603554&subject=bag-technical.com) | 3906 days ago (05/19/2015) | 0 |
+| bag-technical.com (36 hosts in use) website | private | [alexelhamdi](https://freedns.afraid.org/tools/contact.php?user_id=603554&subject=bag-technical.com) | 3925 days ago (05/19/2015) | 0 |
 | bahiacompu.com.ar (20 hosts in use) website | private | [bahiacompu](https://freedns.afraid.org/tools/contact.php?user_id=641673&subject=bahiacompu.com.ar) | 5643 days ago (09/03/2010) | 0 |
 | bakermailbox.com (148 hosts in use) website | private | [thisoneis4u](https://freedns.afraid.org/tools/contact.php?user_id=1427305&subject=bakermailbox.com) | 4238 days ago (06/29/2014) | 0 |
 | balatonihekker.hu (24 hosts in use) website | private | [zolejke](https://freedns.afraid.org/tools/contact.php?user_id=338124&subject=balatonihekker.hu) | 2207 days ago (12/31/2019) | 0 |
@@ -19022,7 +18954,7 @@ Total domains: 25241
 | casa-raul.com.ar (141 hosts in use) website | public | [fdarenas](https://freedns.afraid.org/tools/contact.php?user_id=282090&subject=casa-raul.com.ar) | 6715 days ago (09/26/2007) | 0 |
 | casadabike.com.br (18 hosts in use) website | private | [afonsodanin](https://freedns.afraid.org/tools/contact.php?user_id=662912&subject=casadabike.com.br) | 3483 days ago (08/03/2016) | 0 |
 | casajaguar.com.ar (28 hosts in use) website | private | [mbianchi01](https://freedns.afraid.org/tools/contact.php?user_id=2618699&subject=casajaguar.com.ar) | 3584 days ago (04/19/2016) | 0 |
-| casasintorrox.com (25 hosts in use) website | private | [casasintorrox](https://freedns.afraid.org/tools/contact.php?user_id=4081417&subject=casasintorrox.com) | 732 days ago (02/14/2024) | 0 |
+| casasintorrox.com (35 hosts in use) website | private | [casasintorrox](https://freedns.afraid.org/tools/contact.php?user_id=4081417&subject=casasintorrox.com) | 733 days ago (02/14/2024) | 0 |
 | casepractice.com (164 hosts in use) website | public | [bkuriakose](https://freedns.afraid.org/tools/contact.php?user_id=1389257&subject=casepractice.com) | 3399 days ago (10/21/2016) | 0 |
 | caseybergeron.com (39 hosts in use) website | private | [bonjon32](https://freedns.afraid.org/tools/contact.php?user_id=1169276&subject=caseybergeron.com) | 4883 days ago (09/02/2012) | 0 |
 | casgaighat.com.np (69 hosts in use) website | public | [casgaigaht](https://freedns.afraid.org/tools/contact.php?user_id=3056184&subject=casgaighat.com.np) | 2816 days ago (06/01/2018) | 0 |
@@ -19047,7 +18979,7 @@ Total domains: 25241
 | chouzakeil.com.ar (28 hosts in use) website | private | [mchouza](https://freedns.afraid.org/tools/contact.php?user_id=288134&subject=chouzakeil.com.ar) | 6542 days ago (03/17/2008) | 0 |
 | chriscalandro.com (22 hosts in use) website | private | [fonducando](https://freedns.afraid.org/tools/contact.php?user_id=1860574&subject=chriscalandro.com) | 4206 days ago (07/09/2014) | 0 |
 | chrismcdowell.net (36 hosts in use) website | private | [chrismcdowell25](https://freedns.afraid.org/tools/contact.php?user_id=755766&subject=chrismcdowell.net) | 4923 days ago (08/20/2012) | 0 |
-| circosdesigns.com (55 hosts in use) website | private | [circos](https://freedns.afraid.org/tools/contact.php?user_id=631434&subject=circosdesigns.com) | 5668 days ago (08/07/2010) | 0 |
+| circosdesigns.com (56 hosts in use) website | private | [circos](https://freedns.afraid.org/tools/contact.php?user_id=631434&subject=circosdesigns.com) | 5672 days ago (08/07/2010) | 0 |
 | circusslaves.com (241 hosts in use) website | public | [joedelta](https://freedns.afraid.org/tools/contact.php?user_id=192871&subject=circusslaves.com) | 6488 days ago (04/24/2008) | 0 |
 | clancolquhoun.net (11 hosts in use) website | private | [cswizard](https://freedns.afraid.org/tools/contact.php?user_id=1198374&subject=clancolquhoun.net) | 4866 days ago (10/14/2012) | 0 |
 | clareflanagan.com (37 hosts in use) website | private | [jimmeechooo](https://freedns.afraid.org/tools/contact.php?user_id=2099004&subject=clareflanagan.com) | 4005 days ago (01/28/2015) | 0 |
@@ -19063,7 +18995,7 @@ Total domains: 25241
 | cnsvietnam.com.vn (50 hosts in use) website | private | [nghiald](https://freedns.afraid.org/tools/contact.php?user_id=1944984&subject=cnsvietnam.com.vn) | 4126 days ago (09/27/2014) | 0 |
 | co-systems.com.ar (26 hosts in use) website | private | [jclarramendy](https://freedns.afraid.org/tools/contact.php?user_id=1723663&subject=co-systems.com.ar) | 4320 days ago (04/08/2014) | 0 |
 | coaching-tour.com (28 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=coaching-tour.com) | 4655 days ago (04/18/2013) | 0 |
-| coadautodoor.com (175 hosts in use) website | public | [dewaweb](https://freedns.afraid.org/tools/contact.php?user_id=2434800&subject=coadautodoor.com) | 3609 days ago (03/30/2016) | 0 |
+| coadautodoor.com (176 hosts in use) website | public | [dewaweb](https://freedns.afraid.org/tools/contact.php?user_id=2434800&subject=coadautodoor.com) | 3610 days ago (03/30/2016) | 0 |
 | cobraproject.com (147 hosts in use) website | public | [sn8kboy](https://freedns.afraid.org/tools/contact.php?user_id=574655&subject=cobraproject.com) | 5785 days ago (04/07/2010) | 0 |
 | codedestroyer.com (34 hosts in use) website | private | [codedestroyer](https://freedns.afraid.org/tools/contact.php?user_id=3346698&subject=codedestroyer.com) | 2199 days ago (01/08/2020) | 0 |
 | cognitiveways.org (60 hosts in use) website | private | [minatkko](https://freedns.afraid.org/tools/contact.php?user_id=4503273&subject=cognitiveways.org) | 4995 days ago (05/11/2012) | 0 |
@@ -19166,11 +19098,11 @@ Total domains: 25241
 | digitalmediac.com (40 hosts in use) website | private | [drlava](https://freedns.afraid.org/tools/contact.php?user_id=19880&subject=digitalmediac.com) | 7501 days ago (08/01/2005) | 0 |
 | digitalpostma.com (40 hosts in use) website | private | [onejaguar](https://freedns.afraid.org/tools/contact.php?user_id=1899450&subject=digitalpostma.com) | 4202 days ago (08/11/2014) | 0 |
 | diktasdikis.com.tr (5 hosts in use) website | public | [mustafasari76](https://freedns.afraid.org/tools/contact.php?user_id=1807124&subject=diktasdikis.com.tr) | 1251 days ago (09/13/2022) | 0 |
-| dillonhill.co.uk (103 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=dillonhill.co.uk) | 5620 days ago (09/01/2010) | 0 |
+| dillonhill.co.uk (103 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=dillonhill.co.uk) | 5647 days ago (09/01/2010) | 0 |
 | dineshbala.com.np (69 hosts in use) website | public | [easysewa](https://freedns.afraid.org/tools/contact.php?user_id=2780277&subject=dineshbala.com.np) | 3344 days ago (11/24/2016) | 0 |
 | dipeshshahi.com.np (8 hosts in use) website | public | [dipeshshahi](https://freedns.afraid.org/tools/contact.php?user_id=3406805&subject=dipeshshahi.com.np) | 2062 days ago (05/24/2020) | 0 |
 | divebarchicago.com (7 hosts in use) website | private | [senjanin](https://freedns.afraid.org/tools/contact.php?user_id=901743&subject=divebarchicago.com) | 1676 days ago (07/11/2021) | 0 |
-| djalexbeats.co.uk (30 hosts in use) website | private | [justincm](https://freedns.afraid.org/tools/contact.php?user_id=3519153&subject=djalexbeats.co.uk) | 121 days ago (10/15/2025) | 0 |
+| djalexbeats.co.uk (31 hosts in use) website | private | [justincm](https://freedns.afraid.org/tools/contact.php?user_id=3519153&subject=djalexbeats.co.uk) | 123 days ago (10/15/2025) | 0 |
 | doctor-oleinik.ru (10 hosts in use) website | private | [beavole](https://freedns.afraid.org/tools/contact.php?user_id=721226&subject=doctor-oleinik.ru) | 4927 days ago (08/18/2012) | 0 |
 | docuprint.com.ar (386 hosts in use) website | public | [docuprintsa](https://freedns.afraid.org/tools/contact.php?user_id=493856&subject=docuprint.com.ar) | 6090 days ago (06/12/2009) | 0 |
 | domominecraft.org (20 hosts in use) website | private | [stevemackay](https://freedns.afraid.org/tools/contact.php?user_id=445517&subject=domominecraft.org) | 4758 days ago (01/30/2013) | 0 |
@@ -19189,7 +19121,7 @@ Total domains: 25241
 | dvbingenieria.com (24 hosts in use) website | private | [mackbewgmail](https://freedns.afraid.org/tools/contact.php?user_id=1248551&subject=dvbingenieria.com) | 4776 days ago (12/16/2012) | 0 |
 | dwarffortress.org (39 hosts in use) website | private | [yamamushi](https://freedns.afraid.org/tools/contact.php?user_id=158181&subject=dwarffortress.org) | 4907 days ago (08/29/2012) | 0 |
 | dyna-store.com.au (24 hosts in use) website | private | [wazza823](https://freedns.afraid.org/tools/contact.php?user_id=2252950&subject=dyna-store.com.au) | 3955 days ago (04/01/2015) | 0 |
-| e-rezerwacja24.pl (75 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=e-rezerwacja24.pl) | 3574 days ago (05/01/2016) | 0 |
+| e-rezerwacja24.pl (77 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=e-rezerwacja24.pl) | 3578 days ago (05/01/2016) | 0 |
 | e-rezerwacje24.pl (84 hosts in use) website | public | [er24](https://freedns.afraid.org/tools/contact.php?user_id=2628031&subject=e-rezerwacje24.pl) | 3548 days ago (05/01/2016) | 0 |
 | earthrotation.net (43 hosts in use) website | private | [lpetrov00](https://freedns.afraid.org/tools/contact.php?user_id=779923&subject=earthrotation.net) | 4093 days ago (12/02/2014) | 0 |
 | eastconsulting.ro (13 hosts in use) website | private | [econsulting](https://freedns.afraid.org/tools/contact.php?user_id=3583911&subject=eastconsulting.ro) | 3568 days ago (04/07/2016) | 0 |
@@ -19324,7 +19256,7 @@ Total domains: 25241
 | grid-tronics.com (199 hosts in use) website | public | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=grid-tronics.com) | 5725 days ago (06/13/2010) | 0 |
 | grupoaudax.com.ar (27 hosts in use) website | private | [matiasparraga](https://freedns.afraid.org/tools/contact.php?user_id=2760467&subject=grupoaudax.com.ar) | 3394 days ago (10/24/2016) | 0 |
 | grupoinca.com.pe (161 hosts in use) website | public | [ivancarog](https://freedns.afraid.org/tools/contact.php?user_id=351945&subject=grupoinca.com.pe) | 6623 days ago (12/27/2007) | 0 |
-| gsxpress.com.my (1365 hosts in use) website | private | [razifhussin](https://freedns.afraid.org/tools/contact.php?user_id=1437702&subject=gsxpress.com.my) | 3005 days ago (11/23/2017) | 0 |
+| gsxpress.com.my (1366 hosts in use) website | private | [razifhussin](https://freedns.afraid.org/tools/contact.php?user_id=1437702&subject=gsxpress.com.my) | 3007 days ago (11/23/2017) | 0 |
 | guggisberg.com.ar (97 hosts in use) website | public | [gulymaestro](https://freedns.afraid.org/tools/contact.php?user_id=533055&subject=guggisberg.com.ar) | 4978 days ago (06/29/2012) | 0 |
 | gustoswebsite.com (11 hosts in use) website | private | [sanastasio](https://freedns.afraid.org/tools/contact.php?user_id=3937611&subject=gustoswebsite.com) | 880 days ago (08/23/2023) | 0 |
 | gvlamadrid.com.ar (11 hosts in use) website | private | [gvlamadrid](https://freedns.afraid.org/tools/contact.php?user_id=331927&subject=gvlamadrid.com.ar) | 4762 days ago (12/30/2012) | 0 |
@@ -19397,7 +19329,7 @@ Total domains: 25241
 | invoicedoctor.com (30 hosts in use) website | private | [rajd](https://freedns.afraid.org/tools/contact.php?user_id=368967&subject=invoicedoctor.com) | 6563 days ago (02/25/2008) | 0 |
 | iongamecorner.com (20 hosts in use) website | private | [havoc0865](https://freedns.afraid.org/tools/contact.php?user_id=4233405&subject=iongamecorner.com) | 514 days ago (08/17/2024) | 0 |
 | iragedandquit.net (20 hosts in use) website | private | [agramza](https://freedns.afraid.org/tools/contact.php?user_id=4294579&subject=iragedandquit.net) | 469 days ago (11/03/2024) | 0 |
-| ishopinafrica.com (22 hosts in use) website | private | [itm2806](https://freedns.afraid.org/tools/contact.php?user_id=117779&subject=ishopinafrica.com) | 4502 days ago (10/12/2013) | 0 |
+| ishopinafrica.com (22 hosts in use) website | private | [itm2806](https://freedns.afraid.org/tools/contact.php?user_id=117779&subject=ishopinafrica.com) | 4510 days ago (10/12/2013) | 0 |
 | isitloadedyet.com (72 hosts in use) website | private | [pdc303](https://freedns.afraid.org/tools/contact.php?user_id=800918&subject=isitloadedyet.com) | 5279 days ago (09/01/2011) | 0 |
 | islandofcosrin.net (7 hosts in use) website | private | [rydekull](https://freedns.afraid.org/tools/contact.php?user_id=61756&subject=islandofcosrin.net) | 6826 days ago (06/07/2007) | 0 |
 | itinmotion.com.au (29 hosts in use) website | private | [jbncs](https://freedns.afraid.org/tools/contact.php?user_id=340176&subject=itinmotion.com.au) | 5424 days ago (04/01/2011) | 0 |
@@ -19444,7 +19376,7 @@ Total domains: 25241
 | juliagomes.com.br (36 hosts in use) website | private | [gutoguimaraes](https://freedns.afraid.org/tools/contact.php?user_id=571270&subject=juliagomes.com.br) | 5802 days ago (03/27/2010) | 0 |
 | juliosigns.com.au (26 hosts in use) website | private | [oogabooga](https://freedns.afraid.org/tools/contact.php?user_id=555461&subject=juliosigns.com.au) | 5766 days ago (05/02/2010) | 0 |
 | jungbluthcloud.de (34 hosts in use) website | private | [jungbluth](https://freedns.afraid.org/tools/contact.php?user_id=2942591&subject=jungbluthcloud.de) | 3050 days ago (10/07/2017) | 0 |
-| juodaanviinaa.fi (125 hosts in use) website | public | [jaakkopl](https://freedns.afraid.org/tools/contact.php?user_id=2612008&subject=juodaanviinaa.fi) | 3597 days ago (04/11/2016) | 0 |
+| juodaanviinaa.fi (127 hosts in use) website | public | [jaakkopl](https://freedns.afraid.org/tools/contact.php?user_id=2612008&subject=juodaanviinaa.fi) | 3598 days ago (04/11/2016) | 0 |
 | justinsteiger.com (27 hosts in use) website | private | [67comet](https://freedns.afraid.org/tools/contact.php?user_id=93589&subject=justinsteiger.com) | 7813 days ago (09/25/2004) | 0 |
 | jwmarriott.net.ve (77 hosts in use) website | public | [dominiosjw](https://freedns.afraid.org/tools/contact.php?user_id=3741559&subject=jwmarriott.net.ve) | 3005 days ago (11/20/2017) | 0 |
 | jyosei-avdouga.net (5 hosts in use) website | private | [ddrsdram](https://freedns.afraid.org/tools/contact.php?user_id=3763284&subject=jyosei-avdouga.net) | 1193 days ago (11/08/2022) | 0 |
@@ -19509,7 +19441,6 @@ Total domains: 25241
 | legendofpunch.com (42 hosts in use) website | private | [falconpunch](https://freedns.afraid.org/tools/contact.php?user_id=1054728&subject=legendofpunch.com) | 4982 days ago (05/26/2012) | 0 |
 | leondelosrios.com (60 hosts in use) website | public | [94002717](https://freedns.afraid.org/tools/contact.php?user_id=3532979&subject=leondelosrios.com) | 407 days ago (01/02/2025) | 0 |
 | levanovich.com.ar (15 hosts in use) website | private | [costam](https://freedns.afraid.org/tools/contact.php?user_id=671688&subject=levanovich.com.ar) | 4590 days ago (07/19/2013) | 0 |
-| lfmartinez.com.ar (26 hosts in use) website | private | [kuntiki](https://freedns.afraid.org/tools/contact.php?user_id=662418&subject=lfmartinez.com.ar) | 5573 days ago (11/10/2010) | 0 |
 | liceoalessandri.cl (9 hosts in use) website | private | [cyres001](https://freedns.afraid.org/tools/contact.php?user_id=1028182&subject=liceoalessandri.cl) | 286 days ago (05/02/2025) | 0 |
 | liceolastarria.cl (25 hosts in use) website | private | [cyres001](https://freedns.afraid.org/tools/contact.php?user_id=1028182&subject=liceolastarria.cl) | 2098 days ago (05/18/2020) | 0 |
 | lifepromosyon.com (29 hosts in use) website | private | [lifeltd](https://freedns.afraid.org/tools/contact.php?user_id=704884&subject=lifepromosyon.com) | 3326 days ago (01/05/2017) | 0 |
@@ -19526,7 +19457,6 @@ Total domains: 25241
 | longjinglihua.com (38 hosts in use) website | private | [cgitdns](https://freedns.afraid.org/tools/contact.php?user_id=713896&subject=longjinglihua.com) | 5422 days ago (04/11/2011) | 0 |
 | loonen-muchin.com (16 hosts in use) website | private | [ploonen](https://freedns.afraid.org/tools/contact.php?user_id=1726259&subject=loonen-muchin.com) | 4318 days ago (04/17/2014) | 0 |
 | loopercabinet.com (57 hosts in use) website | private | [brentdcarter1](https://freedns.afraid.org/tools/contact.php?user_id=503213&subject=loopercabinet.com) | 4859 days ago (10/25/2012) | 0 |
-| lorenzocesana.xyz (26 hosts in use) website | private | [haitamk](https://freedns.afraid.org/tools/contact.php?user_id=3627117&subject=lorenzocesana.xyz) | 1076 days ago (02/02/2023) | 0 |
 | lorimatsumoto.com (34 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=lorimatsumoto.com) | 5022 days ago (05/08/2012) | 0 |
 | losduartes.com.br (16 hosts in use) website | private | [joaoduarte](https://freedns.afraid.org/tools/contact.php?user_id=3083743&subject=losduartes.com.br) | 2730 days ago (08/08/2018) | 0 |
 | losmolles.com.ar (133 hosts in use) website | public | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=losmolles.com.ar) | 5856 days ago (02/01/2010) | 0 |
@@ -19570,7 +19500,6 @@ Total domains: 25241
 | mathematrader.com (32 hosts in use) website | private | [mathematrader](https://freedns.afraid.org/tools/contact.php?user_id=1197432&subject=mathematrader.com) | 4865 days ago (10/19/2012) | 0 |
 | matheusarruda.com (30 hosts in use) website | private | [46graus](https://freedns.afraid.org/tools/contact.php?user_id=2147657&subject=matheusarruda.com) | 3389 days ago (11/01/2016) | 0 |
 | mathewparkin.com (571 hosts in use) website | public | [mparkin](https://freedns.afraid.org/tools/contact.php?user_id=417302&subject=mathewparkin.com) | 6381 days ago (08/26/2008) | 0 |
-| matteustace.co.uk (26 hosts in use) website | private | [matteustace](https://freedns.afraid.org/tools/contact.php?user_id=885538&subject=matteustace.co.uk) | 5165 days ago (12/24/2011) | 0 |
 | matthewjmason.com (58 hosts in use) website | private | [matthewjmason](https://freedns.afraid.org/tools/contact.php?user_id=459954&subject=matthewjmason.com) | 6216 days ago (02/06/2009) | 0 |
 | matthiaskuenzi.ch (24 hosts in use) website | private | [elzecool](https://freedns.afraid.org/tools/contact.php?user_id=485268&subject=matthiaskuenzi.ch) | 6091 days ago (05/11/2009) | 0 |
 | mauroaltamura.com (33 hosts in use) website | private | [mauroaltamura](https://freedns.afraid.org/tools/contact.php?user_id=542250&subject=mauroaltamura.com) | 5884 days ago (12/16/2009) | 0 |
@@ -19594,7 +19523,6 @@ Total domains: 25241
 | metauniverse.co.il (7 hosts in use) website | private | [gmeergus](https://freedns.afraid.org/tools/contact.php?user_id=3540812&subject=metauniverse.co.il) | 1238 days ago (09/08/2022) | 0 |
 | metrobhakti.co.id (19 hosts in use) website | private | [jauhary1983](https://freedns.afraid.org/tools/contact.php?user_id=979688&subject=metrobhakti.co.id) | 5068 days ago (02/28/2012) | 0 |
 | mexicommerce.com (201 hosts in use) website | public | [oscarvw](https://freedns.afraid.org/tools/contact.php?user_id=791148&subject=mexicommerce.com) | 5290 days ago (08/22/2011) | 0 |
-| miabcdario.com.ve (26 hosts in use) website | private | [starmike](https://freedns.afraid.org/tools/contact.php?user_id=1664737&subject=miabcdario.com.ve) | 3506 days ago (07/08/2016) | 0 |
 | micatonetwork.net (34 hosts in use) website | private | [micato](https://freedns.afraid.org/tools/contact.php?user_id=128715&subject=micatonetwork.net) | 7609 days ago (04/15/2005) | 0 |
 | micetravel.com.my (24 hosts in use) website | private | [keithliew](https://freedns.afraid.org/tools/contact.php?user_id=339946&subject=micetravel.com.my) | 6517 days ago (03/13/2008) | 0 |
 | michael-schaer.ch (17 hosts in use) website | private | [contriagmbh](https://freedns.afraid.org/tools/contact.php?user_id=1853319&subject=michael-schaer.ch) | 4224 days ago (07/04/2014) | 0 |
@@ -19603,7 +19531,6 @@ Total domains: 25241
 | michaeleallen.com (29 hosts in use) website | private | [pug2694328](https://freedns.afraid.org/tools/contact.php?user_id=310473&subject=michaeleallen.com) | 5518 days ago (01/04/2011) | 0 |
 | michaelfoody.com (209 hosts in use) website | public | [mfoody](https://freedns.afraid.org/tools/contact.php?user_id=1825519&subject=michaelfoody.com) | 4265 days ago (06/12/2014) | 0 |
 | michaeljbauer.com (40 hosts in use) website | private | [mikbau](https://freedns.afraid.org/tools/contact.php?user_id=2844960&subject=michaeljbauer.com) | 3223 days ago (03/20/2017) | 0 |
-| microcontracts.io (26 hosts in use) website | private | [vividbox](https://freedns.afraid.org/tools/contact.php?user_id=561498&subject=microcontracts.io) | 3529 days ago (05/18/2016) | 0 |
 | microcosm.systems (29 hosts in use) website | private | [mariustoica](https://freedns.afraid.org/tools/contact.php?user_id=451864&subject=microcosm.systems) | 2563 days ago (02/01/2019) | 0 |
 | mideastsource.com (96 hosts in use) website | private | [nephiwolf](https://freedns.afraid.org/tools/contact.php?user_id=468588&subject=mideastsource.com) | 6183 days ago (03/11/2009) | 0 |
 | midnightsun.space (29 hosts in use) website | private | [jewrgen](https://freedns.afraid.org/tools/contact.php?user_id=3616966&subject=midnightsun.space) | 1534 days ago (11/17/2021) | 0 |
@@ -19612,7 +19539,7 @@ Total domains: 25241
 | mikecramer.co.uk (152 hosts in use) website | public | [mcramer](https://freedns.afraid.org/tools/contact.php?user_id=956749&subject=mikecramer.co.uk) | 5096 days ago (02/21/2012) | 0 |
 | milandahal.com.np (23 hosts in use) website | private | [milandahal213](https://freedns.afraid.org/tools/contact.php?user_id=2772032&subject=milandahal.com.np) | 3381 days ago (11/09/2016) | 0 |
 | milandarai.com.np (61 hosts in use) website | public | [manishpunk9](https://freedns.afraid.org/tools/contact.php?user_id=2660580&subject=milandarai.com.np) | 3531 days ago (06/14/2016) | 0 |
-| millers-house.com (18 hosts in use) website | private | [skmiller94](https://freedns.afraid.org/tools/contact.php?user_id=6264306&subject=millers-house.com) | 8 days ago (02/07/2026) | 0 |
+| millers-house.com (18 hosts in use) website | private | [skmiller94](https://freedns.afraid.org/tools/contact.php?user_id=6264306&subject=millers-house.com) | 9 days ago (02/07/2026) | 0 |
 | miniaturas.com.ar (10 hosts in use) website | private | [ccabanas](https://freedns.afraid.org/tools/contact.php?user_id=2403718&subject=miniaturas.com.ar) | 3619 days ago (02/25/2016) | 0 |
 | minnecrapolis.com (31 hosts in use) website | private | [cdahlkvist](https://freedns.afraid.org/tools/contact.php?user_id=173500&subject=minnecrapolis.com) | 7024 days ago (11/21/2006) | 0 |
 | miracleloops.com (136 hosts in use) website | private | [kurt11](https://freedns.afraid.org/tools/contact.php?user_id=223158&subject=miracleloops.com) | 7131 days ago (08/06/2006) | 0 |
@@ -19640,8 +19567,6 @@ Total domains: 25241
 | msspsparaguay.org (70 hosts in use) website | public | [sispar](https://freedns.afraid.org/tools/contact.php?user_id=2745254&subject=msspsparaguay.org) | 1452 days ago (02/24/2022) | 0 |
 | mthoodlodges.com (153 hosts in use) website | public | [jimcam](https://freedns.afraid.org/tools/contact.php?user_id=1221586&subject=mthoodlodges.com) | 4830 days ago (11/14/2012) | 0 |
 | multiplast.com.ar (94 hosts in use) website | public | [dlopezpl](https://freedns.afraid.org/tools/contact.php?user_id=2482249&subject=multiplast.com.ar) | 3716 days ago (12/04/2015) | 0 |
-| munabhusal.com.np (26 hosts in use) website | private | [bhusalmuna](https://freedns.afraid.org/tools/contact.php?user_id=3147616&subject=munabhusal.com.np) | 2560 days ago (02/09/2019) | 0 |
-| munozyasoc.com.ar (26 hosts in use) website | private | [edgardom](https://freedns.afraid.org/tools/contact.php?user_id=3110381&subject=munozyasoc.com.ar) | 2667 days ago (10/25/2018) | 0 |
 | mushroomblock.com (79 hosts in use) website | private | [bucketmouse](https://freedns.afraid.org/tools/contact.php?user_id=469422&subject=mushroomblock.com) | 4155 days ago (09/23/2014) | 0 |
 | muskaengsarl.com (191 hosts in use) website | public | [bpolombwe](https://freedns.afraid.org/tools/contact.php?user_id=1033108&subject=muskaengsarl.com) | 3955 days ago (04/17/2015) | 0 |
 | mvdlogistics.info (24 hosts in use) website | private | [nicopereira](https://freedns.afraid.org/tools/contact.php?user_id=394286&subject=mvdlogistics.info) | 5473 days ago (02/17/2011) | 0 |
@@ -19651,7 +19576,6 @@ Total domains: 25241
 | mygadgets.com.ar (352 hosts in use) website | public | [sismo](https://freedns.afraid.org/tools/contact.php?user_id=329936&subject=mygadgets.com.ar) | 6091 days ago (06/11/2009) | 0 |
 | myhousesetup.com (284 hosts in use) website | public | [jbworks](https://freedns.afraid.org/tools/contact.php?user_id=664828&subject=myhousesetup.com) | 5134 days ago (01/19/2012) | 0 |
 | mylittlechaos.com (29 hosts in use) website | private | [mariobrosii](https://freedns.afraid.org/tools/contact.php?user_id=2944256&subject=mylittlechaos.com) | 3017 days ago (11/12/2017) | 0 |
-| mytakeaway.com.au (26 hosts in use) website | private | [spanner](https://freedns.afraid.org/tools/contact.php?user_id=242659&subject=mytakeaway.com.au) | 6988 days ago (12/27/2006) | 0 |
 | nabinshahi.com.np (62 hosts in use) website | public | [nabinshahi](https://freedns.afraid.org/tools/contact.php?user_id=2767794&subject=nabinshahi.com.np) | 3389 days ago (11/03/2016) | 0 |
 | nadiaplatform.com (40 hosts in use) website | private | [jortellsg](https://freedns.afraid.org/tools/contact.php?user_id=2949499&subject=nadiaplatform.com) | 2687 days ago (09/12/2018) | 0 |
 | nagnarayan.com.np (72 hosts in use) website | public | [nagnarayanp](https://freedns.afraid.org/tools/contact.php?user_id=2572411&subject=nagnarayan.com.np) | 3641 days ago (02/25/2016) | 0 |
@@ -19679,7 +19603,6 @@ Total domains: 25241
 | nicniewiem.one.pl (33 hosts in use) website | private | [asd963741](https://freedns.afraid.org/tools/contact.php?user_id=3386664&subject=nicniewiem.one.pl) | 1820 days ago (01/21/2021) | 0 |
 | nicolegoodman.com (31 hosts in use) website | private | [rahimster](https://freedns.afraid.org/tools/contact.php?user_id=796515&subject=nicolegoodman.com) | 5281 days ago (08/26/2011) | 0 |
 | nicpotgieter.co.za (7 hosts in use) website | private | [nicopotgieter](https://freedns.afraid.org/tools/contact.php?user_id=671629&subject=nicpotgieter.co.za) | 2322 days ago (10/03/2019) | 0 |
-| nipunthapa.com.np (26 hosts in use) website | private | [ramhariregmi](https://freedns.afraid.org/tools/contact.php?user_id=263962&subject=nipunthapa.com.np) | 6729 days ago (09/12/2007) | 0 |
 | noel-sayarath.com (23 hosts in use) website | private | [nsayarath](https://freedns.afraid.org/tools/contact.php?user_id=3654863&subject=noel-sayarath.com) | 1425 days ago (02/20/2022) | 0 |
 | noeticpenguin.com (37 hosts in use) website | private | [kpoorman](https://freedns.afraid.org/tools/contact.php?user_id=719163&subject=noeticpenguin.com) | 5430 days ago (04/02/2011) | 0 |
 | noetzelfamily.net (13 hosts in use) website | public | [jcnoetzel](https://freedns.afraid.org/tools/contact.php?user_id=1962166&subject=noetzelfamily.net) | 4143 days ago (10/11/2014) | 0 |
@@ -19697,9 +19620,9 @@ Total domains: 25241
 | open-autonomy.com (84 hosts in use) website | public | [politick](https://freedns.afraid.org/tools/contact.php?user_id=3086120&subject=open-autonomy.com) | 1990 days ago (08/30/2020) | 0 |
 | opt-inrewards.com (47 hosts in use) website | public | [ssvenson](https://freedns.afraid.org/tools/contact.php?user_id=609471&subject=opt-inrewards.com) | 3532 days ago (06/13/2016) | 0 |
 | orion-station.com (11 hosts in use) website | private | [mburrack](https://freedns.afraid.org/tools/contact.php?user_id=160564&subject=orion-station.com) | 7343 days ago (01/05/2006) | 0 |
-| ormstonfamily.com (36 hosts in use) website | private | [dormston](https://freedns.afraid.org/tools/contact.php?user_id=389027&subject=ormstonfamily.com) | 6489 days ago (05/09/2008) | 0 |
+| ormstonfamily.com (37 hosts in use) website | private | [dormston](https://freedns.afraid.org/tools/contact.php?user_id=389027&subject=ormstonfamily.com) | 6492 days ago (05/09/2008) | 0 |
 | oroverdesa.com.ar (29 hosts in use) website | private | [bransh](https://freedns.afraid.org/tools/contact.php?user_id=117176&subject=oroverdesa.com.ar) | 4596 days ago (07/10/2013) | 0 |
-| oskarenoksson.com (33 hosts in use) website | private | [enok71](https://freedns.afraid.org/tools/contact.php?user_id=1590802&subject=oskarenoksson.com) | 2504 days ago (04/07/2019) | 0 |
+| oskarenoksson.com (34 hosts in use) website | private | [enok71](https://freedns.afraid.org/tools/contact.php?user_id=1590802&subject=oskarenoksson.com) | 2507 days ago (04/07/2019) | 0 |
 | osperkins.com.ar (143 hosts in use) website | public | [ptocom](https://freedns.afraid.org/tools/contact.php?user_id=738616&subject=osperkins.com.ar) | 6171 days ago (03/24/2009) | 0 |
 | othermalaysia.org (21 hosts in use) website | private | [gier](https://freedns.afraid.org/tools/contact.php?user_id=924960&subject=othermalaysia.org) | 4853 days ago (10/30/2012) | 0 |
 | otroelsalvador.com (7 hosts in use) website | public | [itenlacevision](https://freedns.afraid.org/tools/contact.php?user_id=1959446&subject=otroelsalvador.com) | 1472 days ago (01/27/2022) | 0 |
@@ -19740,7 +19663,7 @@ Total domains: 25241
 | photo-frame.com (1832 hosts in use) website | public | [mwong](https://freedns.afraid.org/tools/contact.php?user_id=53163&subject=photo-frame.com) | 7892 days ago (07/06/2004) | 0 |
 | place-of-start.jp (51 hosts in use) website | private | [kokocfox](https://freedns.afraid.org/tools/contact.php?user_id=1571217&subject=place-of-start.jp) | 4447 days ago (11/10/2013) | 0 |
 | planktonboy.co.uk (26 hosts in use) website | private | [planktonboy](https://freedns.afraid.org/tools/contact.php?user_id=1304632&subject=planktonboy.co.uk) | 4718 days ago (03/12/2013) | 0 |
-| plantah2oasis.cl (104 hosts in use) website | public | [rmunoz](https://freedns.afraid.org/tools/contact.php?user_id=1037867&subject=plantah2oasis.cl) | 5005 days ago (05/03/2012) | 0 |
+| plantah2oasis.cl (105 hosts in use) website | public | [rmunoz](https://freedns.afraid.org/tools/contact.php?user_id=1037867&subject=plantah2oasis.cl) | 5037 days ago (05/03/2012) | 0 |
 | plastparts.ind.br (32 hosts in use) website | private | [edulpinto](https://freedns.afraid.org/tools/contact.php?user_id=689105&subject=plastparts.ind.br) | 5436 days ago (03/07/2011) | 0 |
 | plataformasalud.ar (8 hosts in use) website | private | [dekixcom](https://freedns.afraid.org/tools/contact.php?user_id=2696436&subject=plataformasalud.ar) | 1277 days ago (07/16/2022) | 0 |
 | platemount.com.au (19 hosts in use) website | private | [tmorris](https://freedns.afraid.org/tools/contact.php?user_id=397947&subject=platemount.com.au) | 2841 days ago (04/19/2018) | 0 |
@@ -19757,9 +19680,9 @@ Total domains: 25241
 | pponthemarket.com (29 hosts in use) website | private | [masoukaze](https://freedns.afraid.org/tools/contact.php?user_id=2387707&subject=pponthemarket.com) | 3781 days ago (09/30/2015) | 0 |
 | praxis-schmerz.ch (12 hosts in use) website | private | [daschny](https://freedns.afraid.org/tools/contact.php?user_id=382995&subject=praxis-schmerz.ch) | 5108 days ago (01/19/2012) | 0 |
 | premnewar.com.np (242 hosts in use) website | public | [prem81](https://freedns.afraid.org/tools/contact.php?user_id=2522243&subject=premnewar.com.np) | 3682 days ago (01/08/2016) | 0 |
-| prestamosorion.ar (47 hosts in use) website | public | [orionfinanciera](https://freedns.afraid.org/tools/contact.php?user_id=4408045&subject=prestamosorion.ar) | 1936 days ago (10/27/2020) | 0 |
+| prestamosorion.ar (49 hosts in use) website | public | [orionfinanciera](https://freedns.afraid.org/tools/contact.php?user_id=4408045&subject=prestamosorion.ar) | 1937 days ago (10/27/2020) | 0 |
 | privat-server.org (34 hosts in use) website | private | [susanatunon](https://freedns.afraid.org/tools/contact.php?user_id=2697610&subject=privat-server.org) | 3402 days ago (10/19/2016) | 0 |
-| privatedns.org (18792 hosts in use) website | public | [four2theizz0](https://freedns.afraid.org/tools/contact.php?user_id=248679&subject=privatedns.org) | 7070 days ago (10/08/2006) | 0 |
+| privatedns.org (18792 hosts in use) website | public | [four2theizz0](https://freedns.afraid.org/tools/contact.php?user_id=248679&subject=privatedns.org) | 7071 days ago (10/08/2006) | 0 |
 | privateimport.jp (416 hosts in use) website | public | [tom2552tom](https://freedns.afraid.org/tools/contact.php?user_id=537345&subject=privateimport.jp) | 5924 days ago (11/27/2009) | 0 |
 | proelectro-trm.ro (21 hosts in use) website | private | [proelectrotrm](https://freedns.afraid.org/tools/contact.php?user_id=2962122&subject=proelectro-trm.ro) | 5585 days ago (09/29/2010) | 0 |
 | project-mind.info (28 hosts in use) website | private | [cind13](https://freedns.afraid.org/tools/contact.php?user_id=2080726&subject=project-mind.info) | 4052 days ago (01/08/2015) | 0 |
@@ -19794,7 +19717,7 @@ Total domains: 25241
 | ramsitaula.com.np (24 hosts in use) website | private | [ramsitaula](https://freedns.afraid.org/tools/contact.php?user_id=2560070&subject=ramsitaula.com.np) | 3627 days ago (02/08/2016) | 0 |
 | randomations.com (100 hosts in use) website | private | [ypit](https://freedns.afraid.org/tools/contact.php?user_id=791512&subject=randomations.com) | 5289 days ago (08/21/2011) | 0 |
 | ranjitlama.com.np (20 hosts in use) website | private | [gylsu1lama](https://freedns.afraid.org/tools/contact.php?user_id=2329036&subject=ranjitlama.com.np) | 3870 days ago (06/10/2015) | 0 |
-| raspberryip.com (2164 hosts in use) website | public | [ferrigno](https://freedns.afraid.org/tools/contact.php?user_id=543947&subject=raspberryip.com) | 4945 days ago (08/02/2012) | 0 |
+| raspberryip.com (2165 hosts in use) website | public | [ferrigno](https://freedns.afraid.org/tools/contact.php?user_id=543947&subject=raspberryip.com) | 4946 days ago (08/02/2012) | 0 |
 | rationalpeople.us (26 hosts in use) website | private | [kmpeters](https://freedns.afraid.org/tools/contact.php?user_id=30326&subject=rationalpeople.us) | 5316 days ago (06/27/2011) | 0 |
 | rebel-kollektiv.gr (7 hosts in use) website | private | [movseiotk](https://freedns.afraid.org/tools/contact.php?user_id=3060589&subject=rebel-kollektiv.gr) | 653 days ago (04/29/2024) | 0 |
 | rechtslexikon.net (33 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=rechtslexikon.net) | 3807 days ago (09/11/2015) | 0 |
@@ -19950,7 +19873,7 @@ Total domains: 25241
 | stone-quarries.uk (31 hosts in use) website | private | [wiltscomputers](https://freedns.afraid.org/tools/contact.php?user_id=2472694&subject=stone-quarries.uk) | 1504 days ago (12/31/2021) | 0 |
 | stonebridgepm.com (28 hosts in use) website | private | [jduringer](https://freedns.afraid.org/tools/contact.php?user_id=4083763&subject=stonebridgepm.com) | 719 days ago (02/26/2024) | 0 |
 | storeyourshit.com (33 hosts in use) website | private | [seantidey](https://freedns.afraid.org/tools/contact.php?user_id=1100222&subject=storeyourshit.com) | 4350 days ago (03/19/2014) | 0 |
-| strangled.net (113852 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=strangled.net) | 9174 days ago (01/03/2001) | 0 |
+| strangled.net (113879 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=strangled.net) | 9175 days ago (01/03/2001) | 0 |
 | strata-aust.com.au (7 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=strata-aust.com.au) | 6816 days ago (06/17/2007) | 0 |
 | strauserfarms.com (89 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=strauserfarms.com) | 4691 days ago (04/11/2013) | 0 |
 | streetathletic.ru (69 hosts in use) website | public | [poul1980](https://freedns.afraid.org/tools/contact.php?user_id=1409404&subject=streetathletic.ru) | 915 days ago (08/15/2023) | 0 |
@@ -19958,7 +19881,7 @@ Total domains: 25241
 | stuartlight.co.uk (11 hosts in use) website | private | [stuartlight](https://freedns.afraid.org/tools/contact.php?user_id=1793609&subject=stuartlight.co.uk) | 4269 days ago (05/19/2014) | 0 |
 | stuarttown.com.au (32 hosts in use) website | private | [tmorris](https://freedns.afraid.org/tools/contact.php?user_id=397947&subject=stuarttown.com.au) | 6448 days ago (06/17/2008) | 0 |
 | stuarttown.org.au (14 hosts in use) website | private | [tmorris](https://freedns.afraid.org/tools/contact.php?user_id=397947&subject=stuarttown.org.au) | 5124 days ago (01/24/2012) | 0 |
-| studymakeover.com (46 hosts in use) website | private | [teamfil](https://freedns.afraid.org/tools/contact.php?user_id=178123&subject=studymakeover.com) | 5412 days ago (04/21/2011) | 0 |
+| studymakeover.com (47 hosts in use) website | private | [teamfil](https://freedns.afraid.org/tools/contact.php?user_id=178123&subject=studymakeover.com) | 5415 days ago (04/21/2011) | 0 |
 | stufftoddknows.com (7 hosts in use) website | private | [qodfathr](https://freedns.afraid.org/tools/contact.php?user_id=2440511&subject=stufftoddknows.com) | 3604 days ago (03/02/2016) | 0 |
 | subinjoshi.com.np (27 hosts in use) website | private | [joshsubin39](https://freedns.afraid.org/tools/contact.php?user_id=1669707&subject=subinjoshi.com.np) | 4346 days ago (02/19/2014) | 0 |
 | sudandulal.com.np (23 hosts in use) website | private | [sajhachautari](https://freedns.afraid.org/tools/contact.php?user_id=2225036&subject=sudandulal.com.np) | 3956 days ago (03/18/2015) | 0 |
@@ -19982,7 +19905,7 @@ Total domains: 25241
 | synergy-force.com (52 hosts in use) website | private | [mbroger](https://freedns.afraid.org/tools/contact.php?user_id=461923&subject=synergy-force.com) | 6209 days ago (02/13/2009) | 0 |
 | syrnetworking.com (96 hosts in use) website | private | [syrnetworking](https://freedns.afraid.org/tools/contact.php?user_id=2463796&subject=syrnetworking.com) | 3736 days ago (11/13/2015) | 0 |
 | sys-computer.info (21 hosts in use) website | private | [mariopv](https://freedns.afraid.org/tools/contact.php?user_id=2974593&subject=sys-computer.info) | 2940 days ago (12/28/2017) | 0 |
-| sysdsolutions.com (17 hosts in use) website | public | [sysd](https://freedns.afraid.org/tools/contact.php?user_id=2960754&subject=sysdsolutions.com) | 3582 days ago (04/26/2016) | 0 |
+| sysdsolutions.com (19 hosts in use) website | public | [sysd](https://freedns.afraid.org/tools/contact.php?user_id=2960754&subject=sysdsolutions.com) | 3583 days ago (04/26/2016) | 0 |
 | systemat-icts.com (35 hosts in use) website | private | [intellixfact](https://freedns.afraid.org/tools/contact.php?user_id=806206&subject=systemat-icts.com) | 3052 days ago (10/08/2017) | 0 |
 | szendebrassai.com (16 hosts in use) website | public | [leventedecsei](https://freedns.afraid.org/tools/contact.php?user_id=2919221&subject=szendebrassai.com) | 1662 days ago (07/21/2021) | 0 |
 | tabtwentyfive.com (26 hosts in use) website | private | [jbgron](https://freedns.afraid.org/tools/contact.php?user_id=754299&subject=tabtwentyfive.com) | 3561 days ago (04/30/2016) | 0 |
@@ -20036,13 +19959,12 @@ Total domains: 25241
 | thevaughnhome.com (29 hosts in use) website | private | [jaredvaughn77](https://freedns.afraid.org/tools/contact.php?user_id=4088874&subject=thevaughnhome.com) | 724 days ago (02/20/2024) | 0 |
 | thewirecloset.com (29 hosts in use) website | private | [seantidey](https://freedns.afraid.org/tools/contact.php?user_id=1100222&subject=thewirecloset.com) | 4761 days ago (01/26/2013) | 0 |
 | thisisnothing.pw (230 hosts in use) website | public | [maccmiles](https://freedns.afraid.org/tools/contact.php?user_id=2457829&subject=thisisnothing.pw) | 3672 days ago (01/18/2016) | 0 |
-| thomasschudel.com (38 hosts in use) website | private | [mschudel](https://freedns.afraid.org/tools/contact.php?user_id=708595&subject=thomasschudel.com) | 4743 days ago (02/18/2013) | 0 |
+| thomasschudel.com (38 hosts in use) website | private | [mschudel](https://freedns.afraid.org/tools/contact.php?user_id=708595&subject=thomasschudel.com) | 4745 days ago (02/18/2013) | 0 |
 | thommythomaso.com (34 hosts in use) website | private | [thommythomaso](https://freedns.afraid.org/tools/contact.php?user_id=2245842&subject=thommythomaso.com) | 3969 days ago (03/27/2015) | 0 |
 | throttleshift.com (38 hosts in use) website | private | [web105](https://freedns.afraid.org/tools/contact.php?user_id=781785&subject=throttleshift.com) | 4216 days ago (07/10/2014) | 0 |
 | tideynetworks.com (38 hosts in use) website | private | [seantidey](https://freedns.afraid.org/tools/contact.php?user_id=1100222&subject=tideynetworks.com) | 4858 days ago (10/28/2012) | 0 |
 | tiendamichelle.mx (24 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=tiendamichelle.mx) | 3370 days ago (10/24/2016) | 0 |
 | tight-clothes.net (53 hosts in use) website | private | [flashsonix](https://freedns.afraid.org/tools/contact.php?user_id=89228&subject=tight-clothes.net) | 7836 days ago (09/02/2004) | 0 |
-| tikagautam.com.np (80 hosts in use) website | public | [utsuk](https://freedns.afraid.org/tools/contact.php?user_id=2603507&subject=tikagautam.com.np) | 3574 days ago (04/03/2016) | 0 |
 | tilaktharu.com.np (54 hosts in use) website | public | [tularam](https://freedns.afraid.org/tools/contact.php?user_id=3183731&subject=tilaktharu.com.np) | 2286 days ago (11/10/2019) | 0 |
 | tilusharma.com.np (22 hosts in use) website | private | [tilusharma](https://freedns.afraid.org/tools/contact.php?user_id=3150473&subject=tilusharma.com.np) | 2523 days ago (02/18/2019) | 0 |
 | tirthaojha.com.np (80 hosts in use) website | public | [tirtha1993](https://freedns.afraid.org/tools/contact.php?user_id=1468163&subject=tirthaojha.com.np) | 4546 days ago (08/25/2013) | 0 |
@@ -20067,7 +19989,7 @@ Total domains: 25241
 | tribumaternate.cl (18 hosts in use) website | private | [gatopresente](https://freedns.afraid.org/tools/contact.php?user_id=1475501&subject=tribumaternate.cl) | 107 days ago (10/28/2025) | 0 |
 | trillianverse.org (16 hosts in use) website | private | [demitri42](https://freedns.afraid.org/tools/contact.php?user_id=935436&subject=trillianverse.org) | 4212 days ago (07/19/2014) | 0 |
 | tripreceipts.com (155 hosts in use) website | public | [whartman](https://freedns.afraid.org/tools/contact.php?user_id=252656&subject=tripreceipts.com) | 4507 days ago (10/06/2013) | 0 |
-| trtombraiders.com (34 hosts in use) website | private | [jasongrant15](https://freedns.afraid.org/tools/contact.php?user_id=2016618&subject=trtombraiders.com) | 3267 days ago (02/04/2017) | 0 |
+| trtombraiders.com (35 hosts in use) website | private | [jasongrant15](https://freedns.afraid.org/tools/contact.php?user_id=2016618&subject=trtombraiders.com) | 3299 days ago (02/04/2017) | 0 |
 | truckenmiller.com (39 hosts in use) website | private | [truck0321](https://freedns.afraid.org/tools/contact.php?user_id=694053&subject=truckenmiller.com) | 5160 days ago (12/21/2011) | 0 |
 | truckoccasion.ch (299 hosts in use) website | public | [mbaksa](https://freedns.afraid.org/tools/contact.php?user_id=510288&subject=truckoccasion.ch) | 6030 days ago (08/11/2009) | 0 |
 | true-aviation.com (12 hosts in use) website | private | [juari](https://freedns.afraid.org/tools/contact.php?user_id=26333&subject=true-aviation.com) | 1061 days ago (03/09/2023) | 0 |
@@ -20154,7 +20076,7 @@ Total domains: 25241
 | wormcannery.co.uk (28 hosts in use) website | private | [dirkenstein](https://freedns.afraid.org/tools/contact.php?user_id=1029793&subject=wormcannery.co.uk) | 3491 days ago (07/20/2016) | 0 |
 | xingkong-yule.com (10 hosts in use) website | private | [h6mg0jgdtbzj](https://freedns.afraid.org/tools/contact.php?user_id=4465870&subject=xingkong-yule.com) | 204 days ago (07/22/2025) | 0 |
 | xinhuamall.com.pk (27 hosts in use) website | public | [suhailnajeeb](https://freedns.afraid.org/tools/contact.php?user_id=505488&subject=xinhuamall.com.pk) | 6048 days ago (07/24/2009) | 0 |
-| xlntsolutions.com (36 hosts in use) website | public | [eckerprah](https://freedns.afraid.org/tools/contact.php?user_id=1180390&subject=xlntsolutions.com) | 4893 days ago (09/18/2012) | 0 |
+| xlntsolutions.com (36 hosts in use) website | public | [eckerprah](https://freedns.afraid.org/tools/contact.php?user_id=1180390&subject=xlntsolutions.com) | 4898 days ago (09/18/2012) | 0 |
 | xn--boi-hqa77c.eu (11 hosts in use) website | private | [sentec](https://freedns.afraid.org/tools/contact.php?user_id=849736&subject=xn--boi-hqa77c.eu) | 2679 days ago (09/13/2018) | 0 |
 | xn--bqs412bmxl.tw (34 hosts in use) website | private | [tonyhuan](https://freedns.afraid.org/tools/contact.php?user_id=490747&subject=xn--bqs412bmxl.tw) | 5674 days ago (07/02/2010) | 0 |
 | xn--ekstrm-0xa.net (9 hosts in use) website | private | [joneks](https://freedns.afraid.org/tools/contact.php?user_id=2859877&subject=xn--ekstrm-0xa.net) | 3222 days ago (04/18/2017) | 0 |
@@ -20189,15 +20111,15 @@ Total domains: 25241
 | 1on1technology.com (31 hosts in use) website | private | [bloodbath187](https://freedns.afraid.org/tools/contact.php?user_id=1036637&subject=1on1technology.com) | 3872 days ago (06/11/2015) | 0 |
 | 2680enterprises.pt (22 hosts in use) website | private | [thesenate](https://freedns.afraid.org/tools/contact.php?user_id=3758805&subject=2680enterprises.pt) | 1174 days ago (10/27/2022) | 0 |
 | 2sillysausages.com (28 hosts in use) website | private | [sausage](https://freedns.afraid.org/tools/contact.php?user_id=266897&subject=2sillysausages.com) | 4302 days ago (05/07/2014) | 0 |
-| 3bearconsulting.com (7 hosts in use) website | private | [deconinck](https://freedns.afraid.org/tools/contact.php?user_id=628598&subject=3bearconsulting.com) | 1215 days ago (09/16/2022) | 0 |
 | 3cx-systems.co.uk (168 hosts in use) website | public | [gmagm](https://freedns.afraid.org/tools/contact.php?user_id=1004192&subject=3cx-systems.co.uk) | 5072 days ago (03/22/2012) | 0 |
 | 441creative.co.uk (152 hosts in use) website | public | [hazellj2](https://freedns.afraid.org/tools/contact.php?user_id=1749917&subject=441creative.co.uk) | 4300 days ago (04/23/2014) | 0 |
 | 4sillysausages.com (28 hosts in use) website | private | [sausage](https://freedns.afraid.org/tools/contact.php?user_id=266897&subject=4sillysausages.com) | 4357 days ago (03/13/2014) | 0 |
 | aashikthapa.com.np (21 hosts in use) website | private | [ashikthapa](https://freedns.afraid.org/tools/contact.php?user_id=1702568&subject=aashikthapa.com.np) | 4318 days ago (03/21/2014) | 0 |
 | aayushrijal.com.np (21 hosts in use) website | private | [aayushrij](https://freedns.afraid.org/tools/contact.php?user_id=2809503&subject=aayushrijal.com.np) | 3290 days ago (01/12/2017) | 0 |
 | abbienesraices.com (16 hosts in use) website | private | [jcrios](https://freedns.afraid.org/tools/contact.php?user_id=477610&subject=abbienesraices.com) | 2558 days ago (02/11/2019) | 0 |
-| abductedcow.com.ar (31 hosts in use) website | private | [manuelodns](https://freedns.afraid.org/tools/contact.php?user_id=2639503&subject=abductedcow.com.ar) | 5158 days ago (12/02/2011) | 0 |
+| abductedcow.com.ar (32 hosts in use) website | private | [manuelodns](https://freedns.afraid.org/tools/contact.php?user_id=2639503&subject=abductedcow.com.ar) | 5190 days ago (12/02/2011) | 0 |
 | abogaciadigital.ar (27 hosts in use) website | private | [iudicavit](https://freedns.afraid.org/tools/contact.php?user_id=3848500&subject=abogaciadigital.ar) | 1014 days ago (04/07/2023) | 0 |
+| about-anthony.com (110 hosts in use) website | private | [anthonyi7](https://freedns.afraid.org/tools/contact.php?user_id=4336860&subject=about-anthony.com) | 411 days ago (01/01/2025) | 0 |
 | absacapital.com.au (15 hosts in use) website | private | [icelotus](https://freedns.afraid.org/tools/contact.php?user_id=1207745&subject=absacapital.com.au) | 4803 days ago (12/04/2012) | 0 |
 | academiaderock.ro (128 hosts in use) website | public | [sebs13](https://freedns.afraid.org/tools/contact.php?user_id=1757387&subject=academiaderock.ro) | 4302 days ago (04/28/2014) | 0 |
 | academiedegolf.com (40 hosts in use) website | private | [adamfoster](https://freedns.afraid.org/tools/contact.php?user_id=623958&subject=academiedegolf.com) | 5642 days ago (08/12/2010) | 0 |
@@ -20209,7 +20131,7 @@ Total domains: 25241
 | adaj-consulting.li (22 hosts in use) website | private | [dahaimc](https://freedns.afraid.org/tools/contact.php?user_id=319944&subject=adaj-consulting.li) | 6098 days ago (05/04/2009) | 0 |
 | adamgreatfalls.com (37 hosts in use) website | private | [adamgtfalls](https://freedns.afraid.org/tools/contact.php?user_id=3730540&subject=adamgreatfalls.com) | 1274 days ago (08/14/2022) | 0 |
 | adamhayward.co.uk (230 hosts in use) website | public | [adsy](https://freedns.afraid.org/tools/contact.php?user_id=184647&subject=adamhayward.co.uk) | 6865 days ago (04/29/2007) | 0 |
-| adamrafalovich.com (36 hosts in use) website | private | [jondowd](https://freedns.afraid.org/tools/contact.php?user_id=789103&subject=adamrafalovich.com) | 5254 days ago (08/26/2011) | 0 |
+| adamrafalovich.com (37 hosts in use) website | private | [jondowd](https://freedns.afraid.org/tools/contact.php?user_id=789103&subject=adamrafalovich.com) | 5287 days ago (08/26/2011) | 0 |
 | adeepkhadka.com.np (27 hosts in use) website | private | [adeeplak](https://freedns.afraid.org/tools/contact.php?user_id=2598641&subject=adeepkhadka.com.np) | 3605 days ago (03/27/2016) | 0 |
 | adhikarianuj.com.np (5 hosts in use) website | private | [adhikariadhikari](https://freedns.afraid.org/tools/contact.php?user_id=3346111&subject=adhikarianuj.com.np) | 2199 days ago (01/06/2020) | 0 |
 | affinionmobile.com (49 hosts in use) website | private | [dylanvdm](https://freedns.afraid.org/tools/contact.php?user_id=1245598&subject=affinionmobile.com) | 4774 days ago (12/18/2012) | 0 |
@@ -20274,10 +20196,10 @@ Total domains: 25241
 | arjunpanday.com.np (83 hosts in use) website | public | [arjunpanday](https://freedns.afraid.org/tools/contact.php?user_id=1926474&subject=arjunpanday.com.np) | 4172 days ago (09/07/2014) | 0 |
 | arlconsultoria.com (13 hosts in use) website | private | [alanleitao](https://freedns.afraid.org/tools/contact.php?user_id=4368845&subject=arlconsultoria.com) | 348 days ago (02/17/2025) | 0 |
 | arpangautam.com.np (45 hosts in use) website | private | [arpangtm](https://freedns.afraid.org/tools/contact.php?user_id=4188906&subject=arpangautam.com.np) | 605 days ago (06/17/2024) | 0 |
-| aryalanjana.com.np (36 hosts in use) website | private | [arlanjana7](https://freedns.afraid.org/tools/contact.php?user_id=3356810&subject=aryalanjana.com.np) | 2182 days ago (02/06/2020) | 0 |
+| aryalanjana.com.np (36 hosts in use) website | private | [arlanjana7](https://freedns.afraid.org/tools/contact.php?user_id=3356810&subject=aryalanjana.com.np) | 2201 days ago (02/06/2020) | 0 |
 | ashokthakur.com.np (70 hosts in use) website | public | [ashokthakur031](https://freedns.afraid.org/tools/contact.php?user_id=2317907&subject=ashokthakur.com.np) | 3901 days ago (05/28/2015) | 0 |
 | asmitarijal.com.np (61 hosts in use) website | public | [bedbyas](https://freedns.afraid.org/tools/contact.php?user_id=3061956&subject=asmitarijal.com.np) | 2811 days ago (06/04/2018) | 0 |
-| assholetenants.com (36 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=assholetenants.com) | 6164 days ago (03/30/2009) | 0 |
+| assholetenants.com (37 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=assholetenants.com) | 6166 days ago (03/30/2009) | 0 |
 | atc-rosario.com.ar (20 hosts in use) website | private | [aichino](https://freedns.afraid.org/tools/contact.php?user_id=729096&subject=atc-rosario.com.ar) | 2868 days ago (04/09/2018) | 0 |
 | atelier-miyabi.net (26 hosts in use) website | private | [angelosching](https://freedns.afraid.org/tools/contact.php?user_id=621995&subject=atelier-miyabi.net) | 5541 days ago (12/13/2010) | 0 |
 | atlconsultings.com (31 hosts in use) website | private | [choudja](https://freedns.afraid.org/tools/contact.php?user_id=632185&subject=atlconsultings.com) | 964 days ago (06/24/2023) | 0 |
@@ -20288,7 +20210,7 @@ Total domains: 25241
 | automobiliaparts.nl (6 hosts in use) website | private | [maarten999](https://freedns.afraid.org/tools/contact.php?user_id=1071586&subject=automobiliaparts.nl) | 1505 days ago (11/30/2021) | 0 |
 | autumnspancreas.com (9 hosts in use) website | private | [spastickyle](https://freedns.afraid.org/tools/contact.php?user_id=1326153&subject=autumnspancreas.com) | 791 days ago (12/07/2023) | 0 |
 | aviamegahabadi.com (41 hosts in use) website | private | [sandrasetiawan](https://freedns.afraid.org/tools/contact.php?user_id=770248&subject=aviamegahabadi.com) | 5303 days ago (07/22/2011) | 0 |
-| avis-solutions.com (36 hosts in use) website | private | [juliusheng](https://freedns.afraid.org/tools/contact.php?user_id=3382914&subject=avis-solutions.com) | 2136 days ago (04/07/2020) | 0 |
+| avis-solutions.com (36 hosts in use) website | private | [juliusheng](https://freedns.afraid.org/tools/contact.php?user_id=3382914&subject=avis-solutions.com) | 2140 days ago (04/07/2020) | 0 |
 | avr-elektronik.de (136 hosts in use) website | private | [intercop](https://freedns.afraid.org/tools/contact.php?user_id=783281&subject=avr-elektronik.de) | 5288 days ago (08/10/2011) | 0 |
 | awpcomputers.co.uk (31 hosts in use) website | private | [ashwarp](https://freedns.afraid.org/tools/contact.php?user_id=69880&subject=awpcomputers.co.uk) | 4718 days ago (03/04/2013) | 0 |
 | aylingoktug.com.tr (21 hosts in use) website | private | [ayling](https://freedns.afraid.org/tools/contact.php?user_id=855911&subject=aylingoktug.com.tr) | 5201 days ago (11/19/2011) | 0 |
@@ -20311,10 +20233,10 @@ Total domains: 25241
 | barriolaspalmas.cl (25 hosts in use) website | private | [barriolaspalmas](https://freedns.afraid.org/tools/contact.php?user_id=487631&subject=barriolaspalmas.cl) | 6111 days ago (05/20/2009) | 0 |
 | bassettsystems.net (18 hosts in use) website | private | [pbass7616](https://freedns.afraid.org/tools/contact.php?user_id=242769&subject=bassettsystems.net) | 7092 days ago (09/12/2006) | 0 |
 | battlestickers.com (45 hosts in use) website | private | [bryanapellanes](https://freedns.afraid.org/tools/contact.php?user_id=1233364&subject=battlestickers.com) | 4354 days ago (03/03/2014) | 0 |
-| battlestickerz.com (36 hosts in use) website | private | [nable22](https://freedns.afraid.org/tools/contact.php?user_id=3506795&subject=battlestickerz.com) | 4353 days ago (03/03/2014) | 0 |
+| battlestickerz.com (37 hosts in use) website | private | [nable22](https://freedns.afraid.org/tools/contact.php?user_id=3506795&subject=battlestickerz.com) | 4367 days ago (03/03/2014) | 0 |
 | bbxdevelopment.com (50 hosts in use) website | private | [blackboxarg](https://freedns.afraid.org/tools/contact.php?user_id=1111598&subject=bbxdevelopment.com) | 4906 days ago (08/30/2012) | 0 |
 | beachglowbeauty.com (4 hosts in use) website | private | [goobz](https://freedns.afraid.org/tools/contact.php?user_id=193423&subject=beachglowbeauty.com) | 560 days ago (07/26/2024) | 0 |
-| befitannapolis.com (36 hosts in use) website | private | [nathans2](https://freedns.afraid.org/tools/contact.php?user_id=183792&subject=befitannapolis.com) | 4206 days ago (07/30/2014) | 0 |
+| befitannapolis.com (37 hosts in use) website | private | [nathans2](https://freedns.afraid.org/tools/contact.php?user_id=183792&subject=befitannapolis.com) | 4218 days ago (07/30/2014) | 0 |
 | bellethebride.com (149 hosts in use) website | public | [jimcam](https://freedns.afraid.org/tools/contact.php?user_id=1221586&subject=bellethebride.com) | 4841 days ago (11/13/2012) | 0 |
 | benjaminmussi.com (158 hosts in use) website | public | [benjaminmussi](https://freedns.afraid.org/tools/contact.php?user_id=1314282&subject=benjaminmussi.com) | 4707 days ago (03/21/2013) | 0 |
 | benjrubenstein.com (13 hosts in use) website | private | [wazuraka](https://freedns.afraid.org/tools/contact.php?user_id=754647&subject=benjrubenstein.com) | 5132 days ago (01/25/2012) | 0 |
@@ -20337,7 +20259,7 @@ Total domains: 25241
 | bishalgautam.com.np (4 hosts in use) website | private | [mpl90417](https://freedns.afraid.org/tools/contact.php?user_id=3475124&subject=bishalgautam.com.np) | 5174 days ago (11/14/2011) | 0 |
 | bishalkarma.com.np (26 hosts in use) website | private | [karmabishal](https://freedns.afraid.org/tools/contact.php?user_id=2983231&subject=bishalkarma.com.np) | 2942 days ago (01/15/2018) | 0 |
 | bitcomputers.com.ar (6 hosts in use) website | private | [oevidns1](https://freedns.afraid.org/tools/contact.php?user_id=789070&subject=bitcomputers.com.ar) | 5263 days ago (08/17/2011) | 0 |
-| bitsenterprise.com (36 hosts in use) website | private | [teshman](https://freedns.afraid.org/tools/contact.php?user_id=1158137&subject=bitsenterprise.com) | 4923 days ago (08/19/2012) | 0 |
+| bitsenterprise.com (34 hosts in use) website | private | [teshman](https://freedns.afraid.org/tools/contact.php?user_id=1158137&subject=bitsenterprise.com) | 4928 days ago (08/19/2012) | 0 |
 | bjerrumpedersen.dk (72 hosts in use) website | public | [theisbjerrum](https://freedns.afraid.org/tools/contact.php?user_id=2669860&subject=bjerrumpedersen.dk) | 3519 days ago (06/28/2016) | 0 |
 | black-mail.com.au (143 hosts in use) website | public | [ablack](https://freedns.afraid.org/tools/contact.php?user_id=540552&subject=black-mail.com.au) | 4913 days ago (08/31/2012) | 0 |
 | blackbooth.com.au (135 hosts in use) website | public | [jjacinto](https://freedns.afraid.org/tools/contact.php?user_id=821816&subject=blackbooth.com.au) | 5244 days ago (10/05/2011) | 0 |
@@ -20431,7 +20353,7 @@ Total domains: 25241
 | controlflow.com.mx (29 hosts in use) website | private | [pcardenas](https://freedns.afraid.org/tools/contact.php?user_id=1574919&subject=controlflow.com.mx) | 4465 days ago (11/13/2013) | 0 |
 | cooleyproperty.com (34 hosts in use) website | private | [aisling](https://freedns.afraid.org/tools/contact.php?user_id=322511&subject=cooleyproperty.com) | 1563 days ago (11/04/2021) | 0 |
 | corbinwedding.com (150 hosts in use) website | public | [acorbin3](https://freedns.afraid.org/tools/contact.php?user_id=2051516&subject=corbinwedding.com) | 4057 days ago (12/31/2014) | 0 |
-| cornishandco.co.uk (30 hosts in use) website | private | [hughesspencer](https://freedns.afraid.org/tools/contact.php?user_id=1683027&subject=cornishandco.co.uk) | 4331 days ago (03/06/2014) | 0 |
+| cornishandco.co.uk (30 hosts in use) website | private | [hughesspencer](https://freedns.afraid.org/tools/contact.php?user_id=1683027&subject=cornishandco.co.uk) | 4365 days ago (03/06/2014) | 0 |
 | correiadesa.com.br (23 hosts in use) website | private | [oguro](https://freedns.afraid.org/tools/contact.php?user_id=609593&subject=correiadesa.com.br) | 5448 days ago (03/18/2011) | 0 |
 | cortes-alhambra.es (11 hosts in use) website | private | [incatel](https://freedns.afraid.org/tools/contact.php?user_id=1221216&subject=cortes-alhambra.es) | 2354 days ago (08/04/2019) | 0 |
 | cortes-nachmann.eu (13 hosts in use) website | private | [incatel](https://freedns.afraid.org/tools/contact.php?user_id=1221216&subject=cortes-nachmann.eu) | 711 days ago (02/02/2024) | 0 |
@@ -20444,7 +20366,7 @@ Total domains: 25241
 | csnaccountants.com (27 hosts in use) website | private | [biker2biker](https://freedns.afraid.org/tools/contact.php?user_id=777915&subject=csnaccountants.com) | 5279 days ago (08/27/2011) | 0 |
 | csvconstructora.cl (25 hosts in use) website | private | [tomishiko](https://freedns.afraid.org/tools/contact.php?user_id=755031&subject=csvconstructora.cl) | 4428 days ago (11/29/2013) | 0 |
 | curtisanderson.com (29 hosts in use) website | private | [thedotmes](https://freedns.afraid.org/tools/contact.php?user_id=818323&subject=curtisanderson.com) | 4122 days ago (10/01/2014) | 0 |
-| custom-gaming.net (633 hosts in use) website | public | [jantillon](https://freedns.afraid.org/tools/contact.php?user_id=543674&subject=custom-gaming.net) | 5899 days ago (12/22/2009) | 0 |
+| custom-gaming.net (633 hosts in use) website | public | [jantillon](https://freedns.afraid.org/tools/contact.php?user_id=543674&subject=custom-gaming.net) | 5900 days ago (12/22/2009) | 0 |
 | customiseta.com.br (19 hosts in use) website | private | [pnaves](https://freedns.afraid.org/tools/contact.php?user_id=626715&subject=customiseta.com.br) | 4661 days ago (04/23/2013) | 0 |
 | cyberoncountry.net (39 hosts in use) website | private | [kopi2020](https://freedns.afraid.org/tools/contact.php?user_id=3450039&subject=cyberoncountry.net) | 1390 days ago (04/26/2022) | 0 |
 | cyberspinning.com (119 hosts in use) website | public | [dlangh](https://freedns.afraid.org/tools/contact.php?user_id=790571&subject=cyberspinning.com) | 5283 days ago (08/19/2011) | 0 |
@@ -20478,7 +20400,7 @@ Total domains: 25241
 | dhakalashok.com.np (49 hosts in use) website | public | [ashokdhakal](https://freedns.afraid.org/tools/contact.php?user_id=3150624&subject=dhakalashok.com.np) | 2553 days ago (02/19/2019) | 0 |
 | dialisis-bv.com.ar (26 hosts in use) website | private | [lerivera](https://freedns.afraid.org/tools/contact.php?user_id=201930&subject=dialisis-bv.com.ar) | 5822 days ago (02/26/2010) | 0 |
 | diegonunez.com.ar (121 hosts in use) website | public | [nunezd1972](https://freedns.afraid.org/tools/contact.php?user_id=543707&subject=diegonunez.com.ar) | 5327 days ago (07/06/2011) | 0 |
-| diegovainer.com.ar (86 hosts in use) website | public | [fabricecosta](https://freedns.afraid.org/tools/contact.php?user_id=722713&subject=diegovainer.com.ar) | 3576 days ago (04/06/2016) | 0 |
+| diegovainer.com.ar (86 hosts in use) website | public | [fabricecosta](https://freedns.afraid.org/tools/contact.php?user_id=722713&subject=diegovainer.com.ar) | 3603 days ago (04/06/2016) | 0 |
 | digitalaward.co.za (13 hosts in use) website | private | [bridgetti](https://freedns.afraid.org/tools/contact.php?user_id=920540&subject=digitalaward.co.za) | 3965 days ago (03/21/2015) | 0 |
 | digitalgrid.com.au (26 hosts in use) website | private | [kszwed](https://freedns.afraid.org/tools/contact.php?user_id=803830&subject=digitalgrid.com.au) | 5258 days ago (09/06/2011) | 0 |
 | dineskhatri.com.np (27 hosts in use) website | private | [pkaarkee](https://freedns.afraid.org/tools/contact.php?user_id=3139449&subject=dineskhatri.com.np) | 1389 days ago (04/25/2022) | 0 |
@@ -20503,7 +20425,7 @@ Total domains: 25241
 | drikadesign.com.br (31 hosts in use) website | private | [gomesfs80](https://freedns.afraid.org/tools/contact.php?user_id=523756&subject=drikadesign.com.br) | 5711 days ago (06/05/2010) | 0 |
 | duncanmctavish.com (31 hosts in use) website | private | [albioneikon](https://freedns.afraid.org/tools/contact.php?user_id=3071802&subject=duncanmctavish.com) | 2768 days ago (07/02/2018) | 0 |
 | dunia-artikel.com (138 hosts in use) website | public | [dilal](https://freedns.afraid.org/tools/contact.php?user_id=1104769&subject=dunia-artikel.com) | 3537 days ago (06/02/2016) | 0 |
-| durgabhusal.com.np (64 hosts in use) website | public | [durgabhusal3](https://freedns.afraid.org/tools/contact.php?user_id=2590654&subject=durgabhusal.com.np) | 3622 days ago (03/17/2016) | 0 |
+| durgabhusal.com.np (65 hosts in use) website | public | [durgabhusal3](https://freedns.afraid.org/tools/contact.php?user_id=2590654&subject=durgabhusal.com.np) | 3623 days ago (03/17/2016) | 0 |
 | durgagurung.com.np (37 hosts in use) website | private | [saugat55](https://freedns.afraid.org/tools/contact.php?user_id=2176940&subject=durgagurung.com.np) | 3977 days ago (03/06/2015) | 0 |
 | dynasoarnoises.com (21 hosts in use) website | private | [haylebop](https://freedns.afraid.org/tools/contact.php?user_id=3523186&subject=dynasoarnoises.com) | 1780 days ago (03/02/2021) | 0 |
 | e-developer.com.ve (27 hosts in use) website | private | [rafaeljdn](https://freedns.afraid.org/tools/contact.php?user_id=2560329&subject=e-developer.com.ve) | 3394 days ago (10/24/2016) | 0 |
@@ -20513,7 +20435,7 @@ Total domains: 25241
 | echipamenteaudio.ro (2 hosts in use) website | private | [acousticdensity](https://freedns.afraid.org/tools/contact.php?user_id=1712853&subject=echipamenteaudio.ro) | 2337 days ago (08/21/2019) | 0 |
 | eclipsecastellon.es (3 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastellon.es) | 272 days ago (04/16/2025) | 0 |
 | edrivensports.com (138 hosts in use) website | public | [edriven](https://freedns.afraid.org/tools/contact.php?user_id=188450&subject=edrivensports.com) | 6959 days ago (01/21/2007) | 0 |
-| edrivenstudios.com (35 hosts in use) website | private | [edriven](https://freedns.afraid.org/tools/contact.php?user_id=188450&subject=edrivenstudios.com) | 7302 days ago (02/16/2006) | 0 |
+| edrivenstudios.com (35 hosts in use) website | private | [edriven](https://freedns.afraid.org/tools/contact.php?user_id=188450&subject=edrivenstudios.com) | 7305 days ago (02/16/2006) | 0 |
 | egxservicos.com.br (45 hosts in use) website | private | [grrolim](https://freedns.afraid.org/tools/contact.php?user_id=818654&subject=egxservicos.com.br) | 5229 days ago (09/30/2011) | 0 |
 | electricalone.com (150 hosts in use) website | public | [creative81](https://freedns.afraid.org/tools/contact.php?user_id=2258911&subject=electricalone.com) | 3243 days ago (03/28/2017) | 0 |
 | electrodata.com.ar (47 hosts in use) website | private | [sergiovallejos](https://freedns.afraid.org/tools/contact.php?user_id=921353&subject=electrodata.com.ar) | 4594 days ago (07/17/2013) | 0 |
@@ -20573,7 +20495,7 @@ Total domains: 25241
 | foguckyourself.com (34 hosts in use) website | private | [boie0025](https://freedns.afraid.org/tools/contact.php?user_id=783257&subject=foguckyourself.com) | 5282 days ago (08/10/2011) | 0 |
 | fonusaccessory.com (36 hosts in use) website | private | [accessorychoice](https://freedns.afraid.org/tools/contact.php?user_id=1046900&subject=fonusaccessory.com) | 4513 days ago (09/05/2013) | 0 |
 | forgottenexile.org (29 hosts in use) website | private | [newton21989](https://freedns.afraid.org/tools/contact.php?user_id=278333&subject=forgottenexile.org) | 5238 days ago (10/11/2011) | 0 |
-| formatovariable.cl (76 hosts in use) website | public | [formatovariable](https://freedns.afraid.org/tools/contact.php?user_id=2654649&subject=formatovariable.cl) | 3536 days ago (06/11/2016) | 0 |
+| formatovariable.cl (77 hosts in use) website | public | [formatovariable](https://freedns.afraid.org/tools/contact.php?user_id=2654649&subject=formatovariable.cl) | 3536 days ago (06/11/2016) | 0 |
 | forrestconifer.net (11 hosts in use) website | private | [lmoody](https://freedns.afraid.org/tools/contact.php?user_id=917212&subject=forrestconifer.net) | 320 days ago (03/14/2025) | 0 |
 | fouracesonline.com (18 hosts in use) website | private | [chris41g](https://freedns.afraid.org/tools/contact.php?user_id=1608327&subject=fouracesonline.com) | 4443 days ago (12/17/2013) | 0 |
 | freeinvoicemax.com (20 hosts in use) website | private | [barretrr](https://freedns.afraid.org/tools/contact.php?user_id=1670819&subject=freeinvoicemax.com) | 652 days ago (05/01/2024) | 0 |
@@ -20590,7 +20512,7 @@ Total domains: 25241
 | garageviale.com.ar (12 hosts in use) website | private | [garageviale](https://freedns.afraid.org/tools/contact.php?user_id=1870192&subject=garageviale.com.ar) | 3806 days ago (08/13/2015) | 0 |
 | garantialibre.com (131 hosts in use) website | public | [lvalseche](https://freedns.afraid.org/tools/contact.php?user_id=2003955&subject=garantialibre.com) | 4113 days ago (11/09/2014) | 0 |
 | gasparacebo.com.ar (84 hosts in use) website | public | [gasparacebo](https://freedns.afraid.org/tools/contact.php?user_id=2108277&subject=gasparacebo.com.ar) | 4014 days ago (01/29/2015) | 0 |
-| gatewayjobs.com.np (96 hosts in use) website | public | [karkibkas](https://freedns.afraid.org/tools/contact.php?user_id=3331545&subject=gatewayjobs.com.np) | 1813 days ago (02/26/2021) | 0 |
+| gatewayjobs.com.np (97 hosts in use) website | public | [karkibkas](https://freedns.afraid.org/tools/contact.php?user_id=3331545&subject=gatewayjobs.com.np) | 1815 days ago (02/26/2021) | 0 |
 | geckobungalow.com (167 hosts in use) website | public | [helmet1978](https://freedns.afraid.org/tools/contact.php?user_id=820597&subject=geckobungalow.com) | 4945 days ago (08/01/2012) | 0 |
 | geetabasyal.com.np (42 hosts in use) website | private | [regal57](https://freedns.afraid.org/tools/contact.php?user_id=3075502&subject=geetabasyal.com.np) | 2766 days ago (07/13/2018) | 0 |
 | geminisunshine.com (15 hosts in use) website | private | [bryanapellanes](https://freedns.afraid.org/tools/contact.php?user_id=1233364&subject=geminisunshine.com) | 2231 days ago (01/04/2020) | 0 |
@@ -20660,7 +20582,7 @@ Total domains: 25241
 | iantayloryciasa.cl (69 hosts in use) website | private | [cespinoza](https://freedns.afraid.org/tools/contact.php?user_id=490003&subject=iantayloryciasa.cl) | 6073 days ago (05/29/2009) | 0 |
 | ic3d-solutions.com (34 hosts in use) website | private | [ic3d](https://freedns.afraid.org/tools/contact.php?user_id=1278855&subject=ic3d-solutions.com) | 4757 days ago (02/02/2013) | 0 |
 | ichbinschwanger.ch (23 hosts in use) website | private | [gpearl](https://freedns.afraid.org/tools/contact.php?user_id=1071942&subject=ichbinschwanger.ch) | 4963 days ago (06/14/2012) | 0 |
-| ignorelist.com (107748 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=ignorelist.com) | 8761 days ago (02/20/2002) | 0 |
+| ignorelist.com (107758 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=ignorelist.com) | 8762 days ago (02/20/2002) | 0 |
 | ilhanmutluay.com.tr (4 hosts in use) website | public | [imutluay](https://freedns.afraid.org/tools/contact.php?user_id=687267&subject=ilhanmutluay.com.tr) | 1137 days ago (01/01/2023) | 0 |
 | illusionfantasy.com (7 hosts in use) website | private | [pebbmorrconpu198](https://freedns.afraid.org/tools/contact.php?user_id=2013452&subject=illusionfantasy.com) | 4073 days ago (11/19/2014) | 0 |
 | ilyanekhoroshev.ru (22 hosts in use) website | private | [nekhoroshev](https://freedns.afraid.org/tools/contact.php?user_id=3308488&subject=ilyanekhoroshev.ru) | 2311 days ago (09/16/2019) | 0 |
@@ -20721,10 +20643,10 @@ Total domains: 25241
 | juancarlosmoral.es (21 hosts in use) website | private | [juankypunky](https://freedns.afraid.org/tools/contact.php?user_id=2327483&subject=juancarlosmoral.es) | 3872 days ago (06/08/2015) | 0 |
 | juandonatti.com.ar (19 hosts in use) website | private | [andresalmecija](https://freedns.afraid.org/tools/contact.php?user_id=723578&subject=juandonatti.com.ar) | 3534 days ago (06/01/2016) | 0 |
 | judoseurasakura.fi (16 hosts in use) website | private | [lakeballs](https://freedns.afraid.org/tools/contact.php?user_id=3030050&subject=judoseurasakura.fi) | 2858 days ago (04/19/2018) | 0 |
-| jumpingcrab.com (48212 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=jumpingcrab.com) | 7391 days ago (11/21/2005) | 0 |
+| jumpingcrab.com (48219 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=jumpingcrab.com) | 7392 days ago (11/21/2005) | 0 |
 | jussikankaristo.fi (21 hosts in use) website | private | [humpparitari](https://freedns.afraid.org/tools/contact.php?user_id=1062775&subject=jussikankaristo.fi) | 1086 days ago (02/04/2023) | 0 |
 | justanothersite.org (4 hosts in use) website | private | [liney](https://freedns.afraid.org/tools/contact.php?user_id=4485299&subject=justanothersite.org) | 195 days ago (07/02/2025) | 0 |
-| justinotherguy.org (32 hosts in use) website | private | [justinotherguy](https://freedns.afraid.org/tools/contact.php?user_id=1291857&subject=justinotherguy.org) | 4693 days ago (04/07/2013) | 0 |
+| justinotherguy.org (32 hosts in use) website | private | [justinotherguy](https://freedns.afraid.org/tools/contact.php?user_id=1291857&subject=justinotherguy.org) | 4698 days ago (04/07/2013) | 0 |
 | justlearning.net (1685 hosts in use) website | public | [jimgray](https://freedns.afraid.org/tools/contact.php?user_id=2220583&subject=justlearning.net) | 3990 days ago (03/15/2015) | 0 |
 | kaceybarnfield.com (20 hosts in use) website | private | [slalomsteve](https://freedns.afraid.org/tools/contact.php?user_id=680164&subject=kaceybarnfield.com) | 5515 days ago (01/06/2011) | 0 |
 | kalapangeni.com.np (27 hosts in use) website | private | [kpangeni22](https://freedns.afraid.org/tools/contact.php?user_id=3122495&subject=kalapangeni.com.np) | 2573 days ago (12/30/2018) | 0 |
@@ -20788,7 +20710,6 @@ Total domains: 25241
 | lonewolfeacres.net (28 hosts in use) website | private | [phillycheese1](https://freedns.afraid.org/tools/contact.php?user_id=3023817&subject=lonewolfeacres.net) | 1462 days ago (02/12/2022) | 0 |
 | lords-prairie.org (103 hosts in use) website | private | [lordy2001](https://freedns.afraid.org/tools/contact.php?user_id=143742&subject=lords-prairie.org) | 6009 days ago (09/01/2009) | 0 |
 | loricontesting.com (92 hosts in use) website | private | [njyponline](https://freedns.afraid.org/tools/contact.php?user_id=627182&subject=loricontesting.com) | 5674 days ago (07/23/2010) | 0 |
-| losaludableymas.cl (26 hosts in use) website | private | [janomarquez](https://freedns.afraid.org/tools/contact.php?user_id=1172173&subject=losaludableymas.cl) | 4879 days ago (09/06/2012) | 0 |
 | losarrieros.com.ar (15 hosts in use) website | private | [aichino](https://freedns.afraid.org/tools/contact.php?user_id=729096&subject=losarrieros.com.ar) | 3220 days ago (04/17/2017) | 0 |
 | lospenitentes.com (384 hosts in use) website | public | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=lospenitentes.com) | 5749 days ago (05/20/2010) | 0 |
 | lostindarkness.net (29 hosts in use) website | private | [chronos1337](https://freedns.afraid.org/tools/contact.php?user_id=231362&subject=lostindarkness.net) | 7103 days ago (09/05/2006) | 0 |
@@ -20811,7 +20732,6 @@ Total domains: 25241
 | mandymckenzie.com (116 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=mandymckenzie.com) | 5228 days ago (10/23/2011) | 0 |
 | mangalshova.com.np (48 hosts in use) website | public | [jomanozgml](https://freedns.afraid.org/tools/contact.php?user_id=2864033&subject=mangalshova.com.np) | 2968 days ago (11/30/2017) | 0 |
 | manggistech.com.my (36 hosts in use) website | private | [manggistech](https://freedns.afraid.org/tools/contact.php?user_id=1337920&subject=manggistech.com.my) | 4664 days ago (04/19/2013) | 0 |
-| manojkhadka.com.np (26 hosts in use) website | private | [usercomnp](https://freedns.afraid.org/tools/contact.php?user_id=2760629&subject=manojkhadka.com.np) | 3391 days ago (10/25/2016) | 0 |
 | mantavyagajjar.com (18 hosts in use) website | private | [mantavyagajjar](https://freedns.afraid.org/tools/contact.php?user_id=806007&subject=mantavyagajjar.com) | 5270 days ago (09/09/2011) | 0 |
 | mar-b-poodles.com (152 hosts in use) website | public | [dc37359](https://freedns.afraid.org/tools/contact.php?user_id=804221&subject=mar-b-poodles.com) | 5269 days ago (09/06/2011) | 0 |
 | marcelholthausen.de (6 hosts in use) website | private | [spots1](https://freedns.afraid.org/tools/contact.php?user_id=2979022&subject=marcelholthausen.de) | 2247 days ago (12/20/2019) | 0 |
@@ -20859,7 +20779,6 @@ Total domains: 25241
 | mouregazet.com.ar (120 hosts in use) website | public | [huilen](https://freedns.afraid.org/tools/contact.php?user_id=679240&subject=mouregazet.com.ar) | 5506 days ago (01/09/2011) | 0 |
 | mptimilsina.com.np (80 hosts in use) website | public | [reasonkc](https://freedns.afraid.org/tools/contact.php?user_id=1889742&subject=mptimilsina.com.np) | 4068 days ago (12/23/2014) | 0 |
 | mrlbookkeeping.com (37 hosts in use) website | private | [mrlbookkeeping](https://freedns.afraid.org/tools/contact.php?user_id=1832639&subject=mrlbookkeeping.com) | 4237 days ago (06/20/2014) | 0 |
-| mtpeakbuilders.com (26 hosts in use) website | private | [mmscadmin](https://freedns.afraid.org/tools/contact.php?user_id=1182927&subject=mtpeakbuilders.com) | 4255 days ago (06/17/2014) | 0 |
 | mueller-essingen.de (6 hosts in use) website | private | [matrix96](https://freedns.afraid.org/tools/contact.php?user_id=3464889&subject=mueller-essingen.de) | 167 days ago (08/06/2025) | 0 |
 | mukundakafle.com.np (6 hosts in use) website | private | [radhey20](https://freedns.afraid.org/tools/contact.php?user_id=767856&subject=mukundakafle.com.np) | 2035 days ago (06/18/2020) | 0 |
 | mumbaibikinis.com (113 hosts in use) website | public | [mumbaibikinis](https://freedns.afraid.org/tools/contact.php?user_id=3168942&subject=mumbaibikinis.com) | 2945 days ago (01/19/2018) | 0 |
@@ -20873,14 +20792,13 @@ Total domains: 25241
 | mysterysandbox.com (11 hosts in use) website | private | [eclipse15](https://freedns.afraid.org/tools/contact.php?user_id=64260&subject=mysterysandbox.com) | 7507 days ago (06/25/2005) | 0 |
 | mythicdiffusion.com (6 hosts in use) website | private | [nubbinse](https://freedns.afraid.org/tools/contact.php?user_id=3748078&subject=mythicdiffusion.com) | 1201 days ago (09/30/2022) | 0 |
 | nabinkhadka.com.np (24 hosts in use) website | private | [nabinkhadka](https://freedns.afraid.org/tools/contact.php?user_id=2963166&subject=nabinkhadka.com.np) | 2999 days ago (11/27/2017) | 0 |
-| nabinkhanal.com.np (64 hosts in use) website | public | [nkhanal01](https://freedns.afraid.org/tools/contact.php?user_id=2605154&subject=nabinkhanal.com.np) | 3572 days ago (04/03/2016) | 0 |
+| nabinkhanal.com.np (64 hosts in use) website | public | [nkhanal01](https://freedns.afraid.org/tools/contact.php?user_id=2605154&subject=nabinkhanal.com.np) | 3606 days ago (04/03/2016) | 0 |
 | nadiecomotu.com.ar (75 hosts in use) website | public | [jebcom](https://freedns.afraid.org/tools/contact.php?user_id=2012259&subject=nadiecomotu.com.ar) | 3208 days ago (04/30/2017) | 0 |
 | naming-schemes.org (98 hosts in use) website | public | [chardin](https://freedns.afraid.org/tools/contact.php?user_id=2932088&subject=naming-schemes.org) | 3069 days ago (09/09/2017) | 0 |
 | narayangiri.com.np (42 hosts in use) website | private | [ishworgi](https://freedns.afraid.org/tools/contact.php?user_id=1922868&subject=narayangiri.com.np) | 4176 days ago (09/03/2014) | 0 |
 | nauticalalmanac.net (7 hosts in use) website | private | [jona1492](https://freedns.afraid.org/tools/contact.php?user_id=343900&subject=nauticalalmanac.net) | 3147 days ago (07/03/2017) | 0 |
 | navatandham.org.np (85 hosts in use) website | public | [esushant](https://freedns.afraid.org/tools/contact.php?user_id=2326215&subject=navatandham.org.np) | 3903 days ago (06/06/2015) | 0 |
 | negoturismo.com.ar (28 hosts in use) website | private | [jirko](https://freedns.afraid.org/tools/contact.php?user_id=822150&subject=negoturismo.com.ar) | 5213 days ago (10/06/2011) | 0 |
-| nepalijivan.com.np (26 hosts in use) website | private | [jivan517](https://freedns.afraid.org/tools/contact.php?user_id=2446686&subject=nepalijivan.com.np) | 3717 days ago (12/10/2015) | 0 |
 | network-romania.ro (29 hosts in use) website | private | [leonbadicut](https://freedns.afraid.org/tools/contact.php?user_id=1502692&subject=network-romania.ro) | 3396 days ago (09/26/2016) | 0 |
 | network-xxiii.net (189 hosts in use) website | public | [wolf023](https://freedns.afraid.org/tools/contact.php?user_id=718090&subject=network-xxiii.net) | 5434 days ago (03/30/2011) | 0 |
 | newedenmarkets.com (34 hosts in use) website | private | [stevewilton](https://freedns.afraid.org/tools/contact.php?user_id=901537&subject=newedenmarkets.com) | 2847 days ago (03/31/2018) | 0 |
@@ -20894,7 +20812,6 @@ Total domains: 25241
 | nirazpaudel.com.np (76 hosts in use) website | public | [nirazpaudel](https://freedns.afraid.org/tools/contact.php?user_id=1914689&subject=nirazpaudel.com.np) | 4165 days ago (08/26/2014) | 0 |
 | nitrothermspray.si (91 hosts in use) website | public | [duro](https://freedns.afraid.org/tools/contact.php?user_id=489671&subject=nitrothermspray.si) | 4016 days ago (02/12/2015) | 0 |
 | nkolanyane.nom.za (110 hosts in use) website | public | [knkolanyane](https://freedns.afraid.org/tools/contact.php?user_id=2316531&subject=nkolanyane.nom.za) | 3895 days ago (06/03/2015) | 0 |
-| nkymimarlik.com.tr (26 hosts in use) website | private | [volkanb](https://freedns.afraid.org/tools/contact.php?user_id=1125782&subject=nkymimarlik.com.tr) | 3534 days ago (06/10/2016) | 0 |
 | nonplusculture.org (34 hosts in use) website | private | [nielow](https://freedns.afraid.org/tools/contact.php?user_id=2123544&subject=nonplusculture.org) | 2909 days ago (02/24/2018) | 0 |
 | notarialsgo.com.ar (15 hosts in use) website | public | [mpalavecino](https://freedns.afraid.org/tools/contact.php?user_id=1447398&subject=notarialsgo.com.ar) | 2344 days ago (09/05/2019) | 0 |
 | notariamelipilla.cl (8 hosts in use) website | private | [ngoyarzo](https://freedns.afraid.org/tools/contact.php?user_id=2932915&subject=notariamelipilla.cl) | 1401 days ago (03/14/2022) | 0 |
@@ -20999,7 +20916,7 @@ Total domains: 25241
 | prostitutki-msk.eu (14 hosts in use) website | private | [peterli230](https://freedns.afraid.org/tools/contact.php?user_id=3411750&subject=prostitutki-msk.eu) | 568 days ago (07/04/2024) | 0 |
 | prostitutki-msk.org (8 hosts in use) website | private | [peterli230](https://freedns.afraid.org/tools/contact.php?user_id=3411750&subject=prostitutki-msk.org) | 247 days ago (06/10/2025) | 0 |
 | psicologicemos.com (26 hosts in use) website | private | [carlosepa](https://freedns.afraid.org/tools/contact.php?user_id=94077&subject=psicologicemos.com) | 4487 days ago (10/01/2013) | 0 |
-| psychogametous.com (41 hosts in use) website | private | [atomgalaxy](https://freedns.afraid.org/tools/contact.php?user_id=194472&subject=psychogametous.com) | 68 days ago (12/09/2025) | 0 |
+| psychogametous.com (71 hosts in use) website | private | [atomgalaxy](https://freedns.afraid.org/tools/contact.php?user_id=194472&subject=psychogametous.com) | 68 days ago (12/09/2025) | 0 |
 | pti-architects.com (45 hosts in use) website | private | [kiranku](https://freedns.afraid.org/tools/contact.php?user_id=2291061&subject=pti-architects.com) | 3937 days ago (05/02/2015) | 0 |
 | publicanalytics.us (23 hosts in use) website | private | [rpstrauss](https://freedns.afraid.org/tools/contact.php?user_id=3195981&subject=publicanalytics.us) | 2412 days ago (06/23/2019) | 0 |
 | publishconnect.com (48 hosts in use) website | private | [mmabraham](https://freedns.afraid.org/tools/contact.php?user_id=290354&subject=publishconnect.com) | 6102 days ago (05/02/2009) | 0 |
@@ -21049,7 +20966,7 @@ Total domains: 25241
 | robbinsaviation.com (8 hosts in use) website | public | [djkiraly](https://freedns.afraid.org/tools/contact.php?user_id=742665&subject=robbinsaviation.com) | 2085 days ago (05/29/2020) | 0 |
 | robertoserrano.pro (20 hosts in use) website | private | [rsdiaz](https://freedns.afraid.org/tools/contact.php?user_id=2661063&subject=robertoserrano.pro) | 2765 days ago (06/21/2018) | 0 |
 | robot-agachado.com (10 hosts in use) website | public | [avillavi](https://freedns.afraid.org/tools/contact.php?user_id=3722548&subject=robot-agachado.com) | 1294 days ago (07/25/2022) | 0 |
-| robot-agachado.net (61 hosts in use) website | public | [avillavi](https://freedns.afraid.org/tools/contact.php?user_id=3722548&subject=robot-agachado.net) | 1298 days ago (07/25/2022) | 0 |
+| robot-agachado.net (62 hosts in use) website | public | [avillavi](https://freedns.afraid.org/tools/contact.php?user_id=3722548&subject=robot-agachado.net) | 1302 days ago (07/25/2022) | 0 |
 | robot-agachado.org (67 hosts in use) website | public | [avillavi](https://freedns.afraid.org/tools/contact.php?user_id=3722548&subject=robot-agachado.org) | 1289 days ago (07/25/2022) | 0 |
 | rockanrolad.com.ar (34 hosts in use) website | private | [lospital](https://freedns.afraid.org/tools/contact.php?user_id=459159&subject=rockanrolad.com.ar) | 5780 days ago (04/20/2010) | 0 |
 | rodolfomendoza.com (48 hosts in use) website | private | [srmendoza](https://freedns.afraid.org/tools/contact.php?user_id=3817640&subject=rodolfomendoza.com) | 971 days ago (06/01/2023) | 0 |
@@ -21103,7 +21020,7 @@ Total domains: 25241
 | sebastianleyton.cl (91 hosts in use) website | public | [sebastianleyton](https://freedns.afraid.org/tools/contact.php?user_id=1890483&subject=sebastianleyton.cl) | 4206 days ago (08/06/2014) | 0 |
 | secondlookbook.com (42 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=secondlookbook.com) | 6192 days ago (03/02/2009) | 0 |
 | selimgoktas.com.tr (18 hosts in use) website | private | [pilot007](https://freedns.afraid.org/tools/contact.php?user_id=560114&subject=selimgoktas.com.tr) | 5839 days ago (02/18/2010) | 0 |
-| selugallery.com.np (22 hosts in use) website | public | [dikhuppabro](https://freedns.afraid.org/tools/contact.php?user_id=3441461&subject=selugallery.com.np) | 1447 days ago (02/27/2022) | 0 |
+| selugallery.com.np (27 hosts in use) website | public | [dikhuppabro](https://freedns.afraid.org/tools/contact.php?user_id=3441461&subject=selugallery.com.np) | 1450 days ago (02/27/2022) | 0 |
 | serasaexperian.net (31 hosts in use) website | private | [lhmartins08](https://freedns.afraid.org/tools/contact.php?user_id=441279&subject=serasaexperian.net) | 6289 days ago (11/27/2008) | 0 |
 | serpentineroad.com (28 hosts in use) website | private | [slalomsteve](https://freedns.afraid.org/tools/contact.php?user_id=680164&subject=serpentineroad.com) | 5460 days ago (02/28/2011) | 0 |
 | serviciosit.com.ar (19 hosts in use) website | public | [serviciosit](https://freedns.afraid.org/tools/contact.php?user_id=1934842&subject=serviciosit.com.ar) | 2935 days ago (01/22/2018) | 0 |
@@ -21131,7 +21048,7 @@ Total domains: 25241
 | simplecharity.com (356 hosts in use) website | public | [petergsampson](https://freedns.afraid.org/tools/contact.php?user_id=308529&subject=simplecharity.com) | 6817 days ago (06/16/2007) | 0 |
 | simplon-saeumer.ch (74 hosts in use) website | public | [swisspeter](https://freedns.afraid.org/tools/contact.php?user_id=2148641&subject=simplon-saeumer.ch) | 2973 days ago (12/20/2017) | 0 |
 | sinergialsa.com.ar (29 hosts in use) website | private | [sinergial](https://freedns.afraid.org/tools/contact.php?user_id=1318330&subject=sinergialsa.com.ar) | 4700 days ago (03/26/2013) | 0 |
-| sinergisemesta.com (35 hosts in use) website | private | [tebas](https://freedns.afraid.org/tools/contact.php?user_id=304648&subject=sinergisemesta.com) | 6206 days ago (02/16/2009) | 0 |
+| sinergisemesta.com (36 hosts in use) website | private | [tebas](https://freedns.afraid.org/tools/contact.php?user_id=304648&subject=sinergisemesta.com) | 6209 days ago (02/16/2009) | 0 |
 | skepticalsalad.com (77 hosts in use) website | public | [kpauly2](https://freedns.afraid.org/tools/contact.php?user_id=4065506&subject=skepticalsalad.com) | 744 days ago (01/28/2024) | 0 |
 | skyhooksarereal.net (8 hosts in use) website | private | [herring900](https://freedns.afraid.org/tools/contact.php?user_id=2821530&subject=skyhooksarereal.net) | 759 days ago (01/16/2024) | 0 |
 | smalandstudios.com (21 hosts in use) website | private | [masterobject](https://freedns.afraid.org/tools/contact.php?user_id=2989328&subject=smalandstudios.com) | 2856 days ago (04/21/2018) | 0 |
@@ -21169,11 +21086,11 @@ Total domains: 25241
 | spiritualstones.ca (11 hosts in use) website | private | [mlapchuk](https://freedns.afraid.org/tools/contact.php?user_id=2505268&subject=spiritualstones.ca) | 1617 days ago (09/08/2021) | 0 |
 | sqlservergurus.com (45 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=sqlservergurus.com) | 7784 days ago (10/24/2004) | 0 |
 | sqlserverusers.com (43 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=sqlserverusers.com) | 7783 days ago (10/24/2004) | 0 |
-| srdproductions.com (59 hosts in use) website | private | [961827](https://freedns.afraid.org/tools/contact.php?user_id=317371&subject=srdproductions.com) | 6754 days ago (07/26/2007) | 0 |
+| srdproductions.com (60 hosts in use) website | private | [961827](https://freedns.afraid.org/tools/contact.php?user_id=317371&subject=srdproductions.com) | 6780 days ago (07/26/2007) | 0 |
 | staticreaction.com (30 hosts in use) website | private | [hoffjust](https://freedns.afraid.org/tools/contact.php?user_id=1174236&subject=staticreaction.com) | 4901 days ago (09/10/2012) | 0 |
 | steele-sorensen.dk (21 hosts in use) website | private | [ulrichsorensen](https://freedns.afraid.org/tools/contact.php?user_id=1267678&subject=steele-sorensen.dk) | 4746 days ago (01/15/2013) | 0 |
 | stelianniculescu.ro (3 hosts in use) website | private | [cata00](https://freedns.afraid.org/tools/contact.php?user_id=429601&subject=stelianniculescu.ro) | 2529 days ago (02/10/2019) | 0 |
-| stephenborgelt.com (34 hosts in use) website | private | [stevebor1](https://freedns.afraid.org/tools/contact.php?user_id=620088&subject=stephenborgelt.com) | 2944 days ago (01/19/2018) | 0 |
+| stephenborgelt.com (34 hosts in use) website | private | [stevebor1](https://freedns.afraid.org/tools/contact.php?user_id=620088&subject=stephenborgelt.com) | 2950 days ago (01/19/2018) | 0 |
 | steveharrop.co.uk (135 hosts in use) website | public | [midnightoker](https://freedns.afraid.org/tools/contact.php?user_id=155725&subject=steveharrop.co.uk) | 6542 days ago (03/17/2008) | 0 |
 | stickelsystems.com (35 hosts in use) website | private | [mstickel](https://freedns.afraid.org/tools/contact.php?user_id=220056&subject=stickelsystems.com) | 6126 days ago (05/04/2009) | 0 |
 | stoke-weather.co.uk (6 hosts in use) website | private | [evvo](https://freedns.afraid.org/tools/contact.php?user_id=3677039&subject=stoke-weather.co.uk) | 167 days ago (07/30/2025) | 0 |
@@ -21211,7 +21128,7 @@ Total domains: 25241
 | tangentbrewing.com (20 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=tangentbrewing.com) | 1131 days ago (12/09/2022) | 0 |
 | taniatricot.com.br (25 hosts in use) website | private | [trevisa](https://freedns.afraid.org/tools/contact.php?user_id=323449&subject=taniatricot.com.br) | 6727 days ago (08/27/2007) | 0 |
 | tarjeta-fiel.com.ar (2 hosts in use) website | private | [tarjetafiel](https://freedns.afraid.org/tools/contact.php?user_id=3069723&subject=tarjeta-fiel.com.ar) | 2632 days ago (10/30/2018) | 0 |
-| tarjetafiel.com.ar (32 hosts in use) website | private | [tarjetafiel](https://freedns.afraid.org/tools/contact.php?user_id=3069723&subject=tarjetafiel.com.ar) | 2634 days ago (10/30/2018) | 0 |
+| tarjetafiel.com.ar (33 hosts in use) website | private | [tarjetafiel](https://freedns.afraid.org/tools/contact.php?user_id=3069723&subject=tarjetafiel.com.ar) | 2666 days ago (10/30/2018) | 0 |
 | teachmetofish.net (424 hosts in use) website | public | [matthewpeavy](https://freedns.afraid.org/tools/contact.php?user_id=514557&subject=teachmetofish.net) | 6015 days ago (08/28/2009) | 0 |
 | teamthirteen.co.uk (33 hosts in use) website | private | [ryocck](https://freedns.afraid.org/tools/contact.php?user_id=517972&subject=teamthirteen.co.uk) | 1338 days ago (06/05/2022) | 0 |
 | teamtraining.co.il (41 hosts in use) website | private | [ggubkin](https://freedns.afraid.org/tools/contact.php?user_id=274481&subject=teamtraining.co.il) | 6176 days ago (03/18/2009) | 0 |
@@ -21233,7 +21150,7 @@ Total domains: 25241
 | thechillistip.com (150 hosts in use) website | public | [barrysage](https://freedns.afraid.org/tools/contact.php?user_id=1488125&subject=thechillistip.com) | 4533 days ago (09/16/2013) | 0 |
 | thed3mediagoup.net (33 hosts in use) website | private | [danielzevcohen](https://freedns.afraid.org/tools/contact.php?user_id=2960404&subject=thed3mediagoup.net) | 3007 days ago (11/19/2017) | 0 |
 | theguitardepot.com (38 hosts in use) website | private | [fuseserv](https://freedns.afraid.org/tools/contact.php?user_id=573821&subject=theguitardepot.com) | 5787 days ago (04/11/2010) | 0 |
-| thehustongroup.net (24 hosts in use) website | private | [hustodns](https://freedns.afraid.org/tools/contact.php?user_id=1042259&subject=thehustongroup.net) | 5027 days ago (05/09/2012) | 0 |
+| thehustongroup.net (24 hosts in use) website | private | [hustodns](https://freedns.afraid.org/tools/contact.php?user_id=1042259&subject=thehustongroup.net) | 5030 days ago (05/09/2012) | 0 |
 | theitfactor.com.au (19 hosts in use) website | private | [gmcclelland](https://freedns.afraid.org/tools/contact.php?user_id=668093&subject=theitfactor.com.au) | 2742 days ago (07/27/2018) | 0 |
 | thelandconcept.com (46 hosts in use) website | private | [thelandconcept](https://freedns.afraid.org/tools/contact.php?user_id=737825&subject=thelandconcept.com) | 5378 days ago (05/24/2011) | 0 |
 | theliensaleguy.com (32 hosts in use) website | private | [ranunez](https://freedns.afraid.org/tools/contact.php?user_id=163235&subject=theliensaleguy.com) | 2253 days ago (12/16/2019) | 0 |
@@ -21300,7 +21217,7 @@ Total domains: 25241
 | vasyanproject21.pro (7 hosts in use) website | public | [vasyanproject21](https://freedns.afraid.org/tools/contact.php?user_id=5111075&subject=vasyanproject21.pro) | 96 days ago (11/08/2025) | 0 |
 | venturesandbox.com (76 hosts in use) website | private | [ssubo](https://freedns.afraid.org/tools/contact.php?user_id=215305&subject=venturesandbox.com) | 5775 days ago (04/23/2010) | 0 |
 | veracityenergy.com (34 hosts in use) website | private | [eagleenergytrust](https://freedns.afraid.org/tools/contact.php?user_id=836662&subject=veracityenergy.com) | 2204 days ago (01/01/2020) | 0 |
-| verandahotels.com (111 hosts in use) website | private | [xulaeman](https://freedns.afraid.org/tools/contact.php?user_id=423401&subject=verandahotels.com) | 2180 days ago (02/24/2020) | 0 |
+| verandahotels.com (112 hosts in use) website | private | [xulaeman](https://freedns.afraid.org/tools/contact.php?user_id=423401&subject=verandahotels.com) | 2183 days ago (02/24/2020) | 0 |
 | versatilcba.com.ar (22 hosts in use) website | private | [dlgines](https://freedns.afraid.org/tools/contact.php?user_id=224175&subject=versatilcba.com.ar) | 5119 days ago (01/22/2012) | 0 |
 | verticalxtreme.com (31 hosts in use) website | private | [tictoc](https://freedns.afraid.org/tools/contact.php?user_id=1138461&subject=verticalxtreme.com) | 4923 days ago (08/17/2012) | 0 |
 | victorcabralvida.es (8 hosts in use) website | public | [torvicv](https://freedns.afraid.org/tools/contact.php?user_id=2946074&subject=victorcabralvida.es) | 989 days ago (05/22/2023) | 0 |
@@ -21313,7 +21230,7 @@ Total domains: 25241
 | virtualslugbug.com (23 hosts in use) website | private | [kmhanser](https://freedns.afraid.org/tools/contact.php?user_id=1162816&subject=virtualslugbug.com) | 4908 days ago (08/27/2012) | 0 |
 | vishalaryal.com.np (70 hosts in use) website | public | [vishalaral](https://freedns.afraid.org/tools/contact.php?user_id=2423046&subject=vishalaryal.com.np) | 3781 days ago (09/29/2015) | 0 |
 | vjplanificacion.cl (98 hosts in use) website | public | [jpbaeza](https://freedns.afraid.org/tools/contact.php?user_id=2124607&subject=vjplanificacion.cl) | 4003 days ago (02/10/2015) | 0 |
-| vm4construction.uk (73 hosts in use) website | private | [giani](https://freedns.afraid.org/tools/contact.php?user_id=33733&subject=vm4construction.uk) | 390 days ago (01/21/2025) | 0 |
+| vm4construction.uk (96 hosts in use) website | private | [giani](https://freedns.afraid.org/tools/contact.php?user_id=33733&subject=vm4construction.uk) | 391 days ago (01/21/2025) | 0 |
 | voyageonline.co.uk (22 hosts in use) website | private | [stephanek](https://freedns.afraid.org/tools/contact.php?user_id=244309&subject=voyageonline.co.uk) | 6643 days ago (12/07/2007) | 0 |
 | vuosaarielokuva.fi (68 hosts in use) website | public | [shovi](https://freedns.afraid.org/tools/contact.php?user_id=146755&subject=vuosaarielokuva.fi) | 3346 days ago (12/18/2016) | 0 |
 | walk4autism.com.au (26 hosts in use) website | private | [giantstepssydney](https://freedns.afraid.org/tools/contact.php?user_id=519977&subject=walk4autism.com.au) | 5992 days ago (09/19/2009) | 0 |
@@ -21371,6 +21288,7 @@ Total domains: 25241
 | 24x7consultation.com (6 hosts in use) website | private | [natchan](https://freedns.afraid.org/tools/contact.php?user_id=831892&subject=24x7consultation.com) | 1891 days ago (11/09/2020) | 0 |
 | 2blokeswithbeer.com (61 hosts in use) website | private | [stewhite](https://freedns.afraid.org/tools/contact.php?user_id=686800&subject=2blokeswithbeer.com) | 5499 days ago (01/24/2011) | 0 |
 | 360technologies.ca (269 hosts in use) website | public | [noaman](https://freedns.afraid.org/tools/contact.php?user_id=190814&subject=360technologies.ca) | 7290 days ago (02/28/2006) | 0 |
+| 3bearconsulting.com (10 hosts in use) website | private | [deconinck](https://freedns.afraid.org/tools/contact.php?user_id=628598&subject=3bearconsulting.com) | 1249 days ago (09/16/2022) | 0 |
 | 9thlanegrind.com.au (12 hosts in use) website | private | [ainsch2](https://freedns.afraid.org/tools/contact.php?user_id=1271684&subject=9thlanegrind.com.au) | 3290 days ago (01/25/2017) | 0 |
 | a-ford-ableauto.com (45 hosts in use) website | private | [jerry3687](https://freedns.afraid.org/tools/contact.php?user_id=475179&subject=a-ford-ableauto.com) | 4924 days ago (08/21/2012) | 0 |
 | aafoundation.org.za (24 hosts in use) website | private | [masterweb](https://freedns.afraid.org/tools/contact.php?user_id=355850&subject=aafoundation.org.za) | 1718 days ago (05/15/2021) | 0 |
@@ -21403,7 +21321,7 @@ Total domains: 25241
 | amberwithcamera.com (64 hosts in use) website | public | [mbze430](https://freedns.afraid.org/tools/contact.php?user_id=3330548&subject=amberwithcamera.com) | 1591 days ago (10/05/2021) | 0 |
 | anarhija-blok45.net (31 hosts in use) website | private | [aleksag](https://freedns.afraid.org/tools/contact.php?user_id=3070876&subject=anarhija-blok45.net) | 2785 days ago (07/02/2018) | 0 |
 | andrewlightfoot.com (18 hosts in use) website | private | [jlightfoot](https://freedns.afraid.org/tools/contact.php?user_id=108640&subject=andrewlightfoot.com) | 3155 days ago (05/25/2017) | 0 |
-| andrewshomelabs.com (36 hosts in use) website | private | [smandrews88](https://freedns.afraid.org/tools/contact.php?user_id=1614286&subject=andrewshomelabs.com) | 2923 days ago (01/26/2018) | 0 |
+| andrewshomelabs.com (36 hosts in use) website | private | [smandrews88](https://freedns.afraid.org/tools/contact.php?user_id=1614286&subject=andrewshomelabs.com) | 2942 days ago (01/26/2018) | 0 |
 | androvial-sa.com.ar (24 hosts in use) website | private | [iandrono](https://freedns.afraid.org/tools/contact.php?user_id=2323405&subject=androvial-sa.com.ar) | 3900 days ago (06/03/2015) | 0 |
 | aniautomacao.com.br (42 hosts in use) website | private | [dren](https://freedns.afraid.org/tools/contact.php?user_id=120868&subject=aniautomacao.com.br) | 5712 days ago (06/04/2010) | 0 |
 | anilkharbind.com.np (28 hosts in use) website | private | [rijan123](https://freedns.afraid.org/tools/contact.php?user_id=3353737&subject=anilkharbind.com.np) | 2205 days ago (02/02/2020) | 0 |
@@ -21421,7 +21339,7 @@ Total domains: 25241
 | area51doncaster.com (43 hosts in use) website | private | [cunni](https://freedns.afraid.org/tools/contact.php?user_id=31244&subject=area51doncaster.com) | 5642 days ago (08/19/2010) | 0 |
 | arghelothapa.com.np (87 hosts in use) website | public | [arghelothapa](https://freedns.afraid.org/tools/contact.php?user_id=2199646&subject=arghelothapa.com.np) | 3977 days ago (03/11/2015) | 0 |
 | arrondialacaisse.ca (27 hosts in use) website | private | [pulmonaire](https://freedns.afraid.org/tools/contact.php?user_id=1096548&subject=arrondialacaisse.ca) | 1381 days ago (04/26/2022) | 0 |
-| artsdataconnect.com (36 hosts in use) website | private | [chrismccartney](https://freedns.afraid.org/tools/contact.php?user_id=882214&subject=artsdataconnect.com) | 4955 days ago (07/04/2012) | 0 |
+| artsdataconnect.com (36 hosts in use) website | private | [chrismccartney](https://freedns.afraid.org/tools/contact.php?user_id=882214&subject=artsdataconnect.com) | 4974 days ago (07/04/2012) | 0 |
 | asiaxpatholiday.com (29 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=asiaxpatholiday.com) | 6199 days ago (02/25/2009) | 0 |
 | assortednotions.com (29 hosts in use) website | private | [timthib](https://freedns.afraid.org/tools/contact.php?user_id=555833&subject=assortednotions.com) | 5856 days ago (02/03/2010) | 0 |
 | astra-passengers.ro (21 hosts in use) website | private | [acaba](https://freedns.afraid.org/tools/contact.php?user_id=1814592&subject=astra-passengers.ro) | 4921 days ago (07/26/2012) | 0 |
@@ -21441,7 +21359,7 @@ Total domains: 25241
 | averdadeliberta.com (13 hosts in use) website | private | [grandaumg2](https://freedns.afraid.org/tools/contact.php?user_id=2815621&subject=averdadeliberta.com) | 761 days ago (01/13/2024) | 0 |
 | avocatcorinadicu.ro (25 hosts in use) website | private | [guestisor](https://freedns.afraid.org/tools/contact.php?user_id=367518&subject=avocatcorinadicu.ro) | 6473 days ago (04/24/2008) | 0 |
 | awpsychology.com.au (50 hosts in use) website | private | [rooboy35](https://freedns.afraid.org/tools/contact.php?user_id=574829&subject=awpsychology.com.au) | 4884 days ago (09/26/2012) | 0 |
-| babitapandey.com.np (57 hosts in use) website | public | [babitapandey](https://freedns.afraid.org/tools/contact.php?user_id=2589776&subject=babitapandey.com.np) | 3591 days ago (03/15/2016) | 0 |
+| babitapandey.com.np (58 hosts in use) website | public | [babitapandey](https://freedns.afraid.org/tools/contact.php?user_id=2589776&subject=babitapandey.com.np) | 3625 days ago (03/15/2016) | 0 |
 | babulalbudha.com.np (33 hosts in use) website | private | [nbnabinudasi](https://freedns.afraid.org/tools/contact.php?user_id=2719165&subject=babulalbudha.com.np) | 3412 days ago (09/28/2016) | 0 |
 | badripangeni.com.np (26 hosts in use) website | private | [badripangeni99](https://freedns.afraid.org/tools/contact.php?user_id=3125327&subject=badripangeni.com.np) | 2622 days ago (12/10/2018) | 0 |
 | baker-infomatics.com (5 hosts in use) website | private | [onimeasra1986](https://freedns.afraid.org/tools/contact.php?user_id=2015583&subject=baker-infomatics.com) | 4071 days ago (11/21/2014) | 0 |
@@ -21489,7 +21407,7 @@ Total domains: 25241
 | boatingequipment.nz (22 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatingequipment.nz) | 3935 days ago (05/05/2015) | 0 |
 | bolosaospedacos.com (22 hosts in use) website | private | [mariopais](https://freedns.afraid.org/tools/contact.php?user_id=925035&subject=bolosaospedacos.com) | 5097 days ago (01/31/2012) | 0 |
 | bonhamandhoward.com (38 hosts in use) website | private | [neatojet](https://freedns.afraid.org/tools/contact.php?user_id=799703&subject=bonhamandhoward.com) | 5277 days ago (08/30/2011) | 0 |
-| bookpropofplace.com (30 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=bookpropofplace.com) | 206 days ago (07/21/2025) | 0 |
+| bookpropofplace.com (31 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=bookpropofplace.com) | 210 days ago (07/21/2025) | 0 |
 | boostmetabolism.com (18 hosts in use) website | private | [femi](https://freedns.afraid.org/tools/contact.php?user_id=33480&subject=boostmetabolism.com) | 8112 days ago (12/01/2003) | 0 |
 | bosquesdelmaule.cl (136 hosts in use) website | public | [ngarciac](https://freedns.afraid.org/tools/contact.php?user_id=695965&subject=bosquesdelmaule.cl) | 5438 days ago (03/02/2011) | 0 |
 | boterosculpture.biz (29 hosts in use) website | private | [kakayara](https://freedns.afraid.org/tools/contact.php?user_id=463257&subject=boterosculpture.biz) | 6191 days ago (03/03/2009) | 0 |
@@ -21548,7 +21466,7 @@ Total domains: 25241
 | clinicamarshaka.com (40 hosts in use) website | private | [larkind](https://freedns.afraid.org/tools/contact.php?user_id=499976&subject=clinicamarshaka.com) | 6070 days ago (07/02/2009) | 0 |
 | cloakingdevice.com (113 hosts in use) website | public | [20pack](https://freedns.afraid.org/tools/contact.php?user_id=1131229&subject=cloakingdevice.com) | 3244 days ago (03/29/2017) | 0 |
 | cloudworkonline.com (56 hosts in use) website | private | [mrvasquez](https://freedns.afraid.org/tools/contact.php?user_id=762971&subject=cloudworkonline.com) | 5328 days ago (07/14/2011) | 0 |
-| cnstefancelmare.ro (473 hosts in use) website | private | [adrianpetrisor](https://freedns.afraid.org/tools/contact.php?user_id=466387&subject=cnstefancelmare.ro) | 6171 days ago (03/23/2009) | 0 |
+| cnstefancelmare.ro (474 hosts in use) website | private | [adrianpetrisor](https://freedns.afraid.org/tools/contact.php?user_id=466387&subject=cnstefancelmare.ro) | 6174 days ago (03/23/2009) | 0 |
 | coachingintegral.cl (22 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=coachingintegral.cl) | 3521 days ago (05/26/2016) | 0 |
 | colegioaldebaran.cl (62 hosts in use) website | private | [rtrigo](https://freedns.afraid.org/tools/contact.php?user_id=2136247&subject=colegioaldebaran.cl) | 4011 days ago (02/18/2015) | 0 |
 | colegiosanmarcel.cl (65 hosts in use) website | public | [erodriguezl](https://freedns.afraid.org/tools/contact.php?user_id=1926490&subject=colegiosanmarcel.cl) | 2322 days ago (10/03/2019) | 0 |
@@ -21636,7 +21554,7 @@ Total domains: 25241
 | dynapacventures.com (10 hosts in use) website | private | [slusiola4](https://freedns.afraid.org/tools/contact.php?user_id=771718&subject=dynapacventures.com) | 329 days ago (03/18/2025) | 0 |
 | earthsinfection.com (37 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=earthsinfection.com) | 4497 days ago (10/02/2013) | 0 |
 | easternstouch.co.za (52 hosts in use) website | private | [novhak](https://freedns.afraid.org/tools/contact.php?user_id=219366&subject=easternstouch.co.za) | 6120 days ago (05/13/2009) | 0 |
-| eclipsecastello.com (59 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastello.com) | 305 days ago (04/16/2025) | 0 |
+| eclipsecastello.com (92 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastello.com) | 305 days ago (04/16/2025) | 0 |
 | eclipsecastello.net (14 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastello.net) | 303 days ago (04/16/2025) | 0 |
 | eclipsecastellon.com (4 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastellon.com) | 302 days ago (04/16/2025) | 0 |
 | eclipsecastellon.net (4 hosts in use) website | private | [joancatala](https://freedns.afraid.org/tools/contact.php?user_id=343868&subject=eclipsecastellon.net) | 302 days ago (04/16/2025) | 0 |
@@ -21681,7 +21599,7 @@ Total domains: 25241
 | feuerwehr-rueggi.ch (11 hosts in use) website | private | [dominiknufer](https://freedns.afraid.org/tools/contact.php?user_id=147561&subject=feuerwehr-rueggi.ch) | 3019 days ago (11/01/2017) | 0 |
 | ffeineaddiction.com (36 hosts in use) website | private | [caffeineaddict](https://freedns.afraid.org/tools/contact.php?user_id=1724940&subject=ffeineaddiction.com) | 4298 days ago (04/08/2014) | 0 |
 | filipegiusti.com.br (18 hosts in use) website | private | [filipegiusti](https://freedns.afraid.org/tools/contact.php?user_id=563897&subject=filipegiusti.com.br) | 5828 days ago (03/03/2010) | 0 |
-| findelschnecke.com (173 hosts in use) website | public | [elektrokraut](https://freedns.afraid.org/tools/contact.php?user_id=2629596&subject=findelschnecke.com) | 3572 days ago (05/03/2016) | 0 |
+| findelschnecke.com (173 hosts in use) website | public | [elektrokraut](https://freedns.afraid.org/tools/contact.php?user_id=2629596&subject=findelschnecke.com) | 3576 days ago (05/03/2016) | 0 |
 | fishnetstalking.com (54 hosts in use) website | private | [bigwyrm](https://freedns.afraid.org/tools/contact.php?user_id=37526&subject=fishnetstalking.com) | 5356 days ago (06/13/2011) | 0 |
 | flavyamutran.com.br (53 hosts in use) website | private | [laurix](https://freedns.afraid.org/tools/contact.php?user_id=844234&subject=flavyamutran.com.br) | 5201 days ago (11/10/2011) | 0 |
 | fliabarrigon.com.ar (33 hosts in use) website | private | [jsbsoda](https://freedns.afraid.org/tools/contact.php?user_id=1100381&subject=fliabarrigon.com.ar) | 4978 days ago (06/29/2012) | 0 |
@@ -21830,7 +21748,6 @@ Total domains: 25241
 | lagosistemas.com.br (34 hosts in use) website | private | [silvanolago](https://freedns.afraid.org/tools/contact.php?user_id=518871&subject=lagosistemas.com.br) | 5996 days ago (09/14/2009) | 0 |
 | langthangonline.com (61 hosts in use) website | private | [langthangmai](https://freedns.afraid.org/tools/contact.php?user_id=1098294&subject=langthangonline.com) | 4979 days ago (06/27/2012) | 0 |
 | lanpartynation.co.uk (3 hosts in use) website | private | [novacap](https://freedns.afraid.org/tools/contact.php?user_id=3560181&subject=lanpartynation.co.uk) | 1565 days ago (10/18/2021) | 0 |
-| lareynabakerysf.com (26 hosts in use) website | private | [gizard](https://freedns.afraid.org/tools/contact.php?user_id=383356&subject=lareynabakerysf.com) | 3091 days ago (08/28/2017) | 0 |
 | larouteduquebec.com (29 hosts in use) website | private | [begoodcan](https://freedns.afraid.org/tools/contact.php?user_id=77023&subject=larouteduquebec.com) | 3778 days ago (09/10/2015) | 0 |
 | larryfthompson.com (175 hosts in use) website | public | [asthomps](https://freedns.afraid.org/tools/contact.php?user_id=798861&subject=larryfthompson.com) | 5271 days ago (08/29/2011) | 0 |
 | laurentandjenae.com (34 hosts in use) website | private | [laurentdelayen](https://freedns.afraid.org/tools/contact.php?user_id=1188597&subject=laurentandjenae.com) | 4881 days ago (09/29/2012) | 0 |
@@ -21845,7 +21762,7 @@ Total domains: 25241
 | linijasigurnosti.hr (75 hosts in use) website | public | [fcrmedia](https://freedns.afraid.org/tools/contact.php?user_id=2302193&subject=linijasigurnosti.hr) | 3268 days ago (02/26/2017) | 0 |
 | lister-shipping.com (38 hosts in use) website | private | [5p4c3](https://freedns.afraid.org/tools/contact.php?user_id=35107&subject=lister-shipping.com) | 5877 days ago (01/11/2010) | 0 |
 | littlepoliticos.com (38 hosts in use) website | private | [nbier](https://freedns.afraid.org/tools/contact.php?user_id=435292&subject=littlepoliticos.com) | 6308 days ago (11/07/2008) | 0 |
-| lnbphotography.net (341 hosts in use) website | public | [besancon](https://freedns.afraid.org/tools/contact.php?user_id=504087&subject=lnbphotography.net) | 6055 days ago (07/19/2009) | 0 |
+| lnbphotography.net (341 hosts in use) website | public | [besancon](https://freedns.afraid.org/tools/contact.php?user_id=504087&subject=lnbphotography.net) | 6056 days ago (07/19/2009) | 0 |
 | locosxelfutbol.org (121 hosts in use) website | public | [locosxelfutbol](https://freedns.afraid.org/tools/contact.php?user_id=2863718&subject=locosxelfutbol.org) | 2845 days ago (05/03/2018) | 0 |
 | lomasturismo.tur.ar (24 hosts in use) website | private | [lomasturismo](https://freedns.afraid.org/tools/contact.php?user_id=3140426&subject=lomasturismo.tur.ar) | 2579 days ago (01/18/2019) | 0 |
 | londonpolishhall.com (4 hosts in use) website | private | [vwpower](https://freedns.afraid.org/tools/contact.php?user_id=311244&subject=londonpolishhall.com) | 1175 days ago (11/22/2022) | 0 |
@@ -21864,8 +21781,6 @@ Total domains: 25241
 | maheshpaudyal.com.np (6 hosts in use) website | private | [anilkhatiwada](https://freedns.afraid.org/tools/contact.php?user_id=2511859&subject=maheshpaudyal.com.np) | 2765 days ago (06/19/2018) | 0 |
 | mailinglistshop.com (58 hosts in use) website | private | [matdodgson](https://freedns.afraid.org/tools/contact.php?user_id=344805&subject=mailinglistshop.com) | 5750 days ago (05/18/2010) | 0 |
 | malematorras.com.ar (82 hosts in use) website | public | [ferbono](https://freedns.afraid.org/tools/contact.php?user_id=1298747&subject=malematorras.com.ar) | 4291 days ago (05/15/2014) | 0 |
-| manishakarki.com.np (26 hosts in use) website | private | [techatnet](https://freedns.afraid.org/tools/contact.php?user_id=1131879&subject=manishakarki.com.np) | 4172 days ago (09/11/2014) | 0 |
-| manojsapkota.com.np (26 hosts in use) website | private | [manojsapkota](https://freedns.afraid.org/tools/contact.php?user_id=2370343&subject=manojsapkota.com.np) | 3847 days ago (07/31/2015) | 0 |
 | manualsantotomas.cl (11 hosts in use) website | private | [fcobcn](https://freedns.afraid.org/tools/contact.php?user_id=2619611&subject=manualsantotomas.cl) | 3556 days ago (04/20/2016) | 0 |
 | mapadelapolicia.com (12 hosts in use) website | public | [mapdelapolicia](https://freedns.afraid.org/tools/contact.php?user_id=4476645&subject=mapadelapolicia.com) | 629 days ago (05/24/2024) | 0 |
 | marciofalcao.com.br (27 hosts in use) website | private | [tecepeipe](https://freedns.afraid.org/tools/contact.php?user_id=755266&subject=marciofalcao.com.br) | 5324 days ago (06/30/2011) | 0 |
@@ -21879,13 +21794,12 @@ Total domains: 25241
 | masajestarragona.es (68 hosts in use) website | public | [lorenzoarroyo](https://freedns.afraid.org/tools/contact.php?user_id=3114436&subject=masajestarragona.es) | 2654 days ago (11/07/2018) | 0 |
 | mascarenhas.inf.br (205 hosts in use) website | public | [fmascarenhas](https://freedns.afraid.org/tools/contact.php?user_id=576756&subject=mascarenhas.inf.br) | 5784 days ago (04/14/2010) | 0 |
 | masquemusica.com.ar (10 hosts in use) website | private | [musicxto](https://freedns.afraid.org/tools/contact.php?user_id=745669&subject=masquemusica.com.ar) | 5332 days ago (06/09/2011) | 0 |
-| mastergolfworld.com (34 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=mastergolfworld.com) | 6192 days ago (03/02/2009) | 0 |
-| mathicabenefits.com (34 hosts in use) website | private | [mariobrosii](https://freedns.afraid.org/tools/contact.php?user_id=2944256&subject=mathicabenefits.com) | 3013 days ago (11/12/2017) | 0 |
+| mastergolfworld.com (35 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=mastergolfworld.com) | 6195 days ago (03/02/2009) | 0 |
+| mathicabenefits.com (35 hosts in use) website | private | [mariobrosii](https://freedns.afraid.org/tools/contact.php?user_id=2944256&subject=mathicabenefits.com) | 3018 days ago (11/12/2017) | 0 |
 | matiaschiodi.com.ar (33 hosts in use) website | private | [matutano6](https://freedns.afraid.org/tools/contact.php?user_id=202243&subject=matiaschiodi.com.ar) | 6413 days ago (07/26/2008) | 0 |
 | matribhumimf.com.np (51 hosts in use) website | public | [matrimf](https://freedns.afraid.org/tools/contact.php?user_id=4373758&subject=matribhumimf.com.np) | 329 days ago (02/25/2025) | 0 |
 | matrikadahal.com.np (75 hosts in use) website | public | [matrikadahal](https://freedns.afraid.org/tools/contact.php?user_id=3006421&subject=matrikadahal.com.np) | 2936 days ago (02/01/2018) | 0 |
 | matthewbielecki.com (29 hosts in use) website | private | [netwrkgod](https://freedns.afraid.org/tools/contact.php?user_id=1704789&subject=matthewbielecki.com) | 4317 days ago (03/23/2014) | 0 |
-| mbaargentina.com.ar (26 hosts in use) website | private | [liderama](https://freedns.afraid.org/tools/contact.php?user_id=308156&subject=mbaargentina.com.ar) | 3056 days ago (10/01/2017) | 0 |
 | me-elecmetal.com.ar (24 hosts in use) website | private | [fcastelli](https://freedns.afraid.org/tools/contact.php?user_id=1234714&subject=me-elecmetal.com.ar) | 4795 days ago (11/27/2012) | 0 |
 | mefirstnomefirst.com (6 hosts in use) website | private | [senjanin](https://freedns.afraid.org/tools/contact.php?user_id=901743&subject=mefirstnomefirst.com) | 2709 days ago (08/14/2018) | 0 |
 | megaingenieria.com (277 hosts in use) website | public | [crisivex](https://freedns.afraid.org/tools/contact.php?user_id=707186&subject=megaingenieria.com) | 5341 days ago (07/01/2011) | 0 |
@@ -21901,13 +21815,11 @@ Total domains: 25241
 | michaelrcarroll.com (35 hosts in use) website | private | [mcarroll](https://freedns.afraid.org/tools/contact.php?user_id=483427&subject=michaelrcarroll.com) | 6128 days ago (05/03/2009) | 0 |
 | michaelsrecipes.com (18 hosts in use) website | private | [michaelltaylor](https://freedns.afraid.org/tools/contact.php?user_id=630930&subject=michaelsrecipes.com) | 2333 days ago (09/15/2019) | 0 |
 | michelleenlinea.com (31 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=michelleenlinea.com) | 3507 days ago (06/14/2016) | 0 |
-| minamiarchitect.com (26 hosts in use) website | private | [buffslos](https://freedns.afraid.org/tools/contact.php?user_id=1372511&subject=minamiarchitect.com) | 2103 days ago (04/17/2020) | 0 |
 | mindserasmusplus.com (7 hosts in use) website | private | [jortellsg](https://freedns.afraid.org/tools/contact.php?user_id=2949499&subject=mindserasmusplus.com) | 1405 days ago (04/06/2022) | 0 |
 | minibarnsonline.com (54 hosts in use) website | private | [andrewclink](https://freedns.afraid.org/tools/contact.php?user_id=239363&subject=minibarnsonline.com) | 5883 days ago (01/05/2010) | 0 |
 | mirta-troilo.com.ar (19 hosts in use) website | private | [criquito01](https://freedns.afraid.org/tools/contact.php?user_id=194328&subject=mirta-troilo.com.ar) | 7272 days ago (03/17/2006) | 0 |
 | mirusengineering.ca (23 hosts in use) website | private | [jordanarendt](https://freedns.afraid.org/tools/contact.php?user_id=552158&subject=mirusengineering.ca) | 4469 days ago (11/18/2013) | 0 |
 | missionmedia.com.np (85 hosts in use) website | public | [shubhammedia](https://freedns.afraid.org/tools/contact.php?user_id=2214819&subject=missionmedia.com.np) | 3975 days ago (03/13/2015) | 0 |
-| mitramandalajaya.id (26 hosts in use) website | private | [matamuw](https://freedns.afraid.org/tools/contact.php?user_id=346738&subject=mitramandalajaya.id) | 3981 days ago (03/24/2015) | 0 |
 | mixedingredients.ca (90 hosts in use) website | public | [sneadprasad](https://freedns.afraid.org/tools/contact.php?user_id=2122189&subject=mixedingredients.ca) | 4025 days ago (02/08/2015) | 0 |
 | mm-laborvertrieb.de (19 hosts in use) website | private | [697606](https://freedns.afraid.org/tools/contact.php?user_id=2596283&subject=mm-laborvertrieb.de) | 3274 days ago (02/02/2017) | 0 |
 | mobilemoorlands.com (27 hosts in use) website | private | [dreamerx2015](https://freedns.afraid.org/tools/contact.php?user_id=2484809&subject=mobilemoorlands.com) | 3689 days ago (12/08/2015) | 0 |
@@ -21917,11 +21829,9 @@ Total domains: 25241
 | moralesbrothers.com (31 hosts in use) website | private | [b4contact](https://freedns.afraid.org/tools/contact.php?user_id=2295886&subject=moralesbrothers.com) | 3931 days ago (05/07/2015) | 0 |
 | morgenstern-win.net (23 hosts in use) website | private | [christianmw24](https://freedns.afraid.org/tools/contact.php?user_id=2120708&subject=morgenstern-win.net) | 4018 days ago (02/11/2015) | 0 |
 | morrisonmaierle.com (20 hosts in use) website | private | [mmscadmin](https://freedns.afraid.org/tools/contact.php?user_id=1182927&subject=morrisonmaierle.com) | 4158 days ago (08/26/2014) | 0 |
-| motherfantasies.com (26 hosts in use) website | public | [iozicxy](https://freedns.afraid.org/tools/contact.php?user_id=4498038&subject=motherfantasies.com) | 206 days ago (07/21/2025) | 0 |
 | motocentrumnitra.sk (20 hosts in use) website | private | [batorfifi](https://freedns.afraid.org/tools/contact.php?user_id=805878&subject=motocentrumnitra.sk) | 2652 days ago (10/12/2018) | 0 |
 | motokultivator.net (216 hosts in use) website | public | [motokultivator](https://freedns.afraid.org/tools/contact.php?user_id=1058946&subject=motokultivator.net) | 4951 days ago (07/26/2012) | 0 |
 | mounthoodlodge.com (156 hosts in use) website | public | [jimcam](https://freedns.afraid.org/tools/contact.php?user_id=1221586&subject=mounthoodlodge.com) | 4838 days ago (11/14/2012) | 0 |
-| mspservicios.com.ar (26 hosts in use) website | private | [gustavop](https://freedns.afraid.org/tools/contact.php?user_id=151166&subject=mspservicios.com.ar) | 2996 days ago (12/01/2017) | 0 |
 | murphyfamily.com.au (28 hosts in use) website | private | [juanmurphy](https://freedns.afraid.org/tools/contact.php?user_id=1027888&subject=murphyfamily.com.au) | 5032 days ago (04/19/2012) | 0 |
 | mustafavelioglu.com (48 hosts in use) website | private | [mustinet](https://freedns.afraid.org/tools/contact.php?user_id=609967&subject=mustafavelioglu.com) | 5675 days ago (07/05/2010) | 0 |
 | mustard-pickles.net (11 hosts in use) website | private | [sithaweb](https://freedns.afraid.org/tools/contact.php?user_id=3780256&subject=mustard-pickles.net) | 1155 days ago (12/15/2022) | 0 |
@@ -21950,14 +21860,12 @@ Total domains: 25241
 | newtonanalytics.com (59 hosts in use) website | private | [dhammon1](https://freedns.afraid.org/tools/contact.php?user_id=3329070&subject=newtonanalytics.com) | 2161 days ago (02/29/2020) | 0 |
 | nextnetworks.com.ar (36 hosts in use) website | private | [nextnetworks](https://freedns.afraid.org/tools/contact.php?user_id=840432&subject=nextnetworks.com.ar) | 5218 days ago (11/03/2011) | 0 |
 | nexus-computing.com (59 hosts in use) website | private | [tobzter](https://freedns.afraid.org/tools/contact.php?user_id=284097&subject=nexus-computing.com) | 3863 days ago (07/15/2015) | 0 |
-| nichedigital.com.au (26 hosts in use) website | private | [hyynes](https://freedns.afraid.org/tools/contact.php?user_id=168214&subject=nichedigital.com.au) | 5824 days ago (02/17/2010) | 0 |
 | nicholasjarnold.com (11 hosts in use) website | private | [nicholasjarnold](https://freedns.afraid.org/tools/contact.php?user_id=492904&subject=nicholasjarnold.com) | 6058 days ago (06/24/2009) | 0 |
-| nichtsdestotrotz.ch (26 hosts in use) website | private | [dachtaube](https://freedns.afraid.org/tools/contact.php?user_id=1254586&subject=nichtsdestotrotz.ch) | 4779 days ago (12/25/2012) | 0 |
 | niggersbigballs.xyz (17 hosts in use) website | private | [robbiet330](https://freedns.afraid.org/tools/contact.php?user_id=4148321&subject=niggersbigballs.xyz) | 56 days ago (12/21/2025) | 0 |
 | nirajanjoshi.com.np (20 hosts in use) website | private | [hem](https://freedns.afraid.org/tools/contact.php?user_id=544656&subject=nirajanjoshi.com.np) | 3493 days ago (06/21/2016) | 0 |
 | nirdoshwagle.com.np (59 hosts in use) website | public | [nirdoshjust4u](https://freedns.afraid.org/tools/contact.php?user_id=2452794&subject=nirdoshwagle.com.np) | 3746 days ago (11/03/2015) | 0 |
 | nishanpantha.com.np (18 hosts in use) website | private | [nishparadox](https://freedns.afraid.org/tools/contact.php?user_id=2587114&subject=nishanpantha.com.np) | 3625 days ago (03/14/2016) | 0 |
-| noalvodesign.com.br (47 hosts in use) website | public | [marcantunes](https://freedns.afraid.org/tools/contact.php?user_id=2169959&subject=noalvodesign.com.br) | 4000 days ago (03/03/2015) | 0 |
+| noalvodesign.com.br (47 hosts in use) website | public | [marcantunes](https://freedns.afraid.org/tools/contact.php?user_id=2169959&subject=noalvodesign.com.br) | 4003 days ago (03/03/2015) | 0 |
 | noopinionnetwork.com (7 hosts in use) website | private | [pfrench42](https://freedns.afraid.org/tools/contact.php?user_id=350088&subject=noopinionnetwork.com) | 1089 days ago (01/20/2023) | 0 |
 | northriverstone.com (30 hosts in use) website | private | [mariobrosii](https://freedns.afraid.org/tools/contact.php?user_id=2944256&subject=northriverstone.com) | 3012 days ago (11/12/2017) | 0 |
 | notarztflensburg.de (25 hosts in use) website | private | [lassepieper](https://freedns.afraid.org/tools/contact.php?user_id=2287906&subject=notarztflensburg.de) | 3919 days ago (04/28/2015) | 0 |
@@ -21971,7 +21879,7 @@ Total domains: 25241
 | ocean-nation.co.il (182 hosts in use) website | public | [oriidan](https://freedns.afraid.org/tools/contact.php?user_id=668766&subject=ocean-nation.co.il) | 5532 days ago (12/22/2010) | 0 |
 | offshore-privacy.com (7 hosts in use) website | private | [offshoredomains](https://freedns.afraid.org/tools/contact.php?user_id=4177789&subject=offshore-privacy.com) | 608 days ago (06/01/2024) | 0 |
 | olmedoguerra.com.ar (70 hosts in use) website | public | [gonzalobuasso](https://freedns.afraid.org/tools/contact.php?user_id=2447309&subject=olmedoguerra.com.ar) | 2977 days ago (12/12/2017) | 0 |
-| omallysplayland.com (59 hosts in use) website | public | [zebby1812](https://freedns.afraid.org/tools/contact.php?user_id=4329652&subject=omallysplayland.com) | 416 days ago (12/20/2024) | 0 |
+| omallysplayland.com (59 hosts in use) website | public | [zebby1812](https://freedns.afraid.org/tools/contact.php?user_id=4329652&subject=omallysplayland.com) | 422 days ago (12/20/2024) | 0 |
 | onetwodesign.com.ar (12 hosts in use) website | private | [urielrozenbaum](https://freedns.afraid.org/tools/contact.php?user_id=668157&subject=onetwodesign.com.ar) | 3857 days ago (07/13/2015) | 0 |
 | online-components.eu (6 hosts in use) website | private | [gmcristi](https://freedns.afraid.org/tools/contact.php?user_id=871954&subject=online-components.eu) | 5146 days ago (12/12/2011) | 0 |
 | onlinehosereels.com (33 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=onlinehosereels.com) | 5936 days ago (10/13/2009) | 0 |
@@ -22081,7 +21989,7 @@ Total domains: 25241
 | rustyoptical.com.ar (20 hosts in use) website | private | [cacicsv](https://freedns.afraid.org/tools/contact.php?user_id=1667417&subject=rustyoptical.com.ar) | 4230 days ago (07/15/2014) | 0 |
 | rvwebconsulting.com (38 hosts in use) website | private | [rsvlito](https://freedns.afraid.org/tools/contact.php?user_id=877405&subject=rvwebconsulting.com) | 4344 days ago (03/01/2014) | 0 |
 | saagargurung.com.np (67 hosts in use) website | public | [sagar50](https://freedns.afraid.org/tools/contact.php?user_id=3072498&subject=saagargurung.com.np) | 2750 days ago (07/04/2018) | 0 |
-| sabinghimire.com.np (84 hosts in use) website | public | [hem](https://freedns.afraid.org/tools/contact.php?user_id=544656&subject=sabinghimire.com.np) | 4205 days ago (08/08/2014) | 0 |
+| sabinghimire.com.np (84 hosts in use) website | public | [hem](https://freedns.afraid.org/tools/contact.php?user_id=544656&subject=sabinghimire.com.np) | 4210 days ago (08/08/2014) | 0 |
 | sakidumarwana.com.np (7 hosts in use) website | public | [jhobs](https://freedns.afraid.org/tools/contact.php?user_id=3423795&subject=sakidumarwana.com.np) | 2027 days ago (06/28/2020) | 0 |
 | samayaonline.com.np (66 hosts in use) website | public | [padam9999](https://freedns.afraid.org/tools/contact.php?user_id=2656477&subject=samayaonline.com.np) | 3293 days ago (01/25/2017) | 0 |
 | samirrathour.com.np (76 hosts in use) website | public | [spiritssr](https://freedns.afraid.org/tools/contact.php?user_id=1888808&subject=samirrathour.com.np) | 4210 days ago (08/03/2014) | 0 |
@@ -22137,7 +22045,7 @@ Total domains: 25241
 | smartintegration.cl (63 hosts in use) website | public | [dponce](https://freedns.afraid.org/tools/contact.php?user_id=3100167&subject=smartintegration.cl) | 2678 days ago (09/27/2018) | 0 |
 | smartjourney.com.ar (14 hosts in use) website | private | [wtransactor](https://freedns.afraid.org/tools/contact.php?user_id=730434&subject=smartjourney.com.ar) | 2421 days ago (06/01/2019) | 0 |
 | social-calendars.com (9 hosts in use) website | private | [bradder555](https://freedns.afraid.org/tools/contact.php?user_id=1068768&subject=social-calendars.com) | 1165 days ago (11/05/2022) | 0 |
-| socialistsushi.com (187 hosts in use) website | public | [bfordham](https://freedns.afraid.org/tools/contact.php?user_id=803809&subject=socialistsushi.com) | 4904 days ago (09/10/2012) | 0 |
+| socialistsushi.com (188 hosts in use) website | public | [bfordham](https://freedns.afraid.org/tools/contact.php?user_id=803809&subject=socialistsushi.com) | 4907 days ago (09/10/2012) | 0 |
 | sodraledtradgard.eu (20 hosts in use) website | private | [ulfdehn](https://freedns.afraid.org/tools/contact.php?user_id=263534&subject=sodraledtradgard.eu) | 3548 days ago (04/27/2016) | 0 |
 | solaris-station.org (84 hosts in use) website | public | [gmeergus](https://freedns.afraid.org/tools/contact.php?user_id=3540812&subject=solaris-station.org) | 1766 days ago (04/14/2021) | 0 |
 | sorbonne-alumni.org (57 hosts in use) website | public | [regentstew](https://freedns.afraid.org/tools/contact.php?user_id=4105033&subject=sorbonne-alumni.org) | 96 days ago (10/20/2025) | 0 |
@@ -22214,7 +22122,7 @@ Total domains: 25241
 | thehongkongclub.com (38 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=thehongkongclub.com) | 6194 days ago (03/02/2009) | 0 |
 | thejeremybecker.com (64 hosts in use) website | private | [jer9189](https://freedns.afraid.org/tools/contact.php?user_id=855125&subject=thejeremybecker.com) | 3577 days ago (05/01/2016) | 0 |
 | theoceanforest.com (246 hosts in use) website | public | [groucho16](https://freedns.afraid.org/tools/contact.php?user_id=641143&subject=theoceanforest.com) | 5630 days ago (09/01/2010) | 0 |
-| theonlycompany.com (103 hosts in use) website | public | [mfstout](https://freedns.afraid.org/tools/contact.php?user_id=377060&subject=theonlycompany.com) | 6505 days ago (03/25/2008) | 0 |
+| theonlycompany.com (100 hosts in use) website | public | [mfstout](https://freedns.afraid.org/tools/contact.php?user_id=377060&subject=theonlycompany.com) | 6537 days ago (03/25/2008) | 0 |
 | therourkefamily.com (17 hosts in use) website | private | [abr2195](https://freedns.afraid.org/tools/contact.php?user_id=2063518&subject=therourkefamily.com) | 4044 days ago (01/02/2015) | 0 |
 | theschmitzhouse.com (32 hosts in use) website | private | [golfjoker](https://freedns.afraid.org/tools/contact.php?user_id=2953511&subject=theschmitzhouse.com) | 3013 days ago (11/15/2017) | 0 |
 | thespotteddonkey.net (8 hosts in use) website | public | [bigjaco](https://freedns.afraid.org/tools/contact.php?user_id=999316&subject=thespotteddonkey.net) | 2251 days ago (12/16/2019) | 0 |
@@ -22311,7 +22219,7 @@ Total domains: 25241
 | yesterdaymorning.de (50 hosts in use) website | private | [neuhauserjohann](https://freedns.afraid.org/tools/contact.php?user_id=858212&subject=yesterdaymorning.de) | 5193 days ago (11/21/2011) | 0 |
 | yogaplaytherapy.com (35 hosts in use) website | private | [mrvasquez](https://freedns.afraid.org/tools/contact.php?user_id=762971&subject=yogaplaytherapy.com) | 4639 days ago (06/02/2013) | 0 |
 | yourdigitaldoc.com (187 hosts in use) website | public | [wazalock](https://freedns.afraid.org/tools/contact.php?user_id=1307253&subject=yourdigitaldoc.com) | 4719 days ago (03/14/2013) | 0 |
-| youwontremember.com (37 hosts in use) website | private | [lazaruslonge](https://freedns.afraid.org/tools/contact.php?user_id=755666&subject=youwontremember.com) | 5330 days ago (07/01/2011) | 0 |
+| youwontremember.com (36 hosts in use) website | private | [lazaruslonge](https://freedns.afraid.org/tools/contact.php?user_id=755666&subject=youwontremember.com) | 5343 days ago (07/01/2011) | 0 |
 | yubrajpoudel.com.np (98 hosts in use) website | public | [yubaraj](https://freedns.afraid.org/tools/contact.php?user_id=2234786&subject=yubrajpoudel.com.np) | 4373 days ago (02/22/2014) | 0 |
 | yubrajsharma.com.np (57 hosts in use) website | public | [s0912592](https://freedns.afraid.org/tools/contact.php?user_id=3306162&subject=yubrajsharma.com.np) | 2343 days ago (09/15/2019) | 0 |
 | yugadiluitel.com.np (96 hosts in use) website | public | [yugadiluitel](https://freedns.afraid.org/tools/contact.php?user_id=2931154&subject=yugadiluitel.com.np) | 3049 days ago (09/08/2017) | 0 |
@@ -22340,7 +22248,7 @@ Total domains: 25241
 | akupunktioakatemia.fi (3 hosts in use) website | private | [ikivesi](https://freedns.afraid.org/tools/contact.php?user_id=1464259&subject=akupunktioakatemia.fi) | 1073 days ago (02/05/2023) | 0 |
 | albertojunior.com.br (23 hosts in use) website | private | [albertojuniorhc](https://freedns.afraid.org/tools/contact.php?user_id=3314001&subject=albertojunior.com.br) | 2325 days ago (10/02/2019) | 0 |
 | albrightscycling.com (57 hosts in use) website | private | [mattc83c](https://freedns.afraid.org/tools/contact.php?user_id=951992&subject=albrightscycling.com) | 4143 days ago (10/13/2014) | 0 |
-| alexstanfield.com.ar (31 hosts in use) website | private | [alexstanfield](https://freedns.afraid.org/tools/contact.php?user_id=738958&subject=alexstanfield.com.ar) | 5345 days ago (05/27/2011) | 0 |
+| alexstanfield.com.ar (32 hosts in use) website | private | [alexstanfield](https://freedns.afraid.org/tools/contact.php?user_id=738958&subject=alexstanfield.com.ar) | 5379 days ago (05/27/2011) | 0 |
 | alisoncartwright.com (14 hosts in use) website | private | [nickketz](https://freedns.afraid.org/tools/contact.php?user_id=1951803&subject=alisoncartwright.com) | 4139 days ago (10/14/2014) | 0 |
 | alltechmackay.com.au (21 hosts in use) website | private | [ainsch2](https://freedns.afraid.org/tools/contact.php?user_id=1271684&subject=alltechmackay.com.au) | 2297 days ago (11/01/2019) | 0 |
 | alphalogisticshk.com (23 hosts in use) website | private | [alphalogisticshk](https://freedns.afraid.org/tools/contact.php?user_id=3345109&subject=alphalogisticshk.com) | 2233 days ago (01/04/2020) | 0 |
@@ -22506,7 +22414,7 @@ Total domains: 25241
 | edrivensolutions.com (40 hosts in use) website | private | [edriven](https://freedns.afraid.org/tools/contact.php?user_id=188450&subject=edrivensolutions.com) | 7302 days ago (02/16/2006) | 0 |
 | electromoljrm.com.ar (31 hosts in use) website | private | [javiermoyano76](https://freedns.afraid.org/tools/contact.php?user_id=1923497&subject=electromoljrm.com.ar) | 4150 days ago (09/03/2014) | 0 |
 | electronicsdoctor.tv (24 hosts in use) website | private | [alekseyd](https://freedns.afraid.org/tools/contact.php?user_id=741045&subject=electronicsdoctor.tv) | 5292 days ago (08/10/2011) | 0 |
-| elmwoodhardcider.com (35 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=elmwoodhardcider.com) | 5251 days ago (09/26/2011) | 0 |
+| elmwoodhardcider.com (35 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=elmwoodhardcider.com) | 5257 days ago (09/26/2011) | 0 |
 | elroysullivanphd.com (83 hosts in use) website | private | [scottbiss](https://freedns.afraid.org/tools/contact.php?user_id=112924&subject=elroysullivanphd.com) | 6221 days ago (02/01/2009) | 0 |
 | energiadelsur.com.ar (23 hosts in use) website | private | [energiadelsur](https://freedns.afraid.org/tools/contact.php?user_id=1217287&subject=energiadelsur.com.ar) | 4828 days ago (11/08/2012) | 0 |
 | enfinlibredutabac.ca (11 hosts in use) website | private | [pulmonaire](https://freedns.afraid.org/tools/contact.php?user_id=1096548&subject=enfinlibredutabac.ca) | 2969 days ago (12/20/2017) | 0 |
@@ -22567,7 +22475,7 @@ Total domains: 25241
 | ghimireprabhat.com.np (6 hosts in use) website | private | [prabhatghimire2](https://freedns.afraid.org/tools/contact.php?user_id=3288781&subject=ghimireprabhat.com.np) | 2367 days ago (07/22/2019) | 0 |
 | global-investors.com (33 hosts in use) website | private | [rjclutt](https://freedns.afraid.org/tools/contact.php?user_id=84195&subject=global-investors.com) | 6645 days ago (12/05/2007) | 0 |
 | globallifeinsured.com (8 hosts in use) website | public | [efrencoa](https://freedns.afraid.org/tools/contact.php?user_id=4135290&subject=globallifeinsured.com) | 324 days ago (03/08/2025) | 0 |
-| gls-drone-pilot.com (126 hosts in use) website | public | [glseibert](https://freedns.afraid.org/tools/contact.php?user_id=866253&subject=gls-drone-pilot.com) | 3586 days ago (04/14/2016) | 0 |
+| gls-drone-pilot.com (127 hosts in use) website | public | [glseibert](https://freedns.afraid.org/tools/contact.php?user_id=866253&subject=gls-drone-pilot.com) | 3595 days ago (04/14/2016) | 0 |
 | glyphosateinfood.com (40 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=glyphosateinfood.com) | 3351 days ago (11/25/2016) | 0 |
 | gonzalezpoggi.com.ar (15 hosts in use) website | private | [lagaver](https://freedns.afraid.org/tools/contact.php?user_id=393375&subject=gonzalezpoggi.com.ar) | 3750 days ago (10/08/2015) | 0 |
 | gonzaloarroyo.com.ar (28 hosts in use) website | private | [alfamdq](https://freedns.afraid.org/tools/contact.php?user_id=810606&subject=gonzaloarroyo.com.ar) | 4481 days ago (10/31/2013) | 0 |
@@ -22589,7 +22497,7 @@ Total domains: 25241
 | hemantacharya.com.np (22 hosts in use) website | private | [indefinite123](https://freedns.afraid.org/tools/contact.php?user_id=2290650&subject=hemantacharya.com.np) | 3926 days ago (05/11/2015) | 0 |
 | hendricksonlawmt.com (31 hosts in use) website | public | [mmscadmin](https://freedns.afraid.org/tools/contact.php?user_id=1182927&subject=hendricksonlawmt.com) | 4883 days ago (10/03/2012) | 0 |
 | herecomesdajudge.com (42 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=herecomesdajudge.com) | 6192 days ago (03/02/2009) | 0 |
-| heroinewarrior.com (4267 hosts in use) website | private | [heroineworshippe](https://freedns.afraid.org/tools/contact.php?user_id=286448&subject=heroinewarrior.com) | 6909 days ago (03/16/2007) | 0 |
+| heroinewarrior.com (4268 hosts in use) website | private | [heroineworshippe](https://freedns.afraid.org/tools/contact.php?user_id=286448&subject=heroinewarrior.com) | 6912 days ago (03/16/2007) | 0 |
 | hh-manufacturing.com (19 hosts in use) website | private | [jeffgoodrich](https://freedns.afraid.org/tools/contact.php?user_id=2956669&subject=hh-manufacturing.com) | 334 days ago (03/03/2025) | 0 |
 | hidemymoneysite.com (143 hosts in use) website | public | [morlockaerospace](https://freedns.afraid.org/tools/contact.php?user_id=1965822&subject=hidemymoneysite.com) | 3964 days ago (04/08/2015) | 0 |
 | himlalghimire.com.np (26 hosts in use) website | private | [fellowardently](https://freedns.afraid.org/tools/contact.php?user_id=1973319&subject=himlalghimire.com.np) | 4123 days ago (10/30/2014) | 0 |
@@ -22626,7 +22534,7 @@ Total domains: 25241
 | isthmusportrait.com (147 hosts in use) website | public | [isthmusportrait](https://freedns.afraid.org/tools/contact.php?user_id=1392471&subject=isthmusportrait.com) | 4628 days ago (06/13/2013) | 0 |
 | izabelaplusmarko.com (21 hosts in use) website | private | [kalamarko](https://freedns.afraid.org/tools/contact.php?user_id=4006605&subject=izabelaplusmarko.com) | 805 days ago (11/30/2023) | 0 |
 | jakagrosejahtera.com (11 hosts in use) website | private | [hoei1498](https://freedns.afraid.org/tools/contact.php?user_id=3785192&subject=jakagrosejahtera.com) | 1117 days ago (12/27/2022) | 0 |
-| janakshrestha.com.np (64 hosts in use) website | public | [hardcode19](https://freedns.afraid.org/tools/contact.php?user_id=2144059&subject=janakshrestha.com.np) | 3992 days ago (02/22/2015) | 0 |
+| janakshrestha.com.np (65 hosts in use) website | public | [hardcode19](https://freedns.afraid.org/tools/contact.php?user_id=2144059&subject=janakshrestha.com.np) | 4012 days ago (02/22/2015) | 0 |
 | jarconsulting.com.ar (86 hosts in use) website | public | [abugari](https://freedns.afraid.org/tools/contact.php?user_id=1808551&subject=jarconsulting.com.ar) | 4273 days ago (06/01/2014) | 0 |
 | jarconsultora.com.ar (82 hosts in use) website | public | [abugari](https://freedns.afraid.org/tools/contact.php?user_id=1808551&subject=jarconsultora.com.ar) | 4269 days ago (05/29/2014) | 0 |
 | jardinelaguilucho.cl (11 hosts in use) website | private | [cyres001](https://freedns.afraid.org/tools/contact.php?user_id=1028182&subject=jardinelaguilucho.cl) | 1460 days ago (01/14/2022) | 0 |
@@ -22676,8 +22584,8 @@ Total domains: 25241
 | lisanorriswriter.com (40 hosts in use) website | private | [skifischer](https://freedns.afraid.org/tools/contact.php?user_id=1245323&subject=lisanorriswriter.com) | 2697 days ago (09/18/2018) | 0 |
 | loanemperors.com.au (105 hosts in use) website | public | [hiralklad](https://freedns.afraid.org/tools/contact.php?user_id=1808601&subject=loanemperors.com.au) | 3831 days ago (08/16/2015) | 0 |
 | lohjankameraseura.fi (10 hosts in use) website | private | [immomp](https://freedns.afraid.org/tools/contact.php?user_id=1015872&subject=lohjankameraseura.fi) | 2761 days ago (06/23/2018) | 0 |
-| londonwhiteeagles.ca (30 hosts in use) website | private | [vwpower](https://freedns.afraid.org/tools/contact.php?user_id=311244&subject=londonwhiteeagles.ca) | 1182 days ago (11/21/2022) | 0 |
-| longlonesomego.co.uk (29 hosts in use) website | private | [mattjo](https://freedns.afraid.org/tools/contact.php?user_id=62765&subject=longlonesomego.co.uk) | 6175 days ago (03/19/2009) | 0 |
+| londonwhiteeagles.ca (40 hosts in use) website | private | [vwpower](https://freedns.afraid.org/tools/contact.php?user_id=311244&subject=londonwhiteeagles.ca) | 1183 days ago (11/21/2022) | 0 |
+| longlonesomego.co.uk (30 hosts in use) website | private | [mattjo](https://freedns.afraid.org/tools/contact.php?user_id=62765&subject=longlonesomego.co.uk) | 6178 days ago (03/19/2009) | 0 |
 | lopezfagundez.com.ar (80 hosts in use) website | public | [mzdominios](https://freedns.afraid.org/tools/contact.php?user_id=794455&subject=lopezfagundez.com.ar) | 5273 days ago (08/24/2011) | 0 |
 | lovethosetrains.com (725 hosts in use) website | public | [raypd](https://freedns.afraid.org/tools/contact.php?user_id=54445&subject=lovethosetrains.com) | 8053 days ago (01/29/2004) | 0 |
 | ltdesarrollos.com.ar (48 hosts in use) website | public | [ltdesarrollos](https://freedns.afraid.org/tools/contact.php?user_id=3190365&subject=ltdesarrollos.com.ar) | 2446 days ago (06/04/2019) | 0 |
@@ -22686,7 +22594,6 @@ Total domains: 25241
 | mahesh-khanal.com.np (70 hosts in use) website | public | [mkhanal](https://freedns.afraid.org/tools/contact.php?user_id=3329059&subject=mahesh-khanal.com.np) | 2280 days ago (11/17/2019) | 0 |
 | maldonadolaiseca.com (18 hosts in use) website | private | [jesuslaiseca](https://freedns.afraid.org/tools/contact.php?user_id=3822563&subject=maldonadolaiseca.com) | 1065 days ago (03/01/2023) | 0 |
 | mangalmandala.com.np (22 hosts in use) website | private | [anunakicha](https://freedns.afraid.org/tools/contact.php?user_id=2465616&subject=mangalmandala.com.np) | 3734 days ago (11/16/2015) | 0 |
-| manipuladoras.com.ar (26 hosts in use) website | private | [dnsrental2](https://freedns.afraid.org/tools/contact.php?user_id=2971420&subject=manipuladoras.com.ar) | 2979 days ago (12/18/2017) | 0 |
 | mantripragada.com.br (27 hosts in use) website | private | [srinathman](https://freedns.afraid.org/tools/contact.php?user_id=777510&subject=mantripragada.com.br) | 5292 days ago (08/01/2011) | 0 |
 | manusiaindonesia.com (40 hosts in use) website | private | [sipiu](https://freedns.afraid.org/tools/contact.php?user_id=1291571&subject=manusiaindonesia.com) | 4734 days ago (02/21/2013) | 0 |
 | marcelholthausen.com (27 hosts in use) website | private | [spots1](https://freedns.afraid.org/tools/contact.php?user_id=2979022&subject=marcelholthausen.com) | 2104 days ago (04/12/2020) | 0 |
@@ -22715,7 +22622,6 @@ Total domains: 25241
 | missouriprobate.biz (141 hosts in use) website | public | [rickherndon](https://freedns.afraid.org/tools/contact.php?user_id=845459&subject=missouriprobate.biz) | 5207 days ago (11/10/2011) | 0 |
 | moliendaareco.com.ar (28 hosts in use) website | private | [donjuanse](https://freedns.afraid.org/tools/contact.php?user_id=638987&subject=moliendaareco.com.ar) | 5611 days ago (09/03/2010) | 0 |
 | molotov-thought.net (131 hosts in use) website | public | [g29115](https://freedns.afraid.org/tools/contact.php?user_id=331543&subject=molotov-thought.net) | 5805 days ago (03/24/2010) | 0 |
-| montanapetroleum.org (26 hosts in use) website | private | [mmscadmin](https://freedns.afraid.org/tools/contact.php?user_id=1182927&subject=montanapetroleum.org) | 4886 days ago (09/26/2012) | 0 |
 | montessorigiaocu.com (88 hosts in use) website | public | [vip0traivinh](https://freedns.afraid.org/tools/contact.php?user_id=2258889&subject=montessorigiaocu.com) | 1663 days ago (07/20/2021) | 0 |
 | moscowregistration.ru (7 hosts in use) website | private | [blackgateas](https://freedns.afraid.org/tools/contact.php?user_id=2442703&subject=moscowregistration.ru) | 347 days ago (02/18/2025) | 0 |
 | mountainglory.com.np (28 hosts in use) website | private | [tulanup](https://freedns.afraid.org/tools/contact.php?user_id=619814&subject=mountainglory.com.np) | 3393 days ago (09/29/2016) | 0 |
@@ -22762,7 +22668,7 @@ Total domains: 25241
 | oversizeapparel.store (8 hosts in use) website | private | [acapabalan1](https://freedns.afraid.org/tools/contact.php?user_id=451957&subject=oversizeapparel.store) | 768 days ago (12/29/2023) | 0 |
 | pablogallego.com.ar (191 hosts in use) website | public | [micuenta](https://freedns.afraid.org/tools/contact.php?user_id=742814&subject=pablogallego.com.ar) | 5353 days ago (06/06/2011) | 0 |
 | padangu-arsenalas.lt (18 hosts in use) website | private | [karovil](https://freedns.afraid.org/tools/contact.php?user_id=832103&subject=padangu-arsenalas.lt) | 5201 days ago (10/21/2011) | 0 |
-| pandatropical.com.br (68 hosts in use) website | public | [afonsodanin](https://freedns.afraid.org/tools/contact.php?user_id=662912&subject=pandatropical.com.br) | 3589 days ago (04/07/2016) | 0 |
+| pandatropical.com.br (69 hosts in use) website | public | [afonsodanin](https://freedns.afraid.org/tools/contact.php?user_id=662912&subject=pandatropical.com.br) | 3602 days ago (04/07/2016) | 0 |
 | panhandleflyers.com (166 hosts in use) website | public | [djkiraly](https://freedns.afraid.org/tools/contact.php?user_id=742665&subject=panhandleflyers.com) | 4215 days ago (08/01/2014) | 0 |
 | panhandleflyers.info (70 hosts in use) website | public | [djkiraly](https://freedns.afraid.org/tools/contact.php?user_id=742665&subject=panhandleflyers.info) | 4212 days ago (08/01/2014) | 0 |
 | panhandleflyers.net (153 hosts in use) website | public | [djkiraly](https://freedns.afraid.org/tools/contact.php?user_id=742665&subject=panhandleflyers.net) | 4213 days ago (08/01/2014) | 0 |
@@ -22856,8 +22762,8 @@ Total domains: 25241
 | rustyfoundation.com (236 hosts in use) website | public | [chatperdu](https://freedns.afraid.org/tools/contact.php?user_id=874188&subject=rustyfoundation.com) | 5180 days ago (12/09/2011) | 0 |
 | rwapendlehill.com.au (23 hosts in use) website | private | [rwapendlehill](https://freedns.afraid.org/tools/contact.php?user_id=3151118&subject=rwapendlehill.com.au) | 2550 days ago (02/20/2019) | 0 |
 | ryanpretorius.nom.za (24 hosts in use) website | private | [ghostdev](https://freedns.afraid.org/tools/contact.php?user_id=2766583&subject=ryanpretorius.nom.za) | 3373 days ago (11/02/2016) | 0 |
-| rymconstrucciones.cl (43 hosts in use) website | public | [fhenriquez](https://freedns.afraid.org/tools/contact.php?user_id=2414707&subject=rymconstrucciones.cl) | 3584 days ago (04/23/2016) | 0 |
-| sabitasapkota.com.np (67 hosts in use) website | public | [missionmedia](https://freedns.afraid.org/tools/contact.php?user_id=1969745&subject=sabitasapkota.com.np) | 3580 days ago (03/28/2016) | 0 |
+| rymconstrucciones.cl (44 hosts in use) website | public | [fhenriquez](https://freedns.afraid.org/tools/contact.php?user_id=2414707&subject=rymconstrucciones.cl) | 3586 days ago (04/23/2016) | 0 |
+| sabitasapkota.com.np (68 hosts in use) website | public | [missionmedia](https://freedns.afraid.org/tools/contact.php?user_id=1969745&subject=sabitasapkota.com.np) | 3612 days ago (03/28/2016) | 0 |
 | sagaradhikary.com.np (20 hosts in use) website | private | [sagaradhikary](https://freedns.afraid.org/tools/contact.php?user_id=399579&subject=sagaradhikary.com.np) | 6449 days ago (06/18/2008) | 0 |
 | sailawaypartners.com (24 hosts in use) website | private | [nbdwt73](https://freedns.afraid.org/tools/contact.php?user_id=1743241&subject=sailawaypartners.com) | 4289 days ago (04/19/2014) | 0 |
 | sailer-adventures.de (26 hosts in use) website | private | [holzner21](https://freedns.afraid.org/tools/contact.php?user_id=2341964&subject=sailer-adventures.de) | 3727 days ago (11/23/2015) | 0 |
@@ -22865,7 +22771,7 @@ Total domains: 25241
 | sajeenagurung.com.np (26 hosts in use) website | private | [maheshthegreat](https://freedns.afraid.org/tools/contact.php?user_id=1219830&subject=sajeenagurung.com.np) | 1054 days ago (02/24/2023) | 0 |
 | sametimetomorrow.net (23 hosts in use) website | private | [vejjamos](https://freedns.afraid.org/tools/contact.php?user_id=2844125&subject=sametimetomorrow.net) | 871 days ago (09/25/2023) | 0 |
 | samundraregmi.com.np (38 hosts in use) website | private | [samundraregmi1](https://freedns.afraid.org/tools/contact.php?user_id=2386821&subject=samundraregmi.com.np) | 3827 days ago (08/20/2015) | 0 |
-| samundrashahi.com.np (65 hosts in use) website | public | [samundrashahi](https://freedns.afraid.org/tools/contact.php?user_id=2605570&subject=samundrashahi.com.np) | 3605 days ago (04/03/2016) | 0 |
+| samundrashahi.com.np (66 hosts in use) website | public | [samundrashahi](https://freedns.afraid.org/tools/contact.php?user_id=2605570&subject=samundrashahi.com.np) | 3606 days ago (04/03/2016) | 0 |
 | sancharkendra.com.np (64 hosts in use) website | public | [sancharkendra](https://freedns.afraid.org/tools/contact.php?user_id=3092280&subject=sancharkendra.com.np) | 2689 days ago (09/03/2018) | 0 |
 | sandeepkhanal.com.np (24 hosts in use) website | private | [sandeepkhnl](https://freedns.afraid.org/tools/contact.php?user_id=1115096&subject=sandeepkhanal.com.np) | 4958 days ago (07/17/2012) | 0 |
 | sanjantraders.com.np (20 hosts in use) website | private | [sanjantraders](https://freedns.afraid.org/tools/contact.php?user_id=2956508&subject=sanjantraders.com.np) | 3018 days ago (11/10/2017) | 0 |
@@ -22905,7 +22811,7 @@ Total domains: 25241
 | sportconceptmedia.com (5 hosts in use) website | private | [azubenko](https://freedns.afraid.org/tools/contact.php?user_id=2925142&subject=sportconceptmedia.com) | 3028 days ago (09/29/2017) | 0 |
 | sportconceptmedia.ru (22 hosts in use) website | public | [fazinahamed](https://freedns.afraid.org/tools/contact.php?user_id=3496906&subject=sportconceptmedia.ru) | 3048 days ago (09/29/2017) | 0 |
 | sqlserverinsider.com (51 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=sqlserverinsider.com) | 7784 days ago (10/24/2004) | 0 |
-| srijanakhadka.com.np (37 hosts in use) website | private | [srijanakhadka](https://freedns.afraid.org/tools/contact.php?user_id=3738192&subject=srijanakhadka.com.np) | 1261 days ago (09/03/2022) | 0 |
+| srijanakhadka.com.np (41 hosts in use) website | private | [srijanakhadka](https://freedns.afraid.org/tools/contact.php?user_id=3738192&subject=srijanakhadka.com.np) | 1262 days ago (09/03/2022) | 0 |
 | ssgconvenios.com.ar (100 hosts in use) website | public | [patridedo](https://freedns.afraid.org/tools/contact.php?user_id=1215531&subject=ssgconvenios.com.ar) | 4838 days ago (11/05/2012) | 0 |
 | starnightimport.com (177 hosts in use) website | public | [iakhund](https://freedns.afraid.org/tools/contact.php?user_id=1582869&subject=starnightimport.com) | 4057 days ago (01/03/2015) | 0 |
 | stephanieborgelt.com (37 hosts in use) website | private | [stevebor1](https://freedns.afraid.org/tools/contact.php?user_id=620088&subject=stephanieborgelt.com) | 5684 days ago (07/11/2010) | 0 |
@@ -23021,7 +22927,7 @@ Total domains: 25241
 | zeptoinitiative.org (104 hosts in use) website | public | [erikkallberg](https://freedns.afraid.org/tools/contact.php?user_id=1593762&subject=zeptoinitiative.org) | 111 days ago (10/23/2025) | 0 |
 | zerleyimoveis.com.br (51 hosts in use) website | public | [skimoh](https://freedns.afraid.org/tools/contact.php?user_id=3450291&subject=zerleyimoveis.com.br) | 1977 days ago (09/14/2020) | 0 |
 | zonagolpeada.com.ar (248 hosts in use) website | public | [zonagolpeada](https://freedns.afraid.org/tools/contact.php?user_id=487486&subject=zonagolpeada.com.ar) | 6114 days ago (05/19/2009) | 0 |
-| ztechnologies.com.mx (37 hosts in use) website | private | [seriegb](https://freedns.afraid.org/tools/contact.php?user_id=1409918&subject=ztechnologies.com.mx) | 4603 days ago (07/02/2013) | 0 |
+| ztechnologies.com.mx (37 hosts in use) website | private | [seriegb](https://freedns.afraid.org/tools/contact.php?user_id=1409918&subject=ztechnologies.com.mx) | 4611 days ago (07/02/2013) | 0 |
 | zwergli-werkstatt.ch (61 hosts in use) website | private | [1075952](https://freedns.afraid.org/tools/contact.php?user_id=533148&subject=zwergli-werkstatt.ch) | 5938 days ago (11/11/2009) | 0 |
 | 100secretsforlife.com (27 hosts in use) website | private | [domainwebad](https://freedns.afraid.org/tools/contact.php?user_id=420076&subject=100secretsforlife.com) | 2763 days ago (07/22/2018) | 0 |
 | 4wardfabrications.com (30 hosts in use) website | private | [asceresini](https://freedns.afraid.org/tools/contact.php?user_id=2093567&subject=4wardfabrications.com) | 4010 days ago (02/22/2015) | 0 |
@@ -23104,7 +23010,7 @@ Total domains: 25241
 | bikashadhikari.com.np (28 hosts in use) website | private | [devmoon](https://freedns.afraid.org/tools/contact.php?user_id=1795036&subject=bikashadhikari.com.np) | 4288 days ago (05/21/2014) | 0 |
 | biodynamicbodywork.com (7 hosts in use) website | private | [netmansam](https://freedns.afraid.org/tools/contact.php?user_id=799514&subject=biodynamicbodywork.com) | 2739 days ago (08/15/2018) | 0 |
 | bipinaupadhaya.com.np (26 hosts in use) website | private | [akashsubedi](https://freedns.afraid.org/tools/contact.php?user_id=3457808&subject=bipinaupadhaya.com.np) | 1962 days ago (09/30/2020) | 0 |
-| biplavshrestha.com.np (59 hosts in use) website | public | [biplavshrestha](https://freedns.afraid.org/tools/contact.php?user_id=2603045&subject=biplavshrestha.com.np) | 3608 days ago (03/31/2016) | 0 |
+| biplavshrestha.com.np (60 hosts in use) website | public | [biplavshrestha](https://freedns.afraid.org/tools/contact.php?user_id=2603045&subject=biplavshrestha.com.np) | 3609 days ago (03/31/2016) | 0 |
 | birou-notar-public.ro (16 hosts in use) website | private | [pintearares](https://freedns.afraid.org/tools/contact.php?user_id=298989&subject=birou-notar-public.ro) | 5369 days ago (05/03/2011) | 0 |
 | bishnupokharel.com.np (22 hosts in use) website | private | [bishnu](https://freedns.afraid.org/tools/contact.php?user_id=282450&subject=bishnupokharel.com.np) | 6924 days ago (03/01/2007) | 0 |
 | bishnushrestha.com.np (67 hosts in use) website | public | [sculptorbishnu](https://freedns.afraid.org/tools/contact.php?user_id=2623085&subject=bishnushrestha.com.np) | 3550 days ago (04/27/2016) | 0 |
@@ -23115,7 +23021,7 @@ Total domains: 25241
 | blackfaldsconnect.com (14 hosts in use) website | private | [kwilson](https://freedns.afraid.org/tools/contact.php?user_id=399147&subject=blackfaldsconnect.com) | 3115 days ago (08/02/2017) | 0 |
 | blackwood-designs.com (21 hosts in use) website | private | [randym32](https://freedns.afraid.org/tools/contact.php?user_id=2359934&subject=blackwood-designs.com) | 3865 days ago (07/13/2015) | 0 |
 | blancohogarsrl.com.ar (24 hosts in use) website | private | [mgamero](https://freedns.afraid.org/tools/contact.php?user_id=1977958&subject=blancohogarsrl.com.ar) | 4120 days ago (10/23/2014) | 0 |
-| blanksheetstudios.com (18 hosts in use) website | private | [stevenfink](https://freedns.afraid.org/tools/contact.php?user_id=4355378&subject=blanksheetstudios.com) | 382 days ago (01/29/2025) | 0 |
+| blanksheetstudios.com (20 hosts in use) website | private | [stevenfink](https://freedns.afraid.org/tools/contact.php?user_id=4355378&subject=blanksheetstudios.com) | 382 days ago (01/29/2025) | 0 |
 | boardroomprophets.com (22 hosts in use) website | private | [icgsadmin](https://freedns.afraid.org/tools/contact.php?user_id=799694&subject=boardroomprophets.com) | 5272 days ago (09/01/2011) | 0 |
 | boatingequipment.asia (18 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatingequipment.asia) | 3935 days ago (05/05/2015) | 0 |
 | boatingequipment.info (26 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatingequipment.info) | 3935 days ago (05/05/2015) | 0 |
@@ -23142,16 +23048,16 @@ Total domains: 25241
 | centromedicovr.com.br (92 hosts in use) website | public | [camorim](https://freedns.afraid.org/tools/contact.php?user_id=569140&subject=centromedicovr.com.br) | 5728 days ago (05/20/2010) | 0 |
 | cerrajerossegovia.com (19 hosts in use) website | private | [jmgrozas](https://freedns.afraid.org/tools/contact.php?user_id=154741&subject=cerrajerossegovia.com) | 5054 days ago (03/14/2012) | 0 |
 | chapagainkumar.com.np (28 hosts in use) website | private | [kumarsharma](https://freedns.afraid.org/tools/contact.php?user_id=2803707&subject=chapagainkumar.com.np) | 3324 days ago (12/31/2016) | 0 |
-| charlotteerdmann.com (159 hosts in use) website | public | [kevinerdmann](https://freedns.afraid.org/tools/contact.php?user_id=1649307&subject=charlotteerdmann.com) | 4014 days ago (02/19/2015) | 0 |
+| charlotteerdmann.com (159 hosts in use) website | public | [kevinerdmann](https://freedns.afraid.org/tools/contact.php?user_id=1649307&subject=charlotteerdmann.com) | 4015 days ago (02/19/2015) | 0 |
 | cheap-ass-domain.info (90 hosts in use) website | public | [brunnerh](https://freedns.afraid.org/tools/contact.php?user_id=2217220&subject=cheap-ass-domain.info) | 3987 days ago (03/14/2015) | 0 |
 | cheap-car-rental.com (151 hosts in use) website | public | [cheapcarrental](https://freedns.afraid.org/tools/contact.php?user_id=1338903&subject=cheap-car-rental.com) | 4080 days ago (12/13/2014) | 0 |
 | chemexnewengland.com (149 hosts in use) website | public | [chemex](https://freedns.afraid.org/tools/contact.php?user_id=1793784&subject=chemexnewengland.com) | 4282 days ago (05/19/2014) | 0 |
 | chhetriswornim.com.np (51 hosts in use) website | public | [schnitzynine](https://freedns.afraid.org/tools/contact.php?user_id=4160086&subject=chhetriswornim.com.np) | 608 days ago (05/17/2024) | 0 |
-| chiangmaiorganics.com (70 hosts in use) website | public | [fawasp](https://freedns.afraid.org/tools/contact.php?user_id=851191&subject=chiangmaiorganics.com) | 2569 days ago (01/31/2019) | 0 |
-| chickenkiller.com (428503 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=chickenkiller.com) | 9175 days ago (01/02/2001) | 0 |
+| chiangmaiorganics.com (71 hosts in use) website | public | [fawasp](https://freedns.afraid.org/tools/contact.php?user_id=851191&subject=chiangmaiorganics.com) | 2573 days ago (01/31/2019) | 0 |
+| chickenkiller.com (428532 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=chickenkiller.com) | 9176 days ago (01/02/2001) | 0 |
 | christianactionuk.com (22 hosts in use) website | private | [cahk](https://freedns.afraid.org/tools/contact.php?user_id=163762&subject=christianactionuk.com) | 6010 days ago (08/31/2009) | 0 |
 | christopherstonge.com (36 hosts in use) website | private | [cstonge](https://freedns.afraid.org/tools/contact.php?user_id=2573567&subject=christopherstonge.com) | 3641 days ago (02/24/2016) | 0 |
-| chroniclesoftimes.com (57 hosts in use) website | private | [kingkabuz](https://freedns.afraid.org/tools/contact.php?user_id=354382&subject=chroniclesoftimes.com) | 5740 days ago (05/28/2010) | 0 |
+| chroniclesoftimes.com (56 hosts in use) website | private | [kingkabuz](https://freedns.afraid.org/tools/contact.php?user_id=354382&subject=chroniclesoftimes.com) | 5742 days ago (05/28/2010) | 0 |
 | cirruslaslenas.com.ar (20 hosts in use) website | private | [leovaro](https://freedns.afraid.org/tools/contact.php?user_id=537137&subject=cirruslaslenas.com.ar) | 3952 days ago (03/27/2015) | 0 |
 | classictransport.info (11 hosts in use) website | private | [jtrefil](https://freedns.afraid.org/tools/contact.php?user_id=2427060&subject=classictransport.info) | 4826 days ago (10/27/2012) | 0 |
 | cloudbusinessportal.ca (9 hosts in use) website | public | [dcalcutt](https://freedns.afraid.org/tools/contact.php?user_id=130939&subject=cloudbusinessportal.ca) | 481 days ago (10/12/2024) | 0 |
@@ -23170,7 +23076,7 @@ Total domains: 25241
 | coreitservices.com.au (15 hosts in use) website | private | [loki1986](https://freedns.afraid.org/tools/contact.php?user_id=686288&subject=coreitservices.com.au) | 5483 days ago (01/24/2011) | 0 |
 | coworkingcvernovka.sk (24 hosts in use) website | private | [newmediagroup](https://freedns.afraid.org/tools/contact.php?user_id=773163&subject=coworkingcvernovka.sk) | 3118 days ago (07/01/2017) | 0 |
 | craft-innkeeper.co.uk (14 hosts in use) website | private | [lgdolman](https://freedns.afraid.org/tools/contact.php?user_id=1056724&subject=craft-innkeeper.co.uk) | 684 days ago (02/29/2024) | 0 |
-| cristiangallo.com.ar (129 hosts in use) website | public | [cgallo](https://freedns.afraid.org/tools/contact.php?user_id=603977&subject=cristiangallo.com.ar) | 5742 days ago (05/17/2010) | 0 |
+| cristiangallo.com.ar (129 hosts in use) website | public | [cgallo](https://freedns.afraid.org/tools/contact.php?user_id=603977&subject=cristiangallo.com.ar) | 5754 days ago (05/17/2010) | 0 |
 | cuentosasombrosos.com (13 hosts in use) website | private | [ccabanas](https://freedns.afraid.org/tools/contact.php?user_id=2403718&subject=cuentosasombrosos.com) | 500 days ago (09/22/2024) | 0 |
 | cueros-roblans.com.ar (86 hosts in use) website | public | [roblans](https://freedns.afraid.org/tools/contact.php?user_id=756054&subject=cueros-roblans.com.ar) | 5293 days ago (07/25/2011) | 0 |
 | cullasanmarcoamici.ch (21 hosts in use) website | private | [paped](https://freedns.afraid.org/tools/contact.php?user_id=1471969&subject=cullasanmarcoamici.ch) | 4520 days ago (08/29/2013) | 0 |
@@ -23181,7 +23087,7 @@ Total domains: 25241
 | davidholdsworth.co.uk (19 hosts in use) website | private | [jwholdsworth](https://freedns.afraid.org/tools/contact.php?user_id=761502&subject=davidholdsworth.co.uk) | 5015 days ago (04/23/2012) | 0 |
 | delaveauproteccion.cl (13 hosts in use) website | private | [ce2ezs](https://freedns.afraid.org/tools/contact.php?user_id=2287722&subject=delaveauproteccion.cl) | 3914 days ago (04/27/2015) | 0 |
 | delicatodesign.com.br (39 hosts in use) website | private | [nihues](https://freedns.afraid.org/tools/contact.php?user_id=1324111&subject=delicatodesign.com.br) | 4668 days ago (04/13/2013) | 0 |
-| demarchibrown.com.ar (123 hosts in use) website | public | [cdemarchi](https://freedns.afraid.org/tools/contact.php?user_id=2601720&subject=demarchibrown.com.ar) | 3610 days ago (03/29/2016) | 0 |
+| demarchibrown.com.ar (124 hosts in use) website | public | [cdemarchi](https://freedns.afraid.org/tools/contact.php?user_id=2601720&subject=demarchibrown.com.ar) | 3611 days ago (03/29/2016) | 0 |
 | dhirajpyakurel.com.np (68 hosts in use) website | public | [missionmedia](https://freedns.afraid.org/tools/contact.php?user_id=1969745&subject=dhirajpyakurel.com.np) | 3354 days ago (11/09/2016) | 0 |
 | didi-construction.com (13 hosts in use) website | private | [marselmustafin77](https://freedns.afraid.org/tools/contact.php?user_id=3596317&subject=didi-construction.com) | 1163 days ago (11/07/2022) | 0 |
 | digital-minds.com.ar (125 hosts in use) website | public | [maxisosa](https://freedns.afraid.org/tools/contact.php?user_id=895266&subject=digital-minds.com.ar) | 5145 days ago (01/04/2012) | 0 |
@@ -23255,7 +23161,7 @@ Total domains: 25241
 | gauriprajapati.com.np (28 hosts in use) website | private | [yoursomeone](https://freedns.afraid.org/tools/contact.php?user_id=1826662&subject=gauriprajapati.com.np) | 4256 days ago (06/13/2014) | 0 |
 | gbhomeinnovations.com (10 hosts in use) website | public | [criticalgamer](https://freedns.afraid.org/tools/contact.php?user_id=2866910&subject=gbhomeinnovations.com) | 2123 days ago (04/22/2020) | 0 |
 | generacionsdec.com.ar (19 hosts in use) website | private | [dnsgeneracion1](https://freedns.afraid.org/tools/contact.php?user_id=2971477&subject=generacionsdec.com.ar) | 2969 days ago (12/18/2017) | 0 |
-| georgeblackburn.co.uk (16 hosts in use) website | private | [malrig](https://freedns.afraid.org/tools/contact.php?user_id=2908018&subject=georgeblackburn.co.uk) | 2786 days ago (06/30/2018) | 0 |
+| georgeblackburn.co.uk (16 hosts in use) website | private | [malrig](https://freedns.afraid.org/tools/contact.php?user_id=2908018&subject=georgeblackburn.co.uk) | 2788 days ago (06/30/2018) | 0 |
 | georgetowngardens.com (43 hosts in use) website | private | [gtowngardens](https://freedns.afraid.org/tools/contact.php?user_id=2946360&subject=georgetowngardens.com) | 3013 days ago (10/16/2017) | 0 |
 | geosoft-earthcube.org (32 hosts in use) website | private | [varunratnakar](https://freedns.afraid.org/tools/contact.php?user_id=2037130&subject=geosoft-earthcube.org) | 4081 days ago (12/10/2014) | 0 |
 | gestionempresarial.cl (47 hosts in use) website | public | [mdelacarrera](https://freedns.afraid.org/tools/contact.php?user_id=3500533&subject=gestionempresarial.cl) | 1850 days ago (01/13/2021) | 0 |
@@ -23373,7 +23279,7 @@ Total domains: 25241
 | marineequipment.co.nz (20 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marineequipment.co.nz) | 4439 days ago (12/09/2013) | 0 |
 | markreevesbuilder.com (42 hosts in use) website | private | [msyed](https://freedns.afraid.org/tools/contact.php?user_id=270214&subject=markreevesbuilder.com) | 2897 days ago (03/02/2018) | 0 |
 | masmedulatango.com.ar (19 hosts in use) website | private | [wartin](https://freedns.afraid.org/tools/contact.php?user_id=933244&subject=masmedulatango.com.ar) | 3920 days ago (05/18/2015) | 0 |
-| mastertouch-sarlu.com (16 hosts in use) website | public | [bpolombwe](https://freedns.afraid.org/tools/contact.php?user_id=1033108&subject=mastertouch-sarlu.com) | 655 days ago (05/01/2024) | 0 |
+| mastertouch-sarlu.com (18 hosts in use) website | public | [bpolombwe](https://freedns.afraid.org/tools/contact.php?user_id=1033108&subject=mastertouch-sarlu.com) | 655 days ago (05/01/2024) | 0 |
 | maximisetechnology.net (8 hosts in use) website | private | [gmaskell12321](https://freedns.afraid.org/tools/contact.php?user_id=325734&subject=maximisetechnology.net) | 1913 days ago (11/18/2020) | 0 |
 | maxmillerfaria.com.br (40 hosts in use) website | private | [maxmillerfaria](https://freedns.afraid.org/tools/contact.php?user_id=631870&subject=maxmillerfaria.com.br) | 5646 days ago (08/09/2010) | 0 |
 | medicfamiliecraiova.ro (9 hosts in use) website | private | [kilingshadow](https://freedns.afraid.org/tools/contact.php?user_id=251203&subject=medicfamiliecraiova.ro) | 264 days ago (04/24/2025) | 0 |
@@ -23399,7 +23305,7 @@ Total domains: 25241
 | mudskippershockey.com (22 hosts in use) website | private | [perrydillard](https://freedns.afraid.org/tools/contact.php?user_id=519380&subject=mudskippershockey.com) | 5394 days ago (05/04/2011) | 0 |
 | museumofignorance.com (88 hosts in use) website | public | [marcdraco](https://freedns.afraid.org/tools/contact.php?user_id=2965242&subject=museumofignorance.com) | 2987 days ago (12/05/2017) | 0 |
 | mycomputerstore.co.uk (32 hosts in use) website | private | [axyr](https://freedns.afraid.org/tools/contact.php?user_id=199545&subject=mycomputerstore.co.uk) | 6518 days ago (04/10/2008) | 0 |
-| mycomputerstore.me.uk (30 hosts in use) website | private | [axyr](https://freedns.afraid.org/tools/contact.php?user_id=199545&subject=mycomputerstore.me.uk) | 6518 days ago (04/10/2008) | 0 |
+| mycomputerstore.me.uk (30 hosts in use) website | private | [axyr](https://freedns.afraid.org/tools/contact.php?user_id=199545&subject=mycomputerstore.me.uk) | 6521 days ago (04/10/2008) | 0 |
 | myfriendchristina.com (31 hosts in use) website | private | [cybergeekts](https://freedns.afraid.org/tools/contact.php?user_id=2644886&subject=myfriendchristina.com) | 3041 days ago (10/07/2017) | 0 |
 | mylessteinhauser.name (19 hosts in use) website | private | [msteinhauser](https://freedns.afraid.org/tools/contact.php?user_id=644729&subject=mylessteinhauser.name) | 4068 days ago (12/02/2014) | 0 |
 | nabinadhikariy.com.np (65 hosts in use) website | public | [nabinadhikariy](https://freedns.afraid.org/tools/contact.php?user_id=2623618&subject=nabinadhikariy.com.np) | 3550 days ago (04/25/2016) | 0 |
@@ -23408,7 +23314,6 @@ Total domains: 25241
 | neilbhattacharya.com (110 hosts in use) website | private | [nbhattac](https://freedns.afraid.org/tools/contact.php?user_id=1040829&subject=neilbhattacharya.com) | 5028 days ago (05/07/2012) | 0 |
 | neumaticosmarqueta.es (27 hosts in use) website | private | [inconight](https://freedns.afraid.org/tools/contact.php?user_id=2195904&subject=neumaticosmarqueta.es) | 3919 days ago (04/22/2015) | 0 |
 | neutronfreight.com.au (34 hosts in use) website | private | [neutronfreight](https://freedns.afraid.org/tools/contact.php?user_id=826764&subject=neutronfreight.com.au) | 5227 days ago (10/21/2011) | 0 |
-| newburyweather.org.uk (26 hosts in use) website | private | [grognut](https://freedns.afraid.org/tools/contact.php?user_id=363258&subject=newburyweather.org.uk) | 6191 days ago (03/03/2009) | 0 |
 | nexuscomputer.com.np (120 hosts in use) website | public | [nabinshky](https://freedns.afraid.org/tools/contact.php?user_id=700283&subject=nexuscomputer.com.np) | 5491 days ago (01/24/2011) | 0 |
 | nibblesandgiggles.com (27 hosts in use) website | private | [fwhmolotok](https://freedns.afraid.org/tools/contact.php?user_id=3164776&subject=nibblesandgiggles.com) | 2484 days ago (04/05/2019) | 0 |
 | nibeshbartaula.com.np (33 hosts in use) website | private | [nb1234](https://freedns.afraid.org/tools/contact.php?user_id=2856218&subject=nibeshbartaula.com.np) | 2836 days ago (05/07/2018) | 0 |
@@ -23427,7 +23332,7 @@ Total domains: 25241
 | onlinehosereels.co.nz (24 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=onlinehosereels.co.nz) | 5938 days ago (10/13/2009) | 0 |
 | onlinehosereels.co.uk (26 hosts in use) website | private | [pfouche](https://freedns.afraid.org/tools/contact.php?user_id=141668&subject=onlinehosereels.co.uk) | 5967 days ago (10/13/2009) | 0 |
 | openclubparana.com.ar (27 hosts in use) website | private | [dfisolo](https://freedns.afraid.org/tools/contact.php?user_id=1720506&subject=openclubparana.com.ar) | 2660 days ago (10/23/2018) | 0 |
-| operadoramichelle.com (36 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=operadoramichelle.com) | 3521 days ago (06/22/2016) | 0 |
+| operadoramichelle.com (36 hosts in use) website | private | [promichelle](https://freedns.afraid.org/tools/contact.php?user_id=2660382&subject=operadoramichelle.com) | 3526 days ago (06/22/2016) | 0 |
 | opticabermudez.com.ar (93 hosts in use) website | public | [itconex](https://freedns.afraid.org/tools/contact.php?user_id=1127612&subject=opticabermudez.com.ar) | 4837 days ago (10/23/2012) | 0 |
 | opticafloresta.com.ar (71 hosts in use) website | public | [solucionip](https://freedns.afraid.org/tools/contact.php?user_id=2520638&subject=opticafloresta.com.ar) | 3566 days ago (04/16/2016) | 0 |
 | optimist-baleares.net (29 hosts in use) website | private | [llabine](https://freedns.afraid.org/tools/contact.php?user_id=254033&subject=optimist-baleares.net) | 7037 days ago (11/08/2006) | 0 |
@@ -23521,8 +23426,8 @@ Total domains: 25241
 | schmidt-cisternas.net (40 hosts in use) website | private | [ugumba](https://freedns.afraid.org/tools/contact.php?user_id=15253&subject=schmidt-cisternas.net) | 7717 days ago (12/30/2004) | 0 |
 | scoalavalealupului.ro (87 hosts in use) website | public | [thecatalin](https://freedns.afraid.org/tools/contact.php?user_id=1779801&subject=scoalavalealupului.ro) | 3984 days ago (03/02/2015) | 0 |
 | seasonalstockings.com (19 hosts in use) website | private | [kc4tkl](https://freedns.afraid.org/tools/contact.php?user_id=3085005&subject=seasonalstockings.com) | 2731 days ago (08/11/2018) | 0 |
-| seemaparajuli.com.np (110 hosts in use) website | public | [seemaparajuli](https://freedns.afraid.org/tools/contact.php?user_id=2599524&subject=seemaparajuli.com.np) | 3613 days ago (03/26/2016) | 0 |
-| segurosdepersonas.cl (109 hosts in use) website | private | [locutorioweb](https://freedns.afraid.org/tools/contact.php?user_id=2483968&subject=segurosdepersonas.cl) | 488 days ago (10/15/2024) | 0 |
+| seemaparajuli.com.np (111 hosts in use) website | public | [seemaparajuli](https://freedns.afraid.org/tools/contact.php?user_id=2599524&subject=seemaparajuli.com.np) | 3614 days ago (03/26/2016) | 0 |
+| segurosdepersonas.cl (119 hosts in use) website | private | [locutorioweb](https://freedns.afraid.org/tools/contact.php?user_id=2483968&subject=segurosdepersonas.cl) | 489 days ago (10/15/2024) | 0 |
 | sentjernej-turizem.si (33 hosts in use) website | private | [xtx660](https://freedns.afraid.org/tools/contact.php?user_id=410978&subject=sentjernej-turizem.si) | 6401 days ago (08/05/2008) | 0 |
 | shankarsapkota.com.np (19 hosts in use) website | private | [shnkyr069](https://freedns.afraid.org/tools/contact.php?user_id=3395553&subject=shankarsapkota.com.np) | 2111 days ago (05/02/2020) | 0 |
 | sharapovaportugal.com (39 hosts in use) website | private | [cseca](https://freedns.afraid.org/tools/contact.php?user_id=115027&subject=sharapovaportugal.com) | 4666 days ago (04/07/2013) | 0 |
@@ -23537,7 +23442,7 @@ Total domains: 25241
 | smiledentalcareva.com (30 hosts in use) website | private | [101smile](https://freedns.afraid.org/tools/contact.php?user_id=2229077&subject=smiledentalcareva.com) | 3984 days ago (03/20/2015) | 0 |
 | solaresdesantamaria.ar (9 hosts in use) website | private | [oevidns2](https://freedns.afraid.org/tools/contact.php?user_id=1234518&subject=solaresdesantamaria.ar) | 1658 days ago (06/30/2021) | 0 |
 | solucoesqualidade.com (65 hosts in use) website | private | [luisflores](https://freedns.afraid.org/tools/contact.php?user_id=1523760&subject=solucoesqualidade.com) | 4231 days ago (07/02/2014) | 0 |
-| spacetechnology.net (4373 hosts in use) website | public | [jiso](https://freedns.afraid.org/tools/contact.php?user_id=46151&subject=spacetechnology.net) | 8113 days ago (11/30/2003) | 0 |
+| spacetechnology.net (4372 hosts in use) website | public | [jiso](https://freedns.afraid.org/tools/contact.php?user_id=46151&subject=spacetechnology.net) | 8114 days ago (11/30/2003) | 0 |
 | spazioinnovazioni.com (39 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=spazioinnovazioni.com) | 5637 days ago (09/07/2010) | 0 |
 | spectrumhealing.info (124 hosts in use) website | private | [loki1986](https://freedns.afraid.org/tools/contact.php?user_id=686288&subject=spectrumhealing.info) | 5497 days ago (01/24/2011) | 0 |
 | speedlabstreaming.com (30 hosts in use) website | private | [addeman](https://freedns.afraid.org/tools/contact.php?user_id=113274&subject=speedlabstreaming.com) | 4009 days ago (02/20/2015) | 0 |
@@ -23564,7 +23469,7 @@ Total domains: 25241
 | tallyouneedislove.com (19 hosts in use) website | private | [tjp](https://freedns.afraid.org/tools/contact.php?user_id=296960&subject=tallyouneedislove.com) | 2903 days ago (03/03/2018) | 0 |
 | techmotorsport.com.br (39 hosts in use) website | private | [alexandrebarros](https://freedns.afraid.org/tools/contact.php?user_id=155865&subject=techmotorsport.com.br) | 7254 days ago (04/05/2006) | 0 |
 | technologywrangler.com (7 hosts in use) website | private | [tjp](https://freedns.afraid.org/tools/contact.php?user_id=296960&subject=technologywrangler.com) | 2362 days ago (08/23/2019) | 0 |
-| tecnocosmetics.com.ar (32 hosts in use) website | private | [jyamamoto](https://freedns.afraid.org/tools/contact.php?user_id=542054&subject=tecnocosmetics.com.ar) | 5904 days ago (12/15/2009) | 0 |
+| tecnocosmetics.com.ar (33 hosts in use) website | private | [jyamamoto](https://freedns.afraid.org/tools/contact.php?user_id=542054&subject=tecnocosmetics.com.ar) | 5907 days ago (12/15/2009) | 0 |
 | tecnoserviciosange.es (25 hosts in use) website | private | [lsservw](https://freedns.afraid.org/tools/contact.php?user_id=460600&subject=tecnoserviciosange.es) | 6212 days ago (02/10/2009) | 0 |
 | tejidosdedignidad.org (66 hosts in use) website | public | [94002717](https://freedns.afraid.org/tools/contact.php?user_id=3532979&subject=tejidosdedignidad.org) | 96 days ago (11/08/2025) | 0 |
 | tenuecorrectexigee.fr (20 hosts in use) website | private | [checklister](https://freedns.afraid.org/tools/contact.php?user_id=158938&subject=tenuecorrectexigee.fr) | 2433 days ago (06/13/2019) | 0 |
@@ -23717,7 +23622,7 @@ Total domains: 25241
 | christianwestbrook.com (26 hosts in use) website | private | [thepropsman](https://freedns.afraid.org/tools/contact.php?user_id=652003&subject=christianwestbrook.com) | 4116 days ago (10/29/2014) | 0 |
 | christopherharmon.net (168 hosts in use) website | private | [charmon](https://freedns.afraid.org/tools/contact.php?user_id=419617&subject=christopherharmon.net) | 6367 days ago (09/04/2008) | 0 |
 | cielosvirtuales.com.ar (31 hosts in use) website | private | [solnegro](https://freedns.afraid.org/tools/contact.php?user_id=483609&subject=cielosvirtuales.com.ar) | 5974 days ago (09/19/2009) | 0 |
-| cinosargoediciones.com (47 hosts in use) website | public | [carrollera](https://freedns.afraid.org/tools/contact.php?user_id=2672972&subject=cinosargoediciones.com) | 2594 days ago (01/09/2019) | 0 |
+| cinosargoediciones.com (48 hosts in use) website | public | [carrollera](https://freedns.afraid.org/tools/contact.php?user_id=2672972&subject=cinosargoediciones.com) | 2594 days ago (01/09/2019) | 0 |
 | ciprianiestudio.com.ar (20 hosts in use) website | private | [dfisolo](https://freedns.afraid.org/tools/contact.php?user_id=1720506&subject=ciprianiestudio.com.ar) | 2791 days ago (06/11/2018) | 0 |
 | circuloperfecto.com.ar (28 hosts in use) website | private | [ndevita](https://freedns.afraid.org/tools/contact.php?user_id=2850732&subject=circuloperfecto.com.ar) | 3127 days ago (07/04/2017) | 0 |
 | ciudadyderechos.org.ar (29 hosts in use) website | private | [defensoria](https://freedns.afraid.org/tools/contact.php?user_id=1218376&subject=ciudadyderechos.org.ar) | 4437 days ago (12/20/2013) | 0 |
@@ -23746,7 +23651,7 @@ Total domains: 25241
 | crooksandstraights.com (41 hosts in use) website | private | [iarhiva](https://freedns.afraid.org/tools/contact.php?user_id=1061919&subject=crooksandstraights.com) | 4070 days ago (12/08/2014) | 0 |
 | cuatrofdigital.info.ve (91 hosts in use) website | public | [ynneko](https://freedns.afraid.org/tools/contact.php?user_id=260773&subject=cuatrofdigital.info.ve) | 4086 days ago (12/05/2014) | 0 |
 | custombisolutions.com (159 hosts in use) website | public | [jnguessamble](https://freedns.afraid.org/tools/contact.php?user_id=1984464&subject=custombisolutions.com) | 4127 days ago (10/27/2014) | 0 |
-| delafuentefunerales.cl (22 hosts in use) website | private | [tomishiko](https://freedns.afraid.org/tools/contact.php?user_id=755031&subject=delafuentefunerales.cl) | 5066 days ago (04/01/2012) | 0 |
+| delafuentefunerales.cl (24 hosts in use) website | private | [tomishiko](https://freedns.afraid.org/tools/contact.php?user_id=755031&subject=delafuentefunerales.cl) | 5068 days ago (04/01/2012) | 0 |
 | delystigemusikanter.com (7 hosts in use) website | private | [tglsc](https://freedns.afraid.org/tools/contact.php?user_id=6248962&subject=delystigemusikanter.com) | 14 days ago (01/20/2026) | 0 |
 | destroysoftware.com.ar (20 hosts in use) website | private | [destroysoftware](https://freedns.afraid.org/tools/contact.php?user_id=114342&subject=destroysoftware.com.ar) | 4948 days ago (06/30/2012) | 0 |
 | devushki-po-vyzovu.com (31 hosts in use) website | private | [peterli230](https://freedns.afraid.org/tools/contact.php?user_id=3411750&subject=devushki-po-vyzovu.com) | 2071 days ago (06/03/2020) | 0 |
@@ -23757,7 +23662,7 @@ Total domains: 25241
 | downeytechsolutions.com (8 hosts in use) website | private | [pelayostyle](https://freedns.afraid.org/tools/contact.php?user_id=2521728&subject=downeytechsolutions.com) | 3659 days ago (01/13/2016) | 0 |
 | duberingenieria.com.ar (28 hosts in use) website | private | [kesteban](https://freedns.afraid.org/tools/contact.php?user_id=2117205&subject=duberingenieria.com.ar) | 4008 days ago (02/04/2015) | 0 |
 | dynamosolutions.com.ar (47 hosts in use) website | public | [dynamoit](https://freedns.afraid.org/tools/contact.php?user_id=2363969&subject=dynamosolutions.com.ar) | 3781 days ago (10/08/2015) | 0 |
-| eastcountywireless.com (48 hosts in use) website | private | [jpaine619](https://freedns.afraid.org/tools/contact.php?user_id=1316567&subject=eastcountywireless.com) | 921 days ago (08/09/2023) | 0 |
+| eastcountywireless.com (58 hosts in use) website | private | [jpaine619](https://freedns.afraid.org/tools/contact.php?user_id=1316567&subject=eastcountywireless.com) | 922 days ago (08/09/2023) | 0 |
 | ecosseupsidedown.co.uk (65 hosts in use) website | public | [fish1000](https://freedns.afraid.org/tools/contact.php?user_id=4236211&subject=ecosseupsidedown.co.uk) | 517 days ago (08/22/2024) | 0 |
 | edificiomalecon.com.ar (89 hosts in use) website | public | [mpalavecino](https://freedns.afraid.org/tools/contact.php?user_id=1447398&subject=edificiomalecon.com.ar) | 2679 days ago (10/16/2018) | 0 |
 | edificiopanorama360.cl (25 hosts in use) website | private | [panorama360](https://freedns.afraid.org/tools/contact.php?user_id=3327359&subject=edificiopanorama360.cl) | 2270 days ago (11/12/2019) | 0 |
@@ -23779,7 +23684,7 @@ Total domains: 25241
 | esenciasdelduraton.com (10 hosts in use) website | private | [chomandante](https://freedns.afraid.org/tools/contact.php?user_id=2945014&subject=esenciasdelduraton.com) | 52 days ago (11/25/2025) | 0 |
 | essentialoilsforyou.ca (15 hosts in use) website | private | [mvancoughnett](https://freedns.afraid.org/tools/contact.php?user_id=1282295&subject=essentialoilsforyou.ca) | 2886 days ago (03/13/2018) | 0 |
 | estudio-marques.com.ar (57 hosts in use) website | private | [diegoslopez](https://freedns.afraid.org/tools/contact.php?user_id=1224077&subject=estudio-marques.com.ar) | 4837 days ago (11/16/2012) | 0 |
-| estudiodebiaggi.com.ar (77 hosts in use) website | public | [mramat](https://freedns.afraid.org/tools/contact.php?user_id=579270&subject=estudiodebiaggi.com.ar) | 5351 days ago (06/22/2011) | 0 |
+| estudiodebiaggi.com.ar (78 hosts in use) website | public | [mramat](https://freedns.afraid.org/tools/contact.php?user_id=579270&subject=estudiodebiaggi.com.ar) | 5353 days ago (06/22/2011) | 0 |
 | estudiofentanes.com.ar (36 hosts in use) website | private | [vfentanes](https://freedns.afraid.org/tools/contact.php?user_id=645556&subject=estudiofentanes.com.ar) | 5617 days ago (09/30/2010) | 0 |
 | estudioladigan.com.ar (123 hosts in use) website | public | [pilardi](https://freedns.afraid.org/tools/contact.php?user_id=198531&subject=estudioladigan.com.ar) | 5325 days ago (07/13/2011) | 0 |
 | estudiopasquali.com.ar (32 hosts in use) website | private | [flotron](https://freedns.afraid.org/tools/contact.php?user_id=1103223&subject=estudiopasquali.com.ar) | 4961 days ago (07/14/2012) | 0 |
@@ -23834,7 +23739,7 @@ Total domains: 25241
 | hongkongiceskating.com (36 hosts in use) website | private | [weirlawit](https://freedns.afraid.org/tools/contact.php?user_id=932139&subject=hongkongiceskating.com) | 6192 days ago (03/02/2009) | 0 |
 | hoohaamelbourne.com.au (41 hosts in use) website | private | [thebighoohaa](https://freedns.afraid.org/tools/contact.php?user_id=2064845&subject=hoohaamelbourne.com.au) | 4042 days ago (01/04/2015) | 0 |
 | horizonteglobal.com.br (81 hosts in use) website | public | [siannini](https://freedns.afraid.org/tools/contact.php?user_id=1939359&subject=horizonteglobal.com.br) | 4109 days ago (10/24/2014) | 0 |
-| hotelconsuladoinn.com (201 hosts in use) website | public | [consuladoinn1](https://freedns.afraid.org/tools/contact.php?user_id=3195764&subject=hotelconsuladoinn.com) | 2430 days ago (06/21/2019) | 0 |
+| hotelconsuladoinn.com (202 hosts in use) website | public | [consuladoinn1](https://freedns.afraid.org/tools/contact.php?user_id=3195764&subject=hotelconsuladoinn.com) | 2431 days ago (06/21/2019) | 0 |
 | infoeasyonline.com.br (111 hosts in use) website | public | [elyjunior](https://freedns.afraid.org/tools/contact.php?user_id=633167&subject=infoeasyonline.com.br) | 5546 days ago (12/04/2010) | 0 |
 | innotech-solutions.com (36 hosts in use) website | private | [pandera13](https://freedns.afraid.org/tools/contact.php?user_id=2750012&subject=innotech-solutions.com) | 3382 days ago (10/12/2016) | 0 |
 | innovatechstrategies.ro (9 hosts in use) website | private | [catalinpavel](https://freedns.afraid.org/tools/contact.php?user_id=5517695&subject=innovatechstrategies.ro) | 6 days ago (01/07/2026) | 0 |
@@ -23901,7 +23806,7 @@ Total domains: 25241
 | matrixfitnessparts.com (44 hosts in use) website | private | [fitplus](https://freedns.afraid.org/tools/contact.php?user_id=2896058&subject=matrixfitnessparts.com) | 2693 days ago (10/02/2018) | 0 |
 | matthewandcaroline.com (32 hosts in use) website | private | [langworthym](https://freedns.afraid.org/tools/contact.php?user_id=119760&subject=matthewandcaroline.com) | 7645 days ago (03/10/2005) | 0 |
 | matthiasdiskstation.com (6 hosts in use) website | private | [matthiasp8335](https://freedns.afraid.org/tools/contact.php?user_id=3421138&subject=matthiasdiskstation.com) | 2031 days ago (06/22/2020) | 0 |
-| meditationinlondon.org (32 hosts in use) website | private | [kalyana](https://freedns.afraid.org/tools/contact.php?user_id=600424&subject=meditationinlondon.org) | 3525 days ago (06/18/2016) | 0 |
+| meditationinlondon.org (32 hosts in use) website | private | [kalyana](https://freedns.afraid.org/tools/contact.php?user_id=600424&subject=meditationinlondon.org) | 3530 days ago (06/18/2016) | 0 |
 | megalogic-phoenix.com (134 hosts in use) website | public | [hlacava](https://freedns.afraid.org/tools/contact.php?user_id=1325063&subject=megalogic-phoenix.com) | 2472 days ago (05/03/2019) | 0 |
 | melissahaileyphoto.com (10 hosts in use) website | private | [phcreery](https://freedns.afraid.org/tools/contact.php?user_id=3332107&subject=melissahaileyphoto.com) | 1760 days ago (03/20/2021) | 0 |
 | merchantdehydrates.com (37 hosts in use) website | private | [sadiqhirani](https://freedns.afraid.org/tools/contact.php?user_id=2979832&subject=merchantdehydrates.com) | 2951 days ago (01/07/2018) | 0 |
@@ -23915,7 +23820,6 @@ Total domains: 25241
 | moneysaverdeals.com.au (27 hosts in use) website | private | [hyynes](https://freedns.afraid.org/tools/contact.php?user_id=168214&subject=moneysaverdeals.com.au) | 5413 days ago (04/04/2011) | 0 |
 | monkeyproperty.com.au (111 hosts in use) website | public | [jackwgraham](https://freedns.afraid.org/tools/contact.php?user_id=855336&subject=monkeyproperty.com.au) | 5202 days ago (11/18/2011) | 0 |
 | moraesesilveira.com.br (58 hosts in use) website | private | [leandrofuscaldi](https://freedns.afraid.org/tools/contact.php?user_id=649753&subject=moraesesilveira.com.br) | 5615 days ago (09/30/2010) | 0 |
-| movelariakemuel.com.br (26 hosts in use) website | private | [gladsonf](https://freedns.afraid.org/tools/contact.php?user_id=609393&subject=movelariakemuel.com.br) | 2537 days ago (02/15/2019) | 0 |
 | mquest-technologies.cl (23 hosts in use) website | private | [cgalvezp](https://freedns.afraid.org/tools/contact.php?user_id=1124689&subject=mquest-technologies.cl) | 1703 days ago (05/18/2021) | 0 |
 | mueller-it-essingen.de (35 hosts in use) website | private | [matrix96](https://freedns.afraid.org/tools/contact.php?user_id=3464889&subject=mueller-it-essingen.de) | 1914 days ago (10/27/2020) | 0 |
 | murcianosdedinamita.es (23 hosts in use) website | private | [oinotna1989](https://freedns.afraid.org/tools/contact.php?user_id=4417306&subject=murcianosdedinamita.es) | 307 days ago (04/11/2025) | 0 |
@@ -24041,7 +23945,7 @@ Total domains: 25241
 | shishirbhandari.com.np (24 hosts in use) website | private | [shishirbhandari](https://freedns.afraid.org/tools/contact.php?user_id=3493232&subject=shishirbhandari.com.np) | 1842 days ago (12/28/2020) | 0 |
 | shuklapratiksha.com.np (22 hosts in use) website | private | [ashica](https://freedns.afraid.org/tools/contact.php?user_id=3384570&subject=shuklapratiksha.com.np) | 2132 days ago (04/11/2020) | 0 |
 | shyamprasadgiri.com.np (27 hosts in use) website | private | [reasonkc](https://freedns.afraid.org/tools/contact.php?user_id=1889742&subject=shyamprasadgiri.com.np) | 4159 days ago (08/25/2014) | 0 |
-| silvacontabilidades.cl (19 hosts in use) website | public | [fsilvag](https://freedns.afraid.org/tools/contact.php?user_id=3176997&subject=silvacontabilidades.cl) | 2467 days ago (05/10/2019) | 0 |
+| silvacontabilidades.cl (19 hosts in use) website | public | [fsilvag](https://freedns.afraid.org/tools/contact.php?user_id=3176997&subject=silvacontabilidades.cl) | 2474 days ago (05/10/2019) | 0 |
 | simpleelegance-us.biz (106 hosts in use) website | public | [wasonce](https://freedns.afraid.org/tools/contact.php?user_id=367704&subject=simpleelegance-us.biz) | 5280 days ago (09/01/2011) | 0 |
 | simpleelegance-us.com (136 hosts in use) website | public | [wasonce](https://freedns.afraid.org/tools/contact.php?user_id=367704&subject=simpleelegance-us.com) | 5294 days ago (08/13/2011) | 0 |
 | simpleelegance-us.info (59 hosts in use) website | public | [wasonce](https://freedns.afraid.org/tools/contact.php?user_id=367704&subject=simpleelegance-us.info) | 5277 days ago (09/01/2011) | 0 |
@@ -24050,7 +23954,7 @@ Total domains: 25241
 | simpsonsclassics.co.uk (14 hosts in use) website | private | [championnetwork](https://freedns.afraid.org/tools/contact.php?user_id=1729655&subject=simpsonsclassics.co.uk) | 2126 days ago (03/19/2020) | 0 |
 | simranupadhyaya.com.np (46 hosts in use) website | public | [simr00n](https://freedns.afraid.org/tools/contact.php?user_id=3562331&subject=simranupadhyaya.com.np) | 1702 days ago (06/18/2021) | 0 |
 | smartprogramming.co.uk (52 hosts in use) website | private | [smartprogramming](https://freedns.afraid.org/tools/contact.php?user_id=298249&subject=smartprogramming.co.uk) | 6862 days ago (05/02/2007) | 0 |
-| solutionmotsfleches.fr (22 hosts in use) website | public | [borni92](https://freedns.afraid.org/tools/contact.php?user_id=4371602&subject=solutionmotsfleches.fr) | 351 days ago (02/25/2025) | 0 |
+| solutionmotsfleches.fr (36 hosts in use) website | public | [borni92](https://freedns.afraid.org/tools/contact.php?user_id=4371602&subject=solutionmotsfleches.fr) | 355 days ago (02/25/2025) | 0 |
 | southshorebicycle.com (181 hosts in use) website | public | [cobaltcommerce](https://freedns.afraid.org/tools/contact.php?user_id=1066648&subject=southshorebicycle.com) | 4968 days ago (06/07/2012) | 0 |
 | sponsorafuture.org.uk (142 hosts in use) website | public | [infrateam](https://freedns.afraid.org/tools/contact.php?user_id=1594296&subject=sponsorafuture.org.uk) | 4440 days ago (12/05/2013) | 0 |
 | sqlservercommunity.com (45 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=sqlservercommunity.com) | 7784 days ago (10/24/2004) | 0 |
@@ -24101,7 +24005,7 @@ Total domains: 25241
 | trustedbisolutions.com (38 hosts in use) website | private | [ygoron](https://freedns.afraid.org/tools/contact.php?user_id=159262&subject=trustedbisolutions.com) | 2324 days ago (10/06/2019) | 0 |
 | tudoporbrasilia.com.br (89 hosts in use) website | public | [siannini](https://freedns.afraid.org/tools/contact.php?user_id=1939359&subject=tudoporbrasilia.com.br) | 3421 days ago (09/21/2016) | 0 |
 | tuintransporte.com.ar (125 hosts in use) website | public | [smineo](https://freedns.afraid.org/tools/contact.php?user_id=565294&subject=tuintransporte.com.ar) | 5574 days ago (11/01/2010) | 0 |
-| twilightparadox.com (51371 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=twilightparadox.com) | 8236 days ago (07/30/2003) | 0 |
+| twilightparadox.com (51373 hosts in use) website | public | [josh](https://freedns.afraid.org/tools/contact.php?user_id=1&subject=twilightparadox.com) | 8237 days ago (07/30/2003) | 0 |
 | tworiverssoftware.com (315 hosts in use) website | public | [merbstei](https://freedns.afraid.org/tools/contact.php?user_id=55748&subject=tworiverssoftware.com) | 7762 days ago (11/15/2004) | 0 |
 | ultraschall-momente.de (28 hosts in use) website | private | [jharriman](https://freedns.afraid.org/tools/contact.php?user_id=3023041&subject=ultraschall-momente.de) | 2880 days ago (02/26/2018) | 0 |
 | uncluttertampabay.com (159 hosts in use) website | public | [cliff030](https://freedns.afraid.org/tools/contact.php?user_id=2006405&subject=uncluttertampabay.com) | 4111 days ago (11/11/2014) | 0 |
@@ -24184,10 +24088,10 @@ Total domains: 25241
 | birotehnika-krizevci.hr (20 hosts in use) website | private | [pkoretic](https://freedns.afraid.org/tools/contact.php?user_id=1293230&subject=birotehnika-krizevci.hr) | 3239 days ago (03/31/2017) | 0 |
 | bishaldeepbasnet.com.np (26 hosts in use) website | private | [beliable](https://freedns.afraid.org/tools/contact.php?user_id=3702069&subject=bishaldeepbasnet.com.np) | 1339 days ago (06/15/2022) | 0 |
 | blackpearlchihuahuas.ch (14 hosts in use) website | private | [freiu](https://freedns.afraid.org/tools/contact.php?user_id=785548&subject=blackpearlchihuahuas.ch) | 4264 days ago (05/12/2014) | 0 |
-| bluewateronthebeach.com (36 hosts in use) website | private | [georgegroup](https://freedns.afraid.org/tools/contact.php?user_id=673725&subject=bluewateronthebeach.com) | 5539 days ago (12/14/2010) | 0 |
-| boatingequipment.net.nz (30 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatingequipment.net.nz) | 4574 days ago (08/08/2013) | 0 |
+| bluewateronthebeach.com (36 hosts in use) website | private | [georgegroup](https://freedns.afraid.org/tools/contact.php?user_id=673725&subject=bluewateronthebeach.com) | 5542 days ago (12/14/2010) | 0 |
+| boatingequipment.net.nz (31 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=boatingequipment.net.nz) | 4575 days ago (08/08/2013) | 0 |
 | boxcotechnologies.com.mx (9 hosts in use) website | private | [boxcotech](https://freedns.afraid.org/tools/contact.php?user_id=3615939&subject=boxcotechnologies.com.mx) | 1513 days ago (12/17/2021) | 0 |
-| bsmart-solutions.com.my (61 hosts in use) website | public | [adminbsmart](https://freedns.afraid.org/tools/contact.php?user_id=2290605&subject=bsmart-solutions.com.my) | 3941 days ago (05/01/2015) | 0 |
+| bsmart-solutions.com.my (61 hosts in use) website | public | [adminbsmart](https://freedns.afraid.org/tools/contact.php?user_id=2290605&subject=bsmart-solutions.com.my) | 3943 days ago (05/01/2015) | 0 |
 | cafeconversations.co.za (28 hosts in use) website | private | [bridgetti](https://freedns.afraid.org/tools/contact.php?user_id=920540&subject=cafeconversations.co.za) | 4348 days ago (03/19/2014) | 0 |
 | camaraempresaria.com.ar (41 hosts in use) website | private | [chr911](https://freedns.afraid.org/tools/contact.php?user_id=502297&subject=camaraempresaria.com.ar) | 5093 days ago (03/07/2012) | 0 |
 | capturingessence.com.au (92 hosts in use) website | public | [chrisemonson](https://freedns.afraid.org/tools/contact.php?user_id=1989334&subject=capturingessence.com.au) | 4123 days ago (10/30/2014) | 0 |
@@ -24222,11 +24126,11 @@ Total domains: 25241
 | dclacrosse4learners.com (10 hosts in use) website | public | [byronbolton](https://freedns.afraid.org/tools/contact.php?user_id=243934&subject=dclacrosse4learners.com) | 1355 days ago (05/24/2022) | 0 |
 | deependrapangeni.com.np (69 hosts in use) website | public | [deepen123](https://freedns.afraid.org/tools/contact.php?user_id=2792110&subject=deependrapangeni.com.np) | 2999 days ago (11/20/2017) | 0 |
 | desarrolladormadrid.com (26 hosts in use) website | private | [plastikete](https://freedns.afraid.org/tools/contact.php?user_id=3179833&subject=desarrolladormadrid.com) | 2458 days ago (05/20/2019) | 0 |
-| desarrollos-lowcost.com (29 hosts in use) website | public | [ewr35342532](https://freedns.afraid.org/tools/contact.php?user_id=5133426&subject=desarrollos-lowcost.com) | 87 days ago (11/15/2025) | 0 |
+| desarrollos-lowcost.com (28 hosts in use) website | public | [ewr35342532](https://freedns.afraid.org/tools/contact.php?user_id=5133426&subject=desarrollos-lowcost.com) | 92 days ago (11/15/2025) | 0 |
 | developmentalcoaching.cl (2 hosts in use) website | private | [inpact](https://freedns.afraid.org/tools/contact.php?user_id=1277590&subject=developmentalcoaching.cl) | 1904 days ago (10/27/2020) | 0 |
 | directorioenlinea.com.mx (9 hosts in use) website | private | [jtrejomx](https://freedns.afraid.org/tools/contact.php?user_id=3753538&subject=directorioenlinea.com.mx) | 697 days ago (03/12/2024) | 0 |
 | dubrovnik-triathlon.com (10 hosts in use) website | private | [isakota](https://freedns.afraid.org/tools/contact.php?user_id=403421&subject=dubrovnik-triathlon.com) | 3144 days ago (06/07/2017) | 0 |
-| dundeeroundtable.org.uk (32 hosts in use) website | private | [dundeeroundtable](https://freedns.afraid.org/tools/contact.php?user_id=1343749&subject=dundeeroundtable.org.uk) | 4674 days ago (04/26/2013) | 0 |
+| dundeeroundtable.org.uk (32 hosts in use) website | private | [dundeeroundtable](https://freedns.afraid.org/tools/contact.php?user_id=1343749&subject=dundeeroundtable.org.uk) | 4679 days ago (04/26/2013) | 0 |
 | eastshoresmokehouse.com (27 hosts in use) website | private | [deconinck](https://freedns.afraid.org/tools/contact.php?user_id=628598&subject=eastshoresmokehouse.com) | 2897 days ago (03/09/2018) | 0 |
 | easychargebatteries.com (81 hosts in use) website | public | [dnsrental6](https://freedns.afraid.org/tools/contact.php?user_id=3633121&subject=easychargebatteries.com) | 891 days ago (08/23/2023) | 0 |
 | ecocabalgatascodegua.cl (80 hosts in use) website | public | [ecocabalgatas](https://freedns.afraid.org/tools/contact.php?user_id=2879183&subject=ecocabalgatascodegua.cl) | 3197 days ago (05/16/2017) | 0 |
@@ -24246,7 +24150,7 @@ Total domains: 25241
 | eternalimpressions.com (195 hosts in use) website | public | [rpho](https://freedns.afraid.org/tools/contact.php?user_id=609616&subject=eternalimpressions.com) | 5734 days ago (06/04/2010) | 0 |
 | everich-airfreight.com (173 hosts in use) website | public | [2wfreight](https://freedns.afraid.org/tools/contact.php?user_id=644339&subject=everich-airfreight.com) | 4358 days ago (03/10/2014) | 0 |
 | extratechsolutions.com (154 hosts in use) website | public | [xmindconsulting](https://freedns.afraid.org/tools/contact.php?user_id=805392&subject=extratechsolutions.com) | 5266 days ago (09/08/2011) | 0 |
-| fairfieldcountyfair.com (35 hosts in use) website | private | [jmarcinko](https://freedns.afraid.org/tools/contact.php?user_id=1162717&subject=fairfieldcountyfair.com) | 4918 days ago (08/24/2012) | 0 |
+| fairfieldcountyfair.com (35 hosts in use) website | private | [jmarcinko](https://freedns.afraid.org/tools/contact.php?user_id=1162717&subject=fairfieldcountyfair.com) | 4924 days ago (08/24/2012) | 0 |
 | federicospinosa.com.ar (103 hosts in use) website | public | [federicospinosa](https://freedns.afraid.org/tools/contact.php?user_id=707080&subject=federicospinosa.com.ar) | 5455 days ago (03/11/2011) | 0 |
 | fernhamconsulting.co.uk (85 hosts in use) website | private | [jemgreen](https://freedns.afraid.org/tools/contact.php?user_id=4040139&subject=fernhamconsulting.co.uk) | 3897 days ago (05/14/2015) | 0 |
 | financialrewards.com.au (12 hosts in use) website | public | [graceconnect](https://freedns.afraid.org/tools/contact.php?user_id=3093825&subject=financialrewards.com.au) | 2710 days ago (09/12/2018) | 0 |
@@ -24322,7 +24226,6 @@ Total domains: 25241
 | monkeyconveyancing.org (166 hosts in use) website | public | [jackwgraham](https://freedns.afraid.org/tools/contact.php?user_id=855336&subject=monkeyconveyancing.org) | 5202 days ago (11/18/2011) | 0 |
 | montgomery-family.co.uk (10 hosts in use) website | private | [oneboywonder](https://freedns.afraid.org/tools/contact.php?user_id=1381643&subject=montgomery-family.co.uk) | 4626 days ago (06/04/2013) | 0 |
 | mountofoliveschurch.com (54 hosts in use) website | private | [billperry](https://freedns.afraid.org/tools/contact.php?user_id=486434&subject=mountofoliveschurch.com) | 6118 days ago (05/15/2009) | 0 |
-| mueblesrodriguez.com.ar (26 hosts in use) website | private | [scotto](https://freedns.afraid.org/tools/contact.php?user_id=67851&subject=mueblesrodriguez.com.ar) | 5813 days ago (03/16/2010) | 0 |
 | muhammadamyramzie.nom.za (9 hosts in use) website | private | [amyzyx](https://freedns.afraid.org/tools/contact.php?user_id=1265937&subject=muhammadamyramzie.nom.za) | 1915 days ago (10/30/2020) | 0 |
 | myfdistribuidora.com.ar (33 hosts in use) website | private | [myfdistribuidora](https://freedns.afraid.org/tools/contact.php?user_id=2358349&subject=myfdistribuidora.com.ar) | 4934 days ago (08/09/2012) | 0 |
 | myfroyofrozenyogurt.com (29 hosts in use) website | private | [mariobrosii](https://freedns.afraid.org/tools/contact.php?user_id=2944256&subject=myfroyofrozenyogurt.com) | 2986 days ago (11/12/2017) | 0 |
@@ -24560,7 +24463,7 @@ Total domains: 25241
 | hendricksonlawfirmpc.com (11 hosts in use) website | private | [mmscadmin](https://freedns.afraid.org/tools/contact.php?user_id=1182927&subject=hendricksonlawfirmpc.com) | 4722 days ago (02/08/2013) | 0 |
 | hillcrestdrystorage.info (16 hosts in use) website | private | [timgrooms](https://freedns.afraid.org/tools/contact.php?user_id=778616&subject=hillcrestdrystorage.info) | 5276 days ago (08/04/2011) | 0 |
 | hiswordbroadcasting.net (167 hosts in use) website | public | [cgiddens](https://freedns.afraid.org/tools/contact.php?user_id=731461&subject=hiswordbroadcasting.net) | 4940 days ago (08/06/2012) | 0 |
-| imaginelearningmath.com (112 hosts in use) website | public | [1ruless](https://freedns.afraid.org/tools/contact.php?user_id=5186406&subject=imaginelearningmath.com) | 74 days ago (12/03/2025) | 0 |
+| imaginelearningmath.com (111 hosts in use) website | public | [1ruless](https://freedns.afraid.org/tools/contact.php?user_id=5186406&subject=imaginelearningmath.com) | 75 days ago (12/03/2025) | 0 |
 | impressiononehosting.com (27 hosts in use) website | private | [carvelco](https://freedns.afraid.org/tools/contact.php?user_id=363505&subject=impressiononehosting.com) | 5641 days ago (08/30/2010) | 0 |
 | indigoinvestments.com.au (19 hosts in use) website | private | [indigoinvest](https://freedns.afraid.org/tools/contact.php?user_id=1032516&subject=indigoinvestments.com.au) | 5375 days ago (05/29/2011) | 0 |
 | industriapetroleo.com.ar (26 hosts in use) website | private | [dnsgeneracion2](https://freedns.afraid.org/tools/contact.php?user_id=2971480&subject=industriapetroleo.com.ar) | 2974 days ago (12/18/2017) | 0 |
@@ -24570,7 +24473,7 @@ Total domains: 25241
 | integraciondeinsumos.com (54 hosts in use) website | private | [softdevs18](https://freedns.afraid.org/tools/contact.php?user_id=3034512&subject=integraciondeinsumos.com) | 2657 days ago (10/05/2018) | 0 |
 | internetmanbrewing.co.uk (13 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=internetmanbrewing.co.uk) | 1804 days ago (02/04/2021) | 0 |
 | invisiblephotography.com (41 hosts in use) website | private | [slaneilios](https://freedns.afraid.org/tools/contact.php?user_id=706612&subject=invisiblephotography.com) | 3520 days ago (06/24/2016) | 0 |
-| istitutolinguaveneta.org (30 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=istitutolinguaveneta.org) | 4435 days ago (12/22/2013) | 0 |
+| istitutolinguaveneta.org (31 hosts in use) website | private | [afterreplay](https://freedns.afraid.org/tools/contact.php?user_id=609942&subject=istitutolinguaveneta.org) | 4439 days ago (12/22/2013) | 0 |
 | jellyvilledesign.com.my (122 hosts in use) website | public | [leeeebing](https://freedns.afraid.org/tools/contact.php?user_id=1070792&subject=jellyvilledesign.com.my) | 4984 days ago (06/13/2012) | 0 |
 | jmmipequenomundo.com.ar (266 hosts in use) website | public | [mtripaldi](https://freedns.afraid.org/tools/contact.php?user_id=528529&subject=jmmipequenomundo.com.ar) | 5957 days ago (10/23/2009) | 0 |
 | juanignacioflores.com.ar (31 hosts in use) website | private | [lospital](https://freedns.afraid.org/tools/contact.php?user_id=459159&subject=juanignacioflores.com.ar) | 5069 days ago (02/29/2012) | 0 |
@@ -24618,7 +24521,7 @@ Total domains: 25241
 | oxfordthaifoundation.net (29 hosts in use) website | private | [jaturonsupasri](https://freedns.afraid.org/tools/contact.php?user_id=3667520&subject=oxfordthaifoundation.net) | 961 days ago (06/28/2023) | 0 |
 | padamprasadpoudel.com.np (89 hosts in use) website | public | [padam9999](https://freedns.afraid.org/tools/contact.php?user_id=2656477&subject=padamprasadpoudel.com.np) | 3509 days ago (06/07/2016) | 0 |
 | pagostepeapulco.gob.mx (7103 hosts in use) website | public | [aazcue](https://freedns.afraid.org/tools/contact.php?user_id=525898&subject=pagostepeapulco.gob.mx) | 3908 days ago (06/02/2015) | 0 |
-| panel-laboralcj.gob.mx (9079 hosts in use) website | public | [jobet](https://freedns.afraid.org/tools/contact.php?user_id=443761&subject=panel-laboralcj.gob.mx) | 4297 days ago (05/12/2014) | 0 |
+| panel-laboralcj.gob.mx (9082 hosts in use) website | public | [jobet](https://freedns.afraid.org/tools/contact.php?user_id=443761&subject=panel-laboralcj.gob.mx) | 4297 days ago (05/12/2014) | 0 |
 | partneredinnovations.com (41 hosts in use) website | private | [viflux](https://freedns.afraid.org/tools/contact.php?user_id=73202&subject=partneredinnovations.com) | 5468 days ago (02/14/2011) | 0 |
 | pastoraldeturismo.org.ar (19 hosts in use) website | private | [lharillo](https://freedns.afraid.org/tools/contact.php?user_id=603381&subject=pastoraldeturismo.org.ar) | 5414 days ago (03/21/2011) | 0 |
 | peninsulacustomtailor.hk (40 hosts in use) website | private | [hktech](https://freedns.afraid.org/tools/contact.php?user_id=226721&subject=peninsulacustomtailor.hk) | 3135 days ago (07/09/2017) | 0 |
@@ -24788,16 +24691,14 @@ Total domains: 25241
 | learnromanianlanguage.com (24 hosts in use) website | private | [costixx](https://freedns.afraid.org/tools/contact.php?user_id=797964&subject=learnromanianlanguage.com) | 2920 days ago (01/15/2018) | 0 |
 | lifescienceventurelab.com (41 hosts in use) website | private | [domainwebad](https://freedns.afraid.org/tools/contact.php?user_id=420076&subject=lifescienceventurelab.com) | 2743 days ago (08/10/2018) | 0 |
 | lifesessentialsdayspa.com (18 hosts in use) website | private | [avidguy](https://freedns.afraid.org/tools/contact.php?user_id=1302163&subject=lifesessentialsdayspa.com) | 4698 days ago (03/08/2013) | 0 |
-| lifthillsandthrills.co.uk (38 hosts in use) website | private | [evvo](https://freedns.afraid.org/tools/contact.php?user_id=3677039&subject=lifthillsandthrills.co.uk) | 1407 days ago (04/10/2022) | 0 |
+| lifthillsandthrills.co.uk (44 hosts in use) website | private | [evvo](https://freedns.afraid.org/tools/contact.php?user_id=3677039&subject=lifthillsandthrills.co.uk) | 1408 days ago (04/10/2022) | 0 |
 | logisticaveicular.com.br (100 hosts in use) website | public | [digimaster](https://freedns.afraid.org/tools/contact.php?user_id=761162&subject=logisticaveicular.com.br) | 5329 days ago (07/12/2011) | 0 |
 | lysterfieldsailing.com.au (21 hosts in use) website | private | [sustainability](https://freedns.afraid.org/tools/contact.php?user_id=1201091&subject=lysterfieldsailing.com.au) | 1907 days ago (11/25/2020) | 0 |
 | madametricoteparis.com.tr (67 hosts in use) website | public | [mustafasari76](https://freedns.afraid.org/tools/contact.php?user_id=1807124&subject=madametricoteparis.com.tr) | 3938 days ago (04/28/2015) | 0 |
 | map-administracion.com.ar (21 hosts in use) website | private | [marianoperren](https://freedns.afraid.org/tools/contact.php?user_id=1944328&subject=map-administracion.com.ar) | 4154 days ago (09/25/2014) | 0 |
 | marinediscountsupplies.nz (21 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.nz) | 3891 days ago (06/03/2015) | 0 |
-| masoneriaargentina.org.ar (26 hosts in use) website | private | [plazaro](https://freedns.afraid.org/tools/contact.php?user_id=1028217&subject=masoneriaargentina.org.ar) | 4853 days ago (10/02/2012) | 0 |
-| millerandwhitworth.net.au (17 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=millerandwhitworth.net.au) | 4448 days ago (12/09/2013) | 0 |
+| millerandwhitworth.net.au (18 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=millerandwhitworth.net.au) | 4452 days ago (12/09/2013) | 0 |
 | millerandwhitworth.net.nz (21 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=millerandwhitworth.net.nz) | 4451 days ago (12/09/2013) | 0 |
-| mmjuridicocontable.com.ar (26 hosts in use) website | private | [ezequielf](https://freedns.afraid.org/tools/contact.php?user_id=631251&subject=mmjuridicocontable.com.ar) | 5270 days ago (09/09/2011) | 0 |
 | monkeyconveyancing.co.nz (106 hosts in use) website | public | [jackwgraham](https://freedns.afraid.org/tools/contact.php?user_id=855336&subject=monkeyconveyancing.co.nz) | 5202 days ago (11/18/2011) | 0 |
 | monkeyconveyancing.net.au (98 hosts in use) website | public | [jackwgraham](https://freedns.afraid.org/tools/contact.php?user_id=855336&subject=monkeyconveyancing.net.au) | 5202 days ago (11/18/2011) | 0 |
 | montenegroconsultants.com (22 hosts in use) website | private | [pcanto](https://freedns.afraid.org/tools/contact.php?user_id=306936&subject=montenegroconsultants.com) | 2908 days ago (01/27/2018) | 0 |
@@ -24872,7 +24773,7 @@ Total domains: 25241
 | autoelevadorrosario.com.ar (19 hosts in use) website | private | [dnsrental3](https://freedns.afraid.org/tools/contact.php?user_id=2971431&subject=autoelevadorrosario.com.ar) | 2967 days ago (12/18/2017) | 0 |
 | bestprogramsforkids.com.au (83 hosts in use) website | public | [bp4k](https://freedns.afraid.org/tools/contact.php?user_id=2412512&subject=bestprogramsforkids.com.au) | 3791 days ago (09/19/2015) | 0 |
 | blueswitchsolutions.co.uk (101 hosts in use) website | private | [simonwhill](https://freedns.afraid.org/tools/contact.php?user_id=535860&subject=blueswitchsolutions.co.uk) | 5256 days ago (09/25/2011) | 0 |
-| bostoncareercounselor.com (566 hosts in use) website | private | [hollyklose](https://freedns.afraid.org/tools/contact.php?user_id=438122&subject=bostoncareercounselor.com) | 5330 days ago (07/13/2011) | 0 |
+| bostoncareercounselor.com (566 hosts in use) website | private | [hollyklose](https://freedns.afraid.org/tools/contact.php?user_id=438122&subject=bostoncareercounselor.com) | 5332 days ago (07/13/2011) | 0 |
 | business-apartment-basel.ch (8 hosts in use) website | private | [manuelschwarze](https://freedns.afraid.org/tools/contact.php?user_id=2080723&subject=business-apartment-basel.ch) | 4044 days ago (01/08/2015) | 0 |
 | candcinsurancebrokers.com (115 hosts in use) website | public | [stutzmanxiii](https://freedns.afraid.org/tools/contact.php?user_id=500631&subject=candcinsurancebrokers.com) | 5118 days ago (02/10/2012) | 0 |
 | cannonvalleymechanical.com (14 hosts in use) website | private | [jmccusk](https://freedns.afraid.org/tools/contact.php?user_id=2366664&subject=cannonvalleymechanical.com) | 1885 days ago (11/17/2020) | 0 |
@@ -24918,7 +24819,6 @@ Total domains: 25241
 | mapadelapolicialaplata.com (11 hosts in use) website | public | [revistacrisis](https://freedns.afraid.org/tools/contact.php?user_id=3943293&subject=mapadelapolicialaplata.com) | 549 days ago (08/06/2024) | 0 |
 | marinediscountsupplies.net (25 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.net) | 4448 days ago (12/09/2013) | 0 |
 | marmoleriascaminaci.com.ar (17 hosts in use) website | private | [pcanto](https://freedns.afraid.org/tools/contact.php?user_id=306936&subject=marmoleriascaminaci.com.ar) | 6414 days ago (07/25/2008) | 0 |
-| masterofrhinoplasty.com.au (26 hosts in use) website | private | [comlinkit](https://freedns.afraid.org/tools/contact.php?user_id=1898638&subject=masterofrhinoplasty.com.au) | 3117 days ago (08/02/2017) | 0 |
 | maximalautoelevador.com.ar (23 hosts in use) website | private | [dnsrental2](https://freedns.afraid.org/tools/contact.php?user_id=2971420&subject=maximalautoelevador.com.ar) | 2966 days ago (12/18/2017) | 0 |
 | meadowlarkimprovements.com (10 hosts in use) website | private | [alexdouglasbraun](https://freedns.afraid.org/tools/contact.php?user_id=902049&subject=meadowlarkimprovements.com) | 1955 days ago (09/09/2020) | 0 |
 | mentalcapacityassessment.hk (9 hosts in use) website | private | [natchan](https://freedns.afraid.org/tools/contact.php?user_id=831892&subject=mentalcapacityassessment.hk) | 3245 days ago (03/09/2017) | 0 |
@@ -24926,7 +24826,7 @@ Total domains: 25241
 | mgsolucioneslegales.com.ar (30 hosts in use) website | private | [drggonzalez](https://freedns.afraid.org/tools/contact.php?user_id=1165882&subject=mgsolucioneslegales.com.ar) | 4908 days ago (09/05/2012) | 0 |
 | moorcroft-associates.co.uk (11 hosts in use) website | private | [dmoorcroft](https://freedns.afraid.org/tools/contact.php?user_id=599167&subject=moorcroft-associates.co.uk) | 5733 days ago (05/04/2010) | 0 |
 | mrsystemsengineering.co.uk (44 hosts in use) website | private | [thomastownson](https://freedns.afraid.org/tools/contact.php?user_id=1928202&subject=mrsystemsengineering.co.uk) | 4175 days ago (09/10/2014) | 0 |
-| musictherapyinscotland.com (36 hosts in use) website | private | [conradbf](https://freedns.afraid.org/tools/contact.php?user_id=872528&subject=musictherapyinscotland.com) | 5164 days ago (12/09/2011) | 0 |
+| musictherapyinscotland.com (36 hosts in use) website | private | [conradbf](https://freedns.afraid.org/tools/contact.php?user_id=872528&subject=musictherapyinscotland.com) | 5183 days ago (12/09/2011) | 0 |
 | naughtybaptistbrewery.com (132 hosts in use) website | public | [bfordham](https://freedns.afraid.org/tools/contact.php?user_id=803809&subject=naughtybaptistbrewery.com) | 4121 days ago (11/02/2014) | 0 |
 | ndnucleodiagnostico.com.br (34 hosts in use) website | private | [vigario](https://freedns.afraid.org/tools/contact.php?user_id=152852&subject=ndnucleodiagnostico.com.br) | 5919 days ago (11/30/2009) | 0 |
 | networksolutionscenter.com (29 hosts in use) website | private | [provedmedia](https://freedns.afraid.org/tools/contact.php?user_id=2771840&subject=networksolutionscenter.com) | 2960 days ago (12/08/2017) | 0 |
@@ -24988,7 +24888,7 @@ Total domains: 25241
 | energysemiconductorcorp.com (55 hosts in use) website | private | [tesla](https://freedns.afraid.org/tools/contact.php?user_id=266745&subject=energysemiconductorcorp.com) | 6382 days ago (08/21/2008) | 0 |
 | executivebriefingcenter.com (39 hosts in use) website | private | [treyjohnson](https://freedns.afraid.org/tools/contact.php?user_id=83707&subject=executivebriefingcenter.com) | 7783 days ago (10/24/2004) | 0 |
 | facilitiesmanagement.com.au (22 hosts in use) website | private | [hyynes](https://freedns.afraid.org/tools/contact.php?user_id=168214&subject=facilitiesmanagement.com.au) | 5754 days ago (05/09/2010) | 0 |
-| farmaciasamigosdelasalud.com (6 hosts in use) website | private | [aruxek](https://freedns.afraid.org/tools/contact.php?user_id=629105&subject=farmaciasamigosdelasalud.com) | 357 days ago (02/18/2025) | 0 |
+| farmaciasamigosdelasalud.com (6 hosts in use) website | private | [aruxek](https://freedns.afraid.org/tools/contact.php?user_id=629105&subject=farmaciasamigosdelasalud.com) | 362 days ago (02/18/2025) | 0 |
 | franciscoluquedelcastillo.es (6 hosts in use) website | public | [pacolc](https://freedns.afraid.org/tools/contact.php?user_id=4496272&subject=franciscoluquedelcastillo.es) | 211 days ago (07/18/2025) | 0 |
 | guransthakalikitchen.com.np (33 hosts in use) website | private | [gureung](https://freedns.afraid.org/tools/contact.php?user_id=1914901&subject=guransthakalikitchen.com.np) | 2978 days ago (12/18/2017) | 0 |
 | hancockcountyfoodpantry.net (18 hosts in use) website | private | [sjnovick](https://freedns.afraid.org/tools/contact.php?user_id=1128293&subject=hancockcountyfoodpantry.net) | 409 days ago (12/29/2024) | 0 |
@@ -24997,7 +24897,6 @@ Total domains: 25241
 | irispermuyaforkontheroad.com (8 hosts in use) website | private | [entrepeneur](https://freedns.afraid.org/tools/contact.php?user_id=1824297&subject=irispermuyaforkontheroad.com) | 2617 days ago (11/14/2018) | 0 |
 | katehantonphotography.com.au (8 hosts in use) website | private | [wattzy](https://freedns.afraid.org/tools/contact.php?user_id=650489&subject=katehantonphotography.com.au) | 2075 days ago (06/07/2020) | 0 |
 | marinediscountsupplies.asia (23 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.asia) | 4448 days ago (12/09/2013) | 0 |
-| marinediscountsupplies.info (26 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.info) | 4447 days ago (12/09/2013) | 0 |
 | materialeselectricos.com.ar (65 hosts in use) website | public | [matelectricos](https://freedns.afraid.org/tools/contact.php?user_id=296731&subject=materialeselectricos.com.ar) | 2976 days ago (11/27/2017) | 0 |
 | meteroptimizationserver.com (22 hosts in use) website | private | [goready](https://freedns.afraid.org/tools/contact.php?user_id=2828323&subject=meteroptimizationserver.com) | 3254 days ago (02/17/2017) | 0 |
 | motorwisemechanical.com.au (387 hosts in use) website | public | [greghosken](https://freedns.afraid.org/tools/contact.php?user_id=509021&subject=motorwisemechanical.com.au) | 6035 days ago (08/06/2009) | 0 |
@@ -25028,7 +24927,7 @@ Total domains: 25241
 | volunteeropportunitiesco.org (6 hosts in use) website | private | [lyndw](https://freedns.afraid.org/tools/contact.php?user_id=2084375&subject=volunteeropportunitiesco.org) | 703 days ago (02/10/2024) | 0 |
 | whitworthsdiscountmarine.nz (25 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=whitworthsdiscountmarine.nz) | 3907 days ago (06/03/2015) | 0 |
 | whitworthsmarinesupplies.nz (16 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=whitworthsmarinesupplies.nz) | 3907 days ago (06/03/2015) | 0 |
-| alabamasalesrecruitment.com (152 hosts in use) website | public | [sfstech](https://freedns.afraid.org/tools/contact.php?user_id=354756&subject=alabamasalesrecruitment.com) | 3584 days ago (04/22/2016) | 0 |
+| alabamasalesrecruitment.com (153 hosts in use) website | public | [sfstech](https://freedns.afraid.org/tools/contact.php?user_id=354756&subject=alabamasalesrecruitment.com) | 3587 days ago (04/22/2016) | 0 |
 | alliedcomputerconsulting.com (32 hosts in use) website | private | [shatcher](https://freedns.afraid.org/tools/contact.php?user_id=801202&subject=alliedcomputerconsulting.com) | 5278 days ago (09/01/2011) | 0 |
 | asesoresenradiaciones.com.mx (14 hosts in use) website | private | [grupoarsa](https://freedns.afraid.org/tools/contact.php?user_id=1457621&subject=asesoresenradiaciones.com.mx) | 4793 days ago (12/27/2012) | 0 |
 | autoindependentreflexes.net (151 hosts in use) website | public | [krystind](https://freedns.afraid.org/tools/contact.php?user_id=726214&subject=autoindependentreflexes.net) | 5029 days ago (05/02/2012) | 0 |
@@ -25041,7 +24940,7 @@ Total domains: 25241
 | conservatoriodemusica.com.br (34 hosts in use) website | private | [robertobanks](https://freedns.afraid.org/tools/contact.php?user_id=1204205&subject=conservatoriodemusica.com.br) | 4686 days ago (04/15/2013) | 0 |
 | constataridauneautocraiova.ro (6 hosts in use) website | private | [eldarafraid1](https://freedns.afraid.org/tools/contact.php?user_id=643402&subject=constataridauneautocraiova.ro) | 1895 days ago (11/05/2020) | 0 |
 | desarrolloproveedoresqro.com (23 hosts in use) website | private | [softdevs18](https://freedns.afraid.org/tools/contact.php?user_id=3034512&subject=desarrolloproveedoresqro.com) | 851 days ago (09/17/2023) | 0 |
-| destroyerkisscover.com.br (20547 hosts in use) website | public | [dacsolution](https://freedns.afraid.org/tools/contact.php?user_id=728213&subject=destroyerkisscover.com.br) | 5409 days ago (04/25/2011) | 0 |
+| destroyerkisscover.com.br (20568 hosts in use) website | public | [dacsolution](https://freedns.afraid.org/tools/contact.php?user_id=728213&subject=destroyerkisscover.com.br) | 5410 days ago (04/25/2011) | 0 |
 | discountmarineequipment.asia (18 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=discountmarineequipment.asia) | 3927 days ago (05/05/2015) | 0 |
 | discountmarineequipment.info (18 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=discountmarineequipment.info) | 3908 days ago (05/05/2015) | 0 |
 | discountmarinesupplies.co.nz (23 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=discountmarinesupplies.co.nz) | 4446 days ago (12/09/2013) | 0 |
@@ -25126,7 +25025,7 @@ Total domains: 25241
 | innovacioneseducativas.com.mx (14 hosts in use) website | private | [innova95](https://freedns.afraid.org/tools/contact.php?user_id=388319&subject=innovacioneseducativas.com.mx) | 6482 days ago (05/05/2008) | 0 |
 | integraequipoelectrico.com.mx (29 hosts in use) website | private | [angelobse](https://freedns.afraid.org/tools/contact.php?user_id=494110&subject=integraequipoelectrico.com.mx) | 4564 days ago (07/18/2013) | 0 |
 | jacqandwillwentupthehill.com (170 hosts in use) website | public | [willhl](https://freedns.afraid.org/tools/contact.php?user_id=2041355&subject=jacqandwillwentupthehill.com) | 4079 days ago (12/14/2014) | 0 |
-| marinediscountsupplies.net.nz (17 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.net.nz) | 4447 days ago (12/09/2013) | 0 |
+| marinediscountsupplies.net.nz (17 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=marinediscountsupplies.net.nz) | 4452 days ago (12/09/2013) | 0 |
 | mendozabolioyasociados.com.mx (67 hosts in use) website | public | [jlira](https://freedns.afraid.org/tools/contact.php?user_id=556064&subject=mendozabolioyasociados.com.mx) | 3026 days ago (10/23/2017) | 0 |
 | northamericanlockandsafe.com (163 hosts in use) website | public | [northamericansec](https://freedns.afraid.org/tools/contact.php?user_id=2017916&subject=northamericanlockandsafe.com) | 4100 days ago (11/23/2014) | 0 |
 | professionalropeaccess.com.au (32 hosts in use) website | private | [gsxtc](https://freedns.afraid.org/tools/contact.php?user_id=1180465&subject=professionalropeaccess.com.au) | 4889 days ago (09/18/2012) | 0 |
@@ -25186,7 +25085,7 @@ Total domains: 25241
 | respectcomputersolutions.com.au (12 hosts in use) website | private | [danielrjudd](https://freedns.afraid.org/tools/contact.php?user_id=396493&subject=respectcomputersolutions.com.au) | 6440 days ago (06/16/2008) | 0 |
 | stardustcommercialservices.com (210 hosts in use) website | public | [toobouy](https://freedns.afraid.org/tools/contact.php?user_id=701600&subject=stardustcommercialservices.com) | 5458 days ago (03/07/2011) | 0 |
 | streetwidedebtrecoverygroup.com (33 hosts in use) website | private | [njyponline](https://freedns.afraid.org/tools/contact.php?user_id=627182&subject=streetwidedebtrecoverygroup.com) | 5526 days ago (11/29/2010) | 0 |
-| waitingforthedyingtodiedown.com (11 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=waitingforthedyingtodiedown.com) | 2140 days ago (03/25/2020) | 0 |
+| waitingforthedyingtodiedown.com (13 hosts in use) website | private | [slukaschuk](https://freedns.afraid.org/tools/contact.php?user_id=356915&subject=waitingforthedyingtodiedown.com) | 2154 days ago (03/25/2020) | 0 |
 | whitworthsdiscountmarine.net.nz (22 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=whitworthsdiscountmarine.net.nz) | 4451 days ago (12/09/2013) | 0 |
 | whitworthsmarineandleisure.asia (20 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=whitworthsmarineandleisure.asia) | 4445 days ago (12/11/2013) | 0 |
 | whitworthsmarineandleisure.info (35 hosts in use) website | private | [whitworths](https://freedns.afraid.org/tools/contact.php?user_id=1448392&subject=whitworthsmarineandleisure.info) | 4446 days ago (12/11/2013) | 0 |
