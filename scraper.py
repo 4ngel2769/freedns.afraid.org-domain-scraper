@@ -54,7 +54,8 @@ def scrape_page(page_num):
         for row in domain_rows:
             cols = row.find_all('td')
             if len(cols) >= 4:
-                domain_cell = cols[0]
+                domain = cols[0].find('a').get_text().strip()
+                hosts_part = cols[0].find('span').get_text().strip()
                 status = cols[1].get_text().strip()
                 owner_link = cols[2].find('a')
                 if owner_link:
@@ -67,10 +68,6 @@ def scrape_page(page_num):
                 age = cols[3].get_text().strip()
                 
                 # extract domain and hosts
-                full_text = domain_cell.get_text()
-                lines = full_text.split('\n')
-                domain = lines[0].strip()
-                hosts_part = ' '.join(lines[1:]) if len(lines) > 1 else ""
                 hosts_match = re.search(r'\((\d+) hosts in use\)', hosts_part)
                 hosts = int(hosts_match.group(1)) if hosts_match else 0
                 
